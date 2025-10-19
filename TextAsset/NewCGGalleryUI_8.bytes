@@ -1,0 +1,10 @@
+; Chinese (S) <zh-CN> to Vietnamese <vi> localization document for `NewCGGalleryUI` managed text document
+
+; 一瞬追忆<br><size=60>过去，现在，和未来</size>
+CGGallery.Title: Ký Ức Phai Mờ<br><size=60>Quá khứ, hiện tại, và tương lai</size>
+
+; 回忆中的瞬间
+NewCGGalleryUI.CGView: Khoảng Khắc
+
+; 回忆中的片段
+NewCGGalleryUI.MovieView: Tàn Ảnh

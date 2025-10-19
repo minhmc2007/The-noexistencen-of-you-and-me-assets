@@ -1,0 +1,54 @@
+; Chinese (S) <zh-CN> to French <fr> localization document for `BacklogFakeUI` managed text document
+
+; 说话人1
+Author1: Intervenant 1
+
+; 说话人2
+Author2: Intervenant 2
+
+; Player
+Author3: Joueur
+
+Author4: 
+
+; 莉莉丝
+Author5: Lilith
+
+; [Palyer]，我们接下来要外出一段时间，你要照顾好自己。
+message1: [Joueur], nous allons nous absenter pendant un certain temps. Prends soin de toi, d'accord ?
+
+; 我的力量不足以继续封印四大天王，所以不得已才找到转世的您，请您祝我一臂之力。
+message10: Mon pouvoir n'est plus suffisant pour maintenir les Quatre Rois Célestes scellés,
+
+; 我想起来了，我们之间的回忆与羁绊，我全都想起来了。
+message11: Je m'en souviens maintenant ! Nos souvenirs et nos liens... Je me souviens de tout !
+
+; 呐，莉莉丝酱，我们再一次拯救这个世界吧！
+message12: Lilith-chan, sauvons le monde ensemble, encore une fois !
+
+; 嗯，真是太好了呢，[Player]大人！
+message13: C'est fantastique, [Joueur]-sama !
+
+; 对了，有个女孩子要来我们家住一段时间，要和人家好好相处哦。
+message2: Oh, au fait, une fille va venir séjourner chez nous pendant quelque temps.
+
+; 会是什么样的女孩子呢？好期待啊！
+message3: Je me demande quel genre de fille elle sera ? Je suis tellement excité !
+
+; 2小时后
+message4: 2 HEURES PLUS TARD
+
+; 你好，我叫莉莉丝。打扰了，请问这里是[Player]的家吗？
+message5: Bonjour, je m'appelle Lilith. Désolée de vous déranger, mais est-ce bien la maison de [Joueur] ?
+
+; 是的，就是这里。
+message6: Oui, c'est bien ici.
+
+; 唔……看到你的时候，好像有种似曾相识的感觉。
+message7: Hmm... en te regardant, j'ai l'impression de t'avoir déjà vu quelque part.
+
+; 没错，快取回前世的记忆吧，[Player]大人！
+message8: C'est vrai ! Il est temps de retrouver les souvenirs de ta vie antérieure,
+
+; 在前世，当我还是神赐樱花轮回巫女的时候，曾协助您对抗过黑暗旋涡四大天王。
+message9: Dans ta vie antérieure, lorsque j'étais la Demoiselle Sakura de la Renaissance Divine,

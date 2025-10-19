@@ -1,0 +1,521 @@
+; Chinese (S) <zh-CN> to French <fr> localization document for `Prologue0_1` naninovel script
+
+# ~43338c60
+; 第█章：初遇
+Chaptitre █ : La première rencontre
+
+# ~5898bf9e
+; 在那个<ruby="上午">下午</ruby>，莉莉丝出现了。
+Un <ruby="matin">après-midi-là</ruby>, Lilith apparut.
+
+# ~a5b4d33a
+; 躺在床上的我，已经分不清睡了多久，也不再记得上一次进食是什么时候。
+Je suis allongé sur le lit, perdu dans un brouillard temporel — je ne sais pas depuis combien de temps je dors, <br>
+et je ne me souviens même plus de la dernière fois où j'ai mangé.
+
+# ~e0424bd2
+; 我唯一要做的，就是在这里死去，然后等待我的身体腐烂。
+La seule chose qui me reste à faire est de mourir ici... et d'attendre que mon corps se décompose.
+
+# ~4acc86a7
+; 就在这时，她出现在了窗边。
+Et puis… elle est apparue à la fenêtre.
+
+# ~3ea899f
+; ……;; @wait 2
+……
+
+# ~4d077d75
+; <i>「她没有说什么，只是侧头看着你，仿佛你是她房间里的某样物品。」</i>;; 这个背景音乐适配性很好
+<i>"Elle ne dit rien, se contenta d'incliner la tête et de vous regarder— <br>
+comme si vous n'étiez qu'un objet parmi d'autres dans sa chambre."</i>
+
+# ~1607ac36
+; <i>「当然，你才是这个房间真正的主人」</i>
+<i>"Bien sûr, c'est vous qui êtes le véritable maître de cette pièce."</i>
+
+# ~f49e57de
+; <i>「你很久没和人说过话了。所以你得想好一阵，才能领悟到该如何开口。」</i>
+<i>"Vous n'avez parlé à personne depuis longtemps.  <br>
+Il vous faut donc un moment pour comprendre par où commencer."</i>
+
+# ~af3216ff
+; 我是谁……
+Qui suis-je……
+
+# ~fb7c1b9a
+; 我在哪里……
+Où suis-je……
+
+# ~1ea571f2
+; 我该做什么……
+Que dois-je faire……
+
+# ~31f07f91
+; 我刚刚，是成功说出话了？
+Est-ce que je viens de réussir à parler ?
+
+# ~6c459d7b
+; 还是说，在这个游戏里，用鼠标点击选项的行为没有任何意义？
+Ou est-ce que les choix dans ce jeu n'ont aucun sens ?
+
+# ~e24292b5
+; <i>「沉默。沉默过后仍然是沉默，但沉默总是要被打破的。」</i>
+<i>"Silence. Même après le silence vient encore plus de silence, mais le silence est toujours destiné à être rompu."</i>
+
+# ~3438c72b
+; 嗯，我听见了。
+Je vois. J'en ai entendu parler.
+
+# ~ee3746b3
+; 你是这个游戏的主角，正在你的房间里，准备攻略美少女。
+Vous êtes le protagoniste de ce jeu, assis dans votre chambre, prêt à suivre le chemin qui vous mènera à conquérir le cœur d'une belle jeune fille.
+
+# ~3542ec66
+; 那你呢？
+Et vous, vous en pensez quoi ?
+
+# ~e9fd6685
+; 你是一张贴图吗？
+Es-tu juste une texture à l'écran ?
+
+# ~cfcda5e7
+; 你是我的妄想症产物吗？
+Es-tu le fruit de mon imagination ?
+
+# ~12d94ef3
+; 你是和我邂逅的美少女吗？
+Es-tu la belle jeune fille que j'ai rencontrée ?
+
+# ~59857444
+; 你是真想知道，还是因为选项框里只有关于我的选项？
+Voulez-vous vraiment savoir, ou est-ce simplement parce que la seule option que vous pouvez choisir est "moi" ?
+
+# ~9d2deef4
+; <i>「下一秒，她从你的视线里消失了。」</i>
+<i>"L'instant d'après, elle disparut de votre champ de vision."</i>
+
+# ~f63735ec
+; <i>「然后，她又出现了。这次你们之间的距离更近。」</i>
+<i>"Puis, elle réapparut, cette fois-ci plus près qu'auparavant."</i>
+
+# ~cb957c85
+; <i>「你理解了这个行为。也就是说，她刚才朝你走了过来。」</i>
+<i>"Vous avez compris ce qu'elle avait fait : cela signifiait qu'elle venait de se rapprocher de vous."</i>
+
+# ~4383be19
+; <i>「……还是说，是你朝着她走了过去？」</i>
+<i>"……Ou bien vous êtes-vous dirigé vers elle "</i>
+
+# ~c5ba2045
+; <i>「红色的光，那是她的眼睛，她用眼睛注视着我——这是此刻你的想法。」</i>
+<i>"Une lueur cramoisie — ses yeux. Ils me transpercent, sans ciller — cette pensée persiste dans votre esprit, mais donne l'impression d'appartenir à quelqu'un d'autre."</i>
+
+# ~71eaec3d
+; 等等，这些嘈杂的声音是什么？
+Attendez, c'est quoi ces bruits chaotiques ?
+
+# ~50ae902b
+; <i>「您问我们吗？我们是您房间中的家具。」</i>
+<i>"Vous nous posez la question ? Nous sommes les meubles de votre chambre."</i>
+
+# ~44902ea8
+; <i>「您过去花了很长的时间和「我们」对话，所以我们对您的一切都非常熟悉。」</i>
+<i>"Vous avez passé beaucoup de temps à discuter avec "nous", <br>
+donc nous avons appris à bien vous connaître, cher ami."</i>
+
+# ~66b2e167
+; <i>「总之，你可以把我们理解成你的「感官」。」</i>
+<i>"En bref, vous pouvez nous considérer comme vos "sens", ô noble personne."</i>
+
+# ~87d6cc89
+; 得了吧，你们只是物品，物品也配被叫做「感官」吗？
+Allons, vous n'êtes que des objets. Les objets méritent-ils vraiment d'être appelés "sens" ?
+
+# ~d7243eb5
+; 噢噢！好久不见，我最忠实的臣子们。
+Ah, mes sujets les plus fidèles ! Cela fait bien trop longtemps, n'est-ce pas ?
+
+# ~1c4a8a02
+; <i>「好久不见，陛下，您还是一如既往地有精神。」</i>
+<i>"Cela fait longtemps, Votre Majesté. Vous êtes toujours aussi digne et pleine d'entrain."</i>
+
+# 11
+; ……
+……
+
+# ~8d8700e8
+; 被人盯着的感觉如何？
+Qu'est-ce que ça fait d'avoir les yeux de quelqu'un rivés sur vous ?
+
+# ~b256bee4
+; 太棒了，我可以像这样被你一直注视下去。
+Merveilleux. Je pourrais rester ainsi, sous ton regard, pour toujours.
+
+# ~e375b400
+; 你戴了美瞳吗？为什么只有你的眼睛有颜色？
+Portes-tu des lentilles de contact colorées? Pourquoi seuls tes yeux ont-ils de la couleur ?
+
+# ~d643bf51
+; 你盯得我心里发毛，我讨厌这种感觉。
+Tu me fixes tellement que j'en ai la chair de poule. Je déteste cette sensation.
+
+# ~5a3d4a4
+; 嗯，那我们就这样一直注视着对方，直到死掉为止吧。
+Hmm, alors continuons à nous regarder comme ça, jusqu'à ce que nous mourions tous les deux.
+
+# ~8eec13a8
+; 我们真的会「死」吗？
+Allons-nous vraiment "mourir" ?
+
+# ~eda68ca5
+; 感觉有点腻了……
+Je commence à me sentir un peu fatigué de tout ça……
+
+# ~1447203
+; 当然……;; scale:1.25 pos:52,45 wait:false time:1
+Bien sûr……
+
+# 012a
+; ……
+……
+
+# ~ab7d5c62
+; 这样的话可是很毁气氛的哦。
+Ce n'est pas très romantique de votre part, vous savez.
+
+# ~8ccbb618
+; 算啦，就当是你在夸奖我的眼睛好看吧~
+Bon, je vais prendre ça comme un compliment sur la beauté de mes yeux~
+
+# ~40a0784f
+; <i>「她没有回应，继续注视着你。」</i>
+<i>"Elle ne répond pas, continuant à vous fixer du regard."</i>
+
+# ~65b82a13
+; <i>「那样的目光简直就像一根柔软的刺，仿佛能将你的心看穿。」</i>
+<i>"Ce regard est comme une épine douce, comme s'il pouvait transpercer votre cœur."</i>
+
+# ~fd5a5b06
+; 那么，你觉得我是真实存在的吗？
+"Alors, dites-moi, croyez-vous vraiment que j'existe ?"
+
+# ~216de7ef
+; <i>「那么，你觉得她是真实存在的吗？」</i>;; @back CG_2_6 wait:false time:0.7
+<i>"Alors, pensez-vous qu'elle existe vraiment ?"</i>
+
+# ~3411672a
+; 我不确定，我想和你一起寻找这个问题的答案。
+Je ne sais pas trop. Je voudrais trouver la réponse à cette question avec vous.
+
+# ~c61a0fbf
+; 我得到了一个拥抱？
+Est-ce que je viens de recevoir un câlin ?
+
+# ~7181759d
+; 它是一个「仪式」。为了能让你感受到我，而进行的仪式……
+C'est une sorte de rituel. Un rituel destiné à vous faire sentir ma présence…
+
+# ~525f3ccc
+; 没错，这个行为可以恰如其分地被称做「拥抱」。
+Oui, ce geste pourrait en effet être qualifié d'"étreinte".
+
+# ~bef73055
+; 所以，此刻的你是什么感觉？
+Alors, que ressentez-vous en ce moment ?
+
+# ~a053ca47
+; 一张崭新的A4纸，拿出来的时候划破了手。
+Une feuille de papier A4 toute neuve qui vous coupe le doigt lorsque vous la retirez.
+
+# ~92b94788
+; 柔软的猫毛飘到了手掌心。
+La douceur du pelage d'un chat qui effleure votre paume.
+
+# ~a60ee00a
+; 空气里掺入粉笔屑和灰尘，被吸进鼻腔。
+De la poussière de craie et des débris se mélangent dans l'air et sont aspirés dans vos narines.
+
+# ~d59d6f17
+; 听你的描述，这像是「触感」。
+D'après votre description, cela ressemble à "toucher".
+
+# ~43040619
+; 也就是说，只有一些细微的感觉？
+Donc, juste de légères sensations, alors ?
+
+# ~4ca079d5
+; 嗯……
+Hmm……
+
+# ~30b14c54
+; 现在我抱得更紧了。这样一来，我们就离得更近了。
+Maintenant, je vous serre plus fort, nous rapprochant encore davantage.
+
+# ~95db75ea
+; 所以，被紧紧「拥抱」着的你，是什么感觉？
+Alors, qu'est-ce que ça fait d'être serré dans une étreinte étroite ?
+
+# ~8646eaa7
+; 沾湿的塑料袋掉在雨天的地上。
+Un sac en plastique mouillé tombé un jour de pluie.
+
+# ~11cfc5f8
+; 第一株新芽从泥土中破壳而出。
+La première pousse qui perce le sol.
+
+# ~cd911133
+; 食物残渣在胃液里消化。
+Les restes alimentaires se dissolvent dans l'acide gastrique.
+
+# ~5126747d
+; 太好了，感觉变得更加强烈了呢……
+Incroyable, les sensations deviennent encore plus fortes……
+
+# ~51b0a5f3
+; 现在我抱得更紧了。这样一来，我们就合二为一了。
+Maintenant, je vous serre encore plus fort. Ainsi, nous ne faisons plus qu'un.
+
+# ~a1422ff6
+; 所以，被深深「拥抱」着的你，是什么感觉？
+Alors, qu'est-ce que ça fait d'être profondément "enlacé" ?
+
+# ~abe5d0b2
+; 没什么特别的感觉。
+Rien de spécial.
+
+# ~2767a1c
+; 我重获新生了！
+Je suis né à nouveau !
+
+# ~6eef6418
+; 我快不能呼吸了……
+Je n'arrive plus à respirer……
+
+# ~8840d2c2
+; 救命！救命！
+À l'aide! À l'aide!
+
+# ~76f55adc
+; 我简直好得不能再好……
+Je ne me suis jamais senti aussi bien……
+
+# ~e505d1a7
+; 嘿嘿……嘿嘿……
+Heh heh…… heh heh……
+
+# ~4691e88a
+; 面对行刑队的时候，奥雷里亚诺上校会想起那个父亲带他看冰块的下午。
+Face au peloton d'exécution, le colonel Aureliano Buendía se souviendrait de l'après-midi où son père l'avait emmené voir la glace.
+
+# ~3b556567
+; 世界是我的表象，这样的考察虽然具有片面性，但却不失为真理。
+Le monde est ma représentation ; une telle observation, bien que partielle, n'est pas dénuée de vérité.
+
+# ~cfbae466
+; 启蒙运动就是人类脱离自己所加之于自己的不成熟状态。
+Les Lumières sont la sortie de l'humanité de son immaturité auto-imposée.
+
+# ~7a9d2dff
+; 柯西莫在树上。树枝向外伸展，凌空架起一道高高的桥梁。
+Cosimo vivait dans les arbres. Les branches s'étendaient vers l'extérieur, formant un pont élevé suspendu dans les airs.
+
+# ~21441692
+; 存在者存在，非存在者不存在。
+Ce qui existe existe ; ce qui n'existe pas n'existe pas.
+
+# ~8693ba46
+; 四月十六日早晨，里厄医生从他的诊所走出来时，在楼梯口踢到一只死老鼠。
+Le matin du 16 avril, le docteur Rieux sortit de son cabinet et donna un coup de pied à un rat mort au pied de l'escalier.
+
+# ~75de281
+; 人创造了万物的尺度和目的。尽管如此，这创造也必将朽坏。
+L'homme est la mesure de toutes choses, déterminant ce qui existe et ce qui n'existe pas. Pourtant, même cette création est vouée à la décadence.
+
+# ~9e93ea93
+; 爱丽丝紧紧地追赶兔子，刚好看见兔子跳进了矮树下面的一个大洞。
+Alice courut à travers le champ pour le rattraper et, heureusement, arriva juste à temps pour le voir disparaître dans un grand terrier sous la haie.
+
+# ~88381a52
+; 他好像这样一个人，被剥掉了皮肤，进入猛烈的狂风暴雨中搏斗。
+Il semblait être un homme dépouillé de sa peau, plongeant dans une violente tempête pour lutter contre les éléments.
+
+# ~466a156b
+; 准是有人诬陷了K，因为在一个晴朗的早晨，他无缘无故地被捕了。
+Quelqu'un a dû calomnier Josef K., car un matin clair, il a été arrêté sans raison.
+
+# ~c0cd88d7
+; 我爱你。
+Je t'aime.
+
+# ~28da87a2
+; 我讨厌你。
+Je te déteste.
+
+# ~23ea2be4
+; 很好！「仪式」成功了。
+Parfait ! Le "rituel" a été un succès.
+
+# ~2466250a
+; 我感动得都快要哭出来了呢……
+Je suis tellement émue que j'en pleurerais presque……
+
+# ~f832fad2
+; 总之，我叫莉莉丝。很高兴能见到你！
+Bref, je m'appelle Lilith. Je suis ravi de vous rencontrer !
+
+# ~fe625f1b
+; 无论多少次，我都会接纳你的存在。
+Peu importe combien de fois cela se produit, j'accepterai toujours ton existence.
+
+# ~b1c775b5
+; 哎……？
+Huh……?
+
+# ~5d0d725e
+; 我们又见面了，莉莉丝。
+Nous nous revoyons, Lilith.
+
+# ~e94e339f
+; （抱住莉莉丝）
+(Je prends Lilith dans mes bras.)
+
+# ~7eb0fd5c
+; 太好了……太好了！
+Ah… Dieu merci… Dieu merci !
+
+# ~9a2a0c6e
+; 既然这样的话，我们就跳过那些复杂的流程，赶紧出去约会吧。
+Puisque c'est le cas, évitons toutes les formalités compliquées et passons directement au rendez-vous.
+
+# ~c1e7cacf
+; 还有很多事情没做呢，我们要一起散步、逛街、购物、玩耍、旅行……
+Il nous reste tant de choses à faire : marcher, faire du shopping, jouer, voyager……
+
+# ~d20e83c4
+; 一起走在有很多落叶的秋天小径上，一起在冬天的便利店里吃关东煮，在夏天分享同一个西瓜，在春天的花海里拍下合照……
+Se promener sur des sentiers automnaux recouverts de feuilles mortes, manger ensemble un oden dans une supérette en hiver, partager une seule pastèque dans la chaleur de l'été et prendre des photos au milieu d'une mer de fleurs printanières……
+
+# ~ea83e83f
+; 去水族馆看彩色热带鱼吐泡泡，在电影院里欣赏到足以改变人生的佳作，在雨天躲进陈列着奇幻摆件的杂货铺，或者窝在家里吃着外卖打一整天游戏也可以！
+Regarder les poissons tropicaux faire des bulles à l'aquarium, découvrir un chef-d'œuvre qui changera votre vie au cinéma, vous réfugier dans une petite boutique originale remplie d'objets fantaisistes lors d'un jour de pluie, ou simplement rester chez vous à manger des plats à emporter et jouer à des jeux vidéo toute la journée : toutes ces activités seraient merveilleuses !
+
+# ~e4fb3dfb
+; 当然了，这些或许都不是「最重要的」，重要的是……
+Bien sûr, rien de tout cela n'est peut-être "le plus important". Ce qui compte, c'est…
+
+# ~496fa58e
+; 你能够尽情地做自己喜欢的事情。
+Que vous puissiez faire ce que vous aimez sans contrainte.
+
+# ~d42f2774
+; 你能够幸福地回应这个世界……
+Que vous puissiez répondre joyeusement à ce monde……
+
+# ~990dafb0
+; 嗯，我们走吧。
+Bon, alors allons-y.
+
+# ~5cce7e99
+; 走吧！
+Allons-y !
+
+# ~2c31676c
+; 你都已经把行程排到明年了啊。
+Tu as déjà planifié le calendrier pour l'année prochaine, n'est-ce pas ?
+
+# ~a59828d6
+; 哼哼，我可是超有行动力的！
+Ha, je suis très proactif, tu sais!
+
+# ~e7665f97
+; 莉莉丝挽过了我的手。
+Lilith m'a pris la main.
+
+# ~3ef907b2
+; 理所当然地，我们一起朝着门外的世界走去——
+Et naturellement, nous avons marché ensemble vers le monde au-delà de la porte——
+
+# ~42f181e4
+; END
+FIN
+
+# ~7227486a
+; 你以为，重新进入游戏后，我的想法会改变么？
+Pensiez-vous que mon opinion changerait si nous recommencions le jeu ?
+
+# ~4b3d2846
+; 很可惜，这是不可能的，莉莉丝。
+Dommage, c'est impossible, Lilith.
+
+# ~4e5696b5
+; （掐住她的脖子）
+(Il l'attrape par le cou.)
+
+# ~e2a0ac01
+; 唔……呃……！
+Ugh…… ah……!
+
+# ~af714d98
+; 我不相信你的存在。
+Je ne crois pas en ton existence.
+
+# ~11d15741
+; 我不相信善意的存在。
+Je ne crois pas à l'existence de la gentillesse.
+
+# ~bd3728b3
+; 我不相信无条件的爱能够存在。
+Je ne crois pas à l'existence de l'amour inconditionnel.
+
+# 111
+; ……
+……
+
+# ~118a4ef7
+; 所以，你再怎么证明都是没用的。
+Donc, peu importe le nombre de preuves que tu fournirais, cela ne sert à rien.
+
+# ~8f88c7a3
+; 你的笑容简直像恶魔一样，令人害怕。
+Ton sourire est carrément démoniaque. Il me terrifie.
+
+# ~3d57c5a9
+; 不要再出现了，你像个幽灵一样阴魂不散……
+Arrête de t'afficher devant moi. Tu es comme un fantôme qui refuse de partir……
+
+# ~23aa6398
+; （加大力度）
+(Renforce la prise.)
+
+# 112
+; ……
+……
+
+# ~49dcf56b
+; 等我反应过来的时候，她已经消失了。
+Quand j'ai repris mes esprits, elle était déjà partie.
+
+# ~c5891426
+; 仿佛刚刚我所经历的一切都只是午后错乱的梦境。
+Comme si tout ce que je venais de vivre n'était rien d'autre qu'un rêve délirant de l'après-midi.
+
+# ~46e7c589
+; 梦境？
+Un rêve ?
+
+# ~4c03fed2
+; ……我刚才在做什么来着？
+……Qu'est-ce que je faisais à l'instant?
+
+# ~a6fa845d
+; 我想起了什么？我又遗忘了什么？
+De quoi me souvenais-je ? Qu'avais-je oublié ?
+
+# ~6c5a2b0e
+; 在一阵徒劳的思索后，我环视着周围。
+Après un moment de réflexion inutile, j'ai regardé autour de moi dans la pièce.
+
+# ~cd15c8c4
+; ——这里是我的房间，我将继续成为统治这里的孤独国王。
+C'est ma chambre, où je continuerai à régner en tant que roi solitaire de ce royaume désolé.

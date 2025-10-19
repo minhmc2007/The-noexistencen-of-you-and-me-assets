@@ -1,0 +1,1552 @@
+; Chinese (S) <zh-CN> to Turkish <tr> localization document for `Prologue2_1` naninovel script
+
+# ~2f1a8e2c
+; 喂，快起床，要迟到了哦。
+Uyan, uyansana! Geç kalacaksın!
+
+# ~3ea899f
+; ……
+......
+
+# ~a495d8e3
+; 呃……你是谁啊……？
+Ha? Sen de kimsin...?
+
+# ~b3f72d2a
+; ……莉莉丝……？
+...Lilith...?
+
+# ~8f230e1a
+; 是莉莉丝，你已经忘记了吗？
+Lilith'im! Çoktan unuttun mu?
+
+# ~8a56fe7d
+; 真是的！就算是开玩笑，我也会伤心的哦。
+İnanamıyorum! Şaka bile olsa, bu dediğin çok kırıcı—beni üzüyorsun!
+
+# ~7edcc7d3
+; 下次会记住的。
+Bir sonraki sefer hatırlayacağım.
+
+# ~73b3aed6
+; 我讨厌你的名字，所以记不住。
+İsminden nefret ediyorum, o yüzden hatırlayamadım.
+
+# ~519a1cdb
+; 嗯，谢谢！
+Ah, teşekkür ederim!
+
+# ~bf824dd2
+; 算啦，下次要好好记住哦。
+Peki ama bir sonraki sefer hatırladığına emin ol!
+
+# 21113
+; ……
+......
+
+# ~85716e06
+; 你真的……很讨厌「莉莉丝」这个名字吗？
+Gerçekten... "Lilith" isminden nefret mi ediyorsun?
+
+# ~5f2f98b4
+; 开玩笑的。
+Sadece şaka yapıyorum.
+
+# ~b6669fc8
+; 没错，我不想再看到它了。
+Hem de hiç. Bir daha görmek istemiyorum.
+
+# ~284a92ae
+; 既然如此……就由你亲自把它擦除吧。
+O zaman...... neden ismimi kendin silmiyorsun?
+
+# ~4880c298
+; 嗯，顺利完成了呢！
+Tamamdır.
+
+# ~d672e790
+; 如此一来，<ruby="莉莉丝">我的名字</ruby>也就不复存在……
+Ve böylece, <ruby="Lilith">ismim</ruby>, artık yok...
+
+# ~2026f51c
+; 总之，快点起床啦！
+Her neyse, uyan artık!
+
+# ~b61aceb7
+; 让我再睡一会……
+Biraz daha uyumama izin ver...
+
+# ~2cd1efaf
+; 不——行——！快起床啦！
+Hayatta—olmaz! Hemen kalk!
+
+# ~55275ae1
+; 唉，你总是这个样子。明明我每天早上都特地来叫你起床……
+Üff. Hep böylesin. Her sabah seni uyandırmaya bile geliyorum...
+
+# ~6f22e53
+; 现在是什么时候？
+Saat kaç?
+
+# ~980e2215
+; <i>「2点40分，陛下。凌晨2点40分。」
+<i>"2:40, Majesteleri. Sabahın 2:40'ı."</i>
+
+# ~5e8e02d9
+; 哪有这种时间叫人起床的啊？！
+Kim bu saatte uyandırılır ki?!
+
+# ~122765bd
+; 你是从下午四点开始睡的，到现在为止，已经睡了10小时。
+Öğleden sonra 4'ten beri uyuyorsun. Sen uyuyalı on saat oldu bile!
+
+# ~ad430cec
+; 为了自己的健康，现在就要起床了哦！
+Kendi sağlığın için uyanman gerek!
+
+# ~e3556630
+; 而且，再不起床就要迟到了！
+Ayrıca, eğer uyanmazsan geç kalacaksın!
+
+# ~9ea75fd9
+; 迟到？为什么会迟到？
+Geç? Ne için geç kalacağım?
+
+# ~9e8811b0
+; 糟了！要迟到了！！！
+Olamaz! Geç kaldım!!!
+
+# ~639a3ab0
+; 因为，再睡下去的话——
+Çünkü eğer uyumaya devam edersen—
+
+# ~10a31cab
+; 你就要错过「不/存在的逐梦者：银葱之森」了！
+Morphean Kodeks: Gümüş Arpacık Ormanı'nı" kaçıracaksın!
+
+# ~4ae01788
+; 至少稍微捧下场嘛……
+...En azından biraz hevesin olsun...
+
+# ~1bb45eb7
+; 咳咳。总之，如果再睡下去的话——
+Ahem. Neyse, eğer uyumaya devam edersen—
+
+# ~c55d7c39
+; 哎？哎！别紧张，不会真的迟到啦。
+...Bekle, bekle! Panik yapma; aslında geç kalmadın.
+
+# ~8b922d1f
+; 只是想引起你的注意啦——
+Sadece dikkatini çekmek istedim!
+
+# ~5d7dab5e
+; 锵锵~「不/存在的逐梦者：银葱之森」！
+Ta-da~! "Morphean Kodeks: Gümüş Arpacık Ormanı"!
+
+# ~8f4be56e
+; 「不/存在的逐梦者：银葱之森」？
+Morphean Kodeks: Gümüş Arpacık Ormanı"? 
+
+# ~e67993fe
+; 什……什么？
+Ne...?
+
+# ~97b36ced
+; ？
+？
+
+# ~8ecc55b5
+; 没错没错，是莉莉丝连夜完成的——
+Evet, evet! Bu geceler boyu çalışarak tamamladığım hikaye üzerine olan RPG!
+
+# ~3bb0589c
+; 本年度最受期待的剧情向<ruby="RPG">角色扮演</ruby>游戏！
+Yılın en çok beklenen hikaye odaklı <ruby="RPG">rol yapma</ruby> oyunu!
+
+# ~f34aac5b
+; 太棒了，赶快端上来吧！
+Harika, getir bakalım.
+
+# ~197a8bce
+; 非玩不可么……
+Oynamak zorunlu mu...?
+
+# ~2f1220f5
+; 好！就是这个气势！
+Aynen böyle! İşte ruh budur!
+
+# ~c9cd37fb
+; 没错，非玩不可哦。
+Evet, oynamak kesinlikle zorunlu.
+
+# ~efe2caaf
+; 现在让我们一起闭上眼睛……
+Şimdi gözlerimizi birlikte kapatalım...
+
+# ~dc9b965c
+; （闭上眼睛）
+(Gözlerini kapat)
+
+# ~e58777be
+; （尽可能正常普通地闭上眼睛）
+(Gözlerini olabildiğince normal bir şekilde kapat)
+
+# ~e2dda2ec
+; （无欲无求地闭上眼睛）
+(Beklentisiz bir şekilde gözlerini kapat)
+
+# ~be96e90f
+; （满怀期待地闭上眼睛）
+(Heyecanla gözlerini kapat)
+
+# 21261
+; ……
+...
+
+# 21262
+; ……
+...
+
+# ~6b08a703
+; 可以睁开了哦。
+Gözlerini açabilirsin.
+
+# 21263
+; ……
+...
+
+# 21264
+; ……
+...
+
+# ~b20d20d5
+; 这是……什么地方？
+Burası da neresi?
+
+# ~5af19b42
+; 嗯，如你所见，这里是王都宫殿。
+Görebildiğin üzere, burası kraliyet sarayı.
+
+# ~1b123280
+; 你会在这里开启旅途，扮演逐梦者，
+Burada, Morphean Paradoks'u olarak yolculuğuna başlayacaksın,
+
+# ~ea0eb57d
+; 穿过广袤的银葱之森，战胜魔王，救下公主——
+Gümüş Arpacık Ormanı'nda yol alacak, <br>
+Şeytan Kral'ı yenecek ve prensesi kurtaracaksın—
+
+# ~a4dfb1c7
+; 这种烂大街情节也能称得上剧情向吗？
+Ne kadar klişe bir hikaye—gerçekten buna olay odaklı denebilir mi?
+
+# ~774bb3fb
+; 很新颖的剧情，在传统叙事的基础上做出了自己的理解。
+Bu, anlatımı kendi tarzımızla yeniden şekillendirilmiş; geleneğe farklı bir bakış açısı.
+
+# ~66fbb84a
+; 喔，很识货嘛！
+Vay, bu işlerden anlıyorsun!
+
+# ~9f5fa58f
+; 咳咳。
+Ahem.
+
+# ~39445440
+; 那不是国王吗？我们快去觐见他吧！
+Kral bu tarafta. Hadi gidip tanışalım!
+
+# 21291
+; ……;; @despawn DepthOfField params:2
+......
+
+# ~ea4a5bb3
+; 我看不到他的脸……
+Neden yüzünü göremiyorum......
+
+# ~f2180edf
+; 国王为什么不说话？
+Kral neden konuşmuyor?
+
+# ~4e74a106
+; 解释起来有点复杂……
+Bu biraz karışık bir mesele......
+
+# ~bfb638dc
+; 总之，和他对话就会发生神奇的事情呢——！
+Sadece diyelim ki...... onunla konuştuğunda sihirli bir şeyler oluyor—!
+
+# ~c4b22299
+; 所以国王的形象为什么这么模糊？
+Neden kralın şekli bu kadar bulanık?
+
+# ~79c7a2d4
+; （向国王询问关于任务的事情）
+(Krala görev hakkında soru sor)
+
+# ~c8c49ad4
+; 反正国王的唯一作用是说句话然后发任务吧！？
+Ne fark eder, kralın tek işi bize bir görev vermek zaten, değil mi?!
+
+# ~2f6d0ca1
+; 就算看不清楚脸，也不影响我们对话，快去问问他关于任务的事情吧！
+Yüzünü göremesem bile önemi yok. Hadi gidip görevle ilgili konuşalım!
+
+# ~967a4075
+; 公主被魔王抓走了，请将她营救回来吧，逐梦者大人。
+Prenses Şeytan Kral tarafından kaçırıldı.<br>
+ Lütfen, cesur Morphean Paradoks'u, onu kurtar.
+
+# ~a8c73ae3
+; 公主？
+Prensesi mi?
+
+# ~4134b8e6
+; 一般来说，公主应该在旅途终点——银葱森林彼端的魔王城里，等着你来营救……
+Genellikle, prenses yolculuğumuzun sonunda kurtarılmayı bekliyor olması lazım—Gümüş Arpacık Ormanı'nın öbür tarafındaki Şeytan Kral'ın kalesinde...
+
+# ~1c24565a
+; （再问一遍）
+(Tekrar sor)
+
+# ~caa4e53
+; 我们出发吧！
+Hadi yola çıkalım! Gümüş Arpacık Ormanı'na!
+
+# ~c0057f41
+; 前往银葱之森！
+O zaman büyük maceramıza başlayalım!
+
+# ~d99abf78
+; 那么，我们一起踏上冒险旅途吧！
+Hadi, birlikte macera dolu yolculuğumuza çıkalım!
+
+# ~4211b887
+; 这么快就遇到了新的<ruby="非玩家角色">NPC</ruby>了呢——！
+Şimdiden yeni bir <ruby="Oyuncu Olmayan Karakter">NPC</ruby> ile karşılaştık—!
+
+# 213111
+; ……
+......
+
+# ~b789170a
+; 咦？有路过的人？就决定是你了！
+Ha? Yoldan geçen biri mi var? Seçtiğim kişi sensin!
+
+# ~d6c00dbc
+; 你好，我是在森林里研究植物的学者，现在遇到了些麻烦。;; @animate Sartre posY:0,-130 time:2.5,2.7
+Merhaba, ben bu ormandaki bitkileri araştıran bir akademisyenim ancak bir takım sorunlarla karşılaştım.
+
+# ~180fdc0c
+; 我愿意提供帮助。
+Yardım etmek isterim.
+
+# ~7bf2014b
+; <s>什么莫名其妙的任务，不想接。</s>;; 下列选项要禁用，目前未实现
+<s>Ne kadar rastgele bir görev böyle? Hiç ilgimi çekmiyor.<s>
+
+# ~630a5ef4
+; 好，这才对嘛！
+Harika, işte ruh bu!
+
+# ~fcd7afd0
+; 你成功接取了任务。
+Görevi başarıyla kabul ettin.
+
+# ~71427591
+; 任务名称：学者发的支线任务（暂定名）。
+Görev İsmi: Akademisyenin Yan Görevi (geçici).
+
+# ~d6a82f5b
+; 下次请换个正式点的名字……
+Bir dahaki sefere lütfen daha yaratıcı bir isim bul...
+
+# ~5a7b1892
+; 不错，有角色扮演游戏的感觉了。
+Fena değil, RPG'ymiş gibi hissettiriyor.
+
+# ~bb1e2c2d
+; 您的宝贵意见已收到。
+Değerli geri bildiriminiz not alındı.
+
+# ~f716417b
+; 对吧！
+Değil mi! Aynen böyle!
+
+# ~c3c9ff70
+; 是这样的，没错！
+Şimdi, durum şöyle:
+
+# ~d6f374e9
+; 我正在写一篇和曼德拉草有关的文章，但现在遇到了严重的瓶颈……
+Adamotu bitkileri hakkında bir makale üzerinde çalışıyorum ancak büyük bir darboğaza girdim...
+
+# ~14ae8bac
+; 撰写性能及功效部分的时候，有个点让我困惑了很久，
+Özellikleri ve etkileriyle ilgili kısmı taslak haline getirirken, <br>
+beni günlerdir çıkmaza sokan bir noktayla karşılaştım.
+
+# ~8433f7d7
+; 明明想了好几天，却怎么也想不通，那就是——
+Uzun zamandır düşünüyorum ama hala çözemedim. Çıkmaz şu ki:
+
+# ~21e50725
+; 该不该让这株曼德拉草发现自己就是五年前惨案的真凶，然后在愧疚中自杀？
+Bu adamotu bitkisinin, beş yıl önceki trajik olayın asıl suçlusu olduğunu keşfetmesine ve sonra suçluluk duygusundan dolayı intihar etmesine izin vermeli miyim?
+
+# ~91c75fd1
+; 这是学术论文吗？
+Bu bir akademik makale mi?!
+
+# ~cd398c45
+; 这明明就是小说吧！
+Kulağa daha çok bir romanmış gibi geliyor!
+
+# ~689e59c0
+; 唉，没办法。学者要写学术论文，这是学者的定义。
+Şey, başka çare yok. Akademisyenler akademik makaleler yazmak zorunda—<br>
+bu, akademisyen olmanın tanımı.
+
+# ~b0e5483f
+; 可是啊……可是！千篇一律的东西总是让人读不下去。
+Ama... ama! Aynı eski formüller hiç kimsenin ilgisini çekmiyor.
+
+# ~2c9a016c
+; 就像玩了一百个攻略美少女的游戏后，
+Tıpkı yüzlerce flört simülasyonu oynadıktan sonra tanışıp, buluştuğun,
+
+# ~44169187
+; 做腻了和不同刘海发色瞳色性格身份排列组合而成的美少女相遇约会拥抱的事情后……
+sevimli kızların saç stilleri, saç renkleri, göz renkleri, kişilikleri ve kimliklerinin sonsuz gibi görünen kombinasyonlarını kucakladığın gibi...
+
+# ~874729ba
+; 会想试试攻略曼德拉草的游戏吧！
+Sonunda, bir adamotu bitkisiyle flört ettiğin bir flört simülasyonu denemek istersin,<br>
+ değil mi?!
+
+# ~ad7ea9d6
+; 这就不得不提我正在写的巨作——
+Bu beni üzerinde çalıştığım şahesere getiriyor:
+
+# ~eabfce2
+; 《雪国夏日的樱花少女~绽放于纯色思念下的誓言~》了！
+Kar Ülkesi'ndeki Yaz Sakura Kızı ~<br>
+Saf Özlemlerin Renklerinde Açan Yeminler~"!
+
+# ~b0a341ff
+; 哦？说来听听。
+Oo? Biraz daha anlat.
+
+# ~28929b02
+; 虽然感觉已经玩过名称相似的游戏了……
+Daha önce oynadığım bir oyuna fazlasıyla benziyor olsa da...
+
+# ~65d24ba2
+; 我是来打怪升级的，不是来帮忙写剧本的。
+Ben buraya kasılmak ve seviye atlamak için geldim, senin senaryonu yazmana yardım etmek için değil.
+
+# ~4fcd90b3
+; 终于有人愿意听下去了！你们真是我的心之挚友啊！
+Sonunda, birisi dinlemeye istekli! Siz benim ruh eşim olmalısınız!
+
+# ~e1c5ca8
+; 真的吗？
+Gerçekten mi?
+
+# ~ac4a3178
+; 居然愿意听下去？你们是我的心之挚友啊！
+Gerçekten dinlemeye istekli misiniz? Sizler benim ruh eşlerimsiniz!
+
+# ~c46a89e0
+; 没事啦，作为逐梦者，我们就先听听学者的要求吧。
+Sorun değil; Morphean Paradoks'ları olarak, önce akademisyenin isteğini dinleyelim.
+
+# ~d04fcde6
+; 是这样的，曼德拉草是一位白发红瞳的双马尾少女，名叫樱子。
+İşte hikaye: Adamotu bitkisi, beyaz saçlı,<br>
+ kırmızı gözlü ve çift at kuyruğu olan Sakurako adında bir kız.
+
+# ~f6b2dc9d
+; （继续听下去）
+(Dinlemeye devam et)
+
+# ~ac3f9653
+; 等等！这不还是美少女吗！？
+Bekle! Bu da sadece başka bir sevimli kız değil mi?!
+
+# ~c4138641
+; 这和普通的美少女游戏女主有什么区别？
+Diğer oyunlardaki sıradan kahramanlardan ne farkı var?
+
+# ~f7065659
+; 没错，虽然樱子在各个地方都表现得和美少女完全一致，
+Aynen! Sakurako her yönüyle tipik bir sevimli kız gibi davranıyor olsa da,
+
+# ~3c1ba068
+; 但我并没有在文中交代过她是曼德拉草，所以玩家根本不会知道这个设定……
+Metinde asla açıkça adamotu bitkisi olduğunu belirtmedim, <br>
+bu yüzden oyuncular bunu hiçbir zaman bilemeyecekler...
+
+# ~dcec738
+; 不过嘛，身为作者的我如此设定，所以它就是这样。
+Ama, yazar olarak, buna ben karar verdim—o yüzden, öyle olacak.
+
+# ~fc386e92
+; ……好吧。
+...Peki.
+
+# ~a7d2a295
+; 没有在文中交代的设定，和不存在有什么区别？
+Açıklanmamış bir ayar, var olmamaktan farksız değil mi?
+
+# ~f66d2c7e
+; 唔……好像并没有呢！
+Eh... görünüşe göre öyle değil!
+
+# ~e1f65291
+; 樱子是这所学校新来的转校生，在第一天上学的时候，她发现自己要迟到了，
+Sakurako bu okuldaki bir transfer öğrenci ve okulun ilk gününde, geç kaldığını fark eder.
+
+# ~cc461eed
+; 赶忙叼起面包，喊着「迟到了迟到了」，跑在前往学校的路上……
+Aceleyle bir dilim ekmek alır ve "Geç kaldım! Geç kaldım!" diye bağırarak okula doğru koşar...
+
+# ~740a4749
+; 我好像已经能猜到接下来会发生的事了……
+Sanırım sırada ne olacağını şimdiden tahmin edebiliyorum...
+
+# ~4e088601
+; 真的吗？不愧是我的心之挚友！
+Cidden mi? Ruh eşimden bekleneceği gibi!
+
+# ~7b3d1955
+; 樱子就这样一路跑着，经过墙角的时候，突然和什么东西相撞了。
+Sakurako hızlaca koşarken bir köşede, aniden bir şeyle çarpışır.
+
+# ~dbbc4b7a
+; 「啊，好疼！」樱子揉着自己的脑袋。抬起头，她看到的是——
+Aah, canım acıdı!" der, başını ovuşturarak. Başını kaldırır ve şunu görür...
+
+# ~bf5d5a5d
+; 向自己伸出援手的游戏男主。
+Oyunun erkek kahramının ona uzattığı bir el.
+
+# ~89bf2d8e
+; 通往异世界的大门。
+Başka bir dünyaya açılan kapı.
+
+# ~e93f3cdf
+; 汉堡肉饼。
+Bir hamburger köftesi.
+
+# ~be3abe00
+; 那一刻，独自前往新学校的不安心情都被驱散了。
+O an, yalnız başına yeni bir okula başlama konusundaki tüm endişeleri kayboldu.
+
+# ~1d3993f1
+; 樱子进去后，成为了电子宠物训练师，通关后回来上学。
+Sakurako kapıdan geçer ve bir dijital evcil hayvan eğitmeni olur. Oyunu bitirdikten sonra okula geri döner.
+
+# ~f2d39430
+; 嗯，很棒的点子！我记下了。
+Hımm, harika bir fikir! Bunu not alacağım.
+
+# ~8e4a2646
+; 接着，樱子顺利地找到了自己的教室，老师在黑板上写下樱子的名字，
+Sonra, Sakurako rahatça sınıfını bulur. Öğretmen, adını kara tahtaya yazıp sınıfa tanıtır,
+
+# ~eb6628c6
+; 向大家介绍了她，并让她在窗边的位置坐下。坐下后，樱子在旁边的座位上看到了——
+ve onu pencere kenarına oturtur. Sandalyeye otururken, <br>
+yanında oturan çocuğun—
+
+# ~857187b4
+; 早上和自己偶遇过的男生。
+Bu sabah tanıştığı kişi olduğunu fark eder.
+
+# ~62ae261d
+; 统帅千万魔人军团的狂气邪恶大魔王。
+Çılgın, kötü ruhlu ve milyonlarca askeri komuta eden iblis lordu olduğunu fark eder.
+
+# ~7b2c3171
+; 他成为了自己的同桌，并向自己递来一张纸条，上面写着温柔鼓舞的话语。
+O, kızın masa arkadaşı olur ve ona birkaç sıcak ve teşvik edici söz yazılı bir kağıt verir.
+
+# ~334e586b
+; 魔王正在为数学题困扰着，反复在草稿纸上写下公式又擦去。
+Bu sırada, iblis lordu bir matematik problemiyle boğuşur, yırtık kağıtlara formüller karalar ve siler.
+
+# ~8770ba3f
+; 第一天的上学时间过的很快，不知不觉就已经到了放学时间……
+Okulun ilk günü hızla geçer ve Sakurako ne olduğunu anlamadan, eve gitme zamanı gelir...
+
+# ~97c42780
+; 放学后有一段自由活动时间，樱子打算参加社团。
+Okuldan sonra, ders dışı etkinlikler için kısa bir süre vardır. <br>
+Sakurako, bir kulübe katılmaya karar verir.
+
+# ~c09bf8a1
+; 她来到社团活动教室的楼层，决定凭直觉推开其中的一扇。
+Kulüplerin bulunduğu kata yönelir<br>
+ve içgüdülerine güvenerek bir kapıya yaklaşır.
+
+# ~6857023a
+; 樱子来到左手边倒数第二间教室门前，鼓起勇气敲了门。
+Soldaki sondan bir önceki sınıfın önünde durur, <br>
+cesaretini toplar ve kapıya vurur.
+
+# ~7e7ef2c
+; 短暂的等待后，门被打开了。在那里，她看到了——
+Kısa bir bekleyişin ardından kapı açılır ve içeride, şunu görür—
+
+# ~9c33e1eb
+; 那个温柔的男生。
+Önceden karşılaştığı iyi kalpli çocuk.
+
+# ~38ac696b
+; 手忙脚乱的杀人现场。
+Çılgın bir cinayet sahnesi.
+
+# ~4e5bb0e6
+; 他向樱子介绍了这个社团——灵异怪谈研究社，并邀请樱子加入。
+Sakurako'ya—Paranormal Hikayeler Araştırma Topluluğu— kulübünü açıklar ve onu katılmaya davet eder.
+
+# ~cb5eceb1
+; 樱子被他谈起这些话题时的热忱所感动，怀着雀跃的心情答应了他。
+Konuya olan tutkusundan etkilenen Sakurako, sevinçle kabul eder.
+
+# ~6230a740
+; 凶手发现自己不小心杀错了人。
+Katil, kazara yanlış kişiyi öldürdüğünü fark eder.
+
+# ~f2e5e64f
+; 凶手杀掉了帮凶，正在劝说被害人帮助自己布置现场。
+Katil, suç ortağını ortadan kaldırır ve kurbanı sahneyi düzenlemesi için ikna etmeye çalışır.
+
+# ~a9c880d1
+; 太棒了！太棒了！灵感正源源不断地涌现……
+Müthiş! Harika! İlham durmadan akıyor...
+
+# ~2eba436b
+; 嗯，这下我知道该怎么写了。
+Tamamdır, şimdi ne yazacağımı biliyorum.
+
+# ~63615241
+; 来，这是本小姐赏你的报酬！
+İşte, bu da senin ödülün!
+
+# ~52bf515
+; 你获得了「逐梦之典」。
+Morphean Kodeks'ini aldın.
+
+# ~c64a7899
+; 好眼熟的本子……
+Bu kitap tanıdık geliyor...
+
+# ~b873a4ed
+; 似乎曾经在房间里见过。
+Sanki daha önce odamda görmüş gibiyim.
+
+# ~1c0d8a28
+; <i>「从结论来说，「存在于世界之外的少女」失踪了。」</i>;; 这里用黑白回忆滤镜
+<i>"Sonuç olarak, 'bu dünyanın ötesindeki kız' kayboldu."</i>
+
+# ~e18bbd2b
+; <i>「我和那位是不同的……即使我们都有着相同的本质。」</i>
+<i>"Aynı özü paylaşıyor olsak da... ben ondan farklıyım."</i>
+
+# ~e49afbd2
+; （收下逐梦之典）;; Lilith: [char Lilith.Emotions>Emotion21 time:1]总之，还是收下学者小姐的礼物吧？
+(Morphean Kodeks'ini kabul et)
+
+# ~4f89ff64
+; 你怎么也会说话？
+Sen de mi konuşabiliyorsun?
+
+# ~6065d710
+; <i>「对于传奇般存在的逐梦者而言，会说话的本子已不足为奇。」</i>
+<i>"Efsanevi Morphean Paradoks'u için, konuşan bir kitap şaşırtıcı bir şey değil."</i>
+
+# ~33e31a41
+; <i>「逐梦者将它自然地收了起来。」</i>
+<i>"Morphean Paradoks'u onu rahatça yerine koyar."</i>
+
+# ~7673df22
+; <i>「「好吧，毕竟我可是逐梦者！」，
+<i>"'Sonuçta ben bir Morphean Paradoks'uyum!'"</i>
+
+# ~89fa83da
+; 逐梦者一边这么想着，一边自然地收起了逐梦之典。」</i>
+<i>"Morphean Paradoks'u, Morphean Kodeks'i doğal bir şekilde yerine koyarken düşündü."</i>
+
+# ~f163733f
+; 其实我从刚才开始就想问了，这个奇怪的声音是什么啊？
+Aslında, sormak istiyordum—bu garip seste neyin nesi?
+
+# ~942c943c
+; 说着接取任务、放入口袋什么的……
+Görev kabul etmekten ve bir şeyleri cebine koymaktan falan bahsediyor...
+
+# ~43ef8173
+; 你也能听到？
+Sen de mi duyabiliyorsun?
+
+# 214521
+; ……
+......
+
+# ~8660a899
+; 难道说，你其实是逐梦者大人！刚才那个声音是……游戏旁白？
+Bekle bir dakika, yoksa sen gerçekten Morphean Paradoks'u musun?! Ve bu ses...<br>
+o da...oyun anlatıcısı mı?
+
+# ~f2340133
+; 而我们……只是在一个游戏里？！
+Ve biz... sadece bir oyunun içinde miyiz?!
+
+# ~587b5af
+; 没错，正是在下。
+Aynen, o kişi benim.
+
+# ~1fbf9f71
+; 没错，正是旁白。
+Evet. O oyun anlatıcısı.
+
+# ~88c42b2c
+; 这么说……我只是游戏里的一个小小NPC学者？！
+Yani... Bu oyunda sadece küçük bir NPC'yi oynayan bir akademisyen miyim?!
+
+# ~1795d9b4
+; 这就是我人生的真相？
+Bu... benim varoluşumun gerçeği mi?
+
+# ~87a99661
+; 当我在设定樱子的故事的时候，也在有人在设定着我的故事吗！
+Ben Sakurako'nun hikayesini yazarken, aynı zamanda başkası da benimkini mi yazıyordu?!
+
+# ~9eb515da
+; 好像是这样……
+Öyle gözüküyor...
+
+# ~63a97e71
+; 没错，你的唯一价值就是给我发奖励。
+Aynen öyle. Senin tek amacın bana ödüllerimi vermek.
+
+# ~6f59f3a7
+; 没事的，我并没有伤心哦。
+Önemi yok, bundan dolayı üzülecek değilim.
+
+# ~270b7d7f
+; 呜，这种说法也太残忍了吧！
+Ah, bunu söylemek bile çok zalimce!
+
+# ~1168b95c
+; 不过，我并不为此感到悲伤。
+Ama hayır, hiçte üzgün değilim.
+
+# ~1fb9348c
+; 心之挚友啊！
+Ah, ruh eşim!
+
+# ~4208bbd4
+; 能够以学者的身份出现，我其实感到非常开心。
+Bu oyunda bir akademisyen olarak yer almak—aslında beni çok mutlu ediyor.
+
+# ~c60b3cc0
+; 「身份」代表一种限制，因为我们在界定什么的同时，就需要去否定什么。
+Kimlik" bir kısıtlamayı temsil eder. Bir şeyi tanımlarken,<br>
+kaçınılmaz olarak diğer olasılıkları reddederiz.
+
+# ~6bbfb10b
+; 身份代表着远离完满，这真是一件悲伤的事情。
+Kimlik, mükemmellikten uzaklaşmak anlamına gelir—ne kadar da üzücü bir şey.
+
+# ~8ed9ecc4
+; 但正是借着「身份」的形式，我才有能和你相遇的这一天，我们之间才能产生语言。
+Ama işte bu "kimlik" kavramı sayesinde seni tanıma fırsatı buluyor,<br>
+ve bu diyaloğu kurabiliyoruz.
+
+# ~e4166c55
+; 我不是全知全能的，所以我才能在和你的对话中体验到新奇的感动。
+Ben her şeyi bilen biri değilim, bu yüzden sohbetlerimizde yeni<br>
+ ve keyifli sürprizler yaşama fırsatım oluyor.
+
+# ~e58e424f
+; 我没有站在世界的终结之处，所以我才能不断地向前迈进。
+Dünyanın sonunda durmuyorum, bu yüzden ilerlemeye devam edebiliyorum.
+
+# ~d9b23c85
+; 我们不是目的，我们是一段通向目的的桥梁。
+Biz varış noktaları değil; varış noktalarına götüren köprüleriz.
+
+# ~51179962
+; 我们诞生于虚无，我们的存在由自身创造，我们的存在正源源不断地在世界中涌现。
+Hiçlikten doğan varlığımız, kendiliğinden yaratılmış ve sürekli olarak dünyada var olmaya devam eder.
+
+# ~654ce84
+; 这是我们的自由，同时也是我们必将背负的枷锁。
+Bu bizim özgürlüğümüz, ve aynı zamanda taşımamız gereken prangadır.
+
+# ~22737035
+; 你看，即使有「NPC学者」这样强而有力的标签，我也和你曾见过的所有学者都不一样吧？
+Görüyorsun işte, güçlü bir "NPC Akademisyen" etiketiyle bile, daha önce karşılaştığın hiçbir akademisyene benzemiyorum, değil mi?
+
+# ~853bd72f
+; 即使樱子的故事能被经典到可以称得上是无聊的情节概括，
+Ve hatta Sakurako'nun hikayesi sıradan ve klişe bir anlatı olarak özetlense bile,
+
+# ~74a915dc
+; 但她也会在既定框架下，将每一处选择都做到最好，并享受属于她的人生吧？
+Yine de hayatını en dolu şekilde yaşayıp, kendi çerçevesi içinde en iyi seçimleri yapacak ve varlığının tadını çıkaracak, değil mi?
+
+# ~647d7868
+; 也就是说……
+Yani...
+
+# ~ef05f730
+; 希望你不要只用「逐梦者拯救公主」之类的<ruby="自在存在">静止标签</ruby>去界定「不/存在的逐梦者：银葱之森」。
+Umarım "Morphean Kodeks: Gümüş Arpacık Ormanı"nı, "Morphean Paradoks prensesi kurtarır" gibi <ruby="kendi-özünde-varlık">statik etiketlere</ruby> indirgemezsin.
+
+# ~358dbd
+; 因为，这是一个逐梦者永远行走在成为逐梦者道路上的故事。
+Bu, Morphean Paradoksu'nun, Morphean Paradoks'u olma yolunda sonsuza dek ilerlemesinin hikayesi.
+
+# ~f6279964
+; 不过……「逐梦」啊……
+Ama... "Morphean Paradoks", ha...
+
+# ~6608cce2
+; 可真是一个引人误解的词汇呢。
+Ne kadar da yanlış anlaşılmış bir terim..
+
+# ~b8c576a1
+; 好啦！我们该告别了！
+Tamamdır, artık ayrılmamızın zamanı geldi!
+
+# ~c95248dd
+; 再见。
+Görüşürüz.
+
+# ~6fa14efa
+; 能告诉我你的名字吗？这位学者。
+Bana ismini söyleyebilir misin, Akademisyen?
+
+# ~205249c1
+; 在这里，我只能作为学者出现，没有其他的名字。
+Burada, sadece Akademisyen olarak var olabilirim—Başka bir ismim yok.
+
+# ~918729d
+; 不过，心之挚友啊，我的名字其实已经早就铭刻在你的心间了。
+Ama, ey ruh eşim, adım uzun zamandır kalbinde kazılı halde.
+
+# ~b40ed257
+; 在别处再见时，唤出我的名字吧！
+Başka bir yerde tekrar karşılaştığımızda, adımı haykır!
+
+# ~74ed03ea
+; 告别了学者后，我和莉莉丝又向森林的更深处迈进。
+Akademisyene veda ettikten sonra, Lilith ve ben ormanın derinliklerine doğru yol aldık.
+
+# ~c5ac0490
+; 在经历了传奇般的冒险后。终于，我们来到了魔王面前。
+Efsanevi bir maceranın ardından, nihayet Şeytan Kral'ın önüne geldik.
+
+# 214101
+; ……
+......
+
+# ~c34b5ec4
+; 等等，我们的冒险故事就这么被一笔带过了呢？
+Bekle bir dakika, tüm maceramız tamamen göz ardı mı edildi?!
+
+# ~ee73febe
+; <i>「关于你们的冒险旅途，那就是另一个故事了。」</i>
+<i>"Maceranıza gelince, eh, o da başka bir hikaye."</i>
+
+# ~8e966c48
+; <i>「现在，专心面对魔王吧！」</i>
+<i>"Şimdilik, Şeytan Kral'a odaklan!"</i>
+
+# ~b437c999
+; ……糟了，情况很棘手啊。
+...... Olamaz, durum kötü görünüyor.
+
+# ~81893243
+; 现在的魔王是不可能被战胜的，因为她没有任何弱点。
+Şuan da, Şeytan Kral'ı yenemeyiz çünkü hiçbir zayıflığı yok.
+
+# ~ed3462c1
+; 这是怎么回事？
+Ne oluyor?
+
+# ~152eb924
+; ？？？
+???
+
+# ~3d88516a
+; 呃……因为游戏的最后部分还没完成。
+Eh... çünkü oyunun son kısmı henüz tamamlanmadı.
+
+# ~2bcd5b31
+; 我的意思是……魔王只有一个基础的形象，还没做具体的战斗和数值……
+Demek istediğim... Şeytan Kral basit bir dizayna sahip—<br>
+henüz detaylı bir savaş sistemi ya da istatistikler, yok...
+
+# ~22c898e5
+; 那这还打什么？赶紧跑吧。
+O zaman nasıl savaşmamız gerekiyor? Hadi kaçalım!
+
+# ~f1d3e806
+; ……您说什么？
+...Anlamadım?
+
+# ~f7c6b339
+; 但是，逐梦者……
+Ama, Morphean Paradoks'u...
+
+# ~e1c9d529
+; 打败魔王的方法，你已经在这场旅途中领悟了啊！
+Bu yolculuğumuz sırasında Şeytan Kral'ı yenmenin yolunu zaten buldun!
+
+# ~c788807
+; 有一样道具，能够使你逆转当下的局势。所以，你只要使用它就好了。
+Durumu tersine çevirebilecek özel bir eşya var. Sadece onu kullanman lazım.
+
+# ~c89e876f
+; <i>「逐梦者随即把手伸向了自己的口袋。」</i>
+<i>"Morphean Paradoks'u cebine uzanır."</i>
+
+# ~7fefd350
+; （使用汉堡肉饼）;; @choice （使用逐梦之典） goto:.Dialogue5
+(Hamburger köftesini kullan)
+
+# ~93ca95ed
+; （使用唱片机）
+(Kayıt çalar kullan)
+
+# ~d81b582d
+; <i>「虽然不知道这东西是从哪里出现的，但逐梦者使用了汉堡肉饼。」</i>
+<i>"Nereden geldiğini bilmeden, Morphean Paradoks'u hamburger köftesini kullanır."</i>
+
+# ~5441b5f5
+; <i>「也就是说，逐梦者当着魔王的面吃下了汉堡肉饼。」</i>
+<i>"Başka bir deyişle, Morphean Paradoks'u hamburger köftesini <br>
+Şeytan Kral'ın önünde yer."</i>
+
+# ~1e9da62a
+; ……！
+......！
+
+# ~d0521a6
+; <i>「魔王紧紧盯着逐梦者手中咬了一口的汉堡肉饼，假装无动于衷。」</i>
+<i>"Şeytan Kral, etkilenmemiş gibi davranarak, Morphean Paradoks'un elindeki yarım yenmiş hamburger köftesine dikkatle bakar."</i>
+
+# ~2ec0e8dc
+; 你明明也很想吃吧？
+Bunu yemek istediğin gözlerinden anlaşılıyor, yanlış mıyım?
+
+# ~318201bf
+; 呵，想吃吗？
+Bir ısırık almak ister misin?
+
+# 2141421
+; ………………
+...
+
+# 2141422
+; ………………
+...
+
+# ~90ee7ca6
+; (▼ヘ▼#)。
+(▼ヘ▼#)
+
+# ~7ab476ae
+; <i>「魔王的攻击力上升了。」</i>
+<i>"Şeytan Kral'ın saldırı gücü arttı."</i>
+
+# ~9a3a740
+; <i>「短暂的心情调整后，魔王又变回了原先酷酷的模样。」</i>
+<i>Kısa bir duraksamanın ardından, Şeytan Kral her zamanki soğukkanlı tavrına geri döner.</i>
+
+# ~f6e3d740
+; <i>「局势没有发生任何变化。」</i>
+<i>"Durum değişmedi."</i>
+
+# ~6636cc74
+; （使用逐梦之典）
+(Morphean Kodeks'i kullan)
+
+# ~f548389f
+; <i>「逐梦者使用了……呃，你使用了唱片机。」</i>
+<i>"Morphean Paradoks'u... şey, sen plak çaları kullanıyorsun"</i>
+
+# 2141431
+; ……！
+...!
+
+# ~9e66b605
+; <i>「随着乐声响起，魔王开始用手和脚打着节拍。」</i>
+<i>"Müzik çalmaya başladığında, Şeytan Kral ellerini ve ayaklarını ritme uydurarak vurmaya başlar."</i>
+
+# ~3961eefd
+; ……ヾ(o´∀｀o)ﾉ ！
+......ヾ(o´∀｀o)ﾉ ！
+
+# ~69270cc6
+; <i>「她的动作越来越投入，神情也已经达到了忘我的境界。」</i>
+<i>"Hareketleri giderek daha coşkulu hale gelir ve yüz ifadesi saf bir mutluluk hâline ulaşır.."</i>
+
+# ~aa945a65
+; <i>「乐曲结束后，魔王似乎意识到了什么。」</i>
+<i>"Müzik bittiğinde, Şeytan Kral bir şey fark etmiş gibi görünür."</i>
+
+# ~3edf7dee
+;  ∑(ﾟДﾟノ)ノ!!!
+∑(ﾟДﾟノ)ノ!!!
+
+# ~d947632c
+; <i>「魔王的防御上升了。」</i>
+<i>"Şeytan Kral'ın savunması arttı."</i>
+
+# ~cc5e3e72
+; <i>「同时，魔王又变回了原先酷酷的模样。」</i>
+<i>Aynı zamanda, normal soğuk tavrına geri döner.</i>
+
+# 2141432
+; ……
+......
+
+# ~a3c41bff
+; <i>「<ruby="你">逐梦者</ruby>拿出了逐梦之典。」</i>
+<i>"<ruby="Sen">Morphean Paradoks'u</ruby> Morphean Kodeks'i çıkarır."</i>
+
+# ~5169d1c3
+; （将逐梦之典砸向魔王）;; @choice （打开并查看内容） goto:.Dialogue5_1
+(Morphean Kodeks'i Şeytan Kral'a fırlat)
+
+# ~228c2f92
+; （尝试啃一口）
+(Ondan bir ısırık almaya çalış)
+
+# ~2bfa26fa
+; <i>「逐梦者拿起逐梦之典，将它……」</i>
+<i>"Morphean Paradoks'u,  Morphean Kodeks'ini alır ve sonra..."</i>
+
+# ~6a35a692
+; <i>「等等，你在干什么！？」</i>
+<i>"Bekle bir dakika, ne yapıyorsun!?"</i>
+
+# ~ecfd39ed
+; <i>「等等等等等等！！！」</i>
+<i>"Dur, dur, dur, dur!!!"</i>
+
+# ~a172591
+; 呃……！
+Ah...!
+
+# ~af8aae0d
+; 好准！笔记本正中魔王的脑袋！！
+Mükemmel atış! Defter, Şeytan Kral'ın tam kafasına isabet etti!
+
+# 215111
+; ……
+......
+
+# ~9812e959
+; ヽ(#`Д´)ﾉ！
+ヽ(#`Д´)ﾉ！
+
+# ~21dde50d
+; <i>「魔王很生气，将，将逐梦之典从地上捡起……呃等一下……」</i>
+Şeytan Kral öfkelenir ve Morphean Kodeks'ini yerden alır...<br>
+şey, bekle bir dakika..."</i>
+
+# ~2116e4ea
+; <i>「等等，各位，等等……！！」</i>
+<i>"Durun, herkes, sadece dursun...!!"</i>
+
+# ~40588fb6
+; 小心！！
+Dikkat et!!
+
+# ~772e738d
+; 轻松地接住。
+Nazikçe yakala.
+
+# ~da40432f
+; 优雅地接住。
+Zarifçe yakala.
+
+# ~800fd1bd
+; 认真地接住。
+İçtenlikle yakala.
+
+# ~701e11f1
+; <i>「逐梦之典被逐梦者轻松地接住。」</i>
+<i>"Morphean Kodeks'i, Morphean Paradoks'u tarafından nazikçe yakalanır."</i>
+
+# ~437f11c9
+; <i>「逐梦之典被逐梦者优雅地接住。」</i>
+<i>"Morphean Kodeks'i, Morphean Paradoks'u tarafından zarifçe yakalanır."</i>
+
+# ~72dbea3d
+; <i>「逐梦之典被逐梦者认真地接住。」</i>
+<i>"Morphean Kodeks'i, Morphean Paradoks'u tarafından içtenlikle yakalanır."</i>
+
+# ~36879127
+; <i>「逐梦之典又重新回到了逐梦者的手中。」</i>
+<i>"Morphean Kodeks'i, Morphean Paradoks'u'nun eline geri geçer."</i>
+
+# ~e0922448
+; （打开并查看内容）
+(Aç ve içeriğini kontrol et)
+
+# ~8b781a2d
+; <i>「逐梦者啃了一口逐梦之典，当然，逐梦者咬不动，也没有尝到任何味道。」</i>
+<i>"Morphean Paradoks'u, Morphean Kodeks'inden bir ısırık alır. Doğal olarak, Morphean Paradoks'u bunu ısırarak parçalayamaz ya da hiçbir şey tadamaz."</i>
+
+# ~78272584
+; <i>「啊嘞？我们这样的关系……是不是有点太暧昧了？」</i>
+<i>"Heh? ilişkimiz... biraz fazla mı belirsiz olmaya başladı?"</i>
+
+# ~f12608ea
+; 不对不对，才没有解锁呢！这个游戏只能攻略莉莉丝！
+Hayır, hayır, hayır! Burada açılacak bir romantizm seçeneği yok! Bu oyun sadece Lilith'i romantik partner olarak kabul ediyor!
+
+# ~1f8c1303
+; <i>「总之，局势没有发生任何变化。」</i>
+<i>"Her halükarda, durum değişmedi."</i>
+
+# ~661b352f
+; <i>「你打开了笔记本。」</i>
+<i>"Morphean Paradoks'u defteri açar."</i>
+
+# ~a56f80cf
+; 原来，这就是「不/存在的逐梦者：银葱之森」的游戏设定。
+Yani bu, "Morphean Paradoks: Gümüş Arpacık Ormanı" oyununun taslağı.
+
+# ~938acaec
+; 多么精巧的设定啊，只是目前还没做完……
+Tamamlanmamış olmasına rağmen... ne kadar da karmaşık bir sistem.
+
+# ~b58506c3
+; 总之，只要在上面写下弱点，就可以让它成为魔王的弱点。
+Her neyse, Şeytan Kral'ın zayıflığını buraya yazdığın sürece, <br>
+ bu onun gerçek zayıflığı olacak.
+
+# ~c15877eb
+; 怎么样，是不是很方便？
+Pratik, değil mi?
+
+# ~48d933f4
+; 有一说一，确实。
+Adil olmak gerekirse, öyle
+
+# ~e9927086
+; 这明明就是游戏作者偷懒了吧！？
+Bu sadece oyun yapımcısının tembel olması, değil mi?!
+
+# ~7ef18947
+; 总之，就在上面写下魔王的弱点吧！
+Her neyse, devam et ve Şeytan Kral'ın zayıflığını yaz!
+
+# ~bb4f9696
+; （写下：害怕被批评）
+(Yaz: Eleştiri korkusu)
+
+# ~334e458e
+; （写下：吃完饭会变得很困）
+(Yaz: Bir şey yedikten sonra uykusu gelir)
+
+# ~dfa0e604
+; （写下：敲脑袋攻击）
+(Yaz: Kafa darbelerine karşı savunmasız)
+
+# ~e835c73b
+; （合上本子）;; 播放一个书写音效
+(Defteri kapat)
+
+# ~cb1ef449
+; 哈？乐队？这种梦想是为了赶潮流吗？;; 这里要配置一个全选才消失的选项组，每点击一个播放一个受击音效
+Heh? Bir rock grubu mu? Hayalin ünlü olmak mı?
+
+# ~45938864
+; 这是什么装扮？感觉很中二……
+Bu kıyafette ne böyle? Çok chuunibyou hissi veriyor...
+
+# ~8f3659b6
+; 话说三无少女的设定早就过时了吧？
+Ve 'kuudere' arketipi modası geçeli yıllar olmadı mı?
+
+# 2152111
+; ……
+......
+
+# 2152112
+; ……
+......
+
+# 2152113
+; ……
+......
+
+# ~15a5c1a1
+; （投喂汉堡肉饼）
+(Hamburger köftesini yedir)
+
+# 21521211
+; ……
+......
+
+# 21521212
+; ……
+......
+
+# 21521213
+; ……
+......
+
+# ~8f6c80d8
+; 我们战胜了魔王，逐梦者大人！
+Şeytan Kral'ı yendik, Morphean Paradoks!
+
+# ~fb38155a
+; 啊，请稍等一下。
+Bekle bir dakika.
+
+# ~f8b7057e
+; （在原地等待一阵）
+(Beklemek için olduğu yerde durur)
+
+# ~d9b74bc0
+; 咳咳，哼。
+Ahem, ahem.
+
+# ~2278487f
+; （向后看去）
+(Arkasına bakar)
+
+# ~2e6a9a04
+; 莉莉丝……？
+Lilith...?
+
+# ~c35379b
+; 终于见到你了……
+Sonunda seni buldum...
+
+# ~1c694c3d
+; 你在搞什么，莉莉丝？
+Ne oluyor, Lilith?
+
+# ~d98b4ae0
+; <i>「逐梦者大人，莉莉丝现在不方便回复你，这是她给你的留言。」</i>
+<i>"Morphean Paradoks, Lilith şuan da cevap veremiyor. <br>
+İşte sana bıraktığı mesaj."</i>
+
+# ~eae3a413
+; <i>「拜托啦！游戏流程有限，你现在就接受这个设定吧！」</i>
+<i>"Lütfen, şimdilik sadece kurguya uy, tamam mı?!"</i>
+
+# ~6cf671e7
+; 好吧……
+Pekala...
+
+# ~30c77ae0
+; 终于见到你了，逐梦者大人。
+Sonunda seni buldum, Morphean Parakods
+
+# ~e0638bfd
+; 我每天都在这里等待着你，思念着你，对着天空祈愿你的平安。
+Her gün burada seni bekledim, seni düşündüm, <br>
+açık gökyüzü altında güvende olman için dua ettim.
+
+# ~e6b77c8d
+; 而现在，你终于出现在了我的面前。对我来说，这简直就像梦境一样。
+Ve şimdi, sonunda karşımdasın. Benim için bu, bir rüyanın gerçek olması gibi.
+
+# ~35747195
+; 你真的……就在我的面前吗？
+Gerçekten... karşımda mı duruyorsun?
+
+# ~df0cc77f
+; 嗯，我们回家吧，公主大人。
+Evet, hadi eve geri dönelim, Prenses.
+
+# ~111347d8
+; 好无聊的游戏，好奇怪的设定，好老套的台词……
+Ne sıkıcı bir oyun, garip bir konu, klişe replikler...
+
+# ~28ede4dd
+; （跪下身，轻吻莉莉丝的手）
+(Eğilir ve Lilith'in elini öper)
+
+# 21611
+; ……！
+...!
+
+# ~2aad6f54
+; 嗯，谢谢你，逐梦者大人。
+Teşekkür ederim, Morphean Paradoks.
+
+# ~d8bba4ac
+; 伟大的逐梦者啊，你成功救回了公主，拯救了这个国家，
+Ah, muhteşem Morphean Paradoks'u, hem prensesi hem de krallığı kurtardın.
+
+# ~7591e778
+; 我向你表达最真挚的感激。
+Sana en derin teşekkürlerimi sunuyorum.
+
+# ~11a0bae9
+; 我要将王位传给你，你就和莉莉丝公主一起过上幸福的生活吧。
+Tahtımı sana devredeceğim. Prenses Lilith'le ebediyen mutlu yaşa.
+
+# ~de52e42d
+; 我明白了，我会成为国王，并给莉莉丝公主带来幸福。
+Anladım. Kral olacağım ve Prenses Lilith'i mutlu edeceğim.
+
+# ~9f59bcae
+; 继承王位？我不行的……
+Tahtı almak mı? Bunu kabul edememem...
+
+# ~9b8e3aa1
+; 嗯，我们要一直幸福下去！
+Evet, birlikte her zaman mutlu olacağız!
+
+# ~e118968
+; BAD END 2：从此以后，逐梦者和公主一起过上了幸福的生活……
+KÖTÜ SON 2: O günden sonra, Morphean Paradoks'u ve Prenses sonsuza dek mutlu yaşadılar...
+
+# ~5bd54d44
+; 我根本不想面对这些事情，我只想和莉莉丝在一起……
+Tüm bu sorumluluğu kaldıramam. Sadece Lilith'le birlikte olmak istiyorum...
+
+# ~212811e7
+; 所以，还是让莉莉丝来继承王位吧。
+Bu yüzden tahtı Lilith'in devralmasına izin ver.
+
+# ~746530cf
+; 我继承王位的话，你想做什么？
+Eğer tahtı ben devralırsam, sen ne yapacaksın?
+
+# ~5c1c71b8
+; 想成为莉莉丝的伙伴。
+Lilith'in yoldaşı olmak istiyorum.
+
+# ~3b38fe06
+; 想成为公主的骑士。
+Prensesin şövalyesi olmak istiyorum.
+
+# ~2f19a86d
+; 想成为主人的沙发。
+Prensesin koltuğu olmak istiyorum.
+
+# ~4ab1b2fd
+; 嗯，我明白了。
+Anladım.
+
+# ~63911a1c
+; 这样的感觉，或许也不错呢……
+Bu o kadar da kötü olmayabilir...
+
+# ~d66aa0b8
+; BAD END 3：从此以后，莉莉丝和伙伴过上了快乐的生活……
+KÖTÜ SON 3:  <br>
+O günden sonra, Lilith ve yoldaşı neşeli bir hayat yaşadılar...
+
+# ~78ffe0e4
+; BAD END 4：从此以后，在公主和骑士的努力下，王国长治久安。
+KÖTÜ SON 4:  <br>
+O günden sonra, Prenses ve şövalyesinin çabalarıyla krallık refaha kavuştu..
+
+# ~4ae5f80c
+; BAD END 5：从此以后，莉莉丝得到了一把舒适的沙发。
+KÖTÜ SON 5:  <br>
+O günden sonra, Lilith çok rahat bir koltuğa sahip oldu.
+
+# ~ef491970
+; 怎么样怎么样？是不是超棒的大冒险？
+Ne düşünüyorsun? Şimdiye kadar ki en iyi macera, değil mi?
+
+# ~938a9124
+; 非常有趣，第一次玩到这种游戏。
+Gerçekten ilginç. Daha önce hiç böyle bir şey oynamamıştım.
+
+# ~cc6511ca
+; 还行吧，希望可攻略对象能再丰富一点。
+Fena değil. Daha fazla romantizm seçeneği olabilirdi.
+
+# ~f4ba6d16
+; 嗯，嗯！
+Hımm, hımm!
+
+# ~833794af
+; 唔……
+Aaa......
+
+# ~ba652a4b
+; 算啦。
+Unut gitsin.
+
+# ~5a423572
+; 「不/存在的逐梦者：银葱之森」还没有设计完成，可以期待一下它的完整版哦。
+Morphean Kodeks: Gümüş Arpacık Ormanı" hala yapım aşamasında, o yüzden tam versiyonu beklemeye devam et!
+
+# ~d6734668
+; 希望我们可以再一起经历那些新奇而又令人激动的冒险故事。
+Umarım birlikte daha heyecan verici maceralar yaşayabiliriz.
+
+# ~3f6931ab
+; 莉莉丝以后会为你做出更棒的游戏！让你能体验到幸福的感觉。
+Lilith bir sonraki sefer senin için çok daha iyi bir oyun yaratacak,<br>
+böylece gerçek mutluluğu deneyimleyebileceksin.
+
+# ~a16332d7
+; 不是只有在游戏中才能体验到这些。
+Sadece oyunlar değil.
+
+# ~95e92b17
+; 你陪伴我的每一天，我都非常满意和充实。
+Seninle geçirdiğim her gün tatmin edici ve anlamlı.
+
+# ~53e651ca
+; 莉莉丝，只要有你，我觉得我能重新喜欢上这个世界。
+Lilith, benle olduğun sürece, sanırım dünyaya tekrar aşık olabilirim.
+
+# ~e2d9212a
+; 真的吗……？
+Gerçekten mi...?
+
+# ~d6a2fdfd
+; 世界什么的管他呢，只要有莉莉丝就可以了！
+Dünyanın bir önemi yok, yeter ki Lilith yanımda olsun!
+
+# ~3492ad32
+; 莉莉丝依偎在你的身旁，你们一起度过了一段幸福的时光……
+Lilith senin yanına sokulur ve ikiniz bir anlık mutluluğu paylaşırsınız...
+
+# ~69736836
+; 这个游戏……很无聊吗？
+Oyun... sıkıcı mı?
+
+# ~f67f1874
+; 没错，简直太无聊了。
+Evet, dümdüz sıkıcı.
+
+# ~436e277
+; 不，我开玩笑的。
+Hayır, şaka yapıyorum.
+
+# ~f3937cf4
+; 我们回家吧，公主大人。
+Hadi eve gidelim, Prenses.
+
+# 217221
+; ……
+...
+
+# ~91b3e50b
+; 嗯，好呀。
+Mm, tamam.
+
+# ~45c9588
+; 一路上的展开都莫名其妙，如果到最后都还没有什么转折，那明显是烂作中的烂作。
+Hikaye o kadar rastgele ki.<br>
+Eğer sonunda bir ters köşe yoksa, bu oyun bir felaket olur.
+
+# ~4bc159bf
+; 那……我该怎么做才比较好？
+O zaman... daha iyi olması için ne yapmam gerek?
+
+# ~907bfb93
+; 比如说，准备救的公主其实是坏人，这种最低限度的转折总得有吧？
+Mesela, kurtardığın Prenses'in aslında gerçek kötü adam olması.<br>
+Bu, twist'in en basit hali değil mi?
+
+# 217231
+; ……
+...
+
+# ~efd51b44
+; 果然中计了，哈……哈，哈哈！
+Ah, buna kandın! Ha... ha, haha!
+
+# ~62e77147
+; 没错，这正是我的计划！我才是……魔王……！
+Evet, başından beri planım buydu! Aslında ben... gerçek Şeytan Kral'ım...!
+
+# ~2aa3aac2
+; 逐梦者，费尽心思把你引诱到这里来，就是为了杀掉你……你中了我的圈套。
+Morphean Paradoks'u, seni buraya çekmek için harcadığım tüm çaba sadece seni öldürmek içindi... tuzağımın ortasına düştün.
+
+# ~cda635dd
+; 「<ruby="驱逐">逐</ruby>梦之路」，可没有那么简单！
+ <ruby="Sürgün">Morphean Paradoks'un</ruby>" yolu düşündüğün kadar basit değil!
+
+# ~4bcd48e6
+; 魔王！看来只能在这里击败你了！
+Şeytan Kral! Görünüşe göre tek seçenek seni burada yenmek!
+
+# ~cdd946a2
+; 对不起对不起对不起对不起对不起，我不知道为什么自己刚才会说出那些话，请你原谅我……
+Üzgünüm, üzgünüm, üzgünüm, <br>
+daha önce neden öyle söylediğimi bilmiyorum, lütfen beni affet...
+
+# ~bc40c1fa
+; BAD END 6：逐梦者识破了魔王莉莉丝的阴谋，消灭了公主，成功拯救了世界……
+KÖTÜ SON 6:  <br>
+Morphean Paradoks'u, Şeytan Kral Lilith'in planını ortaya çıkardı, Prenses'i yendi ve dünyayı başarıyla kurtardı...
+
+# 217421
+; ……
+......
+
+# ~e2274523
+; ……这可不像逐梦者会说的话啊。
+...Bu, Morphean Paradoksu'nun söyleyeceği bir şey gibi durmuyor.
+
+# ~90251e4
+; 对不起，对不起，我真的不知道我刚才到底在想什么，对不起。
+Özür dilerim, özür dilerim, daha önce ne düşündüğümü gerçekten bilmiyorum, üzgünüm.
+
+# ~4555ce58
+; 我好过分，明明你这么努力地做出了这个游戏，我却说这样恶毒的话。
+Çok kabaydım. Bu oyunu yapmak için çok fazla uğraştın ve ben çok zalimce şeyler söyledim.
+
+# ~fe9a2a2a
+; 请不要自责，毕竟这是为了让你开心才做的游戏呀。
+Kendini suçlama. Sonuç olarak, bu oyun sen mutlu ol diye yapıldı.
+
+# ~a516b1e3
+; 啊，但现在的莉莉丝已经是魔王了。
+Ah ama Lilith çoktan Şeytan Kral oldu bile.
+
+# ~dec1e3b1
+; 不过，如果是逐梦者大人的话，一定能拯救迷途的心灵吧？
+Ama, Morphean Paradoks söz konusuysa, kaybolmuş bir ruhu mutlaka kurtarabilirsin, değil mi?
+
+# ~9c55ad5e
+; 我明白了……
+Şimdi anlıyorum...
+
+# ~59d0c537
+; 谢谢你……
+Teşekkür ederim...
+
+# ~d9adbdd5
+; 你愿意重新成为善良的公主吗？
+Tekrar o nazik Prenses olmak ister misin?
+
+# ~b4dfeb80
+; 嗯，我愿意哦。
+Mm, memnuniyetle.
+
+# ~b845aad3
+; ……抱太紧了啦。
+...Ama biraz fazla sıkı.
+
+# ~47c769f1
+; BAD END 7：逐梦者成功劝说公主改邪归正，二人一起过上了快乐幸福的生活。
+KÖTÜ SON 7: <br>
+Morphean Paradoks'u, Prenses'i doğru yola geri dönmeye ikna etti ve ikisi birlikte mutlu ve dolu dolu bir hayat sürdüler.

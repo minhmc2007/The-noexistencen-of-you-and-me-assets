@@ -1,0 +1,151 @@
+; Chinese (S) <zh-CN> to French <fr> localization document for `FakeED` managed text document
+
+; 「存在」
+「存在」: "Existence"
+
+; <style=Custom1>CAST</style>
+CAST: <style=Custom1>STAFF</style>
+
+; END
+END: FIN
+
+; <style=Custom1>STAFF</style>
+STAFF: <style=Custom1>STAFF</style>
+
+; 书桌
+书桌: Bureau
+
+; 低筋面粉
+低筋面粉: Farine à gâteau
+
+; 你
+你: Toi
+
+; <style=Custom2>制作人</style>
+制作人: <style=Custom2>Producteur</style>
+
+; <style=Custom2>动作指导</style>
+动作指导: <style=Custom2>Direction des mouvements</style>
+
+; <style=Custom2>化妆设计</style>
+化妆设计: <style=Custom2>Maquilleur</style>
+
+; 发带
+发带: Ruban pour cheveux
+
+; 地板
+地板: Sol
+
+; 墙壁
+墙壁: Mur
+
+; 夏特露
+夏特露: Sartre
+
+; 夏特露酱
+夏特露酱: Sartre
+
+; 学者
+学者: Savant
+
+; <style=Custom2>导演</style>
+导演: <style=Custom2>Directeur</style>
+
+; 弗子
+弗子: Fouco
+
+; 收音机
+收音机: Radio
+
+; <style=Custom2>替补演员</style>
+替补演员: <style=Custom2>Acteur remplaçant</style>
+
+; <style=Custom2>服装设计</style>
+服装设计: <style=Custom2>Créateur de costumes</style>
+
+; 枕头
+枕头: Oreiller
+
+; 椅子
+椅子: Chaise
+
+; 沥水架
+沥水架: Égouttoir à vaisselle
+
+; <style=Custom2>灯光操作</style>
+灯光操作: <style=Custom2>Opérateur lumières</style>
+
+; <style=Custom2>灯光设计</style>
+灯光设计: <style=Custom2>Concepteur d'éclairage</style>
+
+; 烤箱
+烤箱: Four
+
+; 牛奶
+牛奶: Lait
+
+; 神秘少女
+神秘少女: Fille mystérieuse
+
+; 窗户
+窗户: Fenêtre
+
+; 粉色药丸
+粉色药丸: Pilule rose
+
+; 细砂糖
+细砂糖: Sucre
+
+; 绿色药丸
+绿色药丸: Pilule verte
+
+; <style=Custom2>编剧</style>
+编剧: <style=Custom2>Scénariste</style>
+
+; <style=Custom2>舞台设计</style>
+舞台设计: <style=Custom2>Scénographe</style>
+
+; 莉莉丝
+莉莉丝: Lilith
+
+; 莉莉丝公主
+莉莉丝公主: Princesse Lilith
+
+; 蛋糕
+蛋糕: Gâteau
+
+; 逐梦之典
+逐梦之典: Codex Morphean
+
+; <style=Custom2>道具师</style>
+道具师: <style=Custom2>Accessoiriste</style>
+
+; 那个人
+那个人: Étranger
+
+; 镜子
+镜子: Miroir
+
+; <style=Custom2>音响操作</style>
+音响操作: <style=Custom2>Opérateur sonore</style>
+
+; <style=Custom2>音响设计</style>
+音响设计: <style=Custom2>Concepteur sonore</style>
+
+; 食用油
+食用油: Huile de cuisson
+
+; 饰
+饰: Décoration
+
+; 魔王
+魔王: Roi démon
+
+; 魔王莉莉丝
+魔王莉莉丝: Seigneur démon Lilith
+
+; 黄色药丸
+黄色药丸: Pilule jaune
+
+; 黑色笔记本
+黑色笔记本: Carnet noir

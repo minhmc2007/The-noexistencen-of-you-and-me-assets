@@ -1,0 +1,54 @@
+; Chinese (S) <zh-CN> to Turkish <tr> localization document for `BacklogFakeUI` managed text document
+
+; 说话人1
+Author1: Konuşmacı 1
+
+; 说话人2
+Author2: Konuşmacı 2
+
+; Player
+Author3: Player
+
+Author4: 
+
+; 莉莉丝
+Author5: Lilith
+
+; [Palyer]，我们接下来要外出一段时间，你要照顾好自己。
+message1: [Oyuncu], bir süreliğine uzakta olacağız. Kendine iyi bak, tamam mı?
+
+; 我的力量不足以继续封印四大天王，所以不得已才找到转世的您，请您祝我一臂之力。
+message10: Gücüm artık Dört İlahi Kralı mühürlü tutmaya yetmiyor
+
+; 我想起来了，我们之间的回忆与羁绊，我全都想起来了。
+message11: Şimdi hatırladım! Anılarımız ve bağlarımız... Her şeyi hatırlıyorum!
+
+; 呐，莉莉丝酱，我们再一次拯救这个世界吧！
+message12: Lilith-chan, dünyayı bir kez daha birlikte kurtaralım!
+
+; 嗯，真是太好了呢，[Player]大人！
+message13: Bu harika, [Oyuncu]-sama!
+
+; 对了，有个女孩子要来我们家住一段时间，要和人家好好相处哦。
+message2: Ha bu arada, bizimle bir süreliğine kalmaya gelen bir kız da var
+
+; 会是什么样的女孩子呢？好期待啊！
+message3: Acaba nasıl bir kız? Çok heyecanlandım!
+
+; 2小时后
+message4: 2 SAAT SONRA
+
+; 你好，我叫莉莉丝。打扰了，请问这里是[Player]的家吗？
+message5: Merhaba, adım Lilith. Sizi rahatsız ettiğim için özür dilerim ama burası [Oyuncu]'nun evi mi?",
+
+; 是的，就是这里。
+message6: Evet, tam olarak burası.
+
+; 唔……看到你的时候，好像有种似曾相识的感觉。
+message7: Hımm...sana bakınca sanki seni daha önce bir yerde görmüşüm gibi hissediyorum.
+
+; 没错，快取回前世的记忆吧，[Player]大人！
+message8: Haklısın! Önceki hayatındaki anılarını geri getirmenin vakti geldi,
+
+; 在前世，当我还是神赐樱花轮回巫女的时候，曾协助您对抗过黑暗旋涡四大天王。
+message9: Önceki hayatında, İlahi Dirilişin Sakura Kızı olduğum zaman,

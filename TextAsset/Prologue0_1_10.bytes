@@ -1,0 +1,521 @@
+; Chinese (S) <zh-CN> to English <en> localization document for `Prologue0_1` naninovel script
+
+# ~43338c60
+; 第█章：初遇
+Chapter █: The First Encounter
+
+# ~5898bf9e
+; 在那个<ruby="上午">下午</ruby>，莉莉丝出现了。
+On that <ruby="morning">afternoon</ruby>, Lilith appeared.
+
+# ~a5b4d33a
+; 躺在床上的我，已经分不清睡了多久，也不再记得上一次进食是什么时候。
+I'm lying on the bed, lost in a blur of time—I don't know how long I've been asleep, <br>
+and I can't even remember the last time I ate.
+
+# ~e0424bd2
+; 我唯一要做的，就是在这里死去，然后等待我的身体腐烂。
+The only thing left for me to do is to die here… and wait for my body to decay.
+
+# ~4acc86a7
+; 就在这时，她出现在了窗边。
+And then…… she showed up by the window.
+
+# ~3ea899f
+; ……;; @wait 2
+……
+
+# ~4d077d75
+; <i>「她没有说什么，只是侧头看着你，仿佛你是她房间里的某样物品。」</i>;; 这个背景音乐适配性很好
+<i>"She said nothing, just tilted her head and looked at you— <br>
+like you were just another object in her room."</i>
+
+# ~1607ac36
+; <i>「当然，你才是这个房间真正的主人」</i>
+<i>"Of course, you are the real master of this room."</i>
+
+# ~f49e57de
+; <i>「你很久没和人说过话了。所以你得想好一阵，才能领悟到该如何开口。」</i>
+<i>"You haven't spoken to anyone in a long time. <br>
+So, it takes you a moment to realize how to even start."</i>
+
+# ~af3216ff
+; 我是谁……
+Who am I……
+
+# ~fb7c1b9a
+; 我在哪里……
+Where am I……
+
+# ~1ea571f2
+; 我该做什么……
+What should I……
+
+# ~31f07f91
+; 我刚刚，是成功说出话了？
+Did I just manage to speak?
+
+# ~6c459d7b
+; 还是说，在这个游戏里，用鼠标点击选项的行为没有任何意义？
+Or is it that choices in this game are meaningless?
+
+# ~e24292b5
+; <i>「沉默。沉默过后仍然是沉默，但沉默总是要被打破的。」</i>
+<i>"Silence. Even after silence comes more silence, but silence is always destined to be broken."</i>
+
+# ~3438c72b
+; 嗯，我听见了。
+I see. I heard it.
+
+# ~ee3746b3
+; 你是这个游戏的主角，正在你的房间里，准备攻略美少女。
+You are the protagonist of this game, sitting in your room, ready to pursue the path to win over a beautiful girl.
+
+# ~3542ec66
+; 那你呢？
+And what about you?
+
+# ~e9fd6685
+; 你是一张贴图吗？
+Are you just a texture on the screen?
+
+# ~cfcda5e7
+; 你是我的妄想症产物吗？
+Are you a figment of my imagination?
+
+# ~12d94ef3
+; 你是和我邂逅的美少女吗？
+Are you the beautiful maiden I've encountered?
+
+# ~59857444
+; 你是真想知道，还是因为选项框里只有关于我的选项？
+Do you truly want to know, or is it simply because the only option you can choose is 'me'?
+
+# ~9d2deef4
+; <i>「下一秒，她从你的视线里消失了。」</i>
+<i>"In the next moment, she vanished from your sight."</i>
+
+# ~f63735ec
+; <i>「然后，她又出现了。这次你们之间的距离更近。」</i>
+<i>"Then, she emerged again, this time closer than before."</i>
+
+# ~cb957c85
+; <i>「你理解了这个行为。也就是说，她刚才朝你走了过来。」</i>
+<i>"You realized what she did—it meant she had just stepped closer to you."</i>
+
+# ~4383be19
+; <i>「……还是说，是你朝着她走了过去？」</i>
+<i>"……Or did you walk towards her instead?"</i>
+
+# ~c5ba2045
+; <i>「红色的光，那是她的眼睛，她用眼睛注视着我——这是此刻你的想法。」</i>
+<i>"A crimson glow—her eyes. They pierce through me, unblinking—this thought lingers in your mind, yet feels like it belongs to someone else."</i>
+
+# ~71eaec3d
+; 等等，这些嘈杂的声音是什么？
+Wait, what are these chaotic noises?
+
+# ~50ae902b
+; <i>「您问我们吗？我们是您房间中的家具。」</i>
+<i>"Are you asking us? We are the furniture in your chamber."</i>
+
+# ~44902ea8
+; <i>「您过去花了很长的时间和「我们」对话，所以我们对您的一切都非常熟悉。」</i>
+<i>"You've spent a long time talking to 'us', <br>
+so we've become very familiar with everything about you, dear friend."</i>
+
+# ~66b2e167
+; <i>「总之，你可以把我们理解成你的「感官」。」</i>
+<i>"In short, you can think of us as your 'senses', honored one."</i>
+
+# ~87d6cc89
+; 得了吧，你们只是物品，物品也配被叫做「感官」吗？
+Come on, you're just objects. Do objects really deserve to be called "senses"?
+
+# ~d7243eb5
+; 噢噢！好久不见，我最忠实的臣子们。
+Ah, my most loyal subjects! It has been far too long, hasn't it?
+
+# ~1c4a8a02
+; <i>「好久不见，陛下，您还是一如既往地有精神。」</i>
+<i>"It has been a long time, Your Majesty. You remain as dignified and full of spirit as ever."</i>
+
+# 11
+; ……
+……
+
+# ~8d8700e8
+; 被人盯着的感觉如何？
+What's it like to have someone's eyes fixed upon you?
+
+# ~b256bee4
+; 太棒了，我可以像这样被你一直注视下去。
+Wonderful. I could stay like this, with your gaze upon me, forever.
+
+# ~e375b400
+; 你戴了美瞳吗？为什么只有你的眼睛有颜色？
+Are you wearing coloured contacts? Why is it that only your eyes have colour?
+
+# ~d643bf51
+; 你盯得我心里发毛，我讨厌这种感觉。
+You're staring at me so hard it's making my skin crawl. I hate this feeling.
+
+# ~5a3d4a4
+; 嗯，那我们就这样一直注视着对方，直到死掉为止吧。
+Hmm, then let's keep staring at each other like this, until we both die.
+
+# ~8eec13a8
+; 我们真的会「死」吗？
+Are we really going to 'die'?
+
+# ~eda68ca5
+; 感觉有点腻了……
+I'm starting to feel a bit tired of this……
+
+# ~1447203
+; 当然……;; scale:1.25 pos:52,45 wait:false time:1
+Of course……
+
+# 012a
+; ……
+……
+
+# ~ab7d5c62
+; 这样的话可是很毁气氛的哦。
+That's not very atmospheric of you, you know.
+
+# ~8ccbb618
+; 算啦，就当是你在夸奖我的眼睛好看吧~
+Oh well, I'll take it as a compliment about how nice my eyes look~
+
+# ~40a0784f
+; <i>「她没有回应，继续注视着你。」</i>
+<i>"She doesn't respond, continuing to stare at you."</i>
+
+# ~65b82a13
+; <i>「那样的目光简直就像一根柔软的刺，仿佛能将你的心看穿。」</i>
+<i>"That gaze feels like a soft thorn, as if it could pierce straight through your heart."</i>
+
+# ~fd5a5b06
+; 那么，你觉得我是真实存在的吗？
+"So, tell me—do you believe I truly exist?"
+
+# ~216de7ef
+; <i>「那么，你觉得她是真实存在的吗？」</i>;; @back CG_2_6 wait:false time:0.7
+<i>"Then, do you think she really exists?"</i>
+
+# ~3411672a
+; 我不确定，我想和你一起寻找这个问题的答案。
+I'm not sure. I want to figure out the answer to that question with you.
+
+# ~c61a0fbf
+; 我得到了一个拥抱？
+Did I just get a hug?
+
+# ~7181759d
+; 它是一个「仪式」。为了能让你感受到我，而进行的仪式……
+It's a kind of ritual. A ritual intended to make you feel my presence...
+
+# ~525f3ccc
+; 没错，这个行为可以恰如其分地被称做「拥抱」。
+Yes, this gesture could indeed be called a 'hug'.
+
+# ~bef73055
+; 所以，此刻的你是什么感觉？
+So, what are you feeling right now?
+
+# ~a053ca47
+; 一张崭新的A4纸，拿出来的时候划破了手。
+A brand-new sheet of A4 paper, slicing your finger as you pull it out.
+
+# ~92b94788
+; 柔软的猫毛飘到了手掌心。
+The softness of a cat's fur brushing against your palm.
+
+# ~a60ee00a
+; 空气里掺入粉笔屑和灰尘，被吸进鼻腔。
+Chalk dust and debris mixing into the air, drawn into your nostrils.
+
+# ~d59d6f17
+; 听你的描述，这像是「触感」。
+From your description, that sounds like "touch".
+
+# ~43040619
+; 也就是说，只有一些细微的感觉？
+So, just faint sensations, then?
+
+# ~4ca079d5
+; 嗯……
+Hmm……
+
+# ~30b14c54
+; 现在我抱得更紧了。这样一来，我们就离得更近了。
+Now, I hold you tighter, bringing us even closer.
+
+# ~95db75ea
+; 所以，被紧紧「拥抱」着的你，是什么感觉？
+So, what does it feel like to be held in a tight embrace?
+
+# ~8646eaa7
+; 沾湿的塑料袋掉在雨天的地上。
+A wet plastic bag dropped on a rainy day.
+
+# ~11cfc5f8
+; 第一株新芽从泥土中破壳而出。
+The first sprout breaking through the soil.
+
+# ~cd911133
+; 食物残渣在胃液里消化。
+Food scraps dissolving in stomach acid.
+
+# ~5126747d
+; 太好了，感觉变得更加强烈了呢……
+Amazing, the sensations are becoming even stronger……
+
+# ~51b0a5f3
+; 现在我抱得更紧了。这样一来，我们就合二为一了。
+Now I'm holding you even tighter. This way, we're becoming one.
+
+# ~a1422ff6
+; 所以，被深深「拥抱」着的你，是什么感觉？
+So, what does it feel like to be deeply "embraced"?
+
+# ~abe5d0b2
+; 没什么特别的感觉。
+Nothing special.
+
+# ~2767a1c
+; 我重获新生了！
+I've been reborn!
+
+# ~6eef6418
+; 我快不能呼吸了……
+I can't breathe anymore……
+
+# ~8840d2c2
+; 救命！救命！
+Help! Help!
+
+# ~76f55adc
+; 我简直好得不能再好……
+I've never felt better……
+
+# ~e505d1a7
+; 嘿嘿……嘿嘿……
+Heh heh…… heh heh……
+
+# ~4691e88a
+; 面对行刑队的时候，奥雷里亚诺上校会想起那个父亲带他看冰块的下午。
+When facing the firing squad, Colonel Aureliano Buendía would recall the afternoon when his father took him to see the ice.
+
+# ~3b556567
+; 世界是我的表象，这样的考察虽然具有片面性，但却不失为真理。
+The world is my representation; such an observation, though partial, is not without truth.
+
+# ~cfbae466
+; 启蒙运动就是人类脱离自己所加之于自己的不成熟状态。
+The Enlightenment is mankind's emergence from its self-imposed immaturity.
+
+# ~7a9d2dff
+; 柯西莫在树上。树枝向外伸展，凌空架起一道高高的桥梁。
+Cosimo lived in the trees. The branches stretched outward, forming a lofty bridge suspended in mid-air.
+
+# ~21441692
+; 存在者存在，非存在者不存在。
+What exists exists; what does not exist does not exist.
+
+# ~8693ba46
+; 四月十六日早晨，里厄医生从他的诊所走出来时，在楼梯口踢到一只死老鼠。
+On the morning of April 16th, Dr. Rieux stepped out of his clinic and kicked against a dead rat at the bottom of the stairs.
+
+# ~75de281
+; 人创造了万物的尺度和目的。尽管如此，这创造也必将朽坏。
+Man is the measure of all things, determining what exists and what does not. Yet even this creation is destined to decay.
+
+# ~9e93ea93
+; 爱丽丝紧紧地追赶兔子，刚好看见兔子跳进了矮树下面的一个大洞。
+Alice ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.
+
+# ~88381a52
+; 他好像这样一个人，被剥掉了皮肤，进入猛烈的狂风暴雨中搏斗。
+He seemed like a man stripped of his skin, plunging into a violent storm to battle against the elements.
+
+# ~466a156b
+; 准是有人诬陷了K，因为在一个晴朗的早晨，他无缘无故地被捕了。
+Someone must have slandered Josef K., for one clear morning, he was arrested without reason.
+
+# ~c0cd88d7
+; 我爱你。
+I love you.
+
+# ~28da87a2
+; 我讨厌你。
+I hate you.
+
+# ~23ea2be4
+; 很好！「仪式」成功了。
+Perfect! The "ritual" was a success.
+
+# ~2466250a
+; 我感动得都快要哭出来了呢……
+I'm so moved I could almost cry……
+
+# ~f832fad2
+; 总之，我叫莉莉丝。很高兴能见到你！
+Anyway, my name is Lilith. It's a pleasure to meet you!
+
+# ~fe625f1b
+; 无论多少次，我都会接纳你的存在。
+No matter how many times it happens, I'll always embrace your existence.
+
+# ~b1c775b5
+; 哎……？
+Huh……?
+
+# ~5d0d725e
+; 我们又见面了，莉莉丝。
+We meet again, Lilith.
+
+# ~e94e339f
+; （抱住莉莉丝）
+(Hugs Lilith)
+
+# ~7eb0fd5c
+; 太好了……太好了！
+Ah… thank goodness…… thank goodness!
+
+# ~9a2a0c6e
+; 既然这样的话，我们就跳过那些复杂的流程，赶紧出去约会吧。
+Since that's the case, let's skip all the complicated formalities and just go on a date already.
+
+# ~c1e7cacf
+; 还有很多事情没做呢，我们要一起散步、逛街、购物、玩耍、旅行……
+There are so many things left for us to do—walking, shopping, playing, traveling……
+
+# ~d20e83c4
+; 一起走在有很多落叶的秋天小径上，一起在冬天的便利店里吃关东煮，在夏天分享同一个西瓜，在春天的花海里拍下合照……
+Strolling down autumn paths blanketed with fallen leaves, eating oden together at a convenience store in winter, sharing a single watermelon in the heat of summer, and taking photos amidst a sea of springtime flowers……
+
+# ~ea83e83f
+; 去水族馆看彩色热带鱼吐泡泡，在电影院里欣赏到足以改变人生的佳作，在雨天躲进陈列着奇幻摆件的杂货铺，或者窝在家里吃着外卖打一整天游戏也可以！
+Watching tropical fish blow bubbles at the aquarium, experiencing a life-changing masterpiece at the cinema, hiding away in a quirky little shop filled with fantastical trinkets during a rainy day, or just staying home eating takeout and gaming all day—any of these would be wonderful!
+
+# ~e4fb3dfb
+; 当然了，这些或许都不是「最重要的」，重要的是……
+Of course, none of that might be the "most important thing." What matters is…
+
+# ~496fa58e
+; 你能够尽情地做自己喜欢的事情。
+That you're able to do what you love without restraint.
+
+# ~d42f2774
+; 你能够幸福地回应这个世界……
+That you can happily respond to this world……
+
+# ~990dafb0
+; 嗯，我们走吧。
+Well then, let's go.
+
+# ~5cce7e99
+; 走吧！
+Let's go!
+
+# ~2c31676c
+; 你都已经把行程排到明年了啊。
+You've already planned out the schedule for the next year, haven't you?
+
+# ~a59828d6
+; 哼哼，我可是超有行动力的！
+Hah, I'm very proactive, you know!
+
+# ~e7665f97
+; 莉莉丝挽过了我的手。
+Lilith took my hand.
+
+# ~3ef907b2
+; 理所当然地，我们一起朝着门外的世界走去——
+And naturally, we walked together toward the world beyond the door——
+
+# ~42f181e4
+; END
+END
+
+# ~7227486a
+; 你以为，重新进入游戏后，我的想法会改变么？
+Did you think my thoughts would change if we restarted the game?
+
+# ~4b3d2846
+; 很可惜，这是不可能的，莉莉丝。
+Too bad, that's impossible, Lilith.
+
+# ~4e5696b5
+; （掐住她的脖子）
+(Grabs her by the throat)
+
+# ~e2a0ac01
+; 唔……呃……！
+Ugh…… ah……!
+
+# ~af714d98
+; 我不相信你的存在。
+I don't believe in your existence.
+
+# ~11d15741
+; 我不相信善意的存在。
+I don't believe in the existence of kindness.
+
+# ~bd3728b3
+; 我不相信无条件的爱能够存在。
+I don't believe in the existence of unconditional love.
+
+# 111
+; ……
+……
+
+# ~118a4ef7
+; 所以，你再怎么证明都是没用的。
+So, no matter how much proof you offer, it's useless.
+
+# ~8f88c7a3
+; 你的笑容简直像恶魔一样，令人害怕。
+Your smile is downright demonic. It terrifies me.
+
+# ~3d57c5a9
+; 不要再出现了，你像个幽灵一样阴魂不散……
+Stop appearing in front of me. You're like a ghost that refuses to leave……
+
+# ~23aa6398
+; （加大力度）
+(Tightens grip)
+
+# 112
+; ……
+……
+
+# ~49dcf56b
+; 等我反应过来的时候，她已经消失了。
+By the time I came to my senses, she was already gone.
+
+# ~c5891426
+; 仿佛刚刚我所经历的一切都只是午后错乱的梦境。
+As if everything I just experienced was nothing more than a delirious afternoon dream.
+
+# ~46e7c589
+; 梦境？
+A dream?
+
+# ~4c03fed2
+; ……我刚才在做什么来着？
+……What was I doing just now?
+
+# ~a6fa845d
+; 我想起了什么？我又遗忘了什么？
+What did I remember? What did I forget?
+
+# ~6c5a2b0e
+; 在一阵徒劳的思索后，我环视着周围。
+After a moment of futile thought, I looked around the room.
+
+# ~cd15c8c4
+; ——这里是我的房间，我将继续成为统治这里的孤独国王。
+—This is my room, where I will continue to reign as the lonely king of this desolate kingdom.

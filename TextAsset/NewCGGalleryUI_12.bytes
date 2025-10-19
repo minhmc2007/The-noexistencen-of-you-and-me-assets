@@ -1,0 +1,10 @@
+; Chinese (S) <zh-CN> to Japanese <ja> localization document for `NewCGGalleryUI` managed text document
+
+; 一瞬追忆<br><size=60>过去，现在，和未来</size>
+CGGallery.Title: 一瞬の追憶<br><size=60>過去、現在、未来</size>
+
+; 回忆中的瞬间
+NewCGGalleryUI.CGView: 思い出の瞬間
+
+; 回忆中的片段
+NewCGGalleryUI.MovieView: 思い出の断片

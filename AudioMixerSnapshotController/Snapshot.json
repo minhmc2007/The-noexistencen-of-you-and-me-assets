@@ -1,0 +1,89 @@
+{
+	"m_AudioMixer": { "m_Collection": "resources.assets", "m_PathID": 8310 },
+	"m_CorrespondingSourceObject": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_FloatValues": [
+		{
+			"Key": {
+				"m_Data_0_": 498201603,
+				"m_Data_1_": 1138907385,
+				"m_Data_2_": 3937425054,
+				"m_Data_3_": 986102857
+			},
+			"Value": 0
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3574965225,
+				"m_Data_1_": 1109317165,
+				"m_Data_2_": 1938050238,
+				"m_Data_3_": 824984256
+			},
+			"Value": 1
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1704722613,
+				"m_Data_1_": 1160619205,
+				"m_Data_2_": 3653730716,
+				"m_Data_3_": 889091884
+			},
+			"Value": 0
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3136536424,
+				"m_Data_1_": 1278456552,
+				"m_Data_2_": 3259030964,
+				"m_Data_3_": 1111466330
+			},
+			"Value": 1
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2592201782,
+				"m_Data_1_": 1194802411,
+				"m_Data_2_": 61704623,
+				"m_Data_3_": 650633706
+			},
+			"Value": 0
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3203285389,
+				"m_Data_1_": 1283544144,
+				"m_Data_2_": 2968678018,
+				"m_Data_3_": 2674006572
+			},
+			"Value": 1
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3069023465,
+				"m_Data_1_": 1166262260,
+				"m_Data_2_": 2343545525,
+				"m_Data_3_": 1898867717
+			},
+			"Value": 0
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3571025284,
+				"m_Data_1_": 1329229630,
+				"m_Data_2_": 4109712801,
+				"m_Data_3_": 1430325023
+			},
+			"Value": 1
+		}
+	],
+	"m_HideFlags": 0,
+	"m_Name": "Snapshot",
+	"m_PrefabAsset": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_SnapshotID": {
+		"m_Data_0_": 2214851593,
+		"m_Data_1_": 1248119285,
+		"m_Data_2_": 2306534530,
+		"m_Data_3_": 3259735123
+	},
+	"m_TransitionOverrides": []
+}

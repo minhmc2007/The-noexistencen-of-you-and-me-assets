@@ -1,0 +1,151 @@
+; Chinese (S) <zh-CN> to English <en> localization document for `FakeED` managed text document
+
+; 「存在」
+「存在」: "Exist"
+
+; <style=Custom1>CAST</style>
+CAST: <style=Custom1>CAST</style>
+
+; END
+END: END
+
+; <style=Custom1>STAFF</style>
+STAFF: <style=Custom1>STAFF</style>
+
+; 书桌
+书桌: Desk
+
+; 低筋面粉
+低筋面粉: Cake Flour
+
+; 你
+你: You
+
+; <style=Custom2>制作人</style>
+制作人: <style=Custom2>Producer</style>
+
+; <style=Custom2>动作指导</style>
+动作指导: <style=Custom2>Stunt Coordinator</style>
+
+; <style=Custom2>化妆设计</style>
+化妆设计: <style=Custom2>Makeup Artist</style>
+
+; 发带
+发带: Hair ribbon
+
+; 地板
+地板: Floor
+
+; 墙壁
+墙壁: Wall
+
+; 夏特露
+夏特露: Sartre
+
+; 夏特露酱
+夏特露酱: Sartre
+
+; 学者
+学者: Scholar
+
+; <style=Custom2>导演</style>
+导演: <style=Custom2>Director</style>
+
+; 弗子
+弗子: Fouco
+
+; 收音机
+收音机: Radio
+
+; <style=Custom2>替补演员</style>
+替补演员: <style=Custom2>Stand-in Actor</style>
+
+; <style=Custom2>服装设计</style>
+服装设计: <style=Custom2>Costume Designer</style>
+
+; 枕头
+枕头: Pillow
+
+; 椅子
+椅子: Chair
+
+; 沥水架
+沥水架: Dish Rack
+
+; <style=Custom2>灯光操作</style>
+灯光操作: <style=Custom2>Lights Operator</style>
+
+; <style=Custom2>灯光设计</style>
+灯光设计: <style=Custom2>Lighting Designer</style>
+
+; 烤箱
+烤箱: Oven
+
+; 牛奶
+牛奶: Milk
+
+; 神秘少女
+神秘少女: Mysterious Girl
+
+; 窗户
+窗户: Window
+
+; 粉色药丸
+粉色药丸: Pink Pill
+
+; 细砂糖
+细砂糖: Sugar
+
+; 绿色药丸
+绿色药丸: Green Pill
+
+; <style=Custom2>编剧</style>
+编剧: <style=Custom2>Screenwriter</style>
+
+; <style=Custom2>舞台设计</style>
+舞台设计: <style=Custom2>Stage Designer</style>
+
+; 莉莉丝
+莉莉丝: Lilith
+
+; 莉莉丝公主
+莉莉丝公主: Princess Lilith
+
+; 蛋糕
+蛋糕: Cake
+
+; 逐梦之典
+逐梦之典: Morphean Codex
+
+; <style=Custom2>道具师</style>
+道具师: <style=Custom2>Prop Master</style>
+
+; 那个人
+那个人: Stranger
+
+; 镜子
+镜子: Mirror
+
+; <style=Custom2>音响操作</style>
+音响操作: <style=Custom2>Sound Operator</style>
+
+; <style=Custom2>音响设计</style>
+音响设计: <style=Custom2>Sound Designer</style>
+
+; 食用油
+食用油: Cooking Oil
+
+; 饰
+饰: plays
+
+; 魔王
+魔王: Demon king
+
+; 魔王莉莉丝
+魔王莉莉丝: Demon Lord Lilith
+
+; 黄色药丸
+黄色药丸: Yellow Pill
+
+; 黑色笔记本
+黑色笔记本: Black Notebook

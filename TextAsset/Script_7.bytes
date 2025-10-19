@@ -1,0 +1,209 @@
+; Chinese (S) <zh-CN> to Indonesian <id> localization document for `Script` managed text document
+
+; 欢迎来到——莉莉丝的设置界面~
+G_END1_CharacterText1: Selamat Datang di Menu Pengaturan Lilith~
+
+; 是一个我完全不会去使用的功能呢。
+G_END1_CharacterText10: Itu adalah fitur yang tidak akan pernah aku gunakan~
+
+; 莉莉丝当然和你是同一个选择。
+G_END1_CharacterText11: Tentu saja Lilith sependapat dengan pilihanmu!
+
+; 还是说，是你命中注定的选择了莉莉丝的选择呢？
+G_END1_CharacterText12: Atau mungkin kamu ditakdirkan untuk memilih apa yang akan dipilih Lilith?
+
+; 你可以调配一个专属于莉莉丝的「默认」吗？
+G_END1_CharacterText13: Bisakah kamu membuat 'standar' khusus hanya untuk Lilith?
+
+; 希望你喜欢这个世界~
+G_END1_CharacterText14: Semoga kamu menyukai dunia ini~
+
+; 一个视角，一个世界。
+G_END1_CharacterText2: Satu perspektif, satu dunia.
+
+; 莉莉丝的视线所及之处尽是世界~
+G_END1_CharacterText3: Ke mana pun pandangan Lilith tertuju, dunia pun mekar~
+
+; 我不需要它哦，我完全理解……
+G_END1_CharacterText4: Oh, aku tidak butuh itu, aku mengerti sepenuhnya...
+
+; 保留些许的氛围……
+G_END1_CharacterText5: Ayo kita jaga sedikit suasananya...
+
+; 再偷偷地加入一点点色彩~
+G_END1_CharacterText6: Diam-diam menambahkan percikan warna
+
+; 只想聆听你的声音……
+G_END1_CharacterText7: Hanya ingin mendengar suaramu…
+
+; 我可不希望世界回到原初的模样呢。
+G_END1_CharacterText8: Kalau bisa aku tidak ingin melihat dunia kembali seperti semula!
+
+; 保留我对世界的一些点缀……
+G_END1_CharacterText9: Menjaga sentuhan kecilku di dunia ini...
+
+; 在这里调整我们的世界~
+G_END1_PlayerText1: Yuk atur dunia kita~
+
+; 会听不到莉莉丝的声音哦~ 
+G_END1_PlayerText10: Nanti kamu tidak akan mendengar suara Lilith~
+
+; 魔法少女莉莉丝可是无所不能的！ 
+G_END1_PlayerText11: Gadis Penyihir Lilith bisa melakukan apa saja!
+
+; 你希望世界以何种符号呈现在你的面前呢？ 
+G_END1_PlayerText12: Simbol apa yang ingin dunia tampilkan kepadamu?
+
+; 想听一听我的建议吗？ 
+G_END1_PlayerText13: Ingin mendengar saranku?
+
+; 希望你喜欢这个世界~ 
+G_END1_PlayerText14: Semoga kamu menyukai dunia ini~
+
+; 一个视角，一个世界 
+G_END1_PlayerText2: Satu perspektif, satu dunia.
+
+; 你希望世界以何种形式呈现在你的面前呢？ 
+G_END1_PlayerText3: Dengan wujud seperti apa kamu ingin dunia memperlihatkan dirinya kepadamu?
+
+; 你希望我说话快一点或慢一点吗？没问题的哦~ 
+G_END1_PlayerText4: Ingin aku berbicara lebih cepat atau lebih lambat? Tidak masalah!
+
+; 希望它不会影响到我的声音呢~ 
+G_END1_PlayerText5: Semoga ini tidak mempengaruhi suaraku~
+
+; 在这里可以调节游戏效果音的大小哦。 
+G_END1_PlayerText6: Kamu bisa menyesuaikan efek suara game di sini.
+
+; 这样的声音可以吗~ 
+G_END1_PlayerText7: Bagaimana suaranya~?
+
+; 如果「静音」也是一种背景音乐，那该如何静音「静音」呢……？ 
+G_END1_PlayerText8: Jika keheningan adalah musik, bagaimana kita membisukan keheningan...?
+
+; 就像在宇宙的中心目睹一颗星球无声地爆炸。 
+G_END1_PlayerText9: Seperti menyaksikan bintang yang meledak secara diam-diam di pusat alam semesta.
+
+; 调整游戏设置。 
+G_END2_PlayerText1: Pengaturan Game
+
+; 调整角色语音的音量为0。 
+G_END2_PlayerText10: Membuat Suara menjadi Senyap
+
+; 选择角色语音的本地化语言。 
+G_END2_PlayerText11: Pilih Bahasa Suara
+
+; 选择游戏文本的本地化语言。 
+G_END2_PlayerText12: Pilih Bahasa Teks dalam Game
+
+; 将所有设置还原为默认值。 
+G_END2_PlayerText13: Atur Ulang Semua Pengaturan
+
+; 保存并退出设置界面。 
+G_END2_PlayerText14: Simpan dan Keluar
+
+; …… 
+G_END2_PlayerText2: ...
+
+; 调整游戏显示模式。 
+G_END2_PlayerText3: Mengatur Mode Tampilan
+
+; 调整文本打印速度。 
+G_END2_PlayerText4: Mengatur Kecepatan Teks
+
+; 调整背景音乐的音量。 
+G_END2_PlayerText5: Mengatur Volume Musik
+
+; 调整游戏效果音的音量。 
+G_END2_PlayerText6: Mengatur Volume SFX
+
+; 调整角色语音的音量。 
+G_END2_PlayerText7: Mengatur Volume Suara
+
+; 调整背景音乐的音量为0。 
+G_END2_PlayerText8: Membuat Musik menjadi Senyap
+
+; 调整游戏效果音的音量为0。 
+G_END2_PlayerText9: Membuat SFX menjadi Senyap
+
+G_END3_CharacterText1: <space=1>
+
+; …… 
+G_END3_CharacterText10: ...
+
+; 我也并没有那么无所不能呢…… 
+G_END3_CharacterText11: Lagipula aku memang tidak terlalu kuat~
+
+; …… 
+G_END3_CharacterText12: ...
+
+; 仅限于这里吗…… 
+G_END3_CharacterText13: Apakah di sini batasan kita...?
+
+; 就这样…… 
+G_END3_CharacterText14: Dan begitulah...
+
+; …… 
+G_END3_CharacterText2: ……
+
+; 哪里都没有…… 
+G_END3_CharacterText3: Tidak dapat ditemukan di mana pun...
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_CharacterText4: Sepertinya tidak ada yang harus ditampilkan di sini~
+
+; 像是在调侃我一般…… 
+G_END3_CharacterText5: Hampir seperti sedang menggodaku...
+
+; 点缀什么……？ 
+G_END3_CharacterText6: Apa yang harus kuhias...?
+
+; …… 
+G_END3_CharacterText7: ...
+
+; 或许也不错…… 
+G_END3_CharacterText8: Mungkin ini tidak terlalu buruk...
+
+; 没有什么…… 
+G_END3_CharacterText9: Tidak ada apa-apa disini...
+
+G_END3_PlayerText1: <space=1>
+
+; …… 
+G_END3_PlayerText10: ...
+
+; 我也并没有那么无所不能呢…… 
+G_END3_PlayerText11: Lagipula aku memang tidak terlalu kuat~
+
+; …… 
+G_END3_PlayerText12: ...
+
+; 仅限于这里吗…… 
+G_END3_PlayerText13: Apakah di sini batasan kita...?
+
+; 就这样…… 
+G_END3_PlayerText14: Dan begitulah...
+
+; …… 
+G_END3_PlayerText2: ……
+
+; 哪里都没有…… 
+G_END3_PlayerText3: Tidak dapat ditemukan di mana pun...
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_PlayerText4: Sepertinya tidak ada yang harus ditampilkan di sini~
+
+; 像是在调侃我一般…… 
+G_END3_PlayerText5: Hampir seperti sedang menggodaku...
+
+; 点缀什么……？ 
+G_END3_PlayerText6: Apa yang harus dihias...?
+
+; …… 
+G_END3_PlayerText7: ...
+
+; 或许也不错…… 
+G_END3_PlayerText8: Mungkin ini tidak terlalu buruk...
+
+; 没有什么…… 
+G_END3_PlayerText9: Tidak ada apa-apa disini...

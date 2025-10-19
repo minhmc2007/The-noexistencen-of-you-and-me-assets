@@ -1,0 +1,91 @@
+Confirmation.No: NO
+Confirmation.Yes: YES
+ControlPanel.Load: LOAD
+ControlPanel.Log: 日志
+ControlPanel.Save: SAVE
+ControlPanel.Settings: 设置
+ControlPanel.Skip: SKIP
+ControlPanel.Tips: TIPS
+ControlPanel.Title: TITLE
+DefaultUI.Gallery: 一瞬追忆
+ExternalScriptsBrowser.Info: Select a script to play
+ExternalScriptsBrowser.Title: EXTERNAL SCRIPTS
+General.Close: CLOSE
+General.Delete: DELETE
+General.Navigate: NAV.
+General.Page: PAGE
+General.ResetDefault: 恢复默认
+General.RestoreDefault: 恢复默认
+General.Return: 返回
+General.Scroll: SCROLL
+General.Select: SELECT
+General.Tab: TAB
+Naninovel.UI.ControlPanelTitleButton.ConfirmationMessage: Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
+Naninovel.UI.GameSettingsFontDropdown.DefaultFontName: Default
+Naninovel.UI.GameSettingsFontSizeDropdown.Default: Default
+Naninovel.UI.GameSettingsFontSizeDropdown.ExtraLarge: Extra Large
+Naninovel.UI.GameSettingsFontSizeDropdown.Large: Large
+Naninovel.UI.GameSettingsFontSizeDropdown.Small: Small
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption1: Very Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption2: Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption3: Medium
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption4: High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption5: Very High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption6: Ultra
+Naninovel.UI.GameSettingsScreenModeDropdown.ExclusiveFullScreen: Full Screen
+Naninovel.UI.GameSettingsScreenModeDropdown.FullScreenWindow: Full Screen Window
+Naninovel.UI.GameSettingsScreenModeDropdown.MaximizedWindow: Maximized Window
+Naninovel.UI.GameSettingsScreenModeDropdown.Windowed: Windowed
+Naninovel.UI.GameSettingsSkipModeDropdown.Everything: Everything
+Naninovel.UI.GameSettingsSkipModeDropdown.ReadOnly: Read Only
+Naninovel.UI.GameStateSlot.EmptySlotLabel: Empty
+Naninovel.UI.SaveLoadMenu.DeleteSaveSlotMessage: Are you sure you want to delete save slot?
+Naninovel.UI.SaveLoadMenu.OverwriteSaveSlotMessage: Are you sure you want to overwrite save slot?
+QTEPanel.ScoreName: 修正值：
+QTEPanel.Text1: 你不是时光机器
+QTEPanel.Text2: 你是烤箱
+QTEPanel.Text3: 你并非不是一个烤箱
+QTEPanel.Text4: 你除了烤箱还能是什么呢
+QTEPanel.Text5: 你从来都是烤箱
+SaveLoadMenu.Tab.Load: LOAD
+SaveLoadMenu.Tab.QuickLoad: Q. LOAD
+SaveLoadMenu.Tab.Save: SAVE
+SettingsMenu.CharacterTitle: 「我」
+SettingsMenu.ChineseHK: 繁体中文
+SettingsMenu.ChineseLanguage: 简体中文
+SettingsMenu.ChineseVoice: 汉语
+SettingsMenu.EnglishLanguage: English
+SettingsMenu.esLanguage: es
+SettingsMenu.frLanguage: fr
+SettingsMenu.itLanguage: it
+SettingsMenu.FullScreenWindow: 无边框
+SettingsMenu.idLanguage: 印度尼西亚语
+SettingsMenu.JapanLanguage: 日本语
+SettingsMenu.JapanVoice: 日本语
+SettingsMenu.koLanguage: 한국어
+SettingsMenu.Language: 游戏语言
+SettingsMenu.MaximizedWindow: 全屏
+SettingsMenu.MessageSpeed: 文本显示速度
+SettingsMenu.Mute: 静音
+SettingsMenu.PlayerTitle: 「你」
+SettingsMenu.ptbrLanguage: Modo de Exibição
+SettingsMenu.ruLanguage: Русский
+SettingsMenu.ScreenMode: 显示模式
+SettingsMenu.SpanishVoice: 西班牙语
+SettingsMenu.FrenchVoice: French
+SettingsMenu.Title: 的设置
+SettingsMenu.trLanguage: Türkçe
+SettingsMenu.ukLanguage: Українська мова
+SettingsMenu.viLanguage: Tiếng Việt
+SettingsMenu.VoiceLanguage: 游戏语音
+SettingsMenu.VolumeEffects: 音效音量
+SettingsMenu.VolumeMusic: 背景音乐音量
+SettingsMenu.VolumeVoice: 语音音量
+SettingsMenu.Windowd: 窗口
+TextTitle: 历史记录
+TextTitle (1): 过去，现在，\n和未来
+TitleMenu.CustomEnterGame: 继续游戏
+TitleMenu.Exit: 退出游戏
+TitleMenu.Extras: 致谢
+TitleMenu.Settings: 设置
+VariableInput.Submit: SUBMIT

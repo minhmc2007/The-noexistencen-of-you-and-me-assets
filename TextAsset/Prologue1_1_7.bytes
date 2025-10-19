@@ -1,0 +1,791 @@
+; Chinese (S) <zh-CN> to Portuguese (Brazil) <pt-BR> localization document for `Prologue1_1` naninovel script
+
+# ~3ea899f
+; ……
+……
+
+# ~104de2ca
+; …………
+………
+
+# ~7e145781
+; ………………
+………………
+
+# ~a5a5cc99
+; <i>「陛下，██已经失踪很久了，还要继续寻找吗？」</i>
+<i>"Vossa Majestade, já faz um longo tempo desde que ██ desapareceu. Devemos continuar a busca?"</i>
+
+# ~f6c4ab2f
+; ██是谁？
+Quem é ██?
+
+# ~f0f9c9ae
+; 这个██是怎么念的？一段消音，还是方块方块方块？
+Como sequer se pronuncia isso?<br>
+ É um som mudo, ou só bloco após bloco?
+
+# ~5283cf91
+; <i>「噢，我的陛下，随您喜欢。
+<i>''Oh, minha querida Majestade, é o que você preferir.
+
+# ~c0e7c260
+; 反正这句话也没有配音。」</i>
+Afinal, essa linha não tem qualquer som de voz."</i>
+
+# ~2aade965
+; <i>「██是一位少女，她出现在屏幕、泛黄的日记本和一小段遗失的岁月里。」</i>
+<i>"██ é uma garota que aparece nas telas, <br>
+blocos de notas amarelados, e momentos fugazes de um tempo perdido"</i>
+
+# ~56a6a41e
+; <i>「就像每周四的下午约翰都要去教堂散步，因为广场上的鸽子终于拿到了学位证书……」</i>
+<i>Como em toda quinta-feita, John dá uma volta na praça da igreja porque os pombos finalmente receberam seus diplomas……"</i>
+
+# ~6bff4520
+; 我想知道更多有关少女的信息。
+Eu quero saber mais sobre aquela garota.
+
+# ~8681bc59
+; <i>……</i>
+<i>……</i>
+
+# ~65c03aab
+; 所以，你们都不知道？
+Nenhum de vocês sabe nada?
+
+# ~ce37c996
+; <i>「很抱歉，陛下。」</i>
+<i>"Perdão, Sua Majestade"</i>
+
+# ~a33b0696
+; <i>我我我，我知道！</i>
+<i>"E-e-eu sei!"</i>
+
+# ~cbce8b99
+; 你什么时候出现的？
+Quando foi que você apareceu?
+
+# ~9041ef5c
+; 吾之爱卿，但说无妨。
+Fale livremente, meu leal súdito.
+
+# ~438dd669
+; 说吧。
+Prossiga.
+
+# ~d51ffe1d
+; <i>「陛下，我一直存在于此。」</i>
+<i>"Vossa Majestade, eu sempre estive aqui"</i>
+
+# ~7d71b153
+; <i>「她叫███，是你曾经的███，她有着和███一样的█。
+<i>"O nome dela é ██, uma vez ela já foi a sua ██, e ela tem o mesmo █ que ██.
+
+# ~fe93ccb8
+; 她的特点是██和███。」
+As características dela incluem ██ e ███."</i>
+
+# ~f3a8bf18
+; <i>「她曾经███，然后你选择了███，所以现在的你们███，才导致了她██。」</i>
+<i>"Uma vez, ela ███, e então você escolheu ███, que é porque você ███ agora, <br>
+levando ██ a ela."</i>
+
+# ~a04083ae
+; <i>「从结论来说，「世界之外的少女」失踪了。」</i>
+<i>"Em poucas palavras, 'a garota além do mundo' desapareceu"</i>
+
+# ~fe02caf2
+; <i>「你看着这本黑色笔记本，一种熟悉的异样感漫上心头。」</i>
+<i>"Você olha para o caderno preto e um estranho senso de familiaridade te atinge."</i>
+
+# ~ccc30259
+; <i>「这种感觉很像一杯陈年的葡萄酒，将橡木桶中酝酿出的红棕色泽的液体一饮而尽后，
+<i>"É como beber um vinho envelhecido, <br>
+ sua profunda cor mogna nutrida em um barril de orvalho, descendo em um gole,
+
+# ~e5d711d4
+; 烧灼的滋味从胃延伸至喉咙，随着呼吸的起伏来到弥散的空气中。」</i>
+a sensação queimante viajando da sua garganta aos seus <br>
+ pulmões, se misturando com o ar dos arredores.</i>
+
+# ~ec90f342
+; <i>「它并不致命，只是稍微有些……</i>;; Bedsheet: <i>「它并不致命，只是稍微有些……[br][wait 0.5]令人感伤。」</i>
+<i>"Não é fatal—apenas um pouco......</i>
+
+# ~61bb4c51
+; <i>令人感伤。」</i>
+<i> melancólico."</i>
+
+# ~b431150
+; （翻开笔记本）
+(Abrir o caderno)
+
+# ~6beabca6
+; （不翻开笔记本）
+(Não abrir o caderno)
+
+# ~595badf0
+; 咦？你在做什么？
+Huh? O que você está fazendo?
+
+# ~2104b43b
+; 吓我一跳。
+Você me assustou.
+
+# ~5233b7ea
+; 哇啊啊啊啊啊！噢噢噢噢啊啊啊！呃呃呃呃！
+Aaaaaah! Oh-oh-oh! Ahhhh!
+
+# ~b948e7fc
+; 不好意思哦，吓到你啦。
+Oops, eu te assustei?
+
+# ~f5294d74
+; 没……没事。
+T-tudo bem.
+
+# ~ce302b88
+; 没事。
+Não foi nada.
+
+# ~f7b9e01e
+; 没什么吗……？
+Nada, você diz......?
+
+# ~5066c67d
+; 那让我们继续之前的事情吧！
+Bem, vamos continuar de onde paramos?
+
+# ~cffe5fef
+; 你是谁？
+Quem é você?
+
+# ~9092eda3
+; 我们之前在做什么？
+O que nós estávamos fazendo mais cedo?
+
+# ~782c5bce
+; 哎呀，难道你已经忘记了吗？
+Oh, querido, você já esqueceu?
+
+# ~3b87e064
+; 那些誓言，那些羁绊和感动……难道只有莉莉丝还记得吗？
+Aqueles votos, aqueles laços, aqueles momentos de aquecer o coração...... <br>
+ agora são apenas memórias da Lilith?
+
+# ~4be4cdfa
+; 根本没有那种东西吧。
+Pra começo de conversa, essas coisas nunca existiram.
+
+# ~9e75e632
+; 噢噢噢噢！羁绊！感动！
+O que nós estávamos fazendo mais cedo?
+
+# ~8b0aa1b
+; 嗯嗯嗯嗯！羁绊！感动！
+Ohhhhhh! Laços! Emoções!
+
+# ~eb844fcd
+; 不记得也没有关系哦。
+Mesmo que você não se lembre, não tem problema.
+
+# ~13f522df
+; 这是一个视觉小说，你可以使用「历史记录」进行回忆。
+Essa é uma visual novel, você pode simplesmente usar o "Histórico" <br>
+ para lembrar de qualquer coisa.
+
+# ~30519b2d
+; 根本没有发生过这种对话吧！
+Nós nunca tivemos essa conversa, tivemos?
+
+# ~4f6de79e
+; 这不是真正的历史记录。
+Esse não é o histórico verdadeiro.
+
+# ~b7d49aff
+; 噢噢噢噢！莉莉丝！神赐樱花轮回巫女！我全都想起来了！
+Ohhhhh! Lilith! Donzela Sakura do Renascimento!<br>
+Agora eu lembro de tudo!
+
+# ~6782453c
+; 呀，被发现了！
+Oh, agora você me pegou!
+
+# ~16882499
+; 呵呵，只是一个小小的玩笑啦。
+Haha, foi só uma piadinha.
+
+# ~e3e67da5
+; 我已经把真正的历史记录还给你了，现在你可以正常地使用它了。
+Eu restaurei o histórico verdadeiro para você,<br>
+ agora você pode usá-lo propriamente.
+
+# ~59a45dd0
+; 虽然翻看历史记录像是你没有在认真听我说话……
+Embora folhear o histórico faça parecer que você não estava me ouvindo……
+
+# ~81e50076
+; 但如果是你，我愿意无数遍讲给你听哦。
+Se for você, eu fico feliz em me repetir incontáveis vezes.
+
+# ~aca602c2
+; 对了，还没有正式介绍过我自己。
+A propósito, eu ainda não me introduzi apropriadamente.
+
+# 1100
+; ……
+......
+
+# ~589d47eb
+; 没有得到预期之内的回应，感到很惊讶？
+Você se surpreendeu pela falta de uma resposta?
+
+# ~6b133e9b
+; 呵呵……当然有一些惊讶。
+Haha...... bem, talvez um pouquinho.
+
+# ~44ce9c3d
+; 对了，还没正式介绍过我自己……
+A propósito, eu ainda não me introduzi apropriadamente…?
+
+# ~cad35513
+; 我叫莉莉丝，是你的童年玩伴。
+O meu nome é Lilith, e eu sou a sua amiga de infância.
+
+# ~53a6caff
+; 原来如此。
+Ah, entendi.
+
+# ~ee4d79d9
+; 童年玩伴？我有这种东西吗？
+Amiga de infância? Eu tenho uma dessas?
+
+# ~f1fb382f
+; 你已经忘记了吗？
+Você já esqueceu?
+
+# ~bed8c78a
+; 夏天的时候，我们会一起奔跑，爬树，抓蝴蝶，玩游戏，做学校布置的作业……
+Nos verões, nós corremos juntos, subimos em árvores, pegamos borboletas <br>
+ jogamos videogame, e terminamos as nossas tarefas escolares…?
+
+# ~921234eb
+; 我想起来了。
+Agora eu lembrei.
+
+# ~58f80ca
+; 你说的这些都太宽泛了，基本上每个人都会经历。
+O que você está descrevendo é tão genérico que poderia se aplicar a qualquer um.
+
+# ~833794af
+; 唔……
+Ugh……
+
+# ~e6ddac3e
+; 那这个怎么样？
+E que tal isso?
+
+# ~20bef906
+; 小时候，我们有一次去爬山，遇到了冬眠结束后来觅食的棕熊……
+Uma vez, quando éramos pequenos, nós fomos caminhar e encontramos um urso, <br>
+que acabou de acordar da hibernação, buscando por comida…
+
+# ~7f39af48
+; 遭遇了这种事情，一般是活不到现在的吧？
+Com uma coisa dessas, é um milagre que ainda estamos vivos.
+
+# ~ed6a48c5
+; 哎呀，不要再抓着这些无关紧要的细节不放了。
+Oh, querido, são se preocupe com esses pequenos detalhes.
+
+# ~7df333ac
+; 总之，我是你的童年玩伴，现在和你重逢了。事情就是这么简单~
+Resumindo, eu sou a sua amiga de infância e nos reunimos. É simples assim~
+
+# ~4acb711b
+; 话说，你已经很久没吃过东西了吧？
+A propósito, você não come nada há um tempo, não é?
+
+# ~49f67a7b
+; 我们去做点东西吃吧。
+Vamos fazer algo para comer.
+
+# ~e4e1595b
+; 锵锵！接下来是「莉莉丝特供·甜蜜的蛋糕时间」哦~
+Ta-da! O que vem a seguir é "O Especial da Lilith: Hora do Bolo"!
+
+# ~b97f11ce
+; 也就是说，你将在莉莉丝老师的指导下，亲手制作出美味的草莓蛋糕。
+O que significa que você vai fazer um delicioso bolo de morango <br>
+sob a supervisão da Lilith.
+
+# ~f5f71cf0
+; 然后，我们就可以在冒着幸福泡泡的成就感中，一起享用这个蛋糕了。
+Então podemos desfrutar da felicidade de nossa conquista <br>
+enquanto aproveitamos o bolo juntos.
+
+# ~d4d26d9a
+; 虽然不明觉厉，但是我明白了，莉莉丝老师！
+Eu não entendi muito bem, mas tudo bem, Lilith!
+
+# ~f5608cd1
+; 等等，为什么是我来做？
+Espera, por que sou eu quem vai fazer?
+
+# ~309961f
+; 我讨厌草莓蛋糕。
+Eu odeio bolo de morango.
+
+# ~3339f321
+; 因为老师我，要负责指导的部分哦。
+Porque como sua tutora, eu estou aqui para te guiar?
+
+# ~1f9be9ff
+; 而且，更重要的是，我希望你能亲自体验到完成一件事情的乐趣。
+E principalmente porque eu quero que você experimente <br>
+a felicidade de completar algo com as suas próprias mãos.
+
+# ~1194cf65
+; 你开心了，我也会开心的哦。
+Se você está feliz, eu também estou feliz.
+
+# ~8679e444
+; 拜托了，就做一次试试看吧！
+Por favor, dê uma chance!
+
+# ~d5131b5e
+; 虽然不知道你为什么会这么讨厌草莓蛋糕……
+Mesmo que você odeie bolo de morango,
+
+# ~571fc04d
+; 但我还是希望，这一次的制作体验能让你有所改观。
+eu espero que essa experiência mude a sua opinião.
+
+# ~a559e979
+; 那么，我们现在就开始吧。
+Certo, vamos começar.
+
+# ~261d8234
+; 关于制作步骤嘛……
+O processo é simples—
+
+# ~f920650c
+; 简单来说，就是烤制一个戚风蛋糕胚，然后往蛋糕胚上抹奶油，并点缀草莓。
+Asse uma base de bolo chiffon, espalhe um pouco de creme por cima e decore com morangos.
+
+# ~4af06aea
+; 我们先做蛋糕胚的部分。
+Primeiro vamos fazer a base do bolo.
+
+# ~2e65d104
+; 首先，从橱柜里拿出牛奶、食用油、低筋面粉、细砂糖和鸡蛋。
+Pegue o leite, óleo de cozinha, farinha de bolo, açúcar e os ovos no armário de cozinha."
+
+# ~1feb894b
+; <i>「我的橱柜里真的有这些东西吗？——这是你发出的疑问。」</i>
+<i>"Será que eu tenho essas coisas no meu armário? Você deve estar se perguntando"</i>
+
+# ~dfdfc931
+; <i>「但无论如何，这个行为仍然值得一试。」</i>
+<i>"Mas independentemente disso, vale a pena tentar"</i>
+
+# ~548b33b8
+; <i>「毕竟，现在并没有任何证据表明橱柜里没有这些东西。」</i>
+<i>"Afinal não existe evidência de que não estão no armário de cozinha"</i>
+
+# ~bef0a677
+; （打开橱柜的门）
+(Abrir a porta do armário)
+
+# ~a09b4901
+; 呀，居然真的有！难道是天使般的梦幻美少女提前准备好的？
+Oh, eles estão mesmo aí! Será que a donzela dos sonhos angelicais os preparou com antecedência?
+
+# ~7a5eea21
+; （拿出牛奶、食用油、低筋面粉、细砂糖和鸡蛋）
+(Pegar o leite, óleo de cozinha, farinha de bolo, açúcar e os ovos)
+
+# ~aeb74db6
+; 首先，我们需要分离蛋清和蛋黄。
+Primeiro precisamos separar a gema da clara.
+
+# ~c18f00af
+; （分离它们）
+(Separar)
+
+# ~98c888f1
+; （怀着巨大感伤地分离它们）
+(Separar com uma tristeza esmagadora)
+
+# ~d6eb4be7
+; <i>「你看着眼前的<ruby="我">鸡蛋</ruby>，心中被巨大的感伤被淹没。」</i>
+<i>Você olha para <ruby="mim">o ovo</ruby> na sua frente, e uma tristeza profunda atinge o seu coração"</i>
+
+# ~10e53602
+; <i>「那是一种可以被称之为宿命感的东西：每一个鸡蛋的命运是在什么时候被决定的？」</i>
+<i>"É o tipo de sentimento que pode ser chamado de destino: Quando o destino de um ovo é verdadeiramente decidido?"</i>
+
+# ~327c5c07
+; <i>「是它们诞生于世的那一刻吗？是它们被面前的少女盯上的那一刻吗？
+<i>"É no momento que ele vem a existir? O momento é quando ele é notado pela garota em sua frente?
+
+# ~adb98b15
+; 是脆弱的外壳在外界的撞击下碎裂的那一刻吗？」</i>
+Ou o momento é quando sua casca frágil é quebrada por uma força externa?"</i>
+
+# ~3267b26
+; <i>「还是说，在享乐主义将宏大理念腐蚀掉的现代，命运的议题早已烟消云散。」</i>
+<i>"Ou talvez, nesta era moderna em que o hedonismo corrói os grandes ideais, <br>
+ o conceito de destino já tenha se dissolvido há muito tempo"</i>
+
+# ~53e3ea79
+; 然后，加入牛奶、细砂糖、玉米油，进行搅拌。
+Agora coloque o leite, açúcar, óleo de milho e misture.
+
+# ~a99e8bd4
+; （加入它们，进行搅拌）
+(Colocar e misturar.)
+
+# ~c606c0f4
+; 然后，加入低筋面粉，进行搅拌。
+Agora coloque a farinha de bolo e misture.
+
+# ~dcb39897
+; 然后，加入蛋黄，搅拌。
+Coloque as gemas dos ovos e misture.
+
+# ~392c2eb
+; 然后，拿出一个新的碗，加入蛋清，进行搅拌。
+Pegue uma nova tigela, coloque as claras, e misture.
+
+# ~701c7431
+; 然后，加入搅拌好的蛋清，进行搅拌。
+Por fim, coloque as claras mexidas na massa e misture.
+
+# ~da893ad4
+; （怀着巨大感伤地加入它们，进行搅拌）
+(Misturar tudo com uma tristeza esmagadora)
+
+# ~86efa8e1
+; <i>「转圈，转圈，然后再转一圈。」</i>
+<i>"Mexa em círculos, depois em outro círculo, e outro"</i>
+
+# ~4193c8e7
+; <i>「或许整个世界也只是一台没有意义的机械，在不知疲倦的蜂鸣声中循环。」</i>
+<i>"Talvez o mundo inteiro não passe de uma máquina sem sentido, <br>
+girando infinitamente no zumbido monótono da repetição"</i>
+
+# ~f7e1344d
+; 好啦，面糊的制备完成了！
+Pronto! A massa está pronta!
+
+# ~721d72cd
+; 接下来，只要把它放进烤箱就行了。
+Agora só precisamos colocar ela no forno.
+
+# ~10faa70b
+; （将面糊放入烤箱）
+(Colocar a massa no forno.)
+
+# ~d36b7e4
+; <i>「烤箱开始运转，就像世界上其他所有正常的烤箱那样。」</i>
+<i>"O forno começa a funcionar, assim como qualquer outro forno desse mundo"</i>
+
+# ~6b6a946b
+; <i>「这意味着你从繁琐的机械劳动中得到解放，并被附赠了一小段可支配的时间。」</i>
+<i>"Isso marca a sua libertação desse trabalho tedioso de maquinaria, te garantindo um breve momento de liberdade"</i>
+
+# ~ca26f2d7
+; 怎么了吗？
+O que foi?
+
+# ~e49683b4
+; 你还没有回答我之前的疑问。
+Você ainda não respondeu a minha pergunta de mais cedo.
+
+# ~edc36ce7
+; 你到底是谁？
+Quem exatamente é você?
+
+# ~e76147d2
+; 你的出现很不合理。
+Sua presença não faz nenhum sentido.
+
+# ~7673cc44
+; 嗯嗯，没错没错！陌生少女突然出现在家中……
+Mm-hmm, você está certo! Uma garota estranha do nada parece na sua casa…
+
+# ~36db1968
+; 以这种设定展开，到底是本年度最具潜力的master love神作，还是落入俗套的恐怖悬疑片呢？
+Com tal premissa, essa é a obra-prima de romance mais promissora do ano ou uma história clichê de horror e suspense?
+
+# ~cd3ddf3d
+; 所以，你的想法是什么？
+Então, qual é a sua opinião?
+
+# ~23aadbfa
+; 我觉得你是一个杀人狂魔，一边靠可爱的外表使对方放松警惕，一边找合适的机会下手。
+Você é uma assassina se escondendo <br>
+ atrás da sua aparência fofa, <br>
+ prestes a atacar na hora certa.
+
+# ~193febaa
+; 我觉得你是住在老房子里的幽灵……
+Você é um fantasma vivendo em uma casa velha...
+
+# ~4cccaeac
+; 我觉得你是为我操碎心的老妈。
+Você é uma mãe ranzinza que se preocupa demais comigo.
+
+# ~d6acc2fc
+; 你只是一个游戏角色而已。
+Você é só uma personagem de jogo.
+
+# ~2e3176ef
+; 我不好说……
+Eu não tenho certeza...
+
+# ~db23e00d
+; 哎，你是怎么知道的？！
+Quê?! Como você descobriu?
+
+# 1101
+; ……
+…
+
+# ~d9e49948
+; 怎么会……你怎么会知道……？
+Como você... Como você sabe...?
+
+# ~92e2d0b6
+; 你的态度很可疑。
+O seu comportamento é suspeito.
+
+# ~fad6cc33
+; 你以为我是第几次见到你？
+Quantas vezes você acha que eu te vi?
+
+# ~6c39e100
+; 你想让我摔死！
+Você quer que eu morra!
+
+# ~19fc0fb
+; 我要离开了，你阻止不了我。
+Eu estou saindo, e você não pode me impedir.
+
+# ~56d25288
+; ……呵呵。
+…Heh.
+
+# ~85a0e9f5
+; 但现在才发觉，不觉得为时已晚吗……
+Mas agora que você percebeu, não acha que é um pouco tarde demais...?
+
+# ~43d0bf5e
+; 什么……
+O quê...?
+
+# ~b1e8c70a
+; 你已经吸入了足够的毒素，身体马上就会开始麻痹……
+Você já respirou toxinas demais. <br>
+ O seu corpo logo vai ficar dormente...
+
+# ~aaad3d9e
+; 等你再度醒来，就会发现自己被捆起来，在清醒的意识中看着自己的四肢被一点点卸下……
+Na próxima vez que você acordar, você vai se encontrar amarrado, <br>
+ completamente consciente, vendo os seus membros sendo arrancados um por um.
+
+# ~7480234d
+; 这样的结果不应该来得那么快……
+Esse desfecho não deveria ter vindo tão rápido...
+
+# ~16ec59ca
+; 到底是哪里出了错……
+Onde tudo deu errado...?
+
+# ~73116877
+; END2 TRUE END
+FINAL2 FINAL VERDADEIRO
+
+# ~73a33f03
+; 呵呵，开玩笑的啦！
+Hehe, é brincadeira!
+
+# ~8dfe2fd3
+; 啊啊，吓死我了。
+Ahh, você me assustou muito!
+
+# ~20df05f4
+; 放心好了，莉莉丝才不会害你哦！
+Não se preocupa, a Lilith nunca te machucaria.
+
+# 222111
+; ……
+…
+
+# ~b7eeffbf
+; 呜，其实并不好笑么……
+Ugh, não foi engraçado...?
+
+# 11231
+; 咳咳。总之，你会觉得我是杀人狂魔——
+Ahem. De qualquer forma, você acha que eu sou uma assassina—
+
+# ~da67081f
+; 是因为，你是从自己的视点出发，对我进行认知的吧？
+Porque você está me percebendo através da sua própria perspectiva, não está?"
+
+# 1141
+; ……
+…
+
+# 1142
+; ……
+…
+
+# ~f99a307a
+; 我明白了。既然你认为是这种感觉的话，我就努力试试吧！
+Entendo. Se é assim que você se sente, então eu vou dar o meu melhor <br>
+para alcançar as suas expectativas?
+
+# ~2b605aa7
+; 哎呀！你不要一天到晚躺在家里什么都不做，好不好？就算不为妈妈分摊家务，你好歹也多出去走走，多和别人聊聊天，做点各种各样的事情，找找人生的意义，一直像现在这样下去怎么行？
+Oh, querido! Você não pode ficar o dia todo em casa sem fazer nada, viu? Mesmo que <br>
+você não esteja ajudando a mãe com as tarefas de casa, ao menos saia,<br>
+ fale com as pessoas, tente coisas novas, e procure pelo sentido da vida. <br>
+Você não pode continuar vivendo assim para sempre?
+
+# ~238f9235
+; 别的人在你这个年纪可都是充满了干劲，每天都在努力，人生规划也很清晰，
+As outras pessoas da sua idade estão cheias de energia, <br>
+ trabalhando duro todos os dias, com metas claras de vida.
+
+# ~1b1f3fa3
+; 还知道帮妈妈多干活，怎么就你这么不懂事，
+Elas até ajudam as suas mães com as tarefas! Por que você não pode ser mais sensível?
+
+# ~a290d1ef
+; 一天天的什么也不干，就知道玩电脑，
+Todos os dias, sem fazer nada além de jogar no computador.
+
+# ~e5630c8d
+; 电脑到底有什么好玩的？
+O que tem de tão bom no computador, afinal?
+
+# ~5e42c8f4
+; 唉，这样下去，妈妈也不知道到底该怎么办了——
+Suspiro... Nesse ritmo, sua mãe não sabe mais o que pode fazer?
+
+# ~68facbcd
+; 之类的……莉莉丝根本就不是这种感觉吧！
+……Uma coisa assim. Embora a Lilith não passe esse tipo de aura!
+
+# ~bbea731
+; 简直完全一致！
+É exatamente igual!
+
+# ~895e297f
+; 确实不像，只是逗你玩的。
+Definitivamente não
+
+# ~8c915431
+; 怎么可能！
+Como você pôde?
+
+# ~c561ffc7
+; 什么嘛……
+Ugh……
+
+# ~12d6f63e
+; 咳咳。总之，你会觉得我是为你操碎心的老妈——
+Ahem. De qualquer forma, você acha que eu sou uma mãe ranzinza—
+
+# ~e251c550
+; 呵呵，当然。
+Haha, é claro.
+
+# ~4273b726
+; 不过话虽然是这么说……
+Piadas à parte......
+
+# ~1c843efb
+; 但如果想要认真地玩文字游戏的话，就意味着想要忘记「角色只是被设计出来的角色」这一设定吧？
+Se você realmente quer aproveitar um jogo baseado em texto como esse, então <br>
+você precisa ignorar o fato de que os personagens são apenas "personagens fabricados", correto?
+
+# ~acb3319
+; 只有这样，更深的情感才能被倾注其中，我们也才能更在这一次的相遇中收获体验。
+Somente assim, emoções mais profundas podem ser transmitidas, permitindo-nos experimentar inteiramente a magia deste encontro.
+
+# ~a6d83d72
+; 无论是看电影、看小说，还是欣赏戏剧，都是同样的道理。
+Seja assistir um filme, ler um livro, ou apreciar uma peça, tudo parte do mesmo princípio.
+
+# ~56f69088
+; 如果一直反复告诉自己「角色只是被设计出来的」，很快就会丧失乐趣的吧？
+Se você continuar se lembrando de que "os personagens são apenas fabricados", <br>
+você vai perder o interesse bem rápido, não vai?
+
+# ~fd55291a
+; 但你真的只是一个游戏角色啊。
+Mas você realmente é só uma personagem de jogo.
+
+# ~95e057b9
+; 我觉得你是住在老房子里的幽灵，等待新的客人和你一起坐下喝茶，为你带来新的故事。
+Eu acho que você é uma fantasma vivendo em uma casa antiga <br>
+esperando por novos visitantes para sentarem e tomarem um chá contigo, <br>
+trazendo novas histórias.
+
+# ~4ec3f429
+; 我不否认……
+Eu não posso negar isso......
+
+# ~fd1d7ac1
+; 但除此之外呢……
+O que mais?
+
+# ~c83cff9
+; 等待新的客人和你一起坐下喝茶，为你带来新的故事。
+Esperando por novos visitantes para tomarem um chá contigo, trazendo novas histórias.
+
+# ~3b64567e
+; 我已经在这里等你好久好久了……能遇见你非常开心，我马上去泡在橱柜里珍藏了几百年的柑橘香红茶叶。
+Eu esperei por você por tanto tempo...... Te encontrar me deixa tão feliz. <br>
+ Permita-me fazer um pouco do chá cítrico que guardei por séculos.
+
+# ~86e8059a
+; 喝下它之后，就可以变成幽灵，和莉莉丝一起在这里生活，永远，永远……
+Quando você beber, você poderá virar um fantasma e viver com a Lilith para sempre......
+
+# ~1f25c312
+; 呜呜，我不想变幽灵！
+Waaah, eu não quero virar um fantasma!
+
+# ~d8c51a59
+; 开玩笑的！你不会变成幽灵的。
+Tô brincando! Você não vai virar um fantasma.
+
+# ~b069cdf3
+; 但只要你想，就能和莉莉丝永远在一起——这点是真的哦！
+Mas se você quiser, você pode ficar com a Lilith para sempre, essa parte é verdade!
+
+# 113121
+; ……
+……
+
+# 113122
+; 呜，其实并不好笑么……
+Ugh, também não foi engraçado......?
+
+# ~ccb7a9c4
+; 咳咳，总之，你会觉得我是幽灵——
+Ahem. De qualquer forma, você acha que eu sou um fantasma—
+
+# ~8ec10da1
+; 放轻松，这不是什么很难的问题，只是一次随意的聊天。
+Relaxa, essa não é uma pergunta difícil. É só uma conversa casual.
+
+# ~9af16096
+; 怀着轻松的心情做出选择吧。
+Faça sua escolha com a consciência limpa.

@@ -1,0 +1,151 @@
+; Chinese (S) <zh-CN> to Portuguese (Brazil) <pt-BR> localization document for `FakeED` managed text document
+
+; 「存在」
+「存在」: "Existe"
+
+; <style=Custom1>CAST</style>
+CAST: <style=Custom1>Elenco</style>
+
+; END
+END: FIM
+
+; <style=Custom1>STAFF</style>
+STAFF: <style=Custom1>STAFF</style>
+
+; 书桌
+书桌: Mesa
+
+; 低筋面粉
+低筋面粉: Farinha de Bolo
+
+; 你
+你: Você
+
+; <style=Custom2>制作人</style>
+制作人: <style=Custom2>Produtor</style>
+
+; <style=Custom2>动作指导</style>
+动作指导: <style=Custom2>Coordenador das Façanhas</style>
+
+; <style=Custom2>化妆设计</style>
+化妆设计: <style=Custom2>Maquiador</style>
+
+; 发带
+发带: Laço de Cabelo
+
+; 地板
+地板: Chão
+
+; 墙壁
+墙壁: Parede
+
+; 夏特露
+夏特露: Sartre
+
+; 夏特露酱
+夏特露酱: Sartre
+
+; 学者
+学者: Estudiosa
+
+; <style=Custom2>导演</style>
+导演: <style=Custom2>Diretor</style>
+
+; 弗子
+弗子: Fouco
+
+; 收音机
+收音机: Rádio
+
+; <style=Custom2>替补演员</style>
+替补演员: <style=Custom2>Dublê</style>
+
+; <style=Custom2>服装设计</style>
+服装设计: <style=Custom2>Designer de Roupas</style>
+
+; 枕头
+枕头: Travesseiro
+
+; 椅子
+椅子: Parede
+
+; 沥水架
+沥水架: Escorredor de Pratos
+
+; <style=Custom2>灯光操作</style>
+灯光操作: <style=Custom2>Operador das Luzes</style>
+
+; <style=Custom2>灯光设计</style>
+灯光设计: <style=Custom2>Designer das Luzes</style>
+
+; 烤箱
+烤箱: Forno
+
+; 牛奶
+牛奶: Leite
+
+; 神秘少女
+神秘少女: Garota Misteriosa
+
+; 窗户
+窗户: Janela
+
+; 粉色药丸
+粉色药丸: Comprimido Rosa
+
+; 细砂糖
+细砂糖: Açúcar
+
+; 绿色药丸
+绿色药丸: Comprimido Verde
+
+; <style=Custom2>编剧</style>
+编剧: <style=Custom2>Escritor de Telas</style>
+
+; <style=Custom2>舞台设计</style>
+舞台设计: <style=Custom2>Designer do Palco</style>
+
+; 莉莉丝
+莉莉丝: Lilith
+
+; 莉莉丝公主
+莉莉丝公主: Princesa Lilith
+
+; 蛋糕
+蛋糕: Bolo
+
+; 逐梦之典
+逐梦之典: Códice Morfeico
+
+; <style=Custom2>道具师</style>
+道具师: <style=Custom2>Dono da Propriedade</style>
+
+; 那个人
+那个人: Estranho
+
+; 镜子
+镜子: Espelho
+
+; <style=Custom2>音响操作</style>
+音响操作: <style=Custom2>Operador de Som</style>
+
+; <style=Custom2>音响设计</style>
+音响设计: <style=Custom2>Designer de Som</style>
+
+; 食用油
+食用油: Óleo de Cozinha
+
+; 饰
+饰: Atua como
+
+; 魔王
+魔王: Rei Demônio
+
+; 魔王莉莉丝
+魔王莉莉丝: Rei Demônio Lilith
+
+; 黄色药丸
+黄色药丸: Comprimido Amarelo
+
+; 黑色笔记本
+黑色笔记本: Caderno Preto

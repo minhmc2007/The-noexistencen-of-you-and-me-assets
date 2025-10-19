@@ -1,0 +1,54 @@
+; Chinese (S) <zh-CN> to Vietnamese <vi> localization document for `BacklogFakeUI` managed text document
+
+; 说话人1
+Author1: Người nói 1
+
+; 说话人2
+Author2: Người nói 2
+
+; Player
+Author3: Người chơi
+
+Author4: 
+
+; 莉莉丝
+Author5: Lilith
+
+; [Palyer]，我们接下来要外出一段时间，你要照顾好自己。
+message1: [Người chơi], tụi mình sẽ phải rời xa một khoảng thời gian. Cậu nhớ chăm sóc bản thân nhé?
+
+; 我的力量不足以继续封印四大天王，所以不得已才找到转世的您，请您祝我一臂之力。
+message10: Sức mạnh của tôi đã không còn đủ hiệu quả để giam giữ được Tứ Đại Thiên Vương rồi,
+
+; 我想起来了，我们之间的回忆与羁绊，我全都想起来了。
+message11: Tôi đã nhớ ra rồi! Những kỷ niệm và chuỗi liên kết của tụi mình... Tôi đã có thể nhớ ra mọi thứ!
+
+; 呐，莉莉丝酱，我们再一次拯救这个世界吧！
+message12: Lilith-chan, hãy cùng nhau giải cứu thế giới lần nữa nào!
+
+; 嗯，真是太好了呢，[Player]大人！
+message13: Điều đó thật tuyệt vời, [Người chơi]-sama!
+
+; 对了，有个女孩子要来我们家住一段时间，要和人家好好相处哦。
+message2: À mà này, có một cô gái sẽ đến ở với tụi mình một thời gian,
+
+; 会是什么样的女孩子呢？好期待啊！
+message3: Tớ đang rất thắc mắc là liệu cô ấy sẽ trông như thế nào? Tớ rất là hào hứng đây này!
+
+; 2小时后
+message4: 2 TIẾNG SAU
+
+; 你好，我叫莉莉丝。打扰了，请问这里是[Player]的家吗？
+message5: Xin chào, tôi là Lilith. Xin lỗi vì đã làm phiền cậu, nhưng đây có phải là nhà của [Người chơi] không?
+
+; 是的，就是这里。
+message6: Vâng, đây là địa điểm cậu đang tìm.
+
+; 唔……看到你的时候，好像有种似曾相识的感觉。
+message7: Hmm... qua dáng vẻ của cậu, hình như tớ cảm giác rằng tớ đã từng gặp cậu ở nơi nào rồi.
+
+; 没错，快取回前世的记忆吧，[Player]大人！
+message8: À, đúng rồi! Đã đến lúc lấy lại những ký ức từ kiếp trước của cậu,
+
+; 在前世，当我还是神赐樱花轮回巫女的时候，曾协助您对抗过黑暗旋涡四大天王。
+message9: Ở kiếp trước cậu trải qua, khi tớ là Thiếu Nữ Hoa Anh Đào của Sự Tái Sinh Thần Thánh,

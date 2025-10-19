@@ -1,0 +1,1551 @@
+; Chinese (S) <zh-CN> to French <fr> localization document for `Prologue2_1` naninovel script
+
+# ~2f1a8e2c
+; 喂，快起床，要迟到了哦。
+Réveillez-vous, réveillez-vous ! Vous allez être en retard !
+
+# ~3ea899f
+; ……
+……
+
+# ~a495d8e3
+; 呃……你是谁啊……？
+Hein ? Qui es-tu…?
+
+# ~b3f72d2a
+; ……莉莉丝……？
+…Lilith…?
+
+# ~8f230e1a
+; 是莉莉丝，你已经忘记了吗？
+C'est Lilith ! Vous avez déjà oublié ?
+
+# ~8a56fe7d
+; 真是的！就算是开玩笑，我也会伤心的哦。
+Incroyable ! Même si c'est une blague, c'est vraiment méchant, ça me rend triste !
+
+# ~7edcc7d3
+; 下次会记住的。
+Je m'en souviendrai la prochaine fois.
+
+# ~73b3aed6
+; 我讨厌你的名字，所以记不住。
+Je déteste ton nom, alors je ne peux pas m'en souvenir.
+
+# ~519a1cdb
+; 嗯，谢谢！
+Ah, merci !
+
+# ~bf824dd2
+; 算啦，下次要好好记住哦。
+D'accord, mais la prochaine fois, n'oubliez pas !
+
+# 21113
+; ……
+……
+
+# ~85716e06
+; 你真的……很讨厌「莉莉丝」这个名字吗？
+Tu détestes vraiment le nom "Lilith" ?
+
+# ~5f2f98b4
+; 开玩笑的。
+Je plaisante, c'est tout.
+
+# ~b6669fc8
+; 没错，我不想再看到它了。
+Pas du tout. Je ne veux plus jamais le revoir.
+
+# ~284a92ae
+; 既然如此……就由你亲自把它擦除吧。
+Dans ce cas... pourquoi ne l'effacez-vous pas vous-même ?
+
+# ~4880c298
+; 嗯，顺利完成了呢！
+Eh bien, c'est fait.
+
+# ~d672e790
+; 如此一来，<ruby="莉莉丝">我的名字</ruby>也就不复存在……
+Et avec cela, <ruby="Lilith">mon nom</ruby>, n'existe plus…
+
+# ~2026f51c
+; 总之，快点起床啦！
+Allez, debout !
+
+# ~b61aceb7
+; 让我再睡一会……
+Laisse-moi dormir encore un peu…
+
+# ~2cd1efaf
+; 不——行——！快起床啦！
+Pas question ! Levez-vous tout de suite !
+
+# ~55275ae1
+; 唉，你总是这个样子。明明我每天早上都特地来叫你起床……
+Soupir. Vous êtes toujours comme ça. Je viens même vous réveiller tous les matins…
+
+# ~6f22e53
+; 现在是什么时候？
+Quelle heure est-il maintenant ?
+
+# ~980e2215
+; <i>「2点40分，陛下。凌晨2点40分。」
+<i>"2 h 40, Votre Majesté. 2 h 40 du matin."</i>
+
+# ~5e8e02d9
+; 哪有这种时间叫人起床的啊？！
+Qui se réveille à une heure pareille ?!
+
+# ~122765bd
+; 你是从下午四点开始睡的，到现在为止，已经睡了10小时。
+Vous dormez depuis 4 heures de l'après-midi. Ça fait déjà dix heures !
+
+# ~ad430cec
+; 为了自己的健康，现在就要起床了哦！
+Pour votre propre santé, il est temps de vous réveiller !
+
+# ~e3556630
+; 而且，再不起床就要迟到了！
+D'ailleurs, si vous ne le faites pas, vous allez être en retard !
+
+# ~9ea75fd9
+; 迟到？为什么会迟到？
+En retard? En retard pour quoi ?
+
+# ~9e8811b0
+; 糟了！要迟到了！！！
+Oh non ! Je suis en retard !!!
+
+# ~639a3ab0
+; 因为，再睡下去的话——
+Parce que si vous continuez à dormir—
+
+# ~10a31cab
+; 你就要错过「不/存在的逐梦者：银葱之森」了！
+Vous allez manquer "Le Codex Morphéen : La Forêt des Échalotes d'Argent" !
+
+# ~4ae01788
+; 至少稍微捧下场嘛……
+…Montrez au moins un peu d'enthousiasme pour cela…
+
+# ~1bb45eb7
+; 咳咳。总之，如果再睡下去的话——
+Hum. Bref, si vous continuez à dormir—
+
+# ~c55d7c39
+; 哎？哎！别紧张，不会真的迟到啦。
+…Attendez, attendez ! Ne paniquez pas, vous n'êtes pas vraiment en retard.
+
+# ~8b922d1f
+; 只是想引起你的注意啦——
+Je voulais juste attirer votre attention !
+
+# ~5d7dab5e
+; 锵锵~「不/存在的逐梦者：银葱之森」！
+Ta-da~ ! "Le Codex Morphéen : La Forêt des Échalotes d'Argent" !
+
+# ~8f4be56e
+; 「不/存在的逐梦者：银葱之森」？
+"Le Codex Morphéen : La Forêt des Échalotes d'Argent" ?
+
+# ~e67993fe
+; 什……什么？
+Quoi…?
+
+# ~97b36ced
+; ？
+?
+
+# ~8ecc55b5
+; 没错没错，是莉莉丝连夜完成的——
+Oui, oui ! C'est le RPG scénarisé sur lequel j'ai travaillé toute la nuit pour le terminer !
+
+# ~3bb0589c
+; 本年度最受期待的剧情向<ruby="RPG">角色扮演</ruby>游戏！
+Le jeu narratif <ruby="RPG">role-playing</ruby> le plus attendu de l'année !
+
+# ~f34aac5b
+; 太棒了，赶快端上来吧！
+Super, apporte-le ici tout de suite.
+
+# ~197a8bce
+; 非玩不可么……
+Est-il obligatoire de jouer…?
+
+# ~2f1220f5
+; 好！就是这个气势！
+Exactement ! C'est ça l'esprit !
+
+# ~c9cd37fb
+; 没错，非玩不可哦。
+Oui, c'est absolument obligatoire de jouer.
+
+# ~efe2caaf
+; 现在让我们一起闭上眼睛……
+Maintenant, fermons les yeux ensemble…
+
+# ~dc9b965c
+; （闭上眼睛）
+(Fermez les yeux.)
+
+# ~e58777be
+; （尽可能正常普通地闭上眼睛）
+(Fermez les yeux aussi naturellement que possible.)
+
+# ~e2dda2ec
+; （无欲无求地闭上眼睛）
+(Fermez les yeux sans aucune attente.)
+
+# ~be96e90f
+; （满怀期待地闭上眼睛）
+(Fermez les yeux remplis d'excitation.)
+
+# 21261
+; ……
+……
+
+# 21262
+; ……
+……
+
+# ~6b08a703
+; 可以睁开了哦。
+Vous pouvez les ouvrir maintenant.
+
+# 21263
+; ……
+……
+
+# 21264
+; ……
+……
+
+# ~b20d20d5
+; 这是……什么地方？
+C'est quoi cet endroit ?
+
+# ~5af19b42
+; 嗯，如你所见，这里是王都宫殿。
+Comme vous pouvez le voir, il s'agit du palais royal.
+
+# ~1b123280
+; 你会在这里开启旅途，扮演逐梦者，
+Vous commencerez votre aventure ici en incarnant le Paradoxe Morphéen,
+
+# ~ea0eb57d
+; 穿过广袤的银葱之森，战胜魔王，救下公主——
+traverser la vaste forêt des échalotes argentées, <br>
+vaincre le seigneur démon puis sauver la princesse—
+
+# ~a4dfb1c7
+; 这种烂大街情节也能称得上剧情向吗？
+Une intrigue aussi clichée... Peut-on vraiment considérer qu'il s'agit d'une histoire menée par l'intrigue ?
+
+# ~774bb3fb
+; 很新颖的剧情，在传统叙事的基础上做出了自己的理解。
+C'est une nouvelle approche de la tradition, avec notre propre interprétation du récit.
+
+# ~66fbb84a
+; 喔，很识货嘛！
+Oh, quel œil perçant !
+
+# ~9f5fa58f
+; 咳咳。
+Hum.
+
+# ~39445440
+; 那不是国王吗？我们快去觐见他吧！
+C'est le roi là-bas. Allons le rencontrer !
+
+# 21291
+; ……;; @despawn DepthOfField params:2
+……
+
+# ~ea4a5bb3
+; 我看不到他的脸……
+Je ne peux pas voir son visage……
+
+# ~f2180edf
+; 国王为什么不说话？
+Pourquoi le roi ne parle-t-il pas ?
+
+# ~4e74a106
+; 解释起来有点复杂……
+C'est un peu compliqué……
+
+# ~bfb638dc
+; 总之，和他对话就会发生神奇的事情呢——！
+Disons simplement que… quelque chose de magique se produit lorsque vous lui parlez-!
+
+# ~c4b22299
+; 所以国王的形象为什么这么模糊？
+Pourquoi l'image du roi est-elle si floue ?
+
+# ~79c7a2d4
+; （向国王询问关于任务的事情）
+(Demandez au roi des informations sur la quête.)
+
+# ~c8c49ad4
+; 反正国王的唯一作用是说句话然后发任务吧！？
+Quoi qu'il en soit, le seul travail du roi est de nous donner une tâche à accomplir, n'est-ce pas ?!
+
+# ~2f6d0ca1
+; 就算看不清楚脸，也不影响我们对话，快去问问他关于任务的事情吧！
+Même si je ne peux pas voir son visage, cela n'a pas d'importance. Parlons-lui simplement de la quête !
+
+# ~967a4075
+; 公主被魔王抓走了，请将她营救回来吧，逐梦者大人。
+La princesse a été enlevée par le Seigneur Démon.<br>
+ S'il vous plaît, affrontez le Paradoxe  Morphéen, sauvez-la.
+
+# ~a8c73ae3
+; 公主？
+La princesse ?
+
+# ~4134b8e6
+; 一般来说，公主应该在旅途终点——银葱森林彼端的魔王城里，等着你来营救……
+En général, la princesse devrait attendre à la fin du voyage, dans le château du Seigneur Démon, de l'autre côté de la Forêt des Échalotes d'Argent……
+
+# ~1c24565a
+; （再问一遍）
+(Demandez à nouveau)
+
+# ~caa4e53
+; 我们出发吧！
+C'est parti ! Direction la Forêt des Échalotes d'Argent !
+
+# ~c0057f41
+; 前往银葱之森！
+Alors, commençons notre grande aventure !
+
+# ~d99abf78
+; 那么，我们一起踏上冒险旅途吧！
+Embarquons ensemble pour une aventure passionnante !
+
+# ~4211b887
+; 这么快就遇到了新的<ruby="非玩家角色">NPC</ruby>了呢——！
+Nous avons déjà rencontré un nouveau <ruby="Personnage Non Joueur">PNJ</ruby>
+
+# 213111
+; ……
+……
+
+# ~b789170a
+; 咦？有路过的人？就决定是你了！
+Hein ? Quelqu'un qui passe par là ? C'est vous que j’ai choisi !
+
+# ~d6c00dbc
+; 你好，我是在森林里研究植物的学者，现在遇到了些麻烦。;; @animate Sartre posY:0,-130 time:2.5,2.7
+Bonjour, je suis un chercheuse qui étudie les plantes de cette forêt, mais j'ai rencontré quelques difficultés.
+
+# ~180fdc0c
+; 我愿意提供帮助。
+Je suis prêt à aider.
+
+# ~7bf2014b
+; <s>什么莫名其妙的任务，不想接。</s>;; 下列选项要禁用，目前未实现
+<s>C'est quoi cette tâche aléatoire ? Ça ne m'intéresse pas.</s>
+
+# ~630a5ef4
+; 好，这才对嘛！
+Super, c'est ça l'esprit !
+
+# ~fcd7afd0
+; 你成功接取了任务。
+Vous avez accepté la tâche avec succès.
+
+# ~71427591
+; 任务名称：学者发的支线任务（暂定名）。
+Nom de la tâche : Quête secondaire de la savante (temporaire).
+
+# ~d6a82f5b
+; 下次请换个正式点的名字……
+La prochaine fois, veuillez trouver un nom plus officiel
+
+# ~5a7b1892
+; 不错，有角色扮演游戏的感觉了。
+Pas mal, ça ressemble vraiment à un RPG.
+
+# ~bb1e2c2d
+; 您的宝贵意见已收到。
+Nous prenons bonne note de vos précieux commentaires.
+
+# ~f716417b
+; 对吧！
+Exactement ! C'est tout à fait ça !
+
+# ~c3c9ff70
+; 是这样的，没错！
+Voici donc la situation :
+
+# ~d6f374e9
+; 我正在写一篇和曼德拉草有关的文章，但现在遇到了严重的瓶颈……
+Je travaille sur un article concernant les mandragores, mais je me heurte à un obstacle majeur
+
+# ~14ae8bac
+; 撰写性能及功效部分的时候，有个点让我困惑了很久，
+Lors de la rédaction de la section sur ses propriétés et ses effets,<br>
+il y a un point qui m'a laissé perplexe pendant des jours.
+
+# ~8433f7d7
+; 明明想了好几天，却怎么也想不通，那就是——
+Je réfléchis depuis longtemps, mais je n'arrive pas à trouver la réponse. Le dilemme est le suivant :
+
+# ~21e50725
+; 该不该让这株曼德拉草发现自己就是五年前惨案的真凶，然后在愧疚中自杀？
+Dois-je laisser cette mandragore découvrir qu'elle est la véritable responsable d'un tragique incident survenu il y a cinq ans, puis se suicider par culpabilité ?
+
+# ~91c75fd1
+; 这是学术论文吗？
+Est-ce un article scientifique ?!
+
+# ~cd398c45
+; 这明明就是小说吧！
+Cela ressemble davantage à un roman !
+
+# ~689e59c0
+; 唉，没办法。学者要写学术论文，这是学者的定义。
+Eh bien, il n'y a pas le choix. Les universitaires doivent rédiger des articles scientifiques—<br>
+c'est la définition même d'un universitaire.
+
+# ~b0e5483f
+; 可是啊……可是！千篇一律的东西总是让人读不下去。
+Mais… mais ! Les mêmes vieilles formules rendent impossible de retenir l'attention de qui que ce soit.
+
+# ~2c9a016c
+; 就像玩了一百个攻略美少女的游戏后，
+Tout comme après avoir joué à une centaine de jeux de simulation de rencontres où vous rencontrez, sortez avec,
+
+# ~44169187
+; 做腻了和不同刘海发色瞳色性格身份排列组合而成的美少女相遇约会拥抱的事情后……
+et adopte une combinaison apparemment infinie de coiffures, de couleurs de cheveux, de couleurs d'yeux, de personnalités et d'identités de jolies filles…
+
+# ~874729ba
+; 会想试试攻略曼德拉草的游戏吧！
+Au final, vous voudriez essayer un jeu de simulation de rencontres où vous tomber amoureux d'une mandragore,<br>
+n'est-ce pas?!
+
+# ~ad7ea9d6
+; 这就不得不提我正在写的巨作——
+Ce qui m'amène à l'œuvre magistrale sur laquelle je travaille actuellement :
+
+# ~eabfce2
+; 《雪国夏日的樱花少女~绽放于纯色思念下的誓言~》了！
+"La fille des cerisiers en fleurs de l'été dans le pays des neiges ~<br>
+Des vœux qui s'épanouissent sous les couleurs d'un pur désir~" !
+
+# ~b0a341ff
+; 哦？说来听听。
+Ah bon ? Raconte-moi tout.
+
+# ~28929b02
+; 虽然感觉已经玩过名称相似的游戏了……
+Même si cela ressemble étrangement à un jeu auquel j'ai déjà joué…
+
+# ~65d24ba2
+; 我是来打怪升级的，不是来帮忙写剧本的。
+Je suis ici pour m'entraîner et monter de niveau, pas pour t'aider à écrire ton script.
+
+# ~4fcd90b3
+; 终于有人愿意听下去了！你们真是我的心之挚友啊！
+Enfin, quelqu'un est prêt à m'écouter ! Vous êtes vraiment mes âmes sœurs !
+
+# ~e1c5ca8
+; 真的吗？
+Vraiment ?
+
+# ~ac4a3178
+; 居然愿意听下去？你们是我的心之挚友啊！
+Vous êtes vraiment prêts à m'écouter ? Vous êtes mes âmes sœurs !
+
+# ~c46a89e0
+; 没事啦，作为逐梦者，我们就先听听学者的要求吧。
+C'est bon ; en tant que Paradoxe Morphéen, écoutons d'abord la requête de la savante.
+
+# ~d04fcde6
+; 是这样的，曼德拉草是一位白发红瞳的双马尾少女，名叫樱子。
+Voici l'histoire : la mandragore est une jeune fille aux cheveux blancs et aux yeux rouges,<br>
+ avec deux couettes, qui s'appelle Sakurako.
+
+# ~f6b2dc9d
+; （继续听下去）
+(Continuez à écouter.)
+
+# ~ac3f9653
+; 等等！这不还是美少女吗！？
+Attend ! N'est-ce pas juste une autre jolie fille ?!
+
+# ~c4138641
+; 这和普通的美少女游戏女主有什么区别？
+En quoi est-elle différente des héroïnes habituelles dans les autres jeux ?
+
+# ~f7065659
+; 没错，虽然樱子在各个地方都表现得和美少女完全一致，
+Exactement ! Alors que Sakurako se comporte comme une fille mignonne typique à tous égards,
+
+# ~3c1ba068
+; 但我并没有在文中交代过她是曼德拉草，所以玩家根本不会知道这个设定……
+Je ne mentionne jamais explicitement dans le texte qu'il s'agit d'une mandragore,<br>
+donc les joueurs ne peuvent pas connaître ce détail…
+
+# ~dcec738
+; 不过嘛，身为作者的我如此设定，所以它就是这样。
+Mais, en tant qu'autrice, j'ai décidée qu'il en serait ainsi, et il en est donc ainsi.
+
+# ~fc386e92
+; ……好吧。
+…D'accord.
+
+# ~a7d2a295
+; 没有在文中交代的设定，和不存在有什么区别？
+Un paramètre non déclaré équivaut à une non-existence, n'est-ce pas ?
+
+# ~f66d2c7e
+; 唔……好像并没有呢！
+Euh... on dirait bien que non !
+
+# ~e1f65291
+; 樱子是这所学校新来的转校生，在第一天上学的时候，她发现自己要迟到了，
+Sakurako est une nouvelle élève dans cette école, et dès son premier jour, elle se rend compte qu'elle est en retard.
+
+# ~cc461eed
+; 赶忙叼起面包，喊着「迟到了迟到了」，跑在前往学校的路上……
+Elle attrape rapidement un morceau de pain en criant "Je suis en retard ! Je suis en retard !" tout en courant vers l'école…
+
+# ~740a4749
+; 我好像已经能猜到接下来会发生的事了……
+J'ai l'impression de déjà savoir ce qui va se passer ensuite…
+
+# ~4e088601
+; 真的吗？不愧是我的心之挚友！
+Vraiment ? Comme on pouvait s'y attendre de la part de mon âme sœur !
+
+# ~7b3d1955
+; 樱子就这样一路跑着，经过墙角的时候，突然和什么东西相撞了。
+Sakurako court à toute vitesse et, au coin d'une rue, elle heurte soudainement quelque chose.
+
+# ~dbbc4b7a
+; 「啊，好疼！」樱子揉着自己的脑袋。抬起头，她看到的是——
+"Aïe, ça fait mal !" dit-elle en se frottant la tête. Elle lève les yeux et voit—
+
+# ~bf5d5a5d
+; 向自己伸出援手的游戏男主。
+Le protagoniste masculin du jeu lui tendant la main.
+
+# ~89bf2d8e
+; 通往异世界的大门。
+La porte vers un autre monde.
+
+# ~e93f3cdf
+; 汉堡肉饼。
+Une galette de hamburger.
+
+# ~be3abe00
+; 那一刻，独自前往新学校的不安心情都被驱散了。
+À ce moment-là, toute son anxiété à l'idée de commencer seule dans une nouvelle école disparaît.
+
+# ~1d3993f1
+; 樱子进去后，成为了电子宠物训练师，通关后回来上学。
+Sakurako franchit la porte et devient dresseuse d'animaux numériques. Après avoir terminé le jeu, elle retourne à l'école.
+
+# ~f2d39430
+; 嗯，很棒的点子！我记下了。
+Hmm, excellente idée ! Je vais la noter.
+
+# ~8e4a2646
+; 接着，樱子顺利地找到了自己的教室，老师在黑板上写下樱子的名字，
+Puis, Sakurako trouve enfin sa salle de classe. Le professeur écrit son nom au tableau, la présente à la classe,
+
+# ~eb6628c6
+; 向大家介绍了她，并让她在窗边的位置坐下。坐下后，樱子在旁边的座位上看到了——
+et lui demande de s'asseoir près de la fenêtre. Alors qu'elle prend place, <br>
+elle remarque que le garçon assis à côté d'elle est—
+
+# ~857187b4
+; 早上和自己偶遇过的男生。
+Celui qu'elle avait rencontré ce matin-là.
+
+# ~62ae261d
+; 统帅千万魔人军团的狂气邪恶大魔王。
+Le Seigneur Démon fou et maléfique qui commande une armée de millions de soldats.
+
+# ~7b2c3171
+; 他成为了自己的同桌，并向自己递来一张纸条，上面写着温柔鼓舞的话语。
+Il devient son voisin de bureau et lui tend un bout de papier sur lequel sont écrits quelques mots chaleureux et encourageants.
+
+# ~334e586b
+; 魔王正在为数学题困扰着，反复在草稿纸上写下公式又擦去。
+Pendant ce temps, le Seigneur Démon se débat avec un problème mathématique, griffonnant et effaçant des formules sur des bouts de papier.
+
+# ~8770ba3f
+; 第一天的上学时间过的很快，不知不觉就已经到了放学时间……
+Le premier jour d'école passe rapidement, et avant qu'elle ne s'en rende compte, il est déjà l'heure de rentrer à la maison…
+
+# ~97c42780
+; 放学后有一段自由活动时间，樱子打算参加社团。
+Après l'école, il y a une courte période réservée aux activités parascolaires.<br>
+Sakurako décide de rejoindre un club.
+
+# ~c09bf8a1
+; 她来到社团活动教室的楼层，决定凭直觉推开其中的一扇。
+Elle se dirige vers l'étage où se trouvent les salles du club,<br>
+elle se fie à son instinct alors qu'elle s'approche d'une porte.
+
+# ~6857023a
+; 樱子来到左手边倒数第二间教室门前，鼓起勇气敲了门。
+Debout devant l'avant-dernière salle de classe à gauche,<br>
+elle rassemble son courage et frappe à la porte.
+
+# ~7e7ef2c
+; 短暂的等待后，门被打开了。在那里，她看到了——
+Après une brève attente, la porte s'ouvre et, à l'intérieur, elle aperçoit—
+
+# ~9c33e1eb
+; 那个温柔的男生。
+Le gentil garçon de tout à l'heure.
+
+# ~38ac696b
+; 手忙脚乱的杀人现场。
+Une scène de meurtre effrénée.
+
+# ~4e5bb0e6
+; 他向樱子介绍了这个社团——灵异怪谈研究社，并邀请樱子加入。
+Il présente Sakurako au club, la Société de recherche sur les phénomènes paranormaux, et l'invite à le rejoindre.
+
+# ~cb5eceb1
+; 樱子被他谈起这些话题时的热忱所感动，怀着雀跃的心情答应了他。
+Touchée par son enthousiasme pour le sujet, Sakurako accepte avec joie.
+
+# ~6230a740
+; 凶手发现自己不小心杀错了人。
+Le tueur se rend compte qu'il a accidentellement tué la mauvaise personne.
+
+# ~f2e5e64f
+; 凶手杀掉了帮凶，正在劝说被害人帮助自己布置现场。
+Le tueur élimine son complice et persuade la victime de l'aider à mettre en scène le crime.
+
+# ~a9c880d1
+; 太棒了！太棒了！灵感正源源不断地涌现……
+Incroyable ! Fantastique ! L'inspiration jaillit sans fin…
+
+# ~2eba436b
+; 嗯，这下我知道该怎么写了。
+Bon, je sais maintenant quoi écrire.
+
+# ~63615241
+; 来，这是本小姐赏你的报酬！
+Tiens, voici ta récompense de ma part !
+
+# ~52bf515
+; 你获得了「逐梦之典」。
+Vous avez reçu le Codex Morphéen.
+
+# ~c64a7899
+; 好眼熟的本子……
+Ce livre me semble familier…
+
+# ~b873a4ed
+; 似乎曾经在房间里见过。
+J'ai l'impression de l'avoir déjà vu dans ma chambre.
+
+# ~1c0d8a28
+; <i>「从结论来说，「存在于世界之外的少女」失踪了。」</i>;; 这里用黑白回忆滤镜
+<i>"En conclusion, la 'fille d'un autre monde a disparu."</i>
+
+# ~e18bbd2b
+; <i>「我和那位是不同的……即使我们都有着相同的本质。」</i>
+<i>"Je suis différent de lui… même si nous partageons la même essence."</i>
+
+# ~e49afbd2
+; （收下逐梦之典）;; Lilith: [char Lilith.Emotions>Emotion21 time:1]总之，还是收下学者小姐的礼物吧？
+(Acceptez le Codex Morphéen.)
+
+# ~4f89ff64
+; 你怎么也会说话？
+Tu sais parler aussi ?
+
+# ~6065d710
+; <i>「对于传奇般存在的逐梦者而言，会说话的本子已不足为奇。」</i>
+<i>"Pour un jeu légendaire comme Le Paradoxe Morphéen, un livre audio n'a rien de surprenant."</i>
+
+# ~33e31a41
+; <i>「逐梦者将它自然地收了起来。」</i>
+<i>"Le Paradoxe Morpheéen le met de côté avec désinvolture."</i>
+
+# ~7673df22
+; <i>「「好吧，毕竟我可是逐梦者！」，
+<i>"'Après tout, je suis un Paradoxe Morphéen !'
+
+# ~89fa83da
+; 逐梦者一边这么想着，一边自然地收起了逐梦之典。」</i>
+Le Paradoxe Morphéen, pense-t-il en rangeant naturellement le Codex Morphéen."</i>
+
+# ~f163733f
+; 其实我从刚才开始就想问了，这个奇怪的声音是什么啊？
+En fait, je voulais te demander : c'est quoi cette voix bizarre ?
+
+# ~942c943c
+; 说着接取任务、放入口袋什么的……
+Parler d'accepter des tâches, de mettre des choses dans une poche et tout ça…
+
+# ~43ef8173
+; 你也能听到？
+Tu l'entends aussi ?
+
+# 214521
+; ……
+……
+
+# ~8660a899
+; 难道说，你其实是逐梦者大人！刚才那个声音是……游戏旁白？
+Attendez une minute, se pourrait-il que vous soyez en fait le Paradoxe Morphéen ?! Et cette voix… <br>
+Est-ce… le narrateur du jeu ?
+
+# ~f2340133
+; 而我们……只是在一个游戏里？！
+Et nous... nous sommes juste à l'intérieur d'un jeu ?!
+
+# ~587b5af
+; 没错，正是在下。
+Exactement, c'est moi.
+
+# ~1fbf9f71
+; 没错，正是旁白。
+Oui, c'est le narrateur.
+
+# ~88c42b2c
+; 这么说……我只是游戏里的一个小小NPC学者？！
+Alors… je ne suis qu'un petit personnage non joueur dans ce jeu ?!
+
+# ~1795d9b4
+; 这就是我人生的真相？
+Est-ce là… la vérité de mon existence ?
+
+# ~87a99661
+; 当我在设定樱子的故事的时候，也在有人在设定着我的故事吗！
+Alors que je créais l'histoire de Sakurako, quelqu'un d'autre était-il en train de créer la mienne ?!
+
+# ~9eb515da
+; 好像是这样……
+Il semble que oui…
+
+# ~63a97e71
+; 没错，你的唯一价值就是给我发奖励。
+Exactement. Ton seul but est de me récompenser.
+
+# ~6f59f3a7
+; 没事的，我并没有伤心哦。
+Ce n'est pas grave, ça ne me dérange pas.
+
+# ~270b7d7f
+; 呜，这种说法也太残忍了吧！
+Oh, c'est vraiment cruel de dire ça !
+
+# ~1168b95c
+; 不过，我并不为此感到悲伤。
+Mais non, je ne suis pas triste du tout.
+
+# ~1fb9348c
+; 心之挚友啊！
+Oh, mon âme sœur !
+
+# ~4208bbd4
+; 能够以学者的身份出现，我其实感到非常开心。
+Apparaître dans ce jeu en tant que chercheuse me rend vraiment très heureuse.
+
+# ~c60b3cc0
+; 「身份」代表一种限制，因为我们在界定什么的同时，就需要去否定什么。
+"L'identité" représente une limitation. En définissant quelque chose,<br>
+nous nions inévitablement d'autres possibilités.
+
+# ~6bbfb10b
+; 身份代表着远离完满，这真是一件悲伤的事情。
+L'identité signifie s'éloigner de la perfection, quelle triste chose.
+
+# ~8ed9ecc4
+; 但正是借着「身份」的形式，我才有能和你相遇的这一天，我们之间才能产生语言。
+Mais c'est précisément grâce à cette forme d'"identité" que je peux vous rencontrer,<br>
+et que nous pouvons avoir ce dialogue.
+
+# ~e4166c55
+; 我不是全知全能的，所以我才能在和你的对话中体验到新奇的感动。
+Je ne suis pas omniscient, c'est pourquoi je peux vivre de nouvelles<br>
+surprises agréables dans nos conversations.
+
+# ~e58e424f
+; 我没有站在世界的终结之处，所以我才能不断地向前迈进。
+Je ne me trouve pas au bout du monde, c'est pourquoi je peux continuer à aller de l'avant.
+
+# ~d9b23c85
+; 我们不是目的，我们是一段通向目的的桥梁。
+Nous ne sommes pas des destinations ; nous sommes des ponts menant vers des destinations.
+
+# ~51179962
+; 我们诞生于虚无，我们的存在由自身创造，我们的存在正源源不断地在世界中涌现。
+Née du néant, notre existence est le fruit de nos propres efforts et se manifeste continuellement dans le monde.
+
+# ~654ce84
+; 这是我们的自由，同时也是我们必将背负的枷锁。
+C'est notre liberté, mais c'est aussi le fardeau que nous devons porter.
+
+# ~22737035
+; 你看，即使有「NPC学者」这样强而有力的标签，我也和你曾见过的所有学者都不一样吧？
+Vous voyez, même avec le titre prestigieux de "PNJ Savante", je ne ressemble à aucun savant que vous ayez jamais rencontré, n'est-ce pas ?
+
+# ~853bd72f
+; 即使樱子的故事能被经典到可以称得上是无聊的情节概括，
+Et même si l'histoire de Sakurako pouvait être résumée comme un récit ennuyeux et cliché,
+
+# ~74a915dc
+; 但她也会在既定框架下，将每一处选择都做到最好，并享受属于她的人生吧？
+Elle continuerait à vivre pleinement sa vie, à faire les meilleurs choix possibles dans son cadre de vie et à profiter de son existence, n'est-ce pas ?
+
+# ~647d7868
+; 也就是说……
+Alors…
+
+# ~ef05f730
+; 希望你不要只用「逐梦者拯救公主」之类的<ruby="自在存在">静止标签</ruby>去界定「不/存在的逐梦者：银葱之森」。
+J'espère que vous ne réduirez pas "Le Paradoxe Morphéen : la forêt des échalotes argentées" à des <ruby="être-en-soi">étiquettes statiques</ruby> telles que "le Paradoxe Morphéen sauve la princesse".
+
+# ~358dbd
+; 因为，这是一个逐梦者永远行走在成为逐梦者道路上的故事。
+C'est l'histoire d'un Paradoxe Morphéen qui parcourt sans fin le chemin qui le mène à devenir un Paradoxe Morphéen.
+
+# ~f6279964
+; 不过……「逐梦」啊……
+Mais… "Le Paradoxe  Morphéen", hein…
+
+# ~6608cce2
+; 可真是一个引人误解的词汇呢。
+Quel terme profondément mal compris.
+
+# ~b8c576a1
+; 好啦！我们该告别了！
+Bon, il est temps pour nous de nous séparer !
+
+# ~c95248dd
+; 再见。
+Au revoir.
+
+# ~6fa14efa
+; 能告诉我你的名字吗？这位学者。
+Tu peux me dire ton nom, Savante ?
+
+# ~205249c1
+; 在这里，我只能作为学者出现，没有其他的名字。
+Ici, je ne peux apparaître que sous le nom de Savante — je n'ai pas d'autre nom.
+
+# ~918729d
+; 不过，心之挚友啊，我的名字其实已经早就铭刻在你的心间了。
+Mais, ô âme sœur, mon nom est gravé depuis longtemps dans votre cœur.
+
+# ~b40ed257
+; 在别处再见时，唤出我的名字吧！
+Quand nous nous reverrons ailleurs, appelle-moi par mon nom !
+
+# ~74ed03ea
+; 告别了学者后，我和莉莉丝又向森林的更深处迈进。
+Après avoir fait nos adieux à la savante, Lilith et moi nous sommes enfoncés plus profondément dans la forêt.
+
+# ~c5ac0490
+; 在经历了传奇般的冒险后。终于，我们来到了魔王面前。
+Après une aventure légendaire, nous sommes enfin arrivés devant le Seigneur Démon.
+
+# 214101
+; ……
+……
+
+# ~c34b5ec4
+; 等等，我们的冒险故事就这么被一笔带过了呢？
+Attend une minute, est-ce que toute notre aventure vient d'être complètement passée sous silence ?!
+
+# ~ee73febe
+; <i>「关于你们的冒险旅途，那就是另一个故事了。」</i>
+<i>"Quant à votre aventure, eh bien, c'est une autre histoire à raconter."</i>
+
+# ~8e966c48
+; <i>「现在，专心面对魔王吧！」</i>
+<i>"Pour l'instant, concentrez-vous sur le Seigneur Démon !"</i>
+
+# ~b437c999
+; ……糟了，情况很棘手啊。
+…… Oh non, ça s'annonce mal.
+
+# ~81893243
+; 现在的魔王是不可能被战胜的，因为她没有任何弱点。
+À l'heure actuelle, le Seigneur Démon est invincible car elle n'a aucune faiblesse.
+
+# ~ed3462c1
+; 这是怎么回事？
+Que se passe-t-il ?
+
+# ~152eb924
+; ？？？
+???
+
+# ~3d88516a
+; 呃……因为游戏的最后部分还没完成。
+Euh… c'est parce que la dernière partie du jeu n'est pas encore terminée.
+
+# ~2bcd5b31
+; 我的意思是……魔王只有一个基础的形象，还没做具体的战斗和数值……
+Ce que je veux dire, c'est que… le Seigneur Démon n'a qu'un design basique — <br>
+il n'y a pas encore de système de combat détaillé ni de statistiques…
+
+# ~22c898e5
+; 那这还打什么？赶紧跑吧。
+Alors, comment sommes-nous censés nous battre ? Fuyons !
+
+# ~f1d3e806
+; ……您说什么？
+…Pardon ?
+
+# ~f7c6b339
+; 但是，逐梦者……
+Mais, le Paradoxe Morphéen…
+
+# ~e1c9d529
+; 打败魔王的方法，你已经在这场旅途中领悟了啊！
+Vous avez déjà appris comment vaincre le Seigneur Démon au cours de ce voyage !
+
+# ~c788807
+; 有一样道具，能够使你逆转当下的局势。所以，你只要使用它就好了。
+Il existe un objet particulier qui peut renverser la situation. Il suffit de l'utiliser.
+
+# ~c89e876f
+; <i>「逐梦者随即把手伸向了自己的口袋。」</i>
+<i>"Le Paradoxe Morphéen fouille dans leur poche."</i>
+
+# ~7fefd350
+; （使用汉堡肉饼）;; @choice （使用逐梦之典） goto:.Dialogue5
+(Utilisez la galette de hamburger.)
+
+# ~93ca95ed
+; （使用唱片机）
+(Utilisez le tourne-disque.)
+
+# ~d81b582d
+; <i>「虽然不知道这东西是从哪里出现的，但逐梦者使用了汉堡肉饼。」</i>
+<i>"Sans savoir d'où il vient, le Paradoxe Morphéen utilise la galette de hamburger."</i>
+
+# ~5441b5f5
+; <i>「也就是说，逐梦者当着魔王的面吃下了汉堡肉饼。」</i>
+<i>"En d'autres termes, le Paradoxe Morphéen dévore le steak haché sous les yeux du Seigneur Démon."</i>
+
+# ~1e9da62a
+; ……！
+……！
+
+# ~d0521a6
+; <i>「魔王紧紧盯着逐梦者手中咬了一口的汉堡肉饼，假装无动于衷。」</i>
+<i>"Le Seigneur Démon fixe intensément le hamburger à moitié mangé dans la main de Paradoxe Morphéen, feignant de ne pas être affecté."</i>
+
+# ~2ec0e8dc
+; 你明明也很想吃吧？
+Tu as clairement envie de le manger, n'est-ce pas?
+
+# ~318201bf
+; 呵，想吃吗？
+Vas-y, tu veux un morceau ?
+
+# 2141421
+; ………………
+………………
+
+# 2141422
+; ………………
+………………
+
+# ~90ee7ca6
+; (▼ヘ▼#)。
+(▼ヘ▼#)
+
+# ~7ab476ae
+; <i>「魔王的攻击力上升了。」</i>
+<i>"La puissance d'attaque du Seigneur Démon augmente."</i>
+
+# ~9a3a740
+; <i>「短暂的心情调整后，魔王又变回了原先酷酷的模样。」</i>
+<i>"Après une brève pause, le Seigneur Démon retrouve son attitude calme habituelle."</i>
+
+# ~f6e3d740
+; <i>「局势没有发生任何变化。」</i>
+<i>"La situation reste inchangée."</i>
+
+# ~6636cc74
+; （使用逐梦之典）
+(Utilisez le Codex Morphéen.)
+
+# ~f548389f
+; <i>「逐梦者使用了……呃，你使用了唱片机。」</i>
+<i>"Le Paradoxe Morphéen utilise euh…, vous utilisez le tourne-disque."</i>
+
+# 2141431
+; ……！
+……！
+
+# ~9e66b605
+; <i>「随着乐声响起，魔王开始用手和脚打着节拍。」</i>
+<i>"Au son de la musique, le Seigneur Démon commence à taper des mains et des pieds en rythme."</i>
+
+# ~3961eefd
+; ……ヾ(o´∀｀o)ﾉ ！
+……ヾ(o´∀｀o)ﾉ ！
+
+# ~69270cc6
+; <i>「她的动作越来越投入，神情也已经达到了忘我的境界。」</i>
+<i>"Leurs mouvements deviennent plus enthousiastes, leur expression atteignant un état de pure félicité."</i>
+
+# ~aa945a65
+; <i>「乐曲结束后，魔王似乎意识到了什么。」</i>
+<i>"Lorsque la musique s'arrête, le Seigneur Démon semble réaliser quelque chose."</i>
+
+# ~3edf7dee
+;  ∑(ﾟДﾟノ)ノ!!!
+∑(ﾟДﾟノ)ノ!!!
+
+# ~d947632c
+; <i>「魔王的防御上升了。」</i>
+<i>"La défense du Seigneur Démon augmente."</i>
+
+# ~cc5e3e72
+; <i>「同时，魔王又变回了原先酷酷的模样。」</i>
+<i>"Dans le même temps, ils retrouvent leur attitude habituelle, empreinte de sang-froid."</i>
+
+# 2141432
+; ……
+……
+
+# ~a3c41bff
+; <i>「<ruby="你">逐梦者</ruby>拿出了逐梦之典。」</i>
+"<ruby="Vous">Le Paradoxe Morphéen</ruby> sortez le Codex Morphéen."</i>
+
+# ~5169d1c3
+; （将逐梦之典砸向魔王）;; @choice （打开并查看内容） goto:.Dialogue5_1
+(Lancez le Codex Morphéen sur le Seigneur Démon)
+
+# ~228c2f92
+; （尝试啃一口）
+(Essayez d'en prendre une bouchée.)
+
+# ~2bfa26fa
+; <i>「逐梦者拿起逐梦之典，将它……」</i>
+<i>"Le Paradoxe Morphéen reprend le Codex Morphéen, puis…"</i>
+
+# ~6a35a692
+; <i>「等等，你在干什么！？」</i>
+<i>"Attendez, qu'est-ce que vous faites ?!"</i>
+
+# ~ecfd39ed
+; <i>「等等等等等等！！！」</i>
+<i>"Attendez, attendez, attendez, attendez !!!"</i>
+
+# ~a172591
+; 呃……！
+Uh…!
+
+# ~af8aae0d
+; 好准！笔记本正中魔王的脑袋！！
+Lancer parfait ! Le cahier frappe le Seigneur Démon en plein sur la tête !
+
+# 215111
+; ……
+……
+
+# ~9812e959
+; ヽ(#`Д´)ﾉ！
+ヽ(#`Д´)ﾉ！
+
+# ~21dde50d
+; <i>「魔王很生气，将，将逐梦之典从地上捡起……呃等一下……」</i>
+<i>"Le Seigneur Démon se met en colère et ramasse le Codex Morphéen qui gît sur le sol…<br>
+Euh, attendez…"</i>
+
+# ~2116e4ea
+; <i>「等等，各位，等等……！！」</i>
+<i>"Attendez, tout le monde, attendez… !!"</i>
+
+# ~40588fb6
+; 小心！！
+Attention !!
+
+# ~772e738d
+; 轻松地接住。
+Attrapez-le délicatement.
+
+# ~da40432f
+; 优雅地接住。
+Attrapez-le avec élégance.
+
+# ~800fd1bd
+; 认真地接住。
+Attrapez-le avec sérieux.
+
+# ~701e11f1
+; <i>「逐梦之典被逐梦者轻松地接住。」</i>
+<i>"Le Codex Morphéen est délicatement capturé par le Paradoxe Morphéen."</i>
+
+# ~437f11c9
+; <i>「逐梦之典被逐梦者优雅地接住。」</i>
+<i>"Le Codex Morphéen est gracieusement capturé par le Paradoxe Morphéen."</i>
+
+# ~72dbea3d
+; <i>「逐梦之典被逐梦者认真地接住。」</i>
+<i>"Le Codex Morphéen est sérieusement pris au piège par le Paradoxe Morphéen."</i>
+
+# ~36879127
+; <i>「逐梦之典又重新回到了逐梦者的手中。」</i>
+<i>"Le Codex Morphéen est de nouveau en possession du Paradoxe Morphéen."</i>
+
+# ~e0922448
+; （打开并查看内容）
+(Ouvrez et vérifiez son contenu.)
+
+# ~8b781a2d
+; <i>「逐梦者啃了一口逐梦之典，当然，逐梦者咬不动，也没有尝到任何味道。」</i>
+<i>"Le Paradoxe Morphéen mord dans le Codex Morphéen. Naturellement,  le Paradoxe Morphéen ne peut pas le mordre ni en goûter le contenu."</i>
+
+# ~78272584
+; <i>「啊嘞？我们这样的关系……是不是有点太暧昧了？」</i>
+<i>"Hein ? Notre relation… devient-elle un peu trop ambiguë ?"</i>
+
+# ~f12608ea
+; 不对不对，才没有解锁呢！这个游戏只能攻略莉莉丝！
+Non, non, non ! Il n'y a pas d'histoire d'amour à débloquer ici ! Ce jeu ne permet que Lilith comme partenaire amoureuse !
+
+# ~1f8c1303
+; <i>「总之，局势没有发生任何变化。」</i>
+<i>"Dans tous les cas, la situation reste inchangée."</i>
+
+# ~661b352f
+; <i>「你打开了笔记本。」</i>
+<i>"Le Paradoxe Morphéen ouvre le cahier."</i>
+
+# ~a56f80cf
+; 原来，这就是「不/存在的逐梦者：银葱之森」的游戏设定。
+Voici donc le cadre du jeu "Le Paradoxe Morphéen : La forêt des échalotes argentées".
+
+# ~938acaec
+; 多么精巧的设定啊，只是目前还没做完……
+Quel système complexe… bien qu'il soit clairement incomplet.
+
+# ~b58506c3
+; 总之，只要在上面写下弱点，就可以让它成为魔王的弱点。
+Quoi qu'il en soit, tant que vous notez ici la faiblesse du Seigneur Démon, <br>
+il deviendra leur véritable faiblesse.
+
+# ~c15877eb
+; 怎么样，是不是很方便？
+Pratique, n'est-ce pas ?
+
+# ~48d933f4
+; 有一说一，确实。
+Pour être honnête, c'est vrai.
+
+# ~e9927086
+; 这明明就是游戏作者偷懒了吧！？
+C'est juste que le créateur du jeu est paresseux, n'est-ce pas ?!
+
+# ~7ef18947
+; 总之，就在上面写下魔王的弱点吧！
+Quoi qu'il en soit, vas-y, note la faiblesse du Seigneur Démon !
+
+# ~bb4f9696
+; （写下：害怕被批评）
+(Notez : Peur de la critique.)
+
+# ~334e458e
+; （写下：吃完饭会变得很困）
+(Notez : devient somnolent après avoir mangé.)
+
+# ~dfa0e604
+; （写下：敲脑袋攻击）
+(Remarque : vulnérable aux coups à la tête.)
+
+# ~e835c73b
+; （合上本子）;; 播放一个书写音效
+(Fermez le cahier.)
+
+# ~cb1ef449
+; 哈？乐队？这种梦想是为了赶潮流吗？;; 这里要配置一个全选才消失的选项组，每点击一个播放一个受击音效
+Hein? Un groupe de rock ? Est-ce que c'est un rêve pour chercher à devenir célèbre ?
+
+# ~45938864
+; 这是什么装扮？感觉很中二……
+C'est quoi cette tenue ? Ça fait tellement chuunibyou…
+
+# ~8f3659b6
+; 话说三无少女的设定早就过时了吧？
+Et l'archétype du "kuudere" n'était-il pas dépassé depuis des années ?
+
+# 2152111
+; ……
+……
+
+# 2152112
+; ……
+……
+
+# 2152113
+; ……
+……
+
+# ~15a5c1a1
+; （投喂汉堡肉饼）
+(Nourrir la galette de hamburger.)
+
+# 21521211
+; ……
+……
+
+# 21521212
+; ……
+……
+
+# 21521213
+; ……
+……
+
+# ~8f6c80d8
+; 我们战胜了魔王，逐梦者大人！
+Nous avons vaincu le Seigneur Démon, le Paradoxe Morphéen !
+
+# ~fb38155a
+; 啊，请稍等一下。
+Attendez un instant.
+
+# ~f8b7057e
+; （在原地等待一阵）
+(Faites une pause pour attendre à cet endroit)
+
+# ~d9b74bc0
+; 咳咳，哼。
+Ahem, ahem.
+
+# ~2278487f
+; （向后看去）
+(Regardez en arrière.)
+
+# ~2e6a9a04
+; 莉莉丝……？
+Lilith…?
+
+# ~c35379b
+; 终于见到你了……
+Je t'ai enfin trouvé…
+
+# ~1c694c3d
+; 你在搞什么，莉莉丝？
+Qu'est-ce qui se passe, Lilith?
+
+# ~d98b4ae0
+; <i>「逐梦者大人，莉莉丝现在不方便回复你，这是她给你的留言。」</i>
+<i>"Le Paradoxe  Morphéen, Lilith n'est pas disponible pour répondre pour le moment. <br>
+Voici le message qu'elle vous a laissé."</i>
+
+# ~eae3a413
+; <i>「拜托啦！游戏流程有限，你现在就接受这个设定吧！」</i>
+<i>"S'il te plaît, suis simplement les instructions pour l'instant, d'accord ?!"</i>
+
+# ~6cf671e7
+; 好吧……
+D'accord…
+
+# ~30c77ae0
+; 终于见到你了，逐梦者大人。
+Je t'ai enfin trouvé, Le Paradoxe Morphéen.
+
+# ~e0638bfd
+; 我每天都在这里等待着你，思念着你，对着天空祈愿你的平安。
+Chaque jour, je vous ai attendu ici, j'ai pensé à vous,  <br>
+priant pour ta sécurité sous le ciel ouvert.
+
+# ~e6b77c8d
+; 而现在，你终于出现在了我的面前。对我来说，这简直就像梦境一样。
+Et maintenant, vous êtes enfin là, devant moi. Pour moi, c'est comme un rêve qui devient réalité.
+
+# ~35747195
+; 你真的……就在我的面前吗？
+Êtes-vous vraiment… devant moi ?
+
+# ~df0cc77f
+; 嗯，我们回家吧，公主大人。
+Oui, rentrons à la maison, princesse.
+
+# ~111347d8
+; 好无聊的游戏，好奇怪的设定，好老套的台词……
+Quel jeu ennuyeux, quel scénario bizarre, quels dialogues ringards…
+
+# ~28ede4dd
+; （跪下身，轻吻莉莉丝的手）
+(Il s'agenouille et embrasse la main de Lilith.)
+
+# 21611
+; ……！
+……！
+
+# ~2aad6f54
+; 嗯，谢谢你，逐梦者大人。
+Merci, Le Paradoxe Morphéen.
+
+# ~d8bba4ac
+; 伟大的逐梦者啊，你成功救回了公主，拯救了这个国家，
+Oh, super ! Le Paradoxe Morphéen, vous avez sauvé à la fois la princesse et le royaume.
+
+# ~7591e778
+; 我向你表达最真挚的感激。
+Je vous exprime ma plus profonde gratitude.
+
+# ~11a0bae9
+; 我要将王位传给你，你就和莉莉丝公主一起过上幸福的生活吧。
+Je vous céderez mon trône. Vivez heureux pour toujours avec la princesse Lilith.
+
+# ~de52e42d
+; 我明白了，我会成为国王，并给莉莉丝公主带来幸福。
+D'accord. Je deviendrai roi et rendrai la princesse Lilith heureuse.
+
+# ~9f59bcae
+; 继承王位？我不行的……
+Prendre le trône ? Je ne peux pas…
+
+# ~9b8e3aa1
+; 嗯，我们要一直幸福下去！
+Oui, nous serons toujours heureux ensemble !
+
+# ~e118968
+; BAD END 2：从此以后，逐梦者和公主一起过上了幸福的生活……
+MAUVAISE FIN 2 : À partir de ce moment-là, le Paradoxe Morphéen et la princesse vécurent heureux pour toujours…
+
+# ~5bd54d44
+; 我根本不想面对这些事情，我只想和莉莉丝在一起……
+Je ne peux pas assumer toutes ces responsabilités. Je veux juste être avec Lilith…
+
+# ~212811e7
+; 所以，还是让莉莉丝来继承王位吧。
+Alors, laissons Lilith hériter du trône à sa place.
+
+# ~746530cf
+; 我继承王位的话，你想做什么？
+Si je monte sur le trône, que veux-tu faire ?
+
+# ~5c1c71b8
+; 想成为莉莉丝的伙伴。
+Je veux être le compagnon de Lilith.
+
+# ~3b38fe06
+; 想成为公主的骑士。
+Je veux être le chevalier de la princesse.
+
+# ~2f19a86d
+; 想成为主人的沙发。
+Je veux être le canapé de la princesse.
+
+# ~4ab1b2fd
+; 嗯，我明白了。
+Compris.
+
+# ~63911a1c
+; 这样的感觉，或许也不错呢……
+Ce n'est peut-être pas si mal…
+
+# ~d66aa0b8
+; BAD END 3：从此以后，莉莉丝和伙伴过上了快乐的生活……
+MAUVAISE FIN  3 :  <br>
+À partir de ce moment-là, Lilith et son compagnon vécurent heureux…
+
+# ~78ffe0e4
+; BAD END 4：从此以后，在公主和骑士的努力下，王国长治久安。
+MAUVAISE FIN  4 :  <br>
+À partir de ce moment-là, grâce aux efforts de la princesse et de son chevalier, le royaume prospéra.
+
+# ~4ae5f80c
+; BAD END 5：从此以后，莉莉丝得到了一把舒适的沙发。
+MAUVAISE FIN  5 :  <br>
+À partir de ce moment-là, Lilith reçut un canapé très confortable.
+
+# ~ef491970
+; 怎么样怎么样？是不是超棒的大冒险？
+Qu'en pensez-vous ? N'est-ce pas la meilleure aventure qui soit ?
+
+# ~938a9124
+; 非常有趣，第一次玩到这种游戏。
+C'est assez intéressant. Je n'ai jamais joué à quelque chose de similaire auparavant.
+
+# ~cc6511ca
+; 还行吧，希望可攻略对象能再丰富一点。
+C'est pas grave. Il faudrait plus d'options romantiques.
+
+# ~f4ba6d16
+; 嗯，嗯！
+Hmm, hmm !
+
+# ~833794af
+; 唔……
+Um……
+
+# ~ba652a4b
+; 算啦。
+Laissez tomber.
+
+# ~5a423572
+; 「不/存在的逐梦者：银葱之森」还没有设计完成，可以期待一下它的完整版哦。
+"Le Paradoxe Morphéen : La forêt des échalotes argentées est encore en cours de développement, alors attendez avec impatience sa version complète !
+
+# ~d6734668
+; 希望我们可以再一起经历那些新奇而又令人激动的冒险故事。
+J'espère que nous pourrons vivre d'autres aventures passionnantes ensemble.
+
+# ~3f6931ab
+; 莉莉丝以后会为你做出更棒的游戏！让你能体验到幸福的感觉。
+Lilith créera un jeu encore meilleur pour vous la prochaine fois,  <br>
+afin que vous puissiez connaître le vrai bonheur.
+
+# ~a16332d7
+; 不是只有在游戏中才能体验到这些。
+Ce n'est pas seulement des jeux.
+
+# ~95e92b17
+; 你陪伴我的每一天，我都非常满意和充实。
+Chaque jour que je passe avec toi est enrichissant et significatif.
+
+# ~53e651ca
+; 莉莉丝，只要有你，我觉得我能重新喜欢上这个世界。
+Lilith, tant que tu es à mes côtés, je pense que je peux retomber amoureux du monde.
+
+# ~e2d9212a
+; 真的吗……？
+Vraiment…
+
+# ~d6a2fdfd
+; 世界什么的管他呢，只要有莉莉丝就可以了！
+Le monde n'a pas d'importance, tant que j'ai Lilith !
+
+# ~3492ad32
+; 莉莉丝依偎在你的身旁，你们一起度过了一段幸福的时光……
+Lilith se blottit contre toi, et vous partagez tous les deux un moment de bonheur…
+
+# ~69736836
+; 这个游戏……很无聊吗？
+Ce jeu… est-il ennuyeux ?
+
+# ~f67f1874
+; 没错，简直太无聊了。
+Oui, c'est vraiment ennuyeux.
+
+# ~436e277
+; 不，我开玩笑的。
+Non, je plaisante.
+
+# ~f3937cf4
+; 我们回家吧，公主大人。
+Rentrons à la maison, princesse.
+
+# 217221
+; ……
+……
+
+# ~91b3e50b
+; 嗯，好呀。
+Mm, d'accord.
+
+# ~45c9588
+; 一路上的展开都莫名其妙，如果到最后都还没有什么转折，那明显是烂作中的烂作。
+L'histoire est tellement aléatoire.  <br>
+Si il n'y a pas de rebondissement à la fin, ce jeu sera un désastre.
+
+# ~4bc159bf
+; 那……我该怎么做才比较好？
+Alors… que dois-je faire pour améliorer la situation ?
+
+# ~907bfb93
+; 比如说，准备救的公主其实是坏人，这种最低限度的转折总得有吧？
+Par exemple, faites en sorte que la princesse que vous sauvez soit en réalité la méchante. <br>
+C'est un peu le minimum en matière de rebondissement, non ?
+
+# 217231
+; ……
+……
+
+# ~efd51b44
+; 果然中计了，哈……哈，哈哈！
+Ah, vous vous êtes fait avoir ! Ha… ha, haha !
+
+# ~62e77147
+; 没错，这正是我的计划！我才是……魔王……！
+C'est vrai, c'était mon plan depuis le début ! En fait, je suis… le Seigneur Démon… !
+
+# ~2aa3aac2
+; 逐梦者，费尽心思把你引诱到这里来，就是为了杀掉你……你中了我的圈套。
+Le Paradoxe Morphéen, tous les efforts que j'ai déployés pour t'attirer ici n'avaient pour but que de te tuer… vous êtes tombé droit dans mon piège.
+
+# ~cda635dd
+; 「<ruby="驱逐">逐</ruby>梦之路」，可没有那么简单！
+"Le chemin du <ruby="Banish">Paradoxe Morphéen</ruby>" n'est pas aussi simple que vous le pensiez !
+
+# ~4bcd48e6
+; 魔王！看来只能在这里击败你了！
+Seigneur Démon ! On dirait que la seule solution est de te vaincre ici !
+
+# ~cdd946a2
+; 对不起对不起对不起对不起对不起，我不知道为什么自己刚才会说出那些话，请你原谅我……
+Je suis désolée, je suis désolée, je suis désolée, <br>
+je ne sais pas pourquoi j'ai dit ça tout à l'heure, pardonnez-moi…
+
+# ~bc40c1fa
+; BAD END 6：逐梦者识破了魔王莉莉丝的阴谋，消灭了公主，成功拯救了世界……
+MAUVAISE FIN 6 :  <br>
+Le Paradoxe Morphéen a dévoilé le complot du Seigneur Démon Lilith, vaincu la Princesse et sauvé le monde…
+
+# 217421
+; ……
+……
+
+# ~e2274523
+; ……这可不像逐梦者会说的话啊。
+…Cela ne semble pas être quelque chose que dirait un Paradoxe Morphéen.
+
+# ~90251e4
+; 对不起，对不起，我真的不知道我刚才到底在想什么，对不起。
+Je suis désolé, je suis désolé, je ne sais vraiment pas à quoi je pensais tout à l'heure, je suis désolé.
+
+# ~4555ce58
+; 我好过分，明明你这么努力地做出了这个游戏，我却说这样恶毒的话。
+J'ai été tellement méchant. Tu as travaillé si dur pour créer ce jeu, et j'ai dit des choses si cruelles.
+
+# ~fe9a2a2a
+; 请不要自责，毕竟这是为了让你开心才做的游戏呀。
+Ne vous en voulez pas. Après tout, ce jeu a été conçu pour vous rendre heureux.
+
+# ~a516b1e3
+; 啊，但现在的莉莉丝已经是魔王了。
+Ah, mais maintenant Lilith est déjà le Seigneur Démon.
+
+# ~dec1e3b1
+; 不过，如果是逐梦者大人的话，一定能拯救迷途的心灵吧？
+Mais, s'il s'agit du Paradoxe Morphéen, tu seras sûrement capable de sauver une âme perdue, n'est-ce pas ?
+
+# ~9c55ad5e
+; 我明白了……
+Je comprends maintenant…
+
+# ~59d0c537
+; 谢谢你……
+Merci…
+
+# ~d9adbdd5
+; 你愿意重新成为善良的公主吗？
+Serais-tu prête à redevenir la gentille princesse ?
+
+# ~b4dfeb80
+; 嗯，我愿意哦。
+Mm, avec plaisir.
+
+# ~b845aad3
+; ……抱太紧了啦。
+…Trop serré, cependant.
+
+# ~47c769f1
+; BAD END 7：逐梦者成功劝说公主改邪归正，二人一起过上了快乐幸福的生活。
+MAUVAISE FIN 7 :  <br>
+Le Paradoxe Morphéen réussit à convaincre la princesse de revenir sur le chemin du bien, et tous deux vécurent heureux et comblés.

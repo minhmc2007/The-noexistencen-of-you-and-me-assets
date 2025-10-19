@@ -1,0 +1,274 @@
+; Chinese (S) <zh-CN> to Korean <ko> localization document for `DefaultUI` managed text document
+
+; NO
+Confirmation.No: 아니오
+
+; YES
+Confirmation.Yes: 네
+
+; LOAD
+ControlPanel.Load: 불러오기
+
+; 日志
+ControlPanel.Log: 로그
+
+; SAVE
+ControlPanel.Save: 저장하기
+
+; 设置
+ControlPanel.Settings: 설정
+
+; SKIP
+ControlPanel.Skip: 건너뛰기
+
+; TIPS
+ControlPanel.Tips: 도움말
+
+; TITLE
+ControlPanel.Title: 주 화면
+
+; 一瞬追忆
+DefaultUI.Gallery: 기억의 바다
+
+; Select a script to play
+ExternalScriptsBrowser.Info: 스크립트를 선택하세요
+
+; EXTERNAL SCRIPTS
+ExternalScriptsBrowser.Title: 외부 스크립트
+
+; CLOSE
+General.Close: 닫기
+
+; DELETE
+General.Delete: 지우기
+
+; NAV.
+General.Navigate: 내비
+
+; PAGE
+General.Page: 페이지
+
+; 恢复默认
+General.ResetDefault: 초기화
+
+; 恢复默认
+General.RestoreDefault: 초기화
+
+; 返回
+General.Return: 돌아가기
+
+; SCROLL
+General.Scroll: 스크롤
+
+; SELECT
+General.Select: 선택
+
+; TAB
+General.Tab: 탭
+
+; Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
+Naninovel.UI.ControlPanelTitleButton.ConfirmationMessage: 정말 주 화면으로 돌아갈 거야?<br>저장하지 않은 것들은 초기화될 텐데.
+
+; Default
+Naninovel.UI.GameSettingsFontDropdown.DefaultFontName: 기본값
+
+; Default
+Naninovel.UI.GameSettingsFontSizeDropdown.Default: 기본값
+
+; Extra Large
+Naninovel.UI.GameSettingsFontSizeDropdown.ExtraLarge: 아주 크게
+
+; Large
+Naninovel.UI.GameSettingsFontSizeDropdown.Large: 크게
+
+; Small
+Naninovel.UI.GameSettingsFontSizeDropdown.Small: 작게
+
+; Very Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption1: 아주 낮게
+
+; Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption2: 낮게
+
+; Medium
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption3: 중간
+
+; High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption4: 높게
+
+; Very High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption5: 아주 높게
+
+; Ultra
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption6: 울트라
+
+; Full Screen
+Naninovel.UI.GameSettingsScreenModeDropdown.ExclusiveFullScreen: 전체 화면
+
+; Full Screen Window
+Naninovel.UI.GameSettingsScreenModeDropdown.FullScreenWindow: 전체 화면 창
+
+; Maximized Window
+Naninovel.UI.GameSettingsScreenModeDropdown.MaximizedWindow: 꽉 찬 창
+
+; Windowed
+Naninovel.UI.GameSettingsScreenModeDropdown.Windowed: 창 모드
+
+; Everything
+Naninovel.UI.GameSettingsSkipModeDropdown.Everything: 전부
+
+; Read Only
+Naninovel.UI.GameSettingsSkipModeDropdown.ReadOnly: 읽기 전용
+
+; Empty
+Naninovel.UI.GameStateSlot.EmptySlotLabel: 비어 있음
+
+; Are you sure you want to delete save slot?
+Naninovel.UI.SaveLoadMenu.DeleteSaveSlotMessage: 이 슬롯의 데이터를 지울래?
+
+; Are you sure you want to overwrite save slot?
+Naninovel.UI.SaveLoadMenu.OverwriteSaveSlotMessage: 이 슬롯의 데이터를 덮어쓸래?
+
+; 修正值：
+QTEPanel.ScoreName: 보정값
+
+; 你不是时光机器
+QTEPanel.Text1: 너는 타임 머신이 아니야
+
+; 你是烤箱
+QTEPanel.Text2: 너는 오븐이야
+
+; 你并非不是一个烤箱
+QTEPanel.Text3: 너는 오븐이 아니야
+
+; 你除了烤箱还能是什么呢
+QTEPanel.Text4: 하지만 오븐 말고 또 뭐가 될 수 있을까?
+
+; 你从来都是烤箱
+QTEPanel.Text5: 너는 언제나 오븐이었을 텐데
+
+; LOAD
+SaveLoadMenu.Tab.Load: 불러오기
+
+; Q. LOAD
+SaveLoadMenu.Tab.QuickLoad: 퀵 로드
+
+; SAVE
+SaveLoadMenu.Tab.Save: 저장하기
+
+; 「我」
+SettingsMenu.CharacterTitle: 「나의」
+
+; 繁体中文
+SettingsMenu.ChineseHK: 繁体中文
+
+; 简体中文
+SettingsMenu.ChineseLanguage: 简体中文
+
+; 汉语
+SettingsMenu.ChineseVoice: 중국어
+
+; English
+SettingsMenu.EnglishLanguage: English
+
+; es
+SettingsMenu.esLanguage: 
+
+; fr
+SettingsMenu.frLanguage: Français
+
+; it
+SettingsMenu.itLanguage: Italiano
+
+; 无边框
+SettingsMenu.FullScreenWindow: 경계 없는 창
+
+; 印度尼西亚语
+SettingsMenu.idLanguage: Bahasa Indonesia
+
+; 日本语
+SettingsMenu.JapanLanguage: 日本語
+
+; 日本语
+SettingsMenu.JapanVoice: 일본어
+
+; 한국어
+SettingsMenu.koLanguage: 한국어
+
+; 游戏语言
+SettingsMenu.Language: 언어
+
+; 全屏
+SettingsMenu.MaximizedWindow: 전체 화면
+
+; 文本显示速度
+SettingsMenu.MessageSpeed: 텍스트 속도
+
+; 静音
+SettingsMenu.Mute: 음소거
+
+; 「你」
+SettingsMenu.PlayerTitle: 「당신의」
+
+; Modo de Exibição
+SettingsMenu.ptbrLanguage: Português (Brasil)
+
+; Русский
+SettingsMenu.ruLanguage: Русский
+
+; 显示模式
+SettingsMenu.ScreenMode: 화면 모드
+
+; 西班牙语
+SettingsMenu.SpanishVoice: 스페인어
+
+; French
+SettingsMenu.FrenchVoice: French
+
+; 的设置
+SettingsMenu.Title: 설정
+
+; Türkçe
+SettingsMenu.trLanguage: Türkçe
+
+; Українська мова
+SettingsMenu.ukLanguage: Українська мова
+
+; Tiếng Việt
+SettingsMenu.viLanguage: Tiếng Việt
+
+; 游戏语音
+SettingsMenu.VoiceLanguage: 음성 언어
+
+; 音效音量
+SettingsMenu.VolumeEffects: 효과음
+
+; 背景音乐音量
+SettingsMenu.VolumeMusic: 배경음
+
+; 语音音量
+SettingsMenu.VolumeVoice: 음성 크기
+
+; 窗口
+SettingsMenu.Windowd: 창 모드
+
+; 历史记录
+TextTitle: 히스토리
+
+; 过去，现在，\n和未来
+TextTitle (1): 과거, 현재, <br>그리고 미래.
+
+; 继续游戏
+TitleMenu.CustomEnterGame: 계속하기
+
+; 退出游戏
+TitleMenu.Exit: 나가기
+
+; 致谢
+TitleMenu.Extras: 엑스트라
+
+; 设置
+TitleMenu.Settings: 설정
+
+; SUBMIT
+VariableInput.Submit: 확인

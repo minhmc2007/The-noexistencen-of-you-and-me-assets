@@ -1,0 +1,151 @@
+; Chinese (S) <zh-CN> to Spanish <es> localization document for `FakeED` managed text document
+
+; 「存在」
+「存在」: "Existencia"
+
+; <style=Custom1>CAST</style>
+CAST: <style=Custom1>REPARTO</style>
+
+; END
+END: FIN
+
+; <style=Custom1>STAFF</style>
+STAFF: <style=Custom1>EQUIPO</style>
+
+; 书桌
+书桌: Escritorio
+
+; 低筋面粉
+低筋面粉: Harina baja en gluten
+
+; 你
+你: Tú
+
+; <style=Custom2>制作人</style>
+制作人: <style=Custom2>Productor</style>
+
+; <style=Custom2>动作指导</style>
+动作指导: <style=Custom2>Coordinador de acción</style>
+
+; <style=Custom2>化妆设计</style>
+化妆设计: <style=Custom2>Diseñador de maquillaje</style>
+
+; 发带
+发带: Cinta para cabello
+
+; 地板
+地板: Piso
+
+; 墙壁
+墙壁: Pared
+
+; 夏特露
+夏特露: Sartre
+
+; 夏特露酱
+夏特露酱: Sartre
+
+; 学者
+学者: Erudito
+
+; <style=Custom2>导演</style>
+导演: <style=Custom2>Director</style>
+
+; 弗子
+弗子: Fouco
+
+; 收音机
+收音机: Radio
+
+; <style=Custom2>替补演员</style>
+替补演员: <style=Custom2>Actor suplente</style>
+
+; <style=Custom2>服装设计</style>
+服装设计: <style=Custom2>Diseñador de vestuario</style>
+
+; 枕头
+枕头: Almohada
+
+; 椅子
+椅子: Silla
+
+; 沥水架
+沥水架: Escurridor
+
+; <style=Custom2>灯光操作</style>
+灯光操作: <style=Custom2>Operador de iluminación</style>
+
+; <style=Custom2>灯光设计</style>
+灯光设计: <style=Custom2>Diseñador de iluminación</style>
+
+; 烤箱
+烤箱: Horno
+
+; 牛奶
+牛奶: Leche
+
+; 神秘少女
+神秘少女: Chica misteriosa
+
+; 窗户
+窗户: Ventana
+
+; 粉色药丸
+粉色药丸: Píldora rosa
+
+; 细砂糖
+细砂糖: Azúcar
+
+; 绿色药丸
+绿色药丸: Píldora verde
+
+; <style=Custom2>编剧</style>
+编剧: <style=Custom2>Guionista</style>
+
+; <style=Custom2>舞台设计</style>
+舞台设计: <style=Custom2>Diseñador de escenario</style>
+
+; 莉莉丝
+莉莉丝: Lilith
+
+; 莉莉丝公主
+莉莉丝公主: Princesa Lilith
+
+; 蛋糕
+蛋糕: Pastel
+
+; 逐梦之典
+逐梦之典: Libro de los Sueños
+
+; <style=Custom2>道具师</style>
+道具师: <style=Custom2>Encargado de utilería</style>
+
+; 那个人
+那个人: Extraño
+
+; 镜子
+镜子: Espejo
+
+; <style=Custom2>音响操作</style>
+音响操作: <style=Custom2>Operador de sonido</style>
+
+; <style=Custom2>音响设计</style>
+音响设计: <style=Custom2>Diseñador de sonido</style>
+
+; 食用油
+食用油: Aceite
+
+; 饰
+饰: como
+
+; 魔王
+魔王: Rey Demonio
+
+; 魔王莉莉丝
+魔王莉莉丝: Rey Demonio Lilith
+
+; 黄色药丸
+黄色药丸: Píldora amarilla
+
+; 黑色笔记本
+黑色笔记本: Cuaderno negro

@@ -1,0 +1,521 @@
+; Chinese (S) <zh-CN> to Turkish <tr> localization document for `Prologue0_1` naninovel script
+
+# ~43338c60
+; 第█章：初遇
+Bölüm █: İlk Karşılaşma
+
+# ~5898bf9e
+; 在那个<ruby="上午">下午</ruby>，莉莉丝出现了。
+O <ruby="sabah">öğleden sonrası</ruby>, Lilith ortaya çıktı.
+
+# ~a5b4d33a
+; 躺在床上的我，已经分不清睡了多久，也不再记得上一次进食是什么时候。
+Yatakta yatıyorum, ne kadar zamandır uyuduğumu bilmiyorum<br>
+ ve en son ne zaman yemek yediğimi dahi hatırlamıyorum.
+
+# ~e0424bd2
+; 我唯一要做的，就是在这里死去，然后等待我的身体腐烂。
+Bana geriye kalan tek şey burada ölmek... ve bedenimin çürümesini beklemek.
+
+# ~4acc86a7
+; 就在这时，她出现在了窗边。
+Ve sonra...... Camın yanı başında ortaya çıktı.
+
+# ~3ea899f
+; ……;; @wait 2
+......
+
+# ~4d077d75
+; <i>「她没有说什么，只是侧头看着你，仿佛你是她房间里的某样物品。」</i>;; 这个背景音乐适配性很好
+<i>"Hiçbir şey demedi, başını eğip sana doğru baktı—<br>
+odasındaki herhangi bir eşyaymışçasına."</i> 
+
+# ~1607ac36
+; <i>「当然，你才是这个房间真正的主人」</i>
+<i>"Tabii ki sen bu odanın gerçek efendisisin."</i>
+
+# ~f49e57de
+; <i>「你很久没和人说过话了。所以你得想好一阵，才能领悟到该如何开口。」</i>
+<i>"Birileriyle konuşmayalı epey vakit geçti.  <br>
+Bu yüzden, nasıl başlayacağını düşünmek zorunda kalıyorsun." </i>
+
+# ~af3216ff
+; 我是谁……
+Kimim ben......
+
+# ~fb7c1b9a
+; 我在哪里……
+Neredeyim ben......
+
+# ~1ea571f2
+; 我该做什么……
+Ne yapmalıyım......
+
+# ~31f07f91
+; 我刚刚，是成功说出话了？
+Konuşabildim mi?
+
+# ~6c459d7b
+; 还是说，在这个游戏里，用鼠标点击选项的行为没有任何意义？
+Yoksa bu oyundaki seçimler anlamsız mı?
+
+# ~e24292b5
+; <i>「沉默。沉默过后仍然是沉默，但沉默总是要被打破的。」</i>
+<i>"Sessizlik. Sessizlik sessizliği kovalıyor ancak sessizlik her zaman bozulmalı."</i>
+
+# ~3438c72b
+; 嗯，我听见了。
+Evet, seni duydum.
+
+# ~ee3746b3
+; 你是这个游戏的主角，正在你的房间里，准备攻略美少女。
+Sen bu oyunun baş kahramanısın, odanda oturuyorsun ve güzel bir kızın kalbine giden yolu takip etmeye hazırsın.
+
+# ~3542ec66
+; 那你呢？
+Peki ya sen?
+
+# ~e9fd6685
+; 你是一张贴图吗？
+Sadece ekrandaki bir doku musun?
+
+# ~cfcda5e7
+; 你是我的妄想症产物吗？
+Hayal gücümün bir uydurması mısın?
+
+# ~12d94ef3
+; 你是和我邂逅的美少女吗？
+Karşılaştığım güzel hanım mısın?
+
+# ~59857444
+; 你是真想知道，还是因为选项框里只有关于我的选项？
+Gerçekten bilmek istiyor musun, yoksa "benden" başka bir seçeneğin olmadığı için mi?
+
+# ~9d2deef4
+; <i>「下一秒，她从你的视线里消失了。」</i>
+<i>"Bir anda, gözden kayboldu"</i>
+
+# ~f63735ec
+; <i>「然后，她又出现了。这次你们之间的距离更近。」</i>
+<i>"Sonra, tekrar belirdi bu sefer öncekinden de yakın."</i>
+
+# ~cb957c85
+; <i>「你理解了这个行为。也就是说，她刚才朝你走了过来。」</i>
+<i>"Ne yaptığını fark ettin—Sana bir adım daha yaklaştı."</i>
+
+# ~4383be19
+; <i>「……还是说，是你朝着她走了过去？」</i>
+<i>"...... Yoksa sen mi ona doğru yürüdün?"</i>
+
+# ~c5ba2045
+; <i>「红色的光，那是她的眼睛，她用眼睛注视着我——这是此刻你的想法。」</i>
+<i>"Göz kırpmayan, kızıl parlayan bakışlarıyla beni delip geçti— bu düşünce aklına takıldı ancak başkasına aitmiş gibi hissettiriyordu.
+
+# ~71eaec3d
+; 等等，这些嘈杂的声音是什么？
+Bir saniye, bu gürültü de ne?
+
+# ~50ae902b
+; <i>「您问我们吗？我们是您房间中的家具。」</i>
+<i>"Bize mi soruyorsun? Biz odandaki eşyalarız."</i>
+
+# ~44902ea8
+; <i>「您过去花了很长的时间和「我们」对话，所以我们对您的一切都非常熟悉。」</i>
+<i>"'Bizimle' konuşarak epey zaman geçirdin<br>
+bu yüzden, senin hakkındaki her şeye epey aşinayız, canım arkadaşım."</i>
+
+# ~66b2e167
+; <i>「总之，你可以把我们理解成你的「感官」。」</i>
+<i>"Kısacası, bizi ‘hislerin' olarak düşünebilirsin, şerefli kişi?"</i>
+
+# ~87d6cc89
+; 得了吧，你们只是物品，物品也配被叫做「感官」吗？
+Hadi ama siz sadece eşyasınız. Eşyalar gerçekten "his" olarak adlandırılmaya hakkı var mı?
+
+# ~d7243eb5
+; 噢噢！好久不见，我最忠实的臣子们。
+Ah, benim en sadık vatandaşlarım! Yeterince uzun zaman oldu değil mi?
+
+# ~1c4a8a02
+; <i>「好久不见，陛下，您还是一如既往地有精神。」</i>
+<i>"Uzun zaman oldu majesteleri. Her zamanki gibi ağırbaşlı ve hayat dolusunuz."</i>
+
+# 11
+; ……
+......
+
+# ~8d8700e8
+; 被人盯着的感觉如何？
+Birinin gözlerini sana dikmesi nasıl bir his?
+
+# ~b256bee4
+; 太棒了，我可以像这样被你一直注视下去。
+Harika. Bakışlarınla bu şekilde sonsuza kadar kalabilirim.
+
+# ~e375b400
+; 你戴了美瞳吗？为什么只有你的眼睛有颜色？
+Renkli lens mi takıyorsun? Neden bir tek gözlerinin rengi var?
+
+# ~d643bf51
+; 你盯得我心里发毛，我讨厌这种感觉。
+Bana öyle sert bakıyorsun ki tüylerimi ürpertiyorsun. Bu histen nefret ediyorum.
+
+# ~5a3d4a4
+; 嗯，那我们就这样一直注视着对方，直到死掉为止吧。
+Hımm, o halde ölene kadar bakışmaya devam edelim.
+
+# ~8eec13a8
+; 我们真的会「死」吗？
+Gerçekten ‘ölecek' miyiz?
+
+# ~eda68ca5
+; 感觉有点腻了……
+Bundan biraz sıkılmaya başladım......
+
+# ~1447203
+; 当然……;; scale:1.25 pos:52,45 wait:false time:1
+Tabii ki......
+
+# 012a
+; ……
+......
+
+# ~ab7d5c62
+; 这样的话可是很毁气氛的哦。
+Ortamı mahvettin, biliyorsun değil mi?.
+
+# ~8ccbb618
+; 算啦，就当是你在夸奖我的眼睛好看吧~
+Ah öyle mi? Bunu gözlerimin güzelliğine bir iltifat olarak alacağım~.
+
+# ~40a0784f
+; <i>「她没有回应，继续注视着你。」</i>
+<i>"Cevap vermiyor ve sana dik dik bakmaya devam ediyor."</i>
+
+# ~65b82a13
+; <i>「那样的目光简直就像一根柔软的刺，仿佛能将你的心看穿。」</i>
+<i>"O bakışlar sanki kalbini delip geçebilecek yumuşak bir diken gibi hissettiriyor."</i>
+
+# ~fd5a5b06
+; 那么，你觉得我是真实存在的吗？
+O halde söyle bakalım—var olduğuma gerçekten inanıyor musun?
+
+# ~216de7ef
+; <i>「那么，你觉得她是真实存在的吗？」</i>;; @back CG_2_6 wait:false time:0.7
+<i>"O halde gerçekten var olduğuna inanıyor musun?"</i>
+
+# ~3411672a
+; 我不确定，我想和你一起寻找这个问题的答案。
+Emin değilim. Bu sorunun cevabını seninle beraber keşfetmek istiyorum.
+
+# ~c61a0fbf
+; 我得到了一个拥抱？
+Bana sarıldı mı?
+
+# ~7181759d
+; 它是一个「仪式」。为了能让你感受到我，而进行的仪式……
+Bu bir çeşit ritüel. Varlığımı hissetmeni amaçlayan bir ritüel...
+
+# ~525f3ccc
+; 没错，这个行为可以恰如其分地被称做「拥抱」。
+Bu jeste kesinlikle 'sarılma' denebilir".
+
+# ~bef73055
+; 所以，此刻的你是什么感觉？
+Peki şimdi nasıl hissediyorsun?
+
+# ~a053ca47
+; 一张崭新的A4纸，拿出来的时候划破了手。
+Yepyeni bir A4 kağıdını çıkarırken parmağını kesmesi gibi.
+
+# ~92b94788
+; 柔软的猫毛飘到了手掌心。
+Bir kediyi severken avucuna gelen yumuşaklık gibi.
+
+# ~a60ee00a
+; 空气里掺入粉笔屑和灰尘，被吸进鼻腔。
+Tebeşir tozu ve döküntülerinin havaya karışıp burnundan içeri girmesi gibi.
+
+# ~d59d6f17
+; 听你的描述，这像是「触感」。
+Tarifine bakılırsa "dokunmak" gibi görünüyor.
+
+# ~43040619
+; 也就是说，只有一些细微的感觉？
+Yani sadece belli belirsiz hisler, öyle mi?
+
+# ~4ca079d5
+; 嗯……
+Hımm......
+
+# ~30b14c54
+; 现在我抱得更紧了。这样一来，我们就离得更近了。
+Şimdi sana daha sıkı sarılıp ve birbirimizi daha da yakınlaştırıyorum.
+
+# ~95db75ea
+; 所以，被紧紧「拥抱」着的你，是什么感觉？
+Peki, sıkı bir şekilde kucaklanmak nasıl bir duygu?
+
+# ~8646eaa7
+; 沾湿的塑料袋掉在雨天的地上。
+Yağmurlu bir günde düşürülen ıslak bir plastik poşet gibi.
+
+# ~11cfc5f8
+; 第一株新芽从泥土中破壳而出。
+Topraktan çıkan ilk filiz gibi.
+
+# ~cd911133
+; 食物残渣在胃液里消化。
+Mide asidinde eriyen yemek parçaları gibi.
+
+# ~5126747d
+; 太好了，感觉变得更加强烈了呢……
+Mükemmel, hisler daha da güçleniyor......
+
+# ~51b0a5f3
+; 现在我抱得更紧了。这样一来，我们就合二为一了。
+Şimdi sana daha sıkı sarılıyorum. Böylelikle bir oluyoruz.
+
+# ~a1422ff6
+; 所以，被深深「拥抱」着的你，是什么感觉？
+Peki, sımsıkı "kucaklanmak" nasıl hissettiriyor.?
+
+# ~abe5d0b2
+; 没什么特别的感觉。
+Ahım şahım değil.
+
+# ~2767a1c
+; 我重获新生了！
+Yeniden doğdum!
+
+# ~6eef6418
+; 我快不能呼吸了……
+Daha fazla nefes alamıyorum......
+
+# ~8840d2c2
+; 救命！救命！
+Yardım edin! Yardım edin!
+
+# ~76f55adc
+; 我简直好得不能再好……
+Daha iyi hissetmemiştim......
+
+# ~e505d1a7
+; 嘿嘿……嘿嘿……
+Heh heh...... heh heh.....
+
+# ~4691e88a
+; 面对行刑队的时候，奥雷里亚诺上校会想起那个父亲带他看冰块的下午。
+Albay Aureliano Buendia, yıllar sonra idam mangasının karşısında dikildiğinde, babasının onu buzu keşfetmeye götürdüğü o çok uzaklarda kalmış ikindi vaktini anımsayacaktı.
+
+# ~3b556567
+; 世界是我的表象，这样的考察虽然具有片面性，但却不失为真理。
+Dünya benim temsilim; Bu bakış açısı tek taraflı olsa bile gerçeği içinde barındırıyor.
+
+# ~cfbae466
+; 启蒙运动就是人类脱离自己所加之于自己的不成熟状态。
+Aydınlanma, insanlığın kendi var olan toyluğundan kurtuluşudur.
+
+# ~7a9d2dff
+; 柯西莫在树上。树枝向外伸展，凌空架起一道高高的桥梁。
+Cosimo ağaçlarda yaşardı. Dışarı uzayan dallar havada görkemli bir köprü oluşturuyordu.
+
+# ~21441692
+; 存在者存在，非存在者不存在。
+Var olan şey vardır; var olmayan şey yoktur.
+
+# ~8693ba46
+; 四月十六日早晨，里厄医生从他的诊所走出来时，在楼梯口踢到一只死老鼠。
+16 Mayıs sabahı, Dr. Rieux kliniğinden çıktığında merdivenlerin sonunda ölü bir fareye ayağı takıldı.
+
+# ~75de281
+; 人创造了万物的尺度和目的。尽管如此，这创造也必将朽坏。
+İnsan her şeyin ölçütüdür. Neyin var olduğuna ve olmadığına karar verir ancak bu yaratım bile çürümeye mahkumdur.
+
+# ~9e93ea93
+; 爱丽丝紧紧地追赶兔子，刚好看见兔子跳进了矮树下面的一个大洞。
+Alice tavşanı kovaladı ve çalının altındaki büyük bir deliğe atladığını gördü.
+
+# ~88381a52
+; 他好像这样一个人，被剥掉了皮肤，进入猛烈的狂风暴雨中搏斗。
+Amansız bir savaşın içine düşmüş, derisi soyulmuş bir adama benziyordu.
+
+# ~466a156b
+; 准是有人诬陷了K，因为在一个晴朗的早晨，他无缘无故地被捕了。
+Sebepsiz yere tutuklanmıştı. Josef K.'ye birisi iftira atmış olmalıydı.
+
+# ~c0cd88d7
+; 我爱你。
+Seni seviyorum.
+
+# ~28da87a2
+; 我讨厌你。
+Senden nefret ediyorum.
+
+# ~23ea2be4
+; 很好！「仪式」成功了。
+Mükemmel! "ritüel" başarılı.
+
+# ~2466250a
+; 我感动得都快要哭出来了呢……
+Çok dokunaklı neredeyse ağlayacağım......
+
+# ~f832fad2
+; 总之，我叫莉莉丝。很高兴能见到你！
+Neyse, adım Lilith. Seninle tanışmak büyük bir şeref!
+
+# ~fe625f1b
+; 无论多少次，我都会接纳你的存在。
+Kaç defa olursa olsun, senin varlığını her zaman kucakliyacağım.
+
+# ~b1c775b5
+; 哎……？
+Ne......?
+
+# ~5d0d725e
+; 我们又见面了，莉莉丝。
+Tekrar karşılaştık Lilith.
+
+# ~e94e339f
+; （抱住莉莉丝）
+(Lilith'e sarılır)
+
+# ~7eb0fd5c
+; 太好了……太好了！
+Ah... allah'a şükürler olsun...... şükürler olsun!
+
+# ~9a2a0c6e
+; 既然这样的话，我们就跳过那些复杂的流程，赶紧出去约会吧。
+Durum böyle olduğu için tüm karmaşık formaliteleri atlayalım ve hadi bir randevuya çıkalım.
+
+# ~c1e7cacf
+; 还有很多事情没做呢，我们要一起散步、逛街、购物、玩耍、旅行……
+Yapacak çok şey var—yürüyüşe çıkmak, alışveriş yapmak, oyun oynamak, seyahata gitmek......
+
+# ~d20e83c4
+; 一起走在有很多落叶的秋天小径上，一起在冬天的便利店里吃关东煮，在夏天分享同一个西瓜，在春天的花海里拍下合照……
+Yapraklarla bezenmiş bir yolda yürüyüş yapmak, kışın beraber markette oden yemek, yazın sıcağında bir karpuzu paylaşmak, bahar çiçekleri arasında fotoğraf çekilmek.
+
+# ~ea83e83f
+; 去水族馆看彩色热带鱼吐泡泡，在电影院里欣赏到足以改变人生的佳作，在雨天躲进陈列着奇幻摆件的杂货铺，或者窝在家里吃着外卖打一整天游戏也可以！
+Akvaryumda tropik balıkların baloncuklarını izlemek, sinemada bir başyapıtı deneyim etmek, yağmurlu bir günde olağanüstü incik boncukla dolu tuhaf bir dükkanda saklanmak ya da evde oturup dışarıdan yemek yiyip tüm gün oyun oynamak—bunlardan herhangi biri mükemmel olurdu!
+
+# ~e4fb3dfb
+; 当然了，这些或许都不是「最重要的」，重要的是……
+Tabii ki, bunlardan hiçbiri "en önemli şey" olamaz. Önemli olan...
+
+# ~496fa58e
+; 你能够尽情地做自己喜欢的事情。
+Sevdiğin şeyi hiçbir kısıtlama olmadan yapabiliyor olman.
+
+# ~d42f2774
+; 你能够幸福地回应这个世界……
+Bu dünyaya mutlulukla karşılık verebilirsin......
+
+# ~990dafb0
+; 嗯，我们走吧。
+Peki o zaman, hadi gidelim.
+
+# ~5cce7e99
+; 走吧！
+Hadi gidelim!
+
+# ~2c31676c
+; 你都已经把行程排到明年了啊。
+Gelecek yılın programını çoktan planladın, değil mi?
+
+# ~a59828d6
+; 哼哼，我可是超有行动力的！
+Şey, bilirsin epey üretkenimdir!
+
+# ~e7665f97
+; 莉莉丝挽过了我的手。
+Lilith elimi tuttu.
+
+# ~3ef907b2
+; 理所当然地，我们一起朝着门外的世界走去——
+Ve ardından, kapının ardındaki dünyaya birlikte bir adım attık——.
+
+# ~42f181e4
+; END
+END
+
+# ~7227486a
+; 你以为，重新进入游戏后，我的想法会改变么？
+Oyuna baştan başlasaydık, fikirlerimin değişeceğini mi düşünüyordun?
+
+# ~4b3d2846
+; 很可惜，这是不可能的，莉莉丝。
+Üzgünüm, bu imkansız Lilith.
+
+# ~4e5696b5
+; （掐住她的脖子）
+(Boğazını sıkar)
+
+# ~e2a0ac01
+; 唔……呃……！
+Ahh...... ah......!
+
+# ~af714d98
+; 我不相信你的存在。
+Varlığına inanmıyorum.
+
+# ~11d15741
+; 我不相信善意的存在。
+Şefkatin varlığına inanmıyorum.
+
+# ~bd3728b3
+; 我不相信无条件的爱能够存在。
+Koşulsuz sevginin varlığına inanmıyorum.
+
+# 111
+; ……
+......
+
+# ~118a4ef7
+; 所以，你再怎么证明都是没用的。
+Yani ne kadar kanıt sunarsan sun, hepsi boşuna.
+
+# ~8f88c7a3
+; 你的笑容简直像恶魔一样，令人害怕。
+Gülümsemen nerden bakarsan bak şeytani. Beni korkutuyor.
+
+# ~3d57c5a9
+; 不要再出现了，你像个幽灵一样阴魂不散……
+Karşımda belirmeyi kes artık. Gitmeyi reddeden bir hayalet gibisin......
+
+# ~23aa6398
+; （加大力度）
+(Daha sıkı kavrar)
+
+# 112
+; ……
+......
+
+# ~49dcf56b
+; 等我反应过来的时候，她已经消失了。
+Kendime geldiğimde çoktan gitmişti.
+
+# ~c5891426
+; 仿佛刚刚我所经历的一切都只是午后错乱的梦境。
+Sanki yaşadığım her şey garip bir öğlen uykusu rüyası gibiydi.
+
+# ~46e7c589
+; 梦境？
+Bir rüya?
+
+# ~4c03fed2
+; ……我刚才在做什么来着？
+Ben az önce napıyordum?
+
+# ~a6fa845d
+; 我想起了什么？我又遗忘了什么？
+Neyi hatırlıyorum? Neyi unuttum?
+
+# ~6c5a2b0e
+; 在一阵徒劳的思索后，我环视着周围。
+Bir süre düşündükten sonra odama baktım.
+
+# ~cd15c8c4
+; ——这里是我的房间，我将继续成为统治这里的孤独国王。
+Burası benim odam. Yıkılmış krallığın yalnız kralı olarak hüküm sürdüğüm yer.

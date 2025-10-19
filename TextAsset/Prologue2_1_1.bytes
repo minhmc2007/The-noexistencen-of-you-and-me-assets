@@ -1,0 +1,1572 @@
+; Chinese (S) <zh-CN> to Spanish <es> localization document for `Prologue2_1` naninovel script
+
+# ~2f1a8e2c
+; 喂，快起床，要迟到了哦。
+Oye, despierta rápido, ¡vas a llegar tarde!
+
+# ~3ea899f
+; ……
+...
+
+# ~a495d8e3
+; 呃……你是谁啊……？
+Eh... ¿quién eres tú...?
+
+# ~b3f72d2a
+; ……莉莉丝……？
+......¿Lilith...？
+
+# ~8f230e1a
+; 是莉莉丝，你已经忘记了吗？
+Sí, soy Lilith, ¿ya me olvidaste?
+
+# ~8a56fe7d
+; 真是的！就算是开玩笑，我也会伤心的哦。
+¡Vaya! Aunque sea una broma, me haría sentir triste, ¿sabes?
+
+# ~7edcc7d3
+; 下次会记住的。
+La próxima vez lo recordaré.
+
+# ~73b3aed6
+; 我讨厌你的名字，所以记不住。
+Odio tu nombre, por eso no puedo recordarlo.
+
+# ~519a1cdb
+; 嗯，谢谢！
+¡Hmm, gracias!
+
+# ~bf824dd2
+; 算啦，下次要好好记住哦。
+Bueno, en todo caso, asegúrate de recordarlo la próxima vez.
+
+# 21113
+; ……
+...
+
+# ~85716e06
+; 你真的……很讨厌「莉莉丝」这个名字吗？
+¿En serio... odias tanto el nombre "Lilith"?
+
+# ~5f2f98b4
+; 开玩笑的。
+Era una broma.
+
+# ~b6669fc8
+; 没错，我不想再看到它了。
+No, en serio, no quiero volver a verlo.
+
+# ~284a92ae
+; 既然如此……就由你亲自把它擦除吧。
+Si es así... entonces bórralo tú mismo.
+
+# ~4880c298
+; 嗯，顺利完成了呢！
+¡Listo, ha quedado bien!
+
+# ~d672e790
+; 如此一来，<ruby="莉莉丝">我的名字</ruby>也就不复存在……
+Con esto, <ruby="Lilith">mi nombre</ruby> ya no existirá...
+
+# ~2026f51c
+; 总之，快点起床啦！
+En fin, ¡levántate ya!
+
+# ~b61aceb7
+; 让我再睡一会……
+Déjame dormir un poco más...
+
+# ~2cd1efaf
+; 不——行——！快起床啦！
+¡No—puedes—! ¡Arriba ya!
+
+# ~55275ae1
+; 唉，你总是这个样子。明明我每天早上都特地来叫你起床……
+Ay... siempre eres así. Todos los días vengo a despertarte a propósito...
+
+# ~6f22e53
+; 现在是什么时候？
+¿Qué hora es ahora?
+
+# ~980e2215
+; <i>「2点40分，陛下。凌晨2点40分。」
+<i>"Las 2:40, su majestad. Las 2:40 de la madrugada."</i>
+
+# ~5e8e02d9
+; 哪有这种时间叫人起床的啊？！
+¡¿Quién despierta a alguien a esta hora?!
+
+# ~122765bd
+; 你是从下午四点开始睡的，到现在为止，已经睡了10小时。
+Has estado durmiendo desde las 4 de la tarde, llevas 10 horas durmiendo.
+
+# ~ad430cec
+; 为了自己的健康，现在就要起床了哦！
+Por tu propia salud, ¡ya es hora de que te levantes!
+
+# ~e3556630
+; 而且，再不起床就要迟到了！
+Además, si no te levantas ahora, ¡vas a llegar tarde!
+
+# ~9ea75fd9
+; 迟到？为什么会迟到？
+¿Tarde? ¿Tarde para qué?
+
+# ~9e8811b0
+; 糟了！要迟到了！！！
+¡Oh no! ¡Voy a llegar tarde!
+
+# ~639a3ab0
+; 因为，再睡下去的话——
+Porque, si sigues durmiendo—
+
+# ~10a31cab
+; 你就要错过「不/存在的逐梦者：银葱之森」了！
+¡Vas a perderte "El Soñador No/Existente: El Bosque de Cebollines Plateados"!
+
+# ~4ae01788
+; 至少稍微捧下场嘛……
+Al menos hazme el favor emocionarte un poco...
+
+# ~1bb45eb7
+; 咳咳。总之，如果再睡下去的话——
+Ejem, ejem. En fin, si sigues durmiendo—
+
+# ~c55d7c39
+; 哎？哎！别紧张，不会真的迟到啦。
+¿Eh? ¡Espera! No te preocupes, no es que vayas a llegar realmente tarde.
+
+# ~8b922d1f
+; 只是想引起你的注意啦——
+Solo quería llamar tu atención—
+
+# ~5d7dab5e
+; 锵锵~「不/存在的逐梦者：银葱之森」！
+¡Tarán~! "El Soñador No/Existente: El Bosque de Cebollines Plateados"!
+
+# ~8f4be56e
+; 「不/存在的逐梦者：银葱之森」？
+"¿El Soñador No/Existente: El Bosque de Cebollines Plateados?"
+
+# ~e67993fe
+; 什……什么？
+¿Q-qué?
+
+# ~97b36ced
+; ？
+¿?
+
+# ~8ecc55b5
+; 没错没错，是莉莉丝连夜完成的——
+¡Así es, así es! Es un juego que Lilith pasó la noche entera terminando—
+
+# ~3bb0589c
+; 本年度最受期待的剧情向<ruby="RPG">角色扮演</ruby>游戏！
+¡El <ruby="RPG">juego de rol</ruby> con historia más esperado del año!
+
+# ~f34aac5b
+; 太棒了，赶快端上来吧！
+¡Increíble, tráelo ya!
+
+# ~197a8bce
+; 非玩不可么……
+¿Es absolutamente necesario jugarlo...?
+
+# ~2f1220f5
+; 好！就是这个气势！
+¡Sí! ¡Esa es la actitud!
+
+# ~c9cd37fb
+; 没错，非玩不可哦。
+Exacto, es absolutamente necesario.
+
+# ~efe2caaf
+; 现在让我们一起闭上眼睛……
+Ahora, cerremos los ojos juntos...
+
+# ~dc9b965c
+; （闭上眼睛）
+(Cerrar los ojos)
+
+# ~e58777be
+; （尽可能正常普通地闭上眼睛）
+(Cerrar los ojos de la forma más normal posible)
+
+# ~e2dda2ec
+; （无欲无求地闭上眼睛）
+(Cerrar los ojos sin deseos ni expectativas)
+
+# ~be96e90f
+; （满怀期待地闭上眼睛）
+(Cerrar los ojos con impaciencia)
+
+# 21261
+; ……
+...
+
+# 21262
+; ……
+...
+
+# ~6b08a703
+; 可以睁开了哦。
+Puedes abrirlos ahora.
+
+# 21263
+; ……
+...
+
+# 21264
+; ……
+...
+
+# ~b20d20d5
+; 这是……什么地方？
+¿Este... qué lugar es?
+
+# ~5af19b42
+; 嗯，如你所见，这里是王都宫殿。
+Hmm, como puedes ver, este es el palacio real.
+
+# ~1b123280
+; 你会在这里开启旅途，扮演逐梦者，
+Aquí comenzarás tu viaje como Soñador,
+
+# ~ea0eb57d
+; 穿过广袤的银葱之森，战胜魔王，救下公主——
+Atravesarás el vasto Bosque de Cebollines Plateados,<br>
+derrotarás al Rey Demonio y rescatarás a la princesa—
+
+# ~a4dfb1c7
+; 这种烂大街情节也能称得上剧情向吗？
+¿Ese cliché gastado cuenta como historia?
+
+# ~774bb3fb
+; 很新颖的剧情，在传统叙事的基础上做出了自己的理解。
+Es una narrativa innovadora con una interpretación propia basada en la tradición.
+
+# ~66fbb84a
+; 喔，很识货嘛！
+¡Oh, qué buen ojo tienes!
+
+# ~9f5fa58f
+; 咳咳。
+Ejem, ejem.
+
+# ~39445440
+; 那不是国王吗？我们快去觐见他吧！
+¡Mira, ese no es el rey? ¡Vamos a verlo!
+
+# 21291
+; ……;; @despawn DepthOfField params:2
+...
+
+# ~ea4a5bb3
+; 我看不到他的脸……
+No puedo ver su rostro...
+
+# ~f2180edf
+; 国王为什么不说话？
+¿Por qué el rey no habla?
+
+# ~4e74a106
+; 解释起来有点复杂……
+Explicarlo es un poco complicado...
+
+# ~bfb638dc
+; 总之，和他对话就会发生神奇的事情呢——！
+En resumen, ¡hablar con él siempre provoca cosas sorprendentes!
+
+# ~c4b22299
+; 所以国王的形象为什么这么模糊？
+¿Por qué la imagen del rey es tan borrosa?
+
+# ~79c7a2d4
+; （向国王询问关于任务的事情）
+(Preguntar al rey sobre la misión)
+
+# ~c8c49ad4
+; 反正国王的唯一作用是说句话然后发任务吧！？
+¡Al fin y al cabo, la única función del rey es hablar y dar misiones, ¿no?!
+
+# ~2f6d0ca1
+; 就算看不清楚脸，也不影响我们对话，快去问问他关于任务的事情吧！
+Aunque no podamos ver su rostro con claridad, eso no afecta nuestra conversación.<br>
+¡Vamos a preguntarle sobre la misión!
+
+# ~967a4075
+; 公主被魔王抓走了，请将她营救回来吧，逐梦者大人。
+La princesa ha sido capturada por el Rey Demonio.<br>
+Por favor, rescátala, estimado Soñador.
+
+# ~a8c73ae3
+; 公主？
+¿La princesa?
+
+# ~4134b8e6
+; 一般来说，公主应该在旅途终点——银葱森林彼端的魔王城里，等着你来营救……
+Normalmente, la princesa debería estar esperando tu rescate en el castillo<br>
+del Rey Demonio, al otro lado del Bosque de Cebollines Plateados...
+
+# ~1c24565a
+; （再问一遍）
+(Preguntar de nuevo)
+
+# ~caa4e53
+; 我们出发吧！
+¡Pongámonos en marcha!
+
+# ~c0057f41
+; 前往银葱之森！
+¡Hacia el Bosque de Cebollines Plateados!
+
+# ~d99abf78
+; 那么，我们一起踏上冒险旅途吧！
+Entonces, ¡comencemos juntos esta aventura!
+
+# ~4211b887
+; 这么快就遇到了新的<ruby="非玩家角色">NPC</ruby>了呢——！
+¡Vaya, ya nos encontramos con un nuevo <ruby="Personaje no jugable">NPC</ruby>!
+
+# 213111
+; ……
+...
+
+# ~b789170a
+; 咦？有路过的人？就决定是你了！
+¿Eh? ¿Alguien pasó por aquí? ¡Decidido, serás tú!
+
+# ~d6c00dbc
+; 你好，我是在森林里研究植物的学者，现在遇到了些麻烦。;; @animate Sartre posY:0,-130 time:2.5,2.7
+Hola, soy una erudita que investiga plantas en el bosque,<br>
+pero ahora tengo un problema.
+
+# ~180fdc0c
+; 我愿意提供帮助。
+Estoy dispuesto a ayudar.
+
+# ~7bf2014b
+; <s>什么莫名其妙的任务，不想接。</s>;; 下列选项要禁用，目前未实现
+<s>Qué misión tan absurda, no quiero aceptarla.</s>
+
+# ~630a5ef4
+; 好，这才对嘛！
+¡Eso es lo que quería escuchar!
+
+# ~fcd7afd0
+; 你成功接取了任务。
+Has aceptado la misión con éxito.
+
+# ~71427591
+; 任务名称：学者发的支线任务（暂定名）。
+Nombre de la misión: Misión secundaria del erudito (nombre provisional).
+
+# ~d6a82f5b
+; 下次请换个正式点的名字……
+La próxima vez, elige un nombre más formal...
+
+# ~5a7b1892
+; 不错，有角色扮演游戏的感觉了。
+No está mal, ahora sí se siente como un juego de rol.
+
+# ~bb1e2c2d
+; 您的宝贵意见已收到。
+Se ha tomado en cuenta tu valiosa opinión.
+
+# ~f716417b
+; 对吧！
+¡¿Verdad que sí?!
+
+# ~c3c9ff70
+; 是这样的，没错！
+¡Así es, exactamente!
+
+# ~d6f374e9
+; 我正在写一篇和曼德拉草有关的文章，但现在遇到了严重的瓶颈……
+Estoy escribiendo un artículo sobre la mandrágora,<br>
+pero me encontré con un gran obstáculo...
+
+# ~14ae8bac
+; 撰写性能及功效部分的时候，有个点让我困惑了很久，
+Al redactar la sección sobre sus propiedades y efectos, hay<br>
+un punto que me ha desconcertado por mucho tiempo.
+
+# ~8433f7d7
+; 明明想了好几天，却怎么也想不通，那就是——
+He estado pensando en ello durante días, pero no logro resolverlo. Y ese punto es...
+
+# ~21e50725
+; 该不该让这株曼德拉草发现自己就是五年前惨案的真凶，然后在愧疚中自杀？
+¿Debería hacer que esta mandrágora descubra que en realidad fue la culpable de una tragedia ocurrida hace cinco años y, abrumada por la culpa, se suicide?
+
+# ~91c75fd1
+; 这是学术论文吗？
+¿Esto es un artículo académico...?
+
+# ~cd398c45
+; 这明明就是小说吧！
+¡Esto es claramente una novela!
+
+# ~689e59c0
+; 唉，没办法。学者要写学术论文，这是学者的定义。
+*Suspiro*... No hay otra opción. Un erudito debe<br>
+escribir artículos académicos, ese es su deber.
+
+# ~b0e5483f
+; 可是啊……可是！千篇一律的东西总是让人读不下去。
+Pero... ¡pero! Esas cosas repetitivas y monótonas son imposibles de leer.
+
+# ~2c9a016c
+; 就像玩了一百个攻略美少女的游戏后，
+Es como jugar cien juegos de romance con chicas hermosas...
+
+# ~44169187
+; 做腻了和不同刘海发色瞳色性格身份排列组合而成的美少女相遇约会拥抱的事情后……
+Después de conocer, salir y abrazar a tantas chicas con distintas combinaciones de peinados, colores de ojos, personalidades e identidades...
+
+# ~874729ba
+; 会想试试攻略曼德拉草的游戏吧！
+¡Uno querría probar un juego donde la protagonista sea una mandrágora!
+
+# ~ad7ea9d6
+; 这就不得不提我正在写的巨作——
+Eso me lleva a mi obra maestra en proceso...
+
+# ~eabfce2
+; 《雪国夏日的樱花少女~绽放于纯色思念下的誓言~》了！
+¡"La Chica de los Cerezos en el Verano de un País Nevado ~<br>
+La Promesa que Florece en un Puro Anhelo ~"!
+
+# ~b0a341ff
+; 哦？说来听听。
+¿Oh? Cuéntame más.
+
+# ~28929b02
+; 虽然感觉已经玩过名称相似的游戏了……
+Aunque siento que ya jugué un juego con un título parecido...
+
+# ~65d24ba2
+; 我是来打怪升级的，不是来帮忙写剧本的。
+Yo vine a derrotar monstruos y subir de nivel, no a ayudar a escribir guiones.
+
+# ~4fcd90b3
+; 终于有人愿意听下去了！你们真是我的心之挚友啊！
+¡Al fin alguien que quiere escuchar! ¡Son mis verdaderos amigos del alma!
+
+# ~e1c5ca8
+; 真的吗？
+¿De verdad?
+
+# ~ac4a3178
+; 居然愿意听下去？你们是我的心之挚友啊！
+¿En serio quieren seguir escuchando? ¡Son mis amigos del alma!
+
+# ~c46a89e0
+; 没事啦，作为逐梦者，我们就先听听学者的要求吧。
+No hay problema. Como Soñadores, primero escuchemos la petición del erudito.
+
+# ~d04fcde6
+; 是这样的，曼德拉草是一位白发红瞳的双马尾少女，名叫樱子。
+Verán, la mandrágora es en realidad una chica de<br>
+cabello blanco y ojos rojos con coletas, llamada Sakurako.
+
+# ~f6b2dc9d
+; （继续听下去）
+(Seguir escuchando)
+
+# ~ac3f9653
+; 等等！这不还是美少女吗！？
+¡Espera, sigue siendo solo otra chica hermosa!
+
+# ~c4138641
+; 这和普通的美少女游戏女主有什么区别？
+¿En qué se diferencia de una protagonista normal de juegos de romance?
+
+# ~f7065659
+; 没错，虽然樱子在各个地方都表现得和美少女完全一致，
+Exacto. Aunque en todas sus acciones Sakurako se<br>
+comporta como una chica hermosa común y corriente...
+
+# ~3c1ba068
+; 但我并没有在文中交代过她是曼德拉草，所以玩家根本不会知道这个设定……
+Nunca mencioné explícitamente en la historia que ella es una mandrágora,<br>
+por lo que los jugadores jamás se darán cuenta de este detalle...
+
+# ~dcec738
+; 不过嘛，身为作者的我如此设定，所以它就是这样。
+Pero bueno, como el autor lo decidió así, entonces así es.
+
+# ~fc386e92
+; ……好吧。
+...Está bien.
+
+# ~a7d2a295
+; 没有在文中交代的设定，和不存在有什么区别？
+Si nunca se menciona en la historia, ¿en qué se diferencia de no existir?
+
+# ~f66d2c7e
+; 唔……好像并没有呢！
+Mmm... ¡parece que no hay diferencia!
+
+# ~e1f65291
+; 樱子是这所学校新来的转校生，在第一天上学的时候，她发现自己要迟到了，
+Sakurako es una estudiante transferida recién llegada a esta escuela.<br>
+En su primer día de clases, se da cuenta de que va a llegar tarde...
+
+# ~cc461eed
+; 赶忙叼起面包，喊着「迟到了迟到了」，跑在前往学校的路上……
+Apresuradamente muerde un pan, gritando "¡Voy tarde, voy tarde!",<br>
+y corre en dirección a la escuela...
+
+# ~740a4749
+; 我好像已经能猜到接下来会发生的事了……
+Creo que ya puedo imaginar lo que va a pasar a continuación...
+
+# ~4e088601
+; 真的吗？不愧是我的心之挚友！
+¿De verdad? ¡No esperaba menos de mi amigo del alma!
+
+# ~7b3d1955
+; 樱子就这样一路跑着，经过墙角的时候，突然和什么东西相撞了。
+Sakurako sigue corriendo y, al dar la vuelta en una esquina, choca de repente con algo.
+
+# ~dbbc4b7a
+; 「啊，好疼！」樱子揉着自己的脑袋。抬起头，她看到的是——
+"¡Ah, qué dolor!" Sakurako se frota la cabeza. Al levantar la vista, ve...
+
+# ~bf5d5a5d
+; 向自己伸出援手的游戏男主。
+La mano del protagonista masculino del juego, extendida hacia ella.
+
+# ~89bf2d8e
+; 通往异世界的大门。
+La puerta a otro mundo.
+
+# ~e93f3cdf
+; 汉堡肉饼。
+Una hamburguesa.
+
+# ~be3abe00
+; 那一刻，独自前往新学校的不安心情都被驱散了。
+En ese instante, la inquietud de ir sola a una nueva escuela desapareció.
+
+# ~1d3993f1
+; 樱子进去后，成为了电子宠物训练师，通关后回来上学。
+Después de entrar, Sakurako se convirtió en una entrenadora de mascotas electrónicas y, tras completar el juego, regresó a la escuela.
+
+# ~f2d39430
+; 嗯，很棒的点子！我记下了。
+Hmm, ¡qué gran idea! Lo anotaré.
+
+# ~8e4a2646
+; 接着，樱子顺利地找到了自己的教室，老师在黑板上写下樱子的名字，
+Luego, Sakurako encontró sin problemas su salón de clases,<br>
+el maestro escribió su nombre en el pizarrón,
+
+# ~eb6628c6
+; 向大家介绍了她，并让她在窗边的位置坐下。坐下后，樱子在旁边的座位上看到了——
+La presentó ante todos y le indicó que tomara asiento en el lugar junto a la ventana.<br>
+Al sentarse, Sakurako vio en el asiento de al lado a—
+
+# ~857187b4
+; 早上和自己偶遇过的男生。
+El chico con el que había tenido un encuentro fortuito esa misma mañana.
+
+# ~62ae261d
+; 统帅千万魔人军团的狂气邪恶大魔王。
+Un gran y malvado rey demonio que comandaba un ejército de demonios.
+
+# ~7b2c3171
+; 他成为了自己的同桌，并向自己递来一张纸条，上面写着温柔鼓舞的话语。
+Él se convirtió en su compañero de escritorio y le pasó<br>
+una nota con palabras amables y alentadoras.
+
+# ~334e586b
+; 魔王正在为数学题困扰着，反复在草稿纸上写下公式又擦去。
+El rey demonio estaba atormentado por un problema de matemáticas,<br>
+escribiendo y borrando fórmulas repetidamente en su hoja de borrador.
+
+# ~8770ba3f
+; 第一天的上学时间过的很快，不知不觉就已经到了放学时间……
+El primer día de clases pasó rápidamente, y antes de darse cuenta, ya era la hora de salida...
+
+# ~97c42780
+; 放学后有一段自由活动时间，樱子打算参加社团。
+Después de la escuela, había un tiempo libre, y Sakurako decidió unirse a un club.
+
+# ~c09bf8a1
+; 她来到社团活动教室的楼层，决定凭直觉推开其中的一扇。
+Llegó al piso donde estaban los salones de actividades de los clubes y,<br>
+siguiendo su intuición, empujó la puerta de uno de ellos.
+
+# ~6857023a
+; 樱子来到左手边倒数第二间教室门前，鼓起勇气敲了门。
+Sakurako se detuvo frente a la penúltima puerta a la izquierda, reunió valor y llamó.
+
+# ~7e7ef2c
+; 短暂的等待后，门被打开了。在那里，她看到了——
+Después de una breve espera, la puerta se abrió. Allí, vio—
+
+# ~9c33e1eb
+; 那个温柔的男生。
+Aquel chico amable.
+
+# ~38ac696b
+; 手忙脚乱的杀人现场。
+Una escena de asesinato caótica.
+
+# ~4e5bb0e6
+; 他向樱子介绍了这个社团——灵异怪谈研究社，并邀请樱子加入。
+Él le presentó el club: el Club de Investigación de Leyendas Paranormales,<br>
+e invitó a Sakurako a unirse.
+
+# ~cb5eceb1
+; 樱子被他谈起这些话题时的热忱所感动，怀着雀跃的心情答应了他。
+Sakurako quedó conmovida por el entusiasmo con el que hablaba sobre el tema y,<br>
+emocionada, aceptó la invitación.
+
+# ~6230a740
+; 凶手发现自己不小心杀错了人。
+El asesino descubrió que había matado a la persona equivocada por error.
+
+# ~f2e5e64f
+; 凶手杀掉了帮凶，正在劝说被害人帮助自己布置现场。
+El asesino eliminó a su cómplice e intentaba convencer a la víctima<br>
+de que lo ayudara a encubrir la escena.
+
+# ~a9c880d1
+; 太棒了！太棒了！灵感正源源不断地涌现……
+¡Increíble! ¡Increíble! Las ideas fluyen sin parar...
+
+# ~2eba436b
+; 嗯，这下我知道该怎么写了。
+Bien, ahora sé cómo escribirlo.
+
+# ~63615241
+; 来，这是本小姐赏你的报酬！
+¡Toma, esta es tu recompensa por mi parte!
+
+# ~52bf515
+; 你获得了「逐梦之典」。
+Has obtenido el "Libro de los Sueños".
+
+# ~c64a7899
+; 好眼熟的本子……
+Ese cuaderno... me resulta muy familiar...
+
+# ~b873a4ed
+; 似乎曾经在房间里见过。
+Parece que lo he visto antes en mi habitación.
+
+# ~1c0d8a28
+; <i>「从结论来说，「存在于世界之外的少女」失踪了。」</i>;; 这里用黑白回忆滤镜
+<i>"En conclusión, la 'chica que existe fuera del mundo' ha desaparecido."</i>
+
+# ~e18bbd2b
+; <i>「我和那位是不同的……即使我们都有着相同的本质。」</i>
+<i>"Ella y yo no somos iguales... aunque compartimos la misma esencia."</i>
+
+# ~e49afbd2
+; （收下逐梦之典）;; Lilith: [char Lilith.Emotions>Emotion21 time:1]总之，还是收下学者小姐的礼物吧？
+(Recibir el "Libro de los Sueños")
+
+# ~4f89ff64
+; 你怎么也会说话？
+¿Tú también puedes hablar?
+
+# ~6065d710
+; <i>「对于传奇般存在的逐梦者而言，会说话的本子已不足为奇。」</i>
+<i>"Para un Soñador Legendario, un libro que habla no es nada sorprendente."</i>
+
+# ~33e31a41
+; <i>「逐梦者将它自然地收了起来。」</i>
+<i>"El Soñador lo guardó de manera natural."</i>
+
+# ~7673df22
+; <i>「「好吧，毕竟我可是逐梦者！」，
+<i>"¡Bueno, después de todo, soy un Soñador!",
+
+# ~89fa83da
+; 逐梦者一边这么想着，一边自然地收起了逐梦之典。」</i>
+Pensó el Soñador mientras guardaba el "Libro de los Sueños" con naturalidad.</i>
+
+# ~f163733f
+; 其实我从刚才开始就想问了，这个奇怪的声音是什么啊？
+En realidad, desde hace rato quería preguntar, ¿qué es esa extraña voz?
+
+# ~942c943c
+; 说着接取任务、放入口袋什么的……
+Habla sobre aceptar misiones, meter cosas en el bolsillo y demás...
+
+# ~43ef8173
+; 你也能听到？
+¿Tú también puedes oírla?
+
+# 214521
+; ……
+...
+
+# ~8660a899
+; 难道说，你其实是逐梦者大人！刚才那个声音是……游戏旁白？
+No me digas... ¿¡Tú eres el Gran Soñador!?<br>
+¿Esa voz de antes era... el narrador del juego?
+
+# ~f2340133
+; 而我们……只是在一个游戏里？！
+¿Y nosotros... solo estamos dentro de un juego?
+
+# ~587b5af
+; 没错，正是在下。
+Exacto, soy yo.
+
+# ~1fbf9f71
+; 没错，正是旁白。
+Exacto, es el narrador.
+
+# ~88c42b2c
+; 这么说……我只是游戏里的一个小小NPC学者？！
+Entonces... ¿¡Yo solo soy un simple erudito NPC dentro del juego!?
+
+# ~1795d9b4
+; 这就是我人生的真相？
+¿Ese es el verdadero significado de mi existencia?
+
+# ~87a99661
+; 当我在设定樱子的故事的时候，也在有人在设定着我的故事吗！
+Si cuando yo establezco la historia de Sakurako,<br>
+hay alguien más estableciendo mi historia...
+
+# ~9eb515da
+; 好像是这样……
+Parece que es así...
+
+# ~63a97e71
+; 没错，你的唯一价值就是给我发奖励。
+Exacto, tu único valor es darme recompensas.
+
+# ~6f59f3a7
+; 没事的，我并没有伤心哦。
+No te preocupes, no me siento triste por eso.
+
+# ~270b7d7f
+; 呜，这种说法也太残忍了吧！
+¡Ugh, qué cruel suena eso!
+
+# ~1168b95c
+; 不过，我并不为此感到悲伤。
+Pero, no me entristece.
+
+# ~1fb9348c
+; 心之挚友啊！
+¡Oh, alma gemela!
+
+# ~4208bbd4
+; 能够以学者的身份出现，我其实感到非常开心。
+Poder aparecer como un erudito me hace sentir muy feliz.
+
+# ~c60b3cc0
+; 「身份」代表一种限制，因为我们在界定什么的同时，就需要去否定什么。
+La "identidad" representa una limitación, porque al definir algo,<br>
+al mismo tiempo se niega algo más.
+
+# ~6bbfb10b
+; 身份代表着远离完满，这真是一件悲伤的事情。
+Tener una identidad significa estar lejos de la plenitud, y eso es algo triste.
+
+# ~8ed9ecc4
+; 但正是借着「身份」的形式，我才有能和你相遇的这一天，我们之间才能产生语言。
+Pero gracias a la identidad, hoy he podido conocerte,<br>
+y entre nosotros ha surgido el lenguaje.
+
+# ~e4166c55
+; 我不是全知全能的，所以我才能在和你的对话中体验到新奇的感动。
+No soy omnisciente ni omnipotente, por eso, en esta conversación contigo,<br>
+experimento la emoción del asombro.
+
+# ~e58e424f
+; 我没有站在世界的终结之处，所以我才能不断地向前迈进。
+No estoy en el final del mundo, por eso sigo avanzando.
+
+# ~d9b23c85
+; 我们不是目的，我们是一段通向目的的桥梁。
+No somos el destino, somos un puente hacia él.
+
+# ~51179962
+; 我们诞生于虚无，我们的存在由自身创造，我们的存在正源源不断地在世界中涌现。
+Nacimos de la nada, nuestra existencia la creamos nosotros mismos,<br>
+y sigue manifestándose en el mundo sin cesar.
+
+# ~654ce84
+; 这是我们的自由，同时也是我们必将背负的枷锁。
+Esta es nuestra libertad, y también la carga que debemos llevar.
+
+# ~22737035
+; 你看，即使有「NPC学者」这样强而有力的标签，我也和你曾见过的所有学者都不一样吧？
+¿Ves? Aunque tenga la etiqueta de "erudito NPC", no soy igual<br>
+a ningún otro erudito que hayas visto antes, ¿verdad?
+
+# ~853bd72f
+; 即使樱子的故事能被经典到可以称得上是无聊的情节概括，
+Incluso si la historia de Sakurako se puede resumir<br>
+en una trama tan clásica que parecería aburrida,
+
+# ~74a915dc
+; 但她也会在既定框架下，将每一处选择都做到最好，并享受属于她的人生吧？
+Dentro de ese marco, hará lo mejor en cada elección y disfrutará de su vida, ¿verdad?
+
+# ~647d7868
+; 也就是说……
+En otras palabras...
+
+# ~ef05f730
+; 希望你不要只用「逐梦者拯救公主」之类的<ruby="自在存在">静止标签</ruby>去界定「不/存在的逐梦者：银葱之森」。
+Espero no reduzcas "El Soñador No/Existente: El Bosque de Cebollines Plateados"<br>
+a <ruby="ser-en-sí">simples etiquetas</ruby> como "soñador que rescata a la princesa".
+
+# ~358dbd
+; 因为，这是一个逐梦者永远行走在成为逐梦者道路上的故事。
+Porque esta es la historia de un soñador que nunca deja de<br>
+caminar en su camino para convertirse en El Soñador.
+
+# ~f6279964
+; 不过……「逐梦」啊……
+Pero... "soñar"...
+
+# ~6608cce2
+; 可真是一个引人误解的词汇呢。
+Es una palabra fácil de malinterpretar.
+
+# ~b8c576a1
+; 好啦！我们该告别了！
+¡Bueno! ¡Es momento de despedirse!
+
+# ~c95248dd
+; 再见。
+Adiós.
+
+# ~6fa14efa
+; 能告诉我你的名字吗？这位学者。
+¿Puedes decirme tu nombre, erudita?
+
+# ~205249c1
+; 在这里，我只能作为学者出现，没有其他的名字。
+Aquí, solo puedo aparecer como Erudito, no tengo otro nombre.
+
+# ~918729d
+; 不过，心之挚友啊，我的名字其实已经早就铭刻在你的心间了。
+Pero, amigo del alma, mi nombre ya ha sido grabado en lo más profundo de tu ser.
+
+# ~b40ed257
+; 在别处再见时，唤出我的名字吧！
+Cuando nos encontremos en otro lugar, llámame por mi nombre.
+
+# ~74ed03ea
+; 告别了学者后，我和莉莉丝又向森林的更深处迈进。
+Después de despedirnos de la erudita, Lilith y yo seguimos<br>
+adentrándonos en lo más profundo del bosque.
+
+# ~c5ac0490
+; 在经历了传奇般的冒险后。终于，我们来到了魔王面前。
+Tras vivir una aventura legendaria, finalmente llegamos ante el Rey Demonio.
+
+# 214101
+; ……
+...
+
+# ~c34b5ec4
+; 等等，我们的冒险故事就这么被一笔带过了呢？
+Espera, ¿así de rápido pasaron por alto nuestra aventura?
+
+# ~ee73febe
+; <i>「关于你们的冒险旅途，那就是另一个故事了。」</i>
+<i>"La historia de su viaje es un relato para otro momento."</i>
+
+# ~8e966c48
+; <i>「现在，专心面对魔王吧！」</i>
+<i>"Por ahora, concéntrense en enfrentar al Rey Demonio."</i>
+
+# ~b437c999
+; ……糟了，情况很棘手啊。
+...¡Maldición, esto es complicado!
+
+# ~81893243
+; 现在的魔王是不可能被战胜的，因为她没有任何弱点。
+En este momento, el Rey Demonio no puede ser derrotado,<br>
+porque no tiene ninguna debilidad.
+
+# ~ed3462c1
+; 这是怎么回事？
+¿Cómo es posible?
+
+# ~152eb924
+; ？？？
+¿?¿?
+
+# ~3d88516a
+; 呃……因为游戏的最后部分还没完成。
+Uh... porque la parte final del juego aún no está terminada.
+
+# ~2bcd5b31
+; 我的意思是……魔王只有一个基础的形象，还没做具体的战斗和数值……
+Lo que quiero decir es... el Rey Demonio solo tiene un diseño básico,<br>
+pero aún no se ha programado su batalla ni sus estadísticas...
+
+# ~22c898e5
+; 那这还打什么？赶紧跑吧。
+¿Entonces qué hacemos aquí? ¡Es mejor salir corriendo!
+
+# ~f1d3e806
+; ……您说什么？
+...¿Disculpa?
+
+# ~f7c6b339
+; 但是，逐梦者……
+Pero, Soñador...
+
+# ~e1c9d529
+; 打败魔王的方法，你已经在这场旅途中领悟了啊！
+¡El método para vencer al Rey Demonio es algo que ya has aprendido en este viaje!
+
+# ~c788807
+; 有一样道具，能够使你逆转当下的局势。所以，你只要使用它就好了。
+Hay un objeto que puede cambiar la situación a tu favor. Solo tienes que usarlo.
+
+# ~c89e876f
+; <i>「逐梦者随即把手伸向了自己的口袋。」</i>
+<i>"El Soñador inmediatamente metió la mano en su bolsillo."</i>
+
+# ~7fefd350
+; （使用汉堡肉饼）;; @choice （使用逐梦之典） goto:.Dialogue5
+(Usar carne de hamburguesa)
+
+# ~93ca95ed
+; （使用唱片机）
+(Usar tocadiscos)
+
+# ~d81b582d
+; <i>「虽然不知道这东西是从哪里出现的，但逐梦者使用了汉堡肉饼。」</i>
+<i>"Sin saber de dónde había salido, el Soñador usó la carne de hamburguesa."</i>
+
+# ~5441b5f5
+; <i>「也就是说，逐梦者当着魔王的面吃下了汉堡肉饼。」</i>
+<i>"En otras palabras, el Soñador se comió la carne de<br>
+hamburguesa justo frente al Rey Demonio."</i>
+
+# ~1e9da62a
+; ……！
+¡...!
+
+# ~d0521a6
+; <i>「魔王紧紧盯着逐梦者手中咬了一口的汉堡肉饼，假装无动于衷。」</i>
+<i>"El Rey Demonio fijó su mirada en la hamburguesa mordida en manos del Soñador,<br>
+fingiendo que no le importaba."</i>
+
+# ~2ec0e8dc
+; 你明明也很想吃吧？
+En el fondo, también quieres comer, ¿verdad?
+
+# ~318201bf
+; 呵，想吃吗？
+Je, ¿te gustaría probar?
+
+# 2141421
+; ………………
+......
+
+# 2141422
+; ………………
+......
+
+# ~90ee7ca6
+; (▼ヘ▼#)。
+(▼ヘ▼#).
+
+# ~7ab476ae
+; <i>「魔王的攻击力上升了。」</i>
+<i>"El ataque del Rey Demonio aumentó."</i>
+
+# ~9a3a740
+; <i>「短暂的心情调整后，魔王又变回了原先酷酷的模样。」</i>
+<i>"Tras un breve ajuste emocional, el Rey Demonio volvió<br>
+a su expresión fría y seria de siempre."</i>
+
+# ~f6e3d740
+; <i>「局势没有发生任何变化。」</i>
+<i>"La situación no cambió en absoluto."</i>
+
+# ~6636cc74
+; （使用逐梦之典）
+(Usar el Libro de los Sueños)
+
+# ~f548389f
+; <i>「逐梦者使用了……呃，你使用了唱片机。」</i>
+<i>"El Soñador usó... uh, usaste el tocadiscos."</i>
+
+# 2141431
+; ……！
+¡...!
+
+# ~9e66b605
+; <i>「随着乐声响起，魔王开始用手和脚打着节拍。」</i>
+<i>"A medida que la música sonaba, el Rey Demonio comenzó<br>
+a seguir el ritmo con las manos y los pies."</i>
+
+# ~3961eefd
+; ……ヾ(o´∀｀o)ﾉ ！
+......¡ ヾ(o´∀｀o)ﾉ ！
+
+# ~69270cc6
+; <i>「她的动作越来越投入，神情也已经达到了忘我的境界。」</i>
+<i>"Sus movimientos se volvieron cada vez más entusiastas,<br>
+su expresión reflejaba una inmersión total en la música."</i>
+
+# ~aa945a65
+; <i>「乐曲结束后，魔王似乎意识到了什么。」</i>
+<i>"Cuando la melodía terminó, el Rey Demonio pareció darse cuenta de algo."</i>
+
+# ~3edf7dee
+;  ∑(ﾟДﾟノ)ノ!!!
+¡¡¡∑(ﾟДﾟノ)ノ!!!
+
+# ~d947632c
+; <i>「魔王的防御上升了。」</i>
+<i>"La defensa del Rey Demonio aumentó."</i>
+
+# ~cc5e3e72
+; <i>「同时，魔王又变回了原先酷酷的模样。」</i>
+<i>"Al mismo tiempo, el Rey Demonio volvió a su expresión fría y seria de siempre."</i>
+
+# 2141432
+; ……
+...
+
+# ~a3c41bff
+; <i>「<ruby="你">逐梦者</ruby>拿出了逐梦之典。」</i>
+<i>"<ruby="Tú">El Soñador</ruby> sacó el Libro de los Sueños."</i>
+
+# ~5169d1c3
+; （将逐梦之典砸向魔王）;; @choice （打开并查看内容） goto:.Dialogue5_1
+(Lanzar el Libro de los Sueños contra el Rey Demonio)
+
+# ~228c2f92
+; （尝试啃一口）
+(Intentar darle un mordisco)
+
+# ~2bfa26fa
+; <i>「逐梦者拿起逐梦之典，将它……」</i>
+<i>"El Soñador tomó el Libro de los Sueños y lo..."</i>
+
+# ~6a35a692
+; <i>「等等，你在干什么！？」</i>
+<i>"¡Espera, ¿qué estás haciendo?!"</i>
+
+# ~ecfd39ed
+; <i>「等等等等等等！！！」</i>
+<i>"¡¡¡Espera, espera, espera, espera!!!"</i>
+
+# ~a172591
+; 呃……！
+¡Uh...!
+
+# ~af8aae0d
+; 好准！笔记本正中魔王的脑袋！！
+¡Increíble puntería! ¡El cuaderno golpeó de lleno la cabeza del Rey Demonio!
+
+# 215111
+; ……
+...
+
+# ~9812e959
+; ヽ(#`Д´)ﾉ！
+¡ヽ(#`Д´)ﾉ！
+
+# ~21dde50d
+; <i>「魔王很生气，将，将逐梦之典从地上捡起……呃等一下……」</i>
+<i>"El Rey Demonio se enfureció y recogió el Libro de los Sueños del suelo...<br>
+espera un momento..."</i>
+
+# ~2116e4ea
+; <i>「等等，各位，等等……！！」</i>
+<i>"¡¡Esperen, todos, esperen...!!"</i>
+
+# ~40588fb6
+; 小心！！
+¡Cuidado!
+
+# ~772e738d
+; 轻松地接住。
+Lo atrapas con facilidad.
+
+# ~da40432f
+; 优雅地接住。
+Lo atrapas con elegancia.
+
+# ~800fd1bd
+; 认真地接住。
+Lo atrapas con seriedad.
+
+# ~701e11f1
+; <i>「逐梦之典被逐梦者轻松地接住。」</i>
+<i>"El Soñador atrapó el Libro de los Sueños con facilidad."</i>
+
+# ~437f11c9
+; <i>「逐梦之典被逐梦者优雅地接住。」</i>
+<i>"El Soñador atrapó el Libro de los Sueños con elegancia."</i>
+
+# ~72dbea3d
+; <i>「逐梦之典被逐梦者认真地接住。」</i>
+<i>"El Soñador atrapó el Libro de los Sueños con seriedad."</i>
+
+# ~36879127
+; <i>「逐梦之典又重新回到了逐梦者的手中。」</i>
+<i>"El Libro de los Sueños volvió a estar en manos del Soñador."</i>
+
+# ~e0922448
+; （打开并查看内容）
+(Abrir y revisar el contenido)
+
+# ~8b781a2d
+; <i>「逐梦者啃了一口逐梦之典，当然，逐梦者咬不动，也没有尝到任何味道。」</i>
+<i>"El Soñador le dio un mordisco al Libro de los Sueños, pero,<br>
+por supuesto, no pudo masticarlo ni saborearlo."</i>
+
+# ~78272584
+; <i>「啊嘞？我们这样的关系……是不是有点太暧昧了？」</i>
+<i>"Eh... ¿Nuestra relación no está volviéndose demasiado ambigua?"</i>
+
+# ~f12608ea
+; 不对不对，才没有解锁呢！这个游戏只能攻略莉莉丝！
+¡No, no, no! ¡No puede haber romance aquí!<br>
+¡En este juego solo puedes tener a Lilith como interés amoroso!
+
+# ~1f8c1303
+; <i>「总之，局势没有发生任何变化。」</i>
+<i>"En cualquier caso, la situación no cambió en absoluto."</i>
+
+# ~661b352f
+; <i>「你打开了笔记本。」</i>
+<i>"Abriste el libro."</i>
+
+# ~a56f80cf
+; 原来，这就是「不/存在的逐梦者：银葱之森」的游戏设定。
+Así que esto es la configuración del juego<br>
+"El Soñador No/Existente: El Bosque de Cebollines Plateados".
+
+# ~938acaec
+; 多么精巧的设定啊，只是目前还没做完……
+Qué diseño tan ingenioso, aunque aún no está terminado...
+
+# ~b58506c3
+; 总之，只要在上面写下弱点，就可以让它成为魔王的弱点。
+En resumen, solo tienes que escribir una debilidad en él,<br>
+y esa se convertirá en la debilidad del Rey Demonio.
+
+# ~c15877eb
+; 怎么样，是不是很方便？
+¿Qué te parece? ¿No es muy conveniente?
+
+# ~48d933f4
+; 有一说一，确实。
+Pues sí, la verdad.
+
+# ~e9927086
+; 这明明就是游戏作者偷懒了吧！？
+¡Esto es claramente pereza del desarrollador!
+
+# ~7ef18947
+; 总之，就在上面写下魔王的弱点吧！
+De todos modos, ¡escribe en él la debilidad del Rey Demonio!
+
+# ~bb4f9696
+; （写下：害怕被批评）
+(Escribir: miedo a las críticas)
+
+# ~334e458e
+; （写下：吃完饭会变得很困）
+(Escribir: se pone somnoliento después de comer)
+
+# ~dfa0e604
+; （写下：敲脑袋攻击）
+(Escribir: ataque de golpes en la cabeza)
+
+# ~e835c73b
+; （合上本子）;; 播放一个书写音效
+(Cerrar el cuaderno)
+
+# ~cb1ef449
+; 哈？乐队？这种梦想是为了赶潮流吗？;; 这里要配置一个全选才消失的选项组，每点击一个播放一个受击音效
+¿Eh? ¿Una banda de música? ¿Este sueño es solo para seguir la moda?
+
+# ~45938864
+; 这是什么装扮？感觉很中二……
+¿Qué clase de atuendo es ese? Se siente tan... juvenilmente exagerado...
+
+# ~8f3659b6
+; 话说三无少女的设定早就过时了吧？
+Por cierto, el concepto de la "chica sin emociones" ya pasó de moda, ¿no?
+
+# 2152111
+; ……
+...
+
+# 2152112
+; ……
+...
+
+# 2152113
+; ……
+...
+
+# ~15a5c1a1
+; （投喂汉堡肉饼）
+(Ofrecer carne de hamburguesa)
+
+# 21521211
+; ……
+...
+
+# 21521212
+; ……
+...
+
+# 21521213
+; ……
+...
+
+# ~8f6c80d8
+; 我们战胜了魔王，逐梦者大人！
+¡Lo logramos, Soñador! ¡Hemos derrotado al Rey Demonio!
+
+# ~fb38155a
+; 啊，请稍等一下。
+Ah, por favor, espera un momento.
+
+# ~f8b7057e
+; （在原地等待一阵）
+(Esperar en el lugar por un rato)
+
+# ~d9b74bc0
+; 咳咳，哼。
+Cof cof... hmm.
+
+# ~2278487f
+; （向后看去）
+(Mirar hacia atrás)
+
+# ~2e6a9a04
+; 莉莉丝……？
+¿Lilith...?
+
+# ~c35379b
+; 终于见到你了……
+Finalmente te encontré...
+
+# ~1c694c3d
+; 你在搞什么，莉莉丝？
+¿Qué estás haciendo, Lilith?
+
+# ~d98b4ae0
+; <i>「逐梦者大人，莉莉丝现在不方便回复你，这是她给你的留言。」</i>
+<i>"Soñador, Lilith no puede responderte ahora mismo.<br>
+Esto es un mensaje que te dejó:"</i>
+
+# ~eae3a413
+; <i>「拜托啦！游戏流程有限，你现在就接受这个设定吧！」</i>
+<i>"¡Por favor! La historia es limitada, ¡solo acepta esta premisa!"</i>
+
+# ~6cf671e7
+; 好吧……
+Está bien...
+
+# ~30c77ae0
+; 终于见到你了，逐梦者大人。
+Finalmente te encontré, Soñador.
+
+# ~e0638bfd
+; 我每天都在这里等待着你，思念着你，对着天空祈愿你的平安。
+He estado aquí todos los días esperándote, pensando en ti,<br>
+rezando por tu bienestar bajo el cielo.
+
+# ~e6b77c8d
+; 而现在，你终于出现在了我的面前。对我来说，这简直就像梦境一样。
+Y ahora, por fin, estás frente a mí. Para mí, esto es como un sueño hecho realidad.
+
+# ~35747195
+; 你真的……就在我的面前吗？
+¿Realmente... estás aquí conmigo?
+
+# ~df0cc77f
+; 嗯，我们回家吧，公主大人。
+Sí. Volvamos a casa, Princesa.
+
+# ~111347d8
+; 好无聊的游戏，好奇怪的设定，好老套的台词……
+Qué juego más aburrido... configuración tan extraña... líneas más cliché...
+
+# ~28ede4dd
+; （跪下身，轻吻莉莉丝的手）
+(Arrodillarse y besar la mano de Lilith)
+
+# 21611
+; ……！
+¡...!
+
+# ~2aad6f54
+; 嗯，谢谢你，逐梦者大人。
+Sí... Gracias, Soñador.
+
+# ~d8bba4ac
+; 伟大的逐梦者啊，你成功救回了公主，拯救了这个国家，
+Oh, gran Soñador, has rescatado a la princesa y salvado a este reino.
+
+# ~7591e778
+; 我向你表达最真挚的感激。
+Te expreso mi más sincera gratitud.
+
+# ~11a0bae9
+; 我要将王位传给你，你就和莉莉丝公主一起过上幸福的生活吧。
+Te cederé el trono. Vive felizmente con la Princesa Lilith.
+
+# ~de52e42d
+; 我明白了，我会成为国王，并给莉莉丝公主带来幸福。
+Lo entiendo. Me convertiré en rey y haré feliz a la Princesa Lilith.
+
+# ~9f59bcae
+; 继承王位？我不行的……
+¿Heredar el trono...? No puedo hacer eso...
+
+# ~9b8e3aa1
+; 嗯，我们要一直幸福下去！
+Sí, ¡seremos felices para siempre!
+
+# ~e118968
+; BAD END 2：从此以后，逐梦者和公主一起过上了幸福的生活……
+FINAL MALO 2: Desde ese día, el Soñador y la princesa vivieron felices para siempre...
+
+# ~5bd54d44
+; 我根本不想面对这些事情，我只想和莉莉丝在一起……
+No quiero lidiar con todo esto. Solo quiero estar con Lilith...
+
+# ~212811e7
+; 所以，还是让莉莉丝来继承王位吧。
+Así que... mejor que Lilith herede el trono.
+
+# ~746530cf
+; 我继承王位的话，你想做什么？
+Si yo heredo el trono, ¿qué querrías hacer tú?
+
+# ~5c1c71b8
+; 想成为莉莉丝的伙伴。
+Quiero ser el compañero de Lilith.
+
+# ~3b38fe06
+; 想成为公主的骑士。
+Quiero ser el caballero de la princesa.
+
+# ~2f19a86d
+; 想成为主人的沙发。
+Quiero ser el sofá de mi ama.
+
+# ~4ab1b2fd
+; 嗯，我明白了。
+Hmm, lo entiendo.
+
+# ~63911a1c
+; 这样的感觉，或许也不错呢……
+Esta sensación... quizá no esté tan mal...
+
+# ~d66aa0b8
+; BAD END 3：从此以后，莉莉丝和伙伴过上了快乐的生活……
+FINAL MALO 3: A partir de ahora, Lilith y su compañero vivieron una vida feliz...
+
+# ~78ffe0e4
+; BAD END 4：从此以后，在公主和骑士的努力下，王国长治久安。
+FINAL MALO 4: A partir de ahora, gracias a los esfuerzos de la princesa y el caballero, el reino disfrutó de una paz duradera.
+
+# ~4ae5f80c
+; BAD END 5：从此以后，莉莉丝得到了一把舒适的沙发。
+FINAL MALO 5: A partir de ahora, Lilith consiguió un sofá cómodo.
+
+# ~ef491970
+; 怎么样怎么样？是不是超棒的大冒险？
+¿Qué te parece? ¿No fue una aventura increíble?
+
+# ~938a9124
+; 非常有趣，第一次玩到这种游戏。
+Muy interesante, es la primera vez que juego algo así.
+
+# ~cc6511ca
+; 还行吧，希望可攻略对象能再丰富一点。
+No está mal, aunque me gustaría que hubiera más opciones románticas.
+
+# ~f4ba6d16
+; 嗯，嗯！
+¡Sí, sí!
+
+# ~833794af
+; 唔……
+Mmm...
+
+# ~ba652a4b
+; 算啦。
+Olvídalo.
+
+# ~5a423572
+; 「不/存在的逐梦者：银葱之森」还没有设计完成，可以期待一下它的完整版哦。
+"El Soñador No/Existente: El Bosque de Cebollines Plateados" aún no está terminado,<br>
+debes esperar a su versión completa.
+
+# ~d6734668
+; 希望我们可以再一起经历那些新奇而又令人激动的冒险故事。
+Espero que podamos vivir juntos más aventuras emocionantes y sorprendentes.
+
+# ~3f6931ab
+; 莉莉丝以后会为你做出更棒的游戏！让你能体验到幸福的感觉。
+Lilith creará juegos aún mejores para ti en el futuro, para que puedas sentir felicidad.
+
+# ~a16332d7
+; 不是只有在游戏中才能体验到这些。
+No es algo que solo pueda experimentarse en un juego.
+
+# ~95e92b17
+; 你陪伴我的每一天，我都非常满意和充实。
+Cada día que pasas conmigo, me siento satisfecho y pleno.
+
+# ~53e651ca
+; 莉莉丝，只要有你，我觉得我能重新喜欢上这个世界。
+Lilith, mientras estés conmigo, siento que puedo volver a amar este mundo.
+
+# ~e2d9212a
+; 真的吗……？
+¿De verdad...?
+
+# ~d6a2fdfd
+; 世界什么的管他呢，只要有莉莉丝就可以了！
+No importa el mundo ni nada más, con que Lilith esté aquí es suficiente.
+
+# ~3492ad32
+; 莉莉丝依偎在你的身旁，你们一起度过了一段幸福的时光……
+Lilith se acurrucó a tu lado y juntos pasaron un momento feliz...
+
+# ~69736836
+; 这个游戏……很无聊吗？
+Este juego... ¿es aburrido?
+
+# ~f67f1874
+; 没错，简直太无聊了。
+Sí, es demasiado aburrido.
+
+# ~436e277
+; 不，我开玩笑的。
+No, solo bromeaba.
+
+# ~f3937cf4
+; 我们回家吧，公主大人。
+Vámonos a casa, princesa.
+
+# 217221
+; ……
+...
+
+# ~91b3e50b
+; 嗯，好呀。
+Sí, está bien.
+
+# ~45c9588
+; 一路上的展开都莫名其妙，如果到最后都还没有什么转折，那明显是烂作中的烂作。
+Todo el desarrollo de la historia es absurdo. Si al final no hay un giro,<br>
+será claramente una obra desastrosa.
+
+# ~4bc159bf
+; 那……我该怎么做才比较好？
+Entonces... ¿qué debería hacer?
+
+# ~907bfb93
+; 比如说，准备救的公主其实是坏人，这种最低限度的转折总得有吧？
+Por ejemplo, que la princesa a la que intentas rescatar sea en realidad la villana.<br>
+Ese sería un giro mínimo, ¿no?
+
+# 217231
+; ……
+...
+
+# ~efd51b44
+; 果然中计了，哈……哈，哈哈！
+¡Tal como esperaba, caíste en la trampa! Ja... ja, ¡jajaja!
+
+# ~62e77147
+; 没错，这正是我的计划！我才是……魔王……！
+¡Así es, todo esto era parte de mi plan! ¡Yo soy... el Rey Demonio...!
+
+# ~2aa3aac2
+; 逐梦者，费尽心思把你引诱到这里来，就是为了杀掉你……你中了我的圈套。
+Soñador, planeé cada detalle para atraerte hasta aquí...<br>
+todo con el fin de eliminarte. Has caído en mi trampa.
+
+# ~cda635dd
+; 「<ruby="驱逐">逐</ruby>梦之路」，可没有那么简单！
+¡El "Camino del <ruby="Desterrado">Soñador</ruby>" no es tan sencillo!
+
+# ~4bcd48e6
+; 魔王！看来只能在这里击败你了！
+¡Rey Demonio! Parece que no tengo más opción que derrotarte aquí.
+
+# ~cdd946a2
+; 对不起对不起对不起对不起对不起，我不知道为什么自己刚才会说出那些话，请你原谅我……
+Lo siento, lo siento... No sé por qué dije esas cosas, por favor, perdóname...
+
+# ~bc40c1fa
+; BAD END 6：逐梦者识破了魔王莉莉丝的阴谋，消灭了公主，成功拯救了世界……
+FINAL MALO 6: El Soñador descubrió la conspiración del Rey Demonio Lilith, eliminó a la princesa y logró salvar el mundo...
+
+# 217421
+; ……
+...
+
+# ~e2274523
+; ……这可不像逐梦者会说的话啊。
+...Eso no suena como algo que diría un Soñador.
+
+# ~90251e4
+; 对不起，对不起，我真的不知道我刚才到底在想什么，对不起。
+Lo siento, lo siento... De verdad no sé qué estaba pensando. Lo siento mucho.
+
+# ~4555ce58
+; 我好过分，明明你这么努力地做出了这个游戏，我却说这样恶毒的话。
+Fui muy cruel... Tú trabajaste tanto en este juego, y aun así dije algo tan horrible.
+
+# ~fe9a2a2a
+; 请不要自责，毕竟这是为了让你开心才做的游戏呀。
+No te culpes, después de todo, este juego fue hecho para que lo disfrutaras.
+
+# ~a516b1e3
+; 啊，但现在的莉莉丝已经是魔王了。
+Ah, pero ahora Lilith ya es el Rey Demonio.
+
+# ~dec1e3b1
+; 不过，如果是逐梦者大人的话，一定能拯救迷途的心灵吧？
+Pero si se trata del Soñador... seguro que podrá salvar a un corazón perdido, ¿verdad?
+
+# ~9c55ad5e
+; 我明白了……
+Lo entiendo...
+
+# ~59d0c537
+; 谢谢你……
+Gracias...
+
+# ~d9adbdd5
+; 你愿意重新成为善良的公主吗？
+¿Estarías dispuesta a volver a ser una princesa bondadosa?
+
+# ~b4dfeb80
+; 嗯，我愿意哦。
+Sí, acepto.
+
+# ~b845aad3
+; ……抱太紧了啦。
+...Me estás abrazando demasiado fuerte.
+
+# ~47c769f1
+; BAD END 7：逐梦者成功劝说公主改邪归正，二人一起过上了快乐幸福的生活。
+FINAL MALO 7: El Soñador logró convencer a la princesa de abandonar la oscuridad, y ambos vivieron una vida feliz juntos.

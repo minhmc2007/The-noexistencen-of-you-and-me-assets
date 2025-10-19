@@ -1,0 +1,774 @@
+; Chinese (S) <zh-CN> to Vietnamese <vi> localization document for `Prologue1_1` naninovel script
+
+# ~3ea899f
+; ……
+……
+
+# ~104de2ca
+; …………
+…………
+
+# ~7e145781
+; ………………
+………………
+
+# ~a5a5cc99
+; <i>「陛下，██已经失踪很久了，还要继续寻找吗？」</i>
+<i>"Thưa Bệ Hạ, đã từ lâu kể từ khi ██ mất tích. Liệu chúng thần có tiếp tục tìm kiếm không ạ?"</i>
+
+# ~f6c4ab2f
+; ██是谁？
+██ là ai cơ?
+
+# ~f0f9c9ae
+; 这个██是怎么念的？一段消音，还是方块方块方块？
+Mấy người đọc cái đó như thế nào vậy trời?<br>
+ Đọc ra rồi nó cắt hết tiếng luôn không hay là để làm trang trí trong ô thoại vậy?
+
+# ~5283cf91
+; <i>「噢，我的陛下，随您喜欢。
+<i>"Ngài muốn thì gọi nó thế nào cũng được ạ, thưa Bệ Hạ.
+
+# ~c0e7c260
+; 反正这句话也没有配音。」</i>
+Dù sao thì, các dòng này cũng không có lồng tiếng."</i>
+
+# ~2aade965
+; <i>「██是一位少女，她出现在屏幕、泛黄的日记本和一小段遗失的岁月里。」</i>
+<i>"██ là người con gái xuất hiện trong các phân cảnh, <br>
+từ trang nhật ký đã úa vàng, và khoảng ký ức bị bỏ quên."</i>
+
+# ~56a6a41e
+; <i>「就像每周四的下午约翰都要去教堂散步，因为广场上的鸽子终于拿到了学位证书……」</i>
+<i>"Giống như ông cháu John hay đi ra quảng trường nhà thờ vào mỗi chiều thứ Năm hàng tuần tại vì lũ chim bồ câu mới được cấp bằng tốt nghiệp vậy……"</i>
+
+# ~6bff4520
+; 我想知道更多有关少女的信息。
+Tôi muốn biết thêm về cô gái này.
+
+# ~8681bc59
+; <i>……</i>
+<i>……</i>
+
+# ~65c03aab
+; 所以，你们都不知道？
+Mấy người cũng chả biết cái mô tê gì phải không?
+
+# ~ce37c996
+; <i>「很抱歉，陛下。」</i>
+<i>"Thưa Bệ Hạ, chúng thần xin lỗi."</i>
+
+# ~a33b0696
+; <i>我我我，我知道！</i>
+<i>"T-T-Tôi biết nè!"</i>
+
+# ~cbce8b99
+; 你什么时候出现的？
+Cậu xuất hiện từ đâu ra vậy?
+
+# ~9041ef5c
+; 吾之爱卿，但说无妨。
+Cứ tự nhiên nói, thần dân trung thành của ta.
+
+# ~438dd669
+; 说吧。
+Nói đi.
+
+# ~d51ffe1d
+; <i>「陛下，我一直存在于此。」</i>
+<i>"Thưa Bệ Hạ, thần vẫn luôn ở đây ạ."</i>
+
+# ~7d71b153
+; <i>「她叫███，是你曾经的███，她有着和███一样的█。
+<i>"Tên của nàng là ███, từng là  ███ của ngài, và nàng có █ giống như ███.
+
+# ~fe93ccb8
+; 她的特点是██和███。」
+Với các đặc điểm như ██ và ███."</i>
+
+# ~f3a8bf18
+; <i>「她曾经███，然后你选择了███，所以现在的你们███，才导致了她██。」</i>
+<i>"Nàng từng là ███, rồi ngài chọn ███, nên giờ ngài đang ở ███, <br>
+và từ đó, dẫn đến ██ cho nàng."</i>
+
+# ~a04083ae
+; <i>「从结论来说，「世界之外的少女」失踪了。」</i>
+<i>"Nói đúng hơn thì, "nguời con gái nằm ngoài thế giới" đã biến mất rồi ạ."</i>
+
+# ~fe02caf2
+; <i>「你看着这本黑色笔记本，一种熟悉的异样感漫上心头。」</i>
+<i>"Cậu nhìn vào cuốn sổ đen, một cảm giác quen thuộc chợt thoáng qua."</i>
+
+# ~ccc30259
+; <i>「这种感觉很像一杯陈年的葡萄酒，将橡木桶中酝酿出的红棕色泽的液体一饮而尽后，
+<i>"Như thưởng thức một ly rượu vang được ủ lâu ngày vậy, <br>
+ thứ rượu màu gỗ gụ sẫm được ủ trong thùng gỗ sồi, uống cạn hết trong một hơi,
+
+# ~e5d711d4
+; 烧灼的滋味从胃延伸至喉咙，随着呼吸的起伏来到弥散的空气中。」</i>
+"để lại trôi tuột cảm giác cay nồng trong cuốn họng xuống phổi bạn, <br>
+hoà huyện vào từng hơi thở.</i>
+
+# ~ec90f342
+; <i>「它并不致命，只是稍微有些……</i>;; Bedsheet: <i>「它并不致命，只是稍微有些……[br][wait 0.5]令人感伤。」</i>
+<i>"Nó không tới mức chết người, chi là có thoáng chút.......</i>
+
+# ~61bb4c51
+; <i>令人感伤。」</i>
+<i>u sầu."</i>
+
+# ~b431150
+; （翻开笔记本）
+(Mở cuốn sổ)
+
+# ~6beabca6
+; （不翻开笔记本）
+(Không mở cuốn sổ)
+
+# ~595badf0
+; 咦？你在做什么？
+Gì đó? Cho coi với.
+
+# ~2104b43b
+; 吓我一跳。
+Ối sợ quá sợ quá.
+
+# ~5233b7ea
+; 哇啊啊啊啊啊！噢噢噢噢啊啊啊！呃呃呃呃！
+ÁAAAA! AAAAAA! ÁAAAAA!
+
+# ~b948e7fc
+; 不好意思哦，吓到你啦。
+Ối chà, giật hết cả mình luôn nhỉ?
+
+# ~f5294d74
+; 没……没事。
+K-không sao hết.
+
+# ~ce302b88
+; 没事。
+Có gì đâu.
+
+# ~f7b9e01e
+; 没什么吗……？
+Không sao cơ à.......?
+
+# ~5066c67d
+; 那让我们继续之前的事情吧！
+Nếu vậy thì tụi mình quay lại vấn đề chính nhé!
+
+# ~cffe5fef
+; 你是谁？
+Cô là ai vậy?
+
+# ~9092eda3
+; 我们之前在做什么？
+Chúng ta cần làm gì mà phải quay lại?
+
+# ~782c5bce
+; 哎呀，难道你已经忘记了吗？
+Ơ kìa, mới đó mà quên rồi sao?
+
+# ~3b87e064
+; 那些誓言，那些羁绊和感动……难道只有莉莉丝还记得吗？
+Lời hẹn ước khi đó, khoảnh khắc đó, tình cảm của hai ta khi đó....... vậy là chúng chỉ còn lại trong tâm trí của Lilith thôi ư?
+
+# ~4be4cdfa
+; 根本没有那种东西吧。
+Vốn dĩ chúng chưa hề tồn tại nữa là.
+
+# ~9e75e632
+; 噢噢噢噢！羁绊！感动！
+Ồôôôôô! Tình cảm đôi ta! Cảm xúc đôi ta!
+
+# ~8b0aa1b
+; 嗯嗯嗯嗯！羁绊！感动！
+Đúng rồi đó, đúng rồi đó! Tình cảm đôi ta nè! Cảm xúc đôi ta nè!
+
+# ~eb844fcd
+; 不记得也没有关系哦。
+Nhưng nếu cậu không nhớ thì thôi vậy.
+
+# ~13f522df
+; 这是一个视觉小说，你可以使用「历史记录」进行回忆。
+Dù sao thì đây cũng là game visual novel mà, cậu bấm nút 「Lịch Sử」để nhớ lại mọi thứ là được.
+
+# ~30519b2d
+; 根本没有发生过这种对话吧！
+Nói dối trắng trợn thế gái?
+
+# ~4f6de79e
+; 这不是真正的历史记录。
+Tôi khá chắc cái đấy không phải là Lịch Sử.
+
+# ~b7d49aff
+; 噢噢噢噢！莉莉丝！神赐樱花轮回巫女！我全都想起来了！
+Ôôôôôô! Ra là Lilith! Là Thiếu Nữ Anh Đào Tái Sinh! Giờ tôi nhớ ra rồi!
+
+# ~6782453c
+; 呀，被发现了！
+Oái, chưa gì lộ rồi!
+
+# ~16882499
+; 呵呵，只是一个小小的玩笑啦。
+Haha, đùa tí.
+
+# ~e3e67da5
+; 我已经把真正的历史记录还给你了，现在你可以正常地使用它了。
+Tui mới sửa lại Lịch Sử thật cho cậu rồi đó, cứ dùng đi thoải mái nhé.
+
+# ~59a45dd0
+; 虽然翻看历史记录像是你没有在认真听我说话……
+Mà kể ra, cậu lật đi lật lại trong Hộp Lịch Sử vậy <br>
+ cứ như cậu không thèm chú tâm tới lời tui vậy đó.......
+
+# ~81e50076
+; 但如果是你，我愿意无数遍讲给你听哦。
+Nhưng nếu là cậu, thì tui sẵn lòng nói đi nói lại cho đó.
+
+# ~aca602c2
+; 对了，还没有正式介绍过我自己。
+À mà, tui vẫn chưa tự giới thiệu bản thân mình nhỉ?
+
+# 1100
+; ……
+……
+
+# ~589d47eb
+; 没有得到预期之内的回应，感到很惊讶？
+Cô không ngạc nhiên vì mấy câu trả lời cụt ngủn thế này à?
+
+# ~6b133e9b
+; 呵呵……当然有一些惊讶。
+Haha....... hơi tổn thương tí thôi.
+
+# ~44ce9c3d
+; 对了，还没正式介绍过我自己……
+À mà, tui vẫn chưa tự giới thiệu bản thân mình nhỉ?
+
+# ~cad35513
+; 我叫莉莉丝，是你的童年玩伴。
+Tên tui là Lilith, là bạn thời thơ ấu của cậu đó.
+
+# ~53a6caff
+; 原来如此。
+À, ra vậy.
+
+# ~ee4d79d9
+; 童年玩伴？我有这种东西吗？
+Bạn thời thơ ấu á? Có á?
+
+# ~f1fb382f
+; 你已经忘记了吗？
+Chưa gì mà quên rồi à?
+
+# ~bed8c78a
+; 夏天的时候，我们会一起奔跑，爬树，抓蝴蝶，玩游戏，做学校布置的作业……
+Về hè, chúng mình bay nhảy cùng nhau nè, leo cây bắt bướm, <br>
+ chơi đủ trò con bò, rồi cố gắng hoàn thành bài tập về nhà nữa.......
+
+# ~921234eb
+; 我想起来了。
+Bây giờ thì tôi nhớ ra rồi.
+
+# ~58f80ca
+; 你说的这些都太宽泛了，基本上每个人都会经历。
+Mấy thứ cô vừa miêu tả nó vừa chung chung mà ai cũng có thể chém được ấy.
+
+# ~833794af
+; 唔……
+Ựa.......
+
+# ~e6ddac3e
+; 那这个怎么样？
+À, như này nha?
+
+# ~20bef906
+; 小时候，我们有一次去爬山，遇到了冬眠结束后来觅食的棕熊……
+Hồi còn nhỏ, có một lần tụi mình đi leo núi và vô tình đụng phải con gấu đi kiếm ăn sau khi tỉnh dậy từ giấc ngủ đông dài.......
+
+# ~7f39af48
+; 遭遇了这种事情，一般是活不到现在的吧？
+Đụng phải thú dữ như vậy còn mạng là may lắm rồi.
+
+# ~ed6a48c5
+; 哎呀，不要再抓着这些无关紧要的细节不放了。
+Nào, quan tâm chi ba cái tiểu tiết.
+
+# ~7df333ac
+; 总之，我是你的童年玩伴，现在和你重逢了。事情就是这么简单~
+Nói tóm lại, tui là bạn thời thơ ấu của cậu, và bây giờ chúng ta gặp mặt lại nhau, Có vậy thôi~
+
+# ~4acb711b
+; 话说，你已经很久没吃过东西了吧？
+À mà, chắc nãy giờ cậu chưa ăn gì đâu nhỉ?
+
+# ~49f67a7b
+; 我们去做点东西吃吧。
+Vậy tụi mình nấu gì đó bỏ bụng nhé?
+
+# ~e4e1595b
+; 锵锵！接下来是「莉莉丝特供·甜蜜的蛋糕时间」哦~
+Tèn ten! Tiếp theo là chương trình đặc biệt:「Giờ bánh ngọt ngào cùng Lilith」!
+
+# ~b97f11ce
+; 也就是说，你将在莉莉丝老师的指导下，亲手制作出美味的草莓蛋糕。
+Trong chương trình kỳ này, cậu sẽ nướng ra chiếc bánh kem dâu tây ngon tuyệt cú mèo dưới sự hướng dẫn tận tình của Lilith.
+
+# ~f5f71cf0
+; 然后，我们就可以在冒着幸福泡泡的成就感中，一起享用这个蛋糕了。
+Sau đó, chúng ta sẽ cùng tận hưởng chiếc bánh ngọt ngào trong niềm hạnh phúc~
+
+# ~d4d26d9a
+; 虽然不明觉厉，但是我明白了，莉莉丝老师！
+Không rõ ý của cô lắm, mà cùng nhau bắt tay làm nào, Lilith!
+
+# ~f5608cd1
+; 等等，为什么是我来做？
+Ủa khoan, sao tôi lại là người làm?
+
+# ~309961f
+; 我讨厌草莓蛋糕。
+Tôi không thích bánh kem dâu.
+
+# ~3339f321
+; 因为老师我，要负责指导的部分哦。
+Để tôi hướng dẫn cậu chứ sao nữa nè!
+
+# ~1f9be9ff
+; 而且，更重要的是，我希望你能亲自体验到完成一件事情的乐趣。
+Mà thứ tui muốn á, <br>
+ là để cậu tận hưởng niềm vui khi tự tay làm gì đó.
+
+# ~1194cf65
+; 你开心了，我也会开心的哦。
+Nếu cậu vui, thì tui cũng vui.
+
+# ~8679e444
+; 拜托了，就做一次试试看吧！
+Thôi nào, thử tí đi mà!
+
+# ~d5131b5e
+; 虽然不知道你为什么会这么讨厌草莓蛋糕……
+Cho dù cậu có ghét bánh kem dâu đi nữa,
+
+# ~571fc04d
+; 但我还是希望，这一次的制作体验能让你有所改观。
+Tui mong là trải nghiệm này sẽ thay đổi suy nghĩ của cậu.
+
+# ~a559e979
+; 那么，我们现在就开始吧。
+Vậy thì ta cùng nhau bắt tay vào bếp nhé.
+
+# ~261d8234
+; 关于制作步骤嘛……
+Làm cũng dễ thôi mà……
+
+# ~f920650c
+; 简单来说，就是烤制一个戚风蛋糕胚，然后往蛋糕胚上抹奶油，并点缀草莓。
+nướng một lớp bánh chiffon nè, phết kem lên, rồi trang trí thêm tí dâu tây.
+
+# ~4af06aea
+; 我们先做蛋糕胚的部分。
+Mà trước tiên ta phải làm phần lớp bánh đã.
+
+# ~2e65d104
+; 首先，从橱柜里拿出牛奶、食用油、低筋面粉、细砂糖和鸡蛋。
+Ta phải lấy sữa, dầu ăn, bột mì làm bánh, đường và trứng trong tủ ra.
+
+# ~1feb894b
+; <i>「我的橱柜里真的有这些东西吗？——这是你发出的疑问。」</i>
+<i>"Khoan đã, trong tủ có đủ hết mấy thứ đó không vậy? Bạn tự hỏi bản thân mình trong hoài nghi"</i>
+
+# ~dfdfc931
+; <i>「但无论如何，这个行为仍然值得一试。」</i>
+<i>"Nhưng dù sao thì, cũng đáng để thử xem."</i>
+
+# ~548b33b8
+; <i>「毕竟，现在并没有任何证据表明橱柜里没有这些东西。」</i>
+<i>"Bởi ta làm sao có thể biết được nó có thật sự ở trong tủ không."</i>
+
+# ~bef0a677
+; （打开橱柜的门）
+(Mở cánh cửa tủ ra)
+
+# ~a09b4901
+; 呀，居然真的有！难道是天使般的梦幻美少女提前准备好的？
+Oa, đầy đủ hết luôn nè! Phải chăng có thiên thần hộ mệnh nào đã chuẩn bị sẵn hết cho ta rồi không?
+
+# ~7a5eea21
+; （拿出牛奶、食用油、低筋面粉、细砂糖和鸡蛋）
+(Lấy sữa, dầu ăn, bột làm bánh, đường và trứng ra.)
+
+# ~aeb74db6
+; 首先，我们需要分离蛋清和蛋黄。
+Đầu tiên, ta sẽ tách lòng trắng trứng ra riêng.
+
+# ~c18f00af
+; （分离它们）
+(Tách lòng trắng trứng.)
+
+# ~98c888f1
+; （怀着巨大感伤地分离它们）
+(Tách lòng trắng trứng, với nỗi u sầu tột cùng.)
+
+# ~d6eb4be7
+; <i>「你看着眼前的<ruby="我">鸡蛋</ruby>，心中被巨大的感伤被淹没。」</i>
+<i>"Bạn nhìn <ruby="me">quả trứng</ruby> cầm trên tay, cùng với nỗi buồn nặng trĩu trong tim."</i>
+
+# ~10e53602
+; <i>「那是一种可以被称之为宿命感的东西：每一个鸡蛋的命运是在什么时候被决定的？」</i>
+<i>"Cảm giác nặng nề về triết lý nhân sinh: Liệu định mệnh của trái trứng phụ thuộc vào đâu?"</i>
+
+# ~327c5c07
+; <i>「是它们诞生于世的那一刻吗？是它们被面前的少女盯上的那一刻吗？
+<i>"Từ khi nó mới được sinh ra? Hay là từ khi nó được tìm thấy bởi người con gái kia?
+
+# ~adb98b15
+; 是脆弱的外壳在外界的撞击下碎裂的那一刻吗？」</i>
+Hay là khoảng khắc chiếc vỏ mỏng manh của nó bị tác động mạnh lên?"</i>
+
+# ~3267b26
+; <i>「还是说，在享乐主义将宏大理念腐蚀掉的现代，命运的议题早已烟消云散。」</i>
+<i>"Hoặc có lẽ trong thời hiện đại nơi mà chủ nghĩa khoái lạc đã làm xói mòn những lý tưởng lớn lao, <br>
+thứ gọi là số phận có lẽ đã dần biến mất."</i>
+
+# ~53e3ea79
+; 然后，加入牛奶、细砂糖、玉米油，进行搅拌。
+Tiếp theo, cho sữa, đường và dầu ngô vào rồi đánh đều.
+
+# ~a99e8bd4
+; （加入它们，进行搅拌）
+(Thêm vào và trộn đều.)
+
+# ~c606c0f4
+; 然后，加入低筋面粉，进行搅拌。
+Rồi đổ bột làm bánh vào và trộn đều hỗn hợp nè.
+
+# ~dcb39897
+; 然后，加入蛋黄，搅拌。
+Thêm lòng đỏ vào trộn nè.
+
+# ~392c2eb
+; 然后，拿出一个新的碗，加入蛋清，进行搅拌。
+Sau đó, mình bỏ lòng trắng trứng vào tô mới và đánh bông lên nè.
+
+# ~701c7431
+; 然后，加入搅拌好的蛋清，进行搅拌。
+Bước cuối, ta sẽ bỏ lòng trắng đã đánh bông lên vào bột rồi đánh đều hỗn hợp nè.
+
+# ~da893ad4
+; （怀着巨大感伤地加入它们，进行搅拌）
+(Đánh đều hỗn hợp, với nỗi u sầu tột cùng.)
+
+# ~86efa8e1
+; <i>「转圈，转圈，然后再转一圈。」</i>
+<i>"Đánh đều, đều một vòng rồi thêm một vòng nữa."</i>
+
+# ~4193c8e7
+; <i>「或许整个世界也只是一台没有意义的机械，在不知疲倦的蜂鸣声中循环。」</i>
+<i>"Có lẽ chính mọi thứ trên đời này cũng vô hồn như một cỗ máy, <br>
+cứ lặp đi lặp lại cùng với nhịp điệp liên hồi vậy."</i>
+
+# ~f7e1344d
+; 好啦，面糊的制备完成了！
+Hỗn hợp xong rồi nè!
+
+# ~721d72cd
+; 接下来，只要把它放进烤箱就行了。
+Tiếp theo là mình bỏ nó vô lò nướng nè.
+
+# ~10faa70b
+; （将面糊放入烤箱）
+(Bỏ hỗn hợp vô lò nướng.)
+
+# ~d36b7e4
+; <i>「烤箱开始运转，就像世界上其他所有正常的烤箱那样。」</i>
+<i>"Nhìn chiếc lò làm công việc của mình, như bao chiếc lò khác."</i>
+
+# ~6b6a946b
+; <i>「这意味着你从繁琐的机械劳动中得到解放，并被附赠了一小段可支配的时间。」</i>
+<i>"Một dòng suy nghĩ chợt thoáng qua trong đầu bạn: Nó đã giải phóng bạn khỏi áp bức công việc, cho bạn sự tự do tạm thời."</i>
+
+# ~ca26f2d7
+; 怎么了吗？
+Hở, sao vậy?
+
+# ~e49683b4
+; 你还没有回答我之前的疑问。
+Cô chưa trả lời câu hỏi của tôi.
+
+# ~edc36ce7
+; 你到底是谁？
+Cô là ai vậy?
+
+# ~e76147d2
+; 你的出现很不合理。
+Sự tồn tại của cô chả hợp lý một tí nào cả.
+
+# ~7673cc44
+; 嗯嗯，没错没错！陌生少女突然出现在家中……
+Ừm hứm, đúng rôi đó! Tự nhiên có gái lạ xuất hiện bất thình lình trong nhà cậu.......
+
+# ~36db1968
+; 以这种设定展开，到底是本年度最具潜力的master love神作，还是落入俗套的恐怖悬疑片呢？
+Với tiêu đề truyện như thế này, chắc phải là một kiệt tác của thể loại master love, hoặc có thể là tình tiết truyện kinh dị nhỉ?
+
+# ~cd3ddf3d
+; 所以，你的想法是什么？
+Sao nè, cậu có ý kiến gì không?
+
+# ~23aadbfa
+; 我觉得你是一个杀人狂魔，一边靠可爱的外表使对方放松警惕，一边找合适的机会下手。
+Cô là sát nhân hoàng loạt, đang cố gắng che dấu thủ đoạn của mình qua lớp chiếc mặt nạ dễ thương cu-te phô mai que <br>
+ và đang đợi thời cơ để sát hại thêm một nạn nhân nữa.
+
+# ~193febaa
+; 我觉得你是住在老房子里的幽灵……
+Cô là hồn ma ám căn nhà này à.......
+
+# ~4cccaeac
+; 我觉得你是为我操碎心的老妈。
+Cô là bà mẹ lo lắng cho con cái mình thái quá.
+
+# ~d6acc2fc
+; 你只是一个游戏角色而已。
+Cô là nhân vật game.
+
+# ~2e3176ef
+; 我不好说……
+Cái này khó nói thật.......
+
+# ~db23e00d
+; 哎，你是怎么知道的？！
+Hở? Sao cậu biết hay vậy?!
+
+# 1101
+; ……
+……
+
+# ~d9e49948
+; 怎么会……你怎么会知道……？
+Sao mà... Sao mà cậu biết được vậy?
+
+# ~92e2d0b6
+; 你的态度很可疑。
+Hành vi của cô thất thường lắm.
+
+# ~fad6cc33
+; 你以为我是第几次见到你？
+Chứ cô nghĩ tôi gặp cô bao giờ chưa?
+
+# ~6c39e100
+; 你想让我摔死！
+Cô chỉ muốn hãm hại tôi thôi!
+
+# ~19fc0fb
+; 我要离开了，你阻止不了我。
+Tôi đi đây, đừng có mà cản tôi.
+
+# ~56d25288
+; ……呵呵。
+...Hờ.
+
+# ~85a0e9f5
+; 但现在才发觉，不觉得为时已晚吗……
+Giờ nhận ra thi quá muộn rồi đó.......
+
+# ~43d0bf5e
+; 什么……
+Hở?
+
+# ~b1e8c70a
+; 你已经吸入了足够的毒素，身体马上就会开始麻痹……
+Từ lúc chúng ta nói chuyện đến giờ, cậu cũng hít kha khá khí độc rồi đấy; không sớm thì muộn, cậu sẽ dần mất đi nhận thức.......
+
+# ~aaad3d9e
+; 等你再度醒来，就会发现自己被捆起来，在清醒的意识中看着自己的四肢被一点点卸下……
+Và khi tỉnh lại, hai tay thì cột chặt, tận mắt chứng kiến tứ chi đứa lìa đi, từng cái một.......
+
+# ~7480234d
+; 这样的结果不应该来得那么快……
+Đáng lẽ chuyện này không nên xảy ra sớm đến vậy.......
+
+# ~16ec59ca
+; 到底是哪里出了错……
+Có gì sai sót trong kịch bản sao.........
+
+# ~73116877
+; END2 TRUE END
+END2 TRUE END
+
+# ~73a33f03
+; 呵呵，开玩笑的啦！
+Hẹ hẹ, đùa tí!
+
+# ~8dfe2fd3
+; 啊啊，吓死我了。
+Ối, giật chết cả mình à!
+
+# ~20df05f4
+; 放心好了，莉莉丝才不会害你哦！
+Đừng có lo nè, Lilith nhìn vậy chứ vô hại lắm đó!
+
+# 222111
+; ……
+.......
+
+# ~b7eeffbf
+; 呜，其实并不好笑么……
+Ờm, tui đùa tệ lắm à.......
+
+# 11231
+; 咳咳。总之，你会觉得我是杀人狂魔——
+Khụ khụ. Nếu cậu còn nghĩ tui là sát nhân hàng loạt thì—
+
+# ~da67081f
+; 是因为，你是从自己的视点出发，对我进行认知的吧？
+Vì cậu nhìn nhận tôi, qua góc nhìn nhận xét của cậu, có phải không?
+
+# 1141
+; ……
+……
+
+# 1142
+; ……
+……
+
+# ~f99a307a
+; 我明白了。既然你认为是这种感觉的话，我就努力试试吧！
+Ra là vậy. Nếu cậu nghĩ tui như vậy rồi thì tớ phải đáp lại kỳ vọng của cậu nhỉ?
+
+# ~2b605aa7
+; 哎呀！你不要一天到晚躺在家里什么都不做，好不好？就算不为妈妈分摊家务，你好歹也多出去走走，多和别人聊聊天，做点各种各样的事情，找找人生的意义，一直像现在这样下去怎么行？
+Con với chả cái! Không biết làm việc nhà mà còn ườn ra đó. Suốt ngày chui rúc trong nhà, không biết phụ lo việc nhà, ra ngoài xã giao với người ta cho bằng bè bằng bạn cái coi. Sống chẳng ra cái hệ thống gì!
+
+# ~238f9235
+; 别的人在你这个年纪可都是充满了干劲，每天都在努力，人生规划也很清晰，
+Nhìn con nhà người ta xem, <br>
+ biết chăm lo cho bản thân, lại còn chăm chỉ làm việc.
+
+# ~1b1f3fa3
+; 还知道帮妈妈多干活，怎么就你这么不懂事，
+Còn biết phụ mẹ làm việc nhà nữa! Sao con không được như người ta vậy hả?
+
+# ~a290d1ef
+; 一天天的什么也不干，就知道玩电脑，
+Suốt ngày cắm đầu vào ba cái điện tử.
+
+# ~e5630c8d
+; 电脑到底有什么好玩的？
+Có gì hay ho mà cắm miết cái mặt cả ngày vô vậy?
+
+# ~5e42c8f4
+; 唉，这样下去，妈妈也不知道到底该怎么办了——
+Thật tình, riết không biết nói thế nào—
+
+# ~68facbcd
+; 之类的……莉莉丝根本就不是这种感觉吧！
+....... Hay gì gì đó. Mà Lilith không có hợp vai đó chút nào!
+
+# ~bbea731
+; 简直完全一致！
+Hợp thấy mò luôn!
+
+# ~895e297f
+; 确实不像，只是逗你玩的。
+Không có mà, nãy giờ tôi đùa mà trời.
+
+# ~8c915431
+; 怎么可能！
+Cậu nỡ lòng nào!
+
+# ~c561ffc7
+; 什么嘛……
+Than ôi.......
+
+# ~12d6f63e
+; 咳咳。总之，你会觉得我是为你操碎心的老妈——
+Dù sao thì, nếu cậu nghĩ tôi nghe như mấy bà mẹ hay cằn nhằn—
+
+# ~e251c550
+; 呵呵，当然。
+Ha ha, tất nhiên rồi.
+
+# ~4273b726
+; 不过话虽然是这么说……
+Dù sao thì.......
+
+# ~1c843efb
+; 但如果想要认真地玩文字游戏的话，就意味着想要忘记「角色只是被设计出来的角色」这一设定吧？
+Nếu cậu thật sự muốn tận hưởng mấy thể loại trò chơi dạng chữ như thế này, thì cậu phải bỏ đi khái niệm "nhân vật chỉ là những hình tượng được thiết kế" có đúng không nè?
+
+# ~acb3319
+; 只有这样，更深的情感才能被倾注其中，我们也才能更在这一次的相遇中收获体验。
+Chỉ khi gạt đi khái niệm đó, cậu mới có thể đặt trọn cảm xúc vào đó, và cảm nhận vẻ đẹp của cuộc gặp gỡ này.
+
+# ~a6d83d72
+; 无论是看电影、看小说，还是欣赏戏剧，都是同样的道理。
+Dù là xem phim, đọc sách, hay sân khấu kịch nghệ đều có thể áp dụng như nhau thôi.
+
+# ~56f69088
+; 如果一直反复告诉自己「角色只是被设计出来的」，很快就会丧失乐趣的吧？
+Cứ nhắc đi nhắc lại rằng "nhân vật chỉ là hư cấu", thì kiểu gì cũng chán nhanh mà, có đúng không nè?
+
+# ~fd55291a
+; 但你真的只是一个游戏角色啊。
+Nhưng cô thật sự là nhân vật từ trong game mà.
+
+# ~95e057b9
+; 我觉得你是住在老房子里的幽灵，等待新的客人和你一起坐下喝茶，为你带来新的故事。
+Tôi tưởng tượng cô là hồn ma vương vấn trong căn nhà cũ, ngồi chờ ai đó đến bên cùng nhâm nhi tách trà và kể cho nghe những câu chuyện lạ.
+
+# ~4ec3f429
+; 我不否认……
+Tui cũng không phủ nhận đâu.......
+
+# ~fd1d7ac1
+; 但除此之外呢……
+Nhưng rồi sao nữa?
+
+# ~c83cff9
+; 等待新的客人和你一起坐下喝茶，为你带来新的故事。
+Tui vẫn luôn đợi một vị khách mới, ai đó sẽ ngồi xuống uống trà cùng tớ và mang đến những câu chuyện mới.
+
+# ~3b64567e
+; 我已经在这里等你好久好久了……能遇见你非常开心，我马上去泡在橱柜里珍藏了几百年的柑橘香红茶叶。
+Tui đã chờ cậu rất, rất lâu rồi....... Gặp được cậu khiến tớ thật sự rất vui. <br>
+ À, hay là để tui đi pha trà đen hương cam mà tui đã cẩn thận cất trong tủ suốt hàng thế kỷ nhé?
+
+# ~86e8059a
+; 喝下它之后，就可以变成幽灵，和莉莉丝一起在这里生活，永远，永远……
+Sau khi uống xong rồi, cậu cũng sẽ trở thành hồn ma như Lilith và mắc kẹt ở đây mãi mãi về sau.......
+
+# ~1f25c312
+; 呜呜，我不想变幽灵！
+Oáiiii, tôi không muốn biến thành ma đâu!
+
+# ~d8c51a59
+; 开玩笑的！你不会变成幽灵的。
+Đùa thôi! Tui hông có biến cậu thành ma đâu.
+
+# ~b069cdf3
+; 但只要你想，就能和莉莉丝永远在一起——这点是真的哦！
+Nhưng nếu cậu muốn, cậu có thể ở đây với Lilith mãi mãi—— à phần đây là hông có đùa đâu nha!
+
+# 113121
+; ……
+……
+
+# 113122
+; 呜，其实并不好笑么……
+Ựa, đùa thế cũng hông có vui à.......?
+
+# ~ccb7a9c4
+; 咳咳，总之，你会觉得我是幽灵——
+Khụ khụ, nếu cậu còn nghĩ tui là hồn mà thì——
+
+# ~8ec10da1
+; 放轻松，这不是什么很难的问题，只是一次随意的聊天。
+Bình tĩnh xíu nè, tui hông có hỏi mẹo hay gì đâu. Chỉ là mấy câu hỏi phiếm thôi nè.
+
+# ~9af16096
+; 怀着轻松的心情做出选择吧。
+Đừng có ngần ngại lựa chọn nhé?

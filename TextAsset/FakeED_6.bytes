@@ -1,0 +1,151 @@
+; Chinese (S) <zh-CN> to Russian <ru> localization document for `FakeED` managed text document
+
+; 「存在」
+「存在」: "Существование"
+
+; <style=Custom1>CAST</style>
+CAST: <style=Custom1>АКТЁРСКИЙ СОСТАВ</style>
+
+; END
+END: КОНЕЦ
+
+; <style=Custom1>STAFF</style>
+STAFF: <style=Custom1>КОМАНДА</style>
+
+; 书桌
+书桌: Письменный стол
+
+; 低筋面粉
+低筋面粉: Мука для выпечки
+
+; 你
+你: Ты
+
+; <style=Custom2>制作人</style>
+制作人: <style=Custom2>Продюсер</style>
+
+; <style=Custom2>动作指导</style>
+动作指导: <style=Custom2>Координатор трюков</style>
+
+; <style=Custom2>化妆设计</style>
+化妆设计: <style=Custom2>Гримёр</style>
+
+; 发带
+发带: Лента для волос
+
+; 地板
+地板: Пол
+
+; 墙壁
+墙壁: Стена
+
+; 夏特露
+夏特露: Сартр
+
+; 夏特露酱
+夏特露酱: Сартр
+
+; 学者
+学者: Учёный
+
+; <style=Custom2>导演</style>
+导演: <style=Custom2>Режиссёр</style>
+
+; 弗子
+弗子: Фуко
+
+; 收音机
+收音机: Радио
+
+; <style=Custom2>替补演员</style>
+替补演员: <style=Custom2>Дублёр</style>
+
+; <style=Custom2>服装设计</style>
+服装设计: <style=Custom2>Художник по костюмам</style>
+
+; 枕头
+枕头: Подушка
+
+; 椅子
+椅子: Стул
+
+; 沥水架
+沥水架: Сушилка для посуды
+
+; <style=Custom2>灯光操作</style>
+灯光操作: <style=Custom2>Оператор освещения</style>
+
+; <style=Custom2>灯光设计</style>
+灯光设计: <style=Custom2>Художник по свету</style>
+
+; 烤箱
+烤箱: Духовка
+
+; 牛奶
+牛奶: Молоко
+
+; 神秘少女
+神秘少女: Таинственная девушка
+
+; 窗户
+窗户: Окно
+
+; 粉色药丸
+粉色药丸: Розовая таблетка
+
+; 细砂糖
+细砂糖: Сахар
+
+; 绿色药丸
+绿色药丸: Зелёная таблетка
+
+; <style=Custom2>编剧</style>
+编剧: <style=Custom2>Сценарист</style>
+
+; <style=Custom2>舞台设计</style>
+舞台设计: <style=Custom2>Художник-постановщик</style>
+
+; 莉莉丝
+莉莉丝: Лилит
+
+; 莉莉丝公主
+莉莉丝公主: Принцесса Лилит
+
+; 蛋糕
+蛋糕: Торт
+
+; 逐梦之典
+逐梦之典: Кодекс Морфея
+
+; <style=Custom2>道具师</style>
+道具师: <style=Custom2>Художник по реквизиту</style>
+
+; 那个人
+那个人: Незнакомец
+
+; 镜子
+镜子: Зеркало
+
+; <style=Custom2>音响操作</style>
+音响操作: <style=Custom2>Звукооператор</style>
+
+; <style=Custom2>音响设计</style>
+音响设计: <style=Custom2>Звукорежиссёр</style>
+
+; 食用油
+食用油: Растительное масло
+
+; 饰
+饰: играет
+
+; 魔王
+魔王: Король демонов
+
+; 魔王莉莉丝
+魔王莉莉丝: Повелительница демонов Лилит
+
+; 黄色药丸
+黄色药丸: Жёлтая таблетка
+
+; 黑色笔记本
+黑色笔记本: Чёрный блокнот

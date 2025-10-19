@@ -1,0 +1,877 @@
+; Chinese (S) <zh-CN> to French <fr> localization document for `Prologue1_7` naninovel script
+
+# ~56b1b1ec
+; 是正常的蛋糕！太好了，我们成功了！
+C'est un gâteau normal ! Dieu merci, on a réussi !
+
+# ~7d1fc3ca
+; 你有没有闻到……一些焦味？
+Tu sens une odeur de brûlé ?
+
+# ~f219f959
+; 焦、焦味？！
+B-brûlé ?!
+
+# ~867d9d75
+; （拿出烤盘）
+(Il sort la plaque de cuisson.)
+
+# ~7844eab
+; 唔……怎么会这样！
+Oh non... comment cela a-t-il pu se produire ?
+
+# ~c743417f
+; 在、在下刚才经历了猛烈的心理斗争，压力实在是太大了。
+Eh bien, je... Je viens de traverser une intense bataille psychologique, <br>
+et le stress était tout simplement trop difficile à gérer pour moi.
+
+# ~69ad8aca
+; 压力大了以后，水的沸点就提升了，所以食物的温度就变得更高……
+Lorsque la pression augmente, le point d'ébullition de l'eau augmente, <br>
+de sorte que les aliments finissent par atteindre une température plus élevée…
+
+# ~c0ea0658
+; 抱歉，我完全没有料到这点。
+Désolée. Je ne m'attendais pas du tout à cela.
+
+# ~c04f9d3c
+; 没事的，我们继续把蛋糕做完吧。
+Ce n'est pas grave. Continuons à travailler sur le gâteau et finissons-le.
+
+# ~3ea899f
+; ……
+……
+
+# ~f46069a0
+; 嗯！
+Oui!
+
+# ~34089552
+; 没事的！
+C'est bon !
+
+# ~2339244
+; 让我们继续把蛋糕做完吧！
+Finissons ce gâteau.
+
+# ~66614dac
+; 我明白了
+Je comprends.
+
+# ~8ab8e644
+; <i>「你将蛋糕胚从模具中取了出来，焦味以一种略带侵略性的方式在房间里蔓延。」</i>
+<i>"Vous sortez le gâteau du moule, <br>
+l'odeur de brûlé envahit la pièce de manière presque agressive."</i>
+
+# ~f551a00e
+; <i>「但你还是努力调整好了心态。」</i>
+<i>"Mais vous gardez votre calme et tu persévères."</i>
+
+# ~2b9ff1ef
+; <i>「在莉莉丝的指导下，你切开草莓，打发奶油，并将它们和蛋糕胚混在一起。」</i>
+<i>"Sous la direction de Lilith, vous coupez les fraises, <br>
+fouettez la crème et mélangez le tout avec les couches de gâteau."</i>
+
+# ~7aeb814a
+; <i>「 现在它看起来像个正常的蛋糕了——甚至还是个诱人的蛋糕。」</i>
+<i>"Maintenant, cela ressemble à un vrai gâteau, non, à un gâteau appétissant."</i>
+
+# ~9a961182
+; <i>「 虽然奶油抹得不是很平整，但这恰恰是它有别于工业化流水线生产的重要标志。」</i>
+<i>"La crème répartie de manière inégale lui confère même un charme <br>
+qui la distingue des produits industriels fabriqués en série."</i>
+
+# ~67149d1b
+; <i>「这令人感动，不是么？」</i>
+<i>"N'est-ce pas... émouvant ?"</i>
+
+# ~45481d99
+; 现在，我们成功完成了一件事。
+Maintenant, nous avons accompli quelque chose.
+
+# ~32b316a
+; 虽然不能吃，但我们还是可以一起完成分享蛋糕的仪式——
+Même s'il n'est pas comestible, nous pouvons tout de même partager le rituel de la découpe du gâteau—
+
+# ~4db53eea
+; 这是我们通过行动改变了世界的证明。
+C'est la preuve que nous avons changé le monde grâce à nos actions.
+
+# ~4a010871
+; （切开蛋糕）
+(Coupez le gâteau.)
+
+# ~750918b0
+; （将第一块递给莉莉丝）
+(Il tend la première part à Lilith.)
+
+# ~30f863d9
+; 诶？
+Huh ?
+
+# ~cb697e8e
+; 啊啊啊啊啊——！蛋、蛋糕掉了！
+Ahhhhhh ! Le gâteau... il est tombé !
+
+# ~b48e443d
+; 啊，怎么办，怎么办？怎么办！
+Que faisons-nous ? Que faisons-nous ? Que faisons-nous ?!
+
+# ~75e127f0
+; 明明是充满爱意地递过来的蛋糕，但莉莉丝却没能接住……
+Même si tu me l'as tendu avec tant d'amour, je n'ai pas pu l'attraper.
+
+# ~efb1b05
+; 怎么会变成这样子！
+Comment en est-on arrivé là ?
+
+# ~e3d71f45
+; ……非常抱歉！真的非常抱歉！
+…Je suis vraiment désolée ! Je suis vraiment, vraiment désolée !
+
+# ~7527a38e
+; 你的反应真可爱。
+Votre réaction est adorable.
+
+# ~fe94ec6b
+; 没事没事，我收拾一下就行。
+Ce n'est pas grave, je vais nettoyer.
+
+# 17235
+; ……
+……
+
+# ~59d0c537
+; 谢谢你……
+Merci…
+
+# ~3312c2a8
+; 但，真的很抱歉……还要你帮忙收拾……
+Mais, je suis vraiment désolée… de te demander de m'aider avec ça…
+
+# ~b131e3a9
+; 和你一起做蛋糕很开心，这就够了。
+J'ai pris beaucoup de plaisir à préparer le gâteau avec toi. Cela me suffit.
+
+# ~2da21301
+; 反正收拾起来也不麻烦。
+De plus, nettoyer cela ne pose pas beaucoup de problèmes.
+
+# ~7b1ab5be
+; （擦去莉莉丝的眼泪）
+(Il essuie les larmes de Lilith.)
+
+# ~93ef92a6
+; （拍拍莉莉丝的肩膀）
+(Tapotez l'épaule de Lilith.)
+
+# ~fb167abd
+; （什么也不做）
+(Ne faites rien.)
+
+# ~398c6c15
+; 呜……
+……
+
+# ~ee0ac555
+; 就像你说的那样，重要的是制作过程。
+Tu as raison. C'est le processus qui compte.
+
+# ~884ddefc
+; 遇见你之前，我觉得生活毫无意义，只想等待着它碾过我……
+Avant de te rencontrer, je pensais que la vie n'avait aucun sens. J'attendais simplement qu'elle m'écrase.
+
+# ~fe314fda
+; （沉默着，并开始收拾地上的蛋糕）
+(Commencez silencieusement à nettoyer le désordre.)
+
+# ~660a77b1
+; 嗯，谢谢你……
+…Merci…
+
+# ~67095aa8
+; 但现在，我获得了一些新的动力……
+Mais maintenant, j'ai trouvé une nouvelle motivation.
+
+# ~338aaa83
+; 也许它并不像我想得这么糟，也许我能做到更多的事……
+Peut-être que ce n'est pas aussi grave que je le pensais. Peut-être que je peux faire plus.
+
+# 17240
+; ……
+……
+
+# ~2bf968d9
+; 谢谢你。
+Merci.
+
+# ~ce302b88
+; 没事。
+Ce n'est pas grave.
+
+# ~97057625
+; <i>「下一秒，你的肩膀和背部感受到了一些微弱的压力。」</i>
+<i>"L'instant d'après, vous sentez une légère pression sur vos épaules et votre dos."</i>
+
+# ~41bd6128
+; <i>「一阵头发的香气，以及皮肤柔软的触感。」</i>
+<i>"Le parfum de ses cheveux et la douceur de sa peau."</i>
+
+# ~ee9e25fa
+; <i>「短暂的交融结束后，莉莉丝温柔地注视着你，眼神中却带着些许狡黠。」</i>
+<i>"Alors que ce bref instant touche à sa fin, Lilith vous regarde avec chaleur, <br>
+même si ses yeux trahissent une pointe de malice."</i>
+
+# ~d3522222
+; 既然案发现场已经被收拾完了……
+Bon, maintenant que la scène du crime a été nettoyée…
+
+# ~9456192a
+; 那么，现在就轮到莉莉丝来补偿你啦。
+Il est temps pour Lilith de te rendre la pareille.
+
+# ~253363a
+; 请闭上眼睛！
+Fermez les yeux !
+
+# ~aec7ed43
+; （普通地闭上眼睛）
+(Fermez les yeux normalement.)
+
+# ~e2dda2ec
+; （无欲无求地闭上眼睛）
+(Fermez les yeux avec indifférence.)
+
+# ~be96e90f
+; （满怀期待地闭上眼睛）
+(Fermez les yeux avec impatience.)
+
+# ~e0a96ad
+; 现在可以睁开了哦。
+Vous pouvez les ouvrir maintenant.
+
+# ~575c6f57
+; 哼哼~怎么样，这里是不是超棒？
+Ta-da~ Cet endroit n'est-il pas incroyable ?
+
+# ~d5ad0476
+; 超棒的！
+Je pensais que la compensation serait… autre chose…
+
+# ~d3973087
+; 我还以为是别的什么补偿……
+Je voulais vous demander, où se trouve cet endroit ?
+
+# ~ae03f8c7
+; 我早就想问了，这是哪里？
+C'est incroyable !
+
+# ~2a114fa6
+; 对吧对吧！超棒的！
+N'est-ce pas? C'est incroyable !
+
+# ~732a1629
+; 别的补偿……呵呵，是在说什么呢？
+Autre chose… hein ? Que voulez-vous dire par là ?
+
+# ~d39a07e8
+; 不，没什么……
+Non, rien…
+
+# ~112edd66
+; 这里是莉莉丝的<ruby="Wonderland">秘密房间</ruby>，只对你开放哦~
+C'est la pièce secrète <ruby="Pays des merveilles">de Lilith</ruby>. C'est réservé à vous~
+
+# ~21e30e14
+; 我们怎么会突然出现在这里？
+Comment en sommes-nous arrivés là tout d'un coup ?
+
+# ~efd27328
+; 这里根本没有灯和窗户，却能有亮光？
+Il n'y a ni lumière ni fenêtres, mais c'est lumineux ?
+
+# ~7242a999
+; 说是房间，好像只有沙发和桌子吧……
+Vous appelez ça une pièce, mais ce n'est qu'un canapé et une table…
+
+# ~e8341146
+; 讨厌啦，居然对人家的房间刨根问底到这种程度……
+Oh, allez ! Qui va fouiller dans la chambre de quelqu'un comme ça…
+
+# ~718bd210
+; 啊，差点忘了正事。
+Ah oui, c'est vrai ! J'ai failli oublier l'événement principal.
+
+# ~8d70cadf
+; 看到了吗？只需要我一个响指，美味的蛋糕就出现了。
+Vous voyez ? Il suffit que je claque des doigts pour qu'un délicieux gâteau apparaisse.
+
+# ~6b163a77
+; 没错，作为补偿，请你吃「莉莉丝特制·草莓蛋糕」！
+Oui, en guise de récompense, savourez ce "gâteau spécial fraise Lilith!"
+
+# ~385e1752
+; 谢谢，我开动了！
+Merci. Je vais me mettre au travail !
+
+# ~e258e1ba
+; 为什么桌上会突然出现蛋糕？
+Pourquoi le gâteau est-il simplement… apparu sur la table ?
+
+# ~87ca5fbb
+; 这上面的草莓是不是有点大了？
+Les fraises dessus sont-elles… un peu trop grosses ?
+
+# ~b2bec949
+; 这蛋糕周围的「闪光特效」是什么情况？
+Et qu'en est-il de l'"effet scintillant" autour du gâteau ?
+
+# ~384bbb17
+; 就像我出现在你面前一样，蛋糕就是这么「突然出现」了。
+Tout comme je suis apparu devant vous, le gâteau est simplement… "apparu".
+
+# ~3bc2fbe
+; 来，吃一口蛋糕~
+Tenez, prenez une bouchée.
+
+# ~75f5eb1d
+; 当然了！谁不喜欢饱满多汁的草莓呢？
+Bien sûr ! Qui n'aime pas les fraises juteuses et charnues ?
+
+# ~e4cc4d5b
+; 忘记那些现实世界的无聊规则吧！来，尝一颗——
+Oubliez ces règles ennuyeuses de la réalité ! Allez-y, essayez-en une—
+
+# ~7a435e30
+; （张嘴）
+(Ouvrez la bouche.)
+
+# ~e98d6870
+; 嗯哼~
+Mm-hmm~
+
+# ~60791499
+; 这样会显得蛋糕小巧而精致呀。
+Cela donne au gâteau un aspect raffiné et délicat.
+
+# ~cf59e37c
+; 不过严格来说，这个「闪光」它并没有「闪烁」呢，
+Mais, à proprement parler, cette "étincelle" n'est pas vraiment "étincelante", n'est-ce pas ?
+
+# ~d20ce5c3
+; 看来我还需要多加练习……
+Il semble que j'ai encore besoin d'un peu plus d'entraînement…
+
+# ~4a382241
+; 好像……并没有任何味道？
+…Il ne semble pas avoir de goût ?
+
+# ~ff22166d
+; 嗯，因为我还没描绘它的味道。
+Eh bien, je n'ai pas encore décrit le goût.
+
+# ~ef8bf8a
+; 比起蛋糕的味道，我果然还是对奶油的质感和草莓的色泽之类的东西更感兴趣。
+Honnêtement, je suis plus intéressée par la texture de la crème et la couleur des fraises.
+
+# ~a043e9e9
+; 所以描绘味道的部分就留给你啦！很简单的，来试试看吧。
+Je vous laisse donc le soin de choisir la saveur ! C'est facile, il suffit de l'imaginer.
+
+# ~32797c01
+; 对了，除了草莓蛋糕外，你也可以把它描绘成其他味道。
+Oh, et au fait, vous n'êtes pas obligé de vous limiter aux fraises. <br>
+Vous pouvez lui donner le goût que vous voulez.
+
+# ~ff8644bb
+; （聚精会神地盯着草莓蛋糕……）
+(Concentrez-vous sur le gâteau à la fraise…)
+
+# ~1f404682
+; （想象它拥有草莓蛋糕的味道）
+(Imaginez que ça a le goût d'un gâteau à la fraise.)
+
+# ~e35b78b9
+; （想象它拥有巧克力蛋糕的味道）
+(Imaginez que ça a le goût d'un gâteau au chocolat.)
+
+# ~3b9995f8
+; （想象它拥有炸鸡的味道）
+(Imaginez que ça a le goût du poulet frit.)
+
+# ~ae849a89
+; 我好像闻到草莓蛋糕的味道了。
+Je crois que je peux sentir le goût du gâteau à la fraise maintenant
+
+# ~1b0e8393
+; 嗯，快尝尝看吧！
+Super ! Essayez-le !
+
+# ~9873fbc2
+; 我好像闻到了……巧克力蛋糕的味道？
+Je crois que je sens le goût… d'un gâteau au chocolat ?
+
+# ~db74e887
+; 噢噢！巧克力蛋糕味的草莓蛋糕，好像很酷的样子！
+Ooooh ! Un gâteau au chocolat et aux fraises? Ça a l'air sympa !
+
+# ~11c135a
+; 我会怀着虔诚的心情享用它的。
+Je vais le manger avec respect.
+
+# ~e74a739d
+; 我好像闻到了……
+Je crois que je peux sentir le goût…
+
+# ~5fd1db08
+; 炸鸡的味道？！
+Du poulet frit ?!
+
+# ~6d2b9d53
+; 很……很新颖的组合……呢！
+…Une… association innovante, n'est-ce pas ?
+
+# 17273
+; ……
+……
+
+# ~265f8ae
+; 等等！所以我们真的要吃这种东西吗？
+Attendez ! On va vraiment manger ça ?
+
+# ~385b59b0
+; 于是，你和莉莉丝一起品尝了草莓蛋糕，度过了一段快乐的时光……
+Et ainsi, vous et Lilith avez partagé un gâteau à la fraise et passé un moment joyeux ensemble…
+
+# ~97ec9572
+; 于是，你和莉莉丝一起品尝了巧克力味的草莓蛋糕，度过了一段快乐的时光……
+Ainsi, vous et Lilith avez partagé un gâteau à la fraise et au chocolat et avez passé un moment joyeux ensemble…
+
+# ~6d1bd9ec
+; 于是，你和莉莉丝一起品尝了炸鸡味的草莓蛋糕，度过了一段快乐的时光……
+Et ainsi, vous et Lilith avez partagé un gâteau à la fraise au goût de poulet frit et passé un moment joyeux ensemble…
+
+# ~332263ee
+; 你……你生气了吗？
+Tu es… tu es fou ?
+
+# ~eb8ca081
+; 那……我……我要怎么做才好？
+Alors… que… que dois-je faire ?
+
+# ~9d7a4301
+; 不怪莉莉丝，都怪我。
+Ce n'est pas la faute de Lilith, c'est entièrement ma faute.
+
+# ~8400b21a
+; 你把地上的蛋糕舔干净赔罪吧。
+Lèches le gâteau par terre pour te rattraper.
+
+# ~89a3cc28
+; 我没有把蛋糕拿稳，所以蛋糕掉了下去。
+Je n'ai pas réussi à tenir correctement le gâteau, alors il est tombé.
+
+# ~f4d79fb6
+; 但没事的，我收拾一下就行。
+Mais ce n'est pas grave, je vais nettoyer.
+
+# ~7a26ee60
+; 所以都怪我……都怪我……都怪我……都怪我……
+Donc, tout est de ma faute… tout est de ma faute… tout est de ma faute… tout est de ma faute…
+
+# ~cdb1b25d
+; ……哎？
+...Huh ?
+
+# ~cc521a12
+; 都怪我都怪我都怪我
+Tout est de ma faute, tout est de ma faute, tout est de ma faute.
+
+# ~dbb23ce5
+; 没有这回事，你先冷静一下……
+Ce n'est pas vrai. Calmez-vous…
+
+# ~484ef67b
+; 别这样……
+S'il vous plaît, ne faites pas ça…
+
+# ~4be68fa2
+; 都怪我都怪我都怪我都怪我都怪我都怪我都怪我
+Tout est de ma faute, tout est de ma faute, tout est de ma faute, tout est de ma faute, tout est de ma faute…
+
+# ~7477cd41
+; 都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我都怪我
+C'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute, c'est entièrement ma faute—!!
+
+# ~955e4dd9
+; ███ ！！！！！！
+███ !!!!!
+
+# ~36351a60
+; 你从未感受感觉到如此的平静，即使只有一瞬。
+Vous avez ressenti un sentiment de paix rare, ne serait-ce que pour un instant.
+
+# ~57e609a6
+; 不好意思，可能吓到了你。但是没事的……不怪你。
+Désolé, je t'ai peut-être fait peur. Mais ce n'est pas grave, ce n'est pas ta faute…
+
+# ~e8de2fa5
+; 蛋糕掉了的话，把它收拾好就行了！
+Si le gâteau est tombé, nettoie simplement et passe à autre chose !
+
+# ~eeec7298
+; 这只是一个蛋糕，这件事也到此为止就结束了，它没有更多的意义。
+Ce n'est qu'un gâteau. Ça s'arrête là. Ce n'est rien de plus.
+
+# ~6892bed5
+; 没事的……
+Ça va…
+
+# ~70c994e6
+; 它只是一件小得不能再小的事情，毕竟谁都有可能弄掉蛋糕。
+C'est tellement insignifiant ; n'importe qui aurait pu faire tomber un gâteau.
+
+# ~1fedb1e6
+; 所以，它绝对不值得让你这么愧疚。
+Donc, ça ne vaut vraiment pas la peine de se sentir aussi coupable.
+
+# ~6b021247
+; 不要让负面情绪占据你的大脑，也不要让它们把你的生活吞没……
+Ne laissez pas les émotions négatives envahir votre esprit et ne les laissez pas prendre le dessus sur votre vie…
+
+# ~de94e9c9
+; 答应我，好吗？
+Prometez-le-moi, d'accord ?
+
+# ~4ab1b2fd
+; 嗯，我明白了。
+Mm, je comprends.
+
+# ~21ded1ca
+; 好爽，你可以再骂两句吗？
+C'est génial ! Maintenant, tu veux bien me gronder un peu plus ?
+
+# ~4182aaec
+; 那我来收拾一下吧。
+Laissez-moi nettoyer ça.
+
+# ~dbbc4b57
+; 哈——？！
+Ha—?!
+
+# ~fa154c4f
+; 就是像那种经典的傲娇人设……
+Tu sais, comme l'archétype classique du tsundere…
+
+# ~c730e50
+; 既、既然是你的要求……
+Si... si c'est ce que vous voulez…
+
+# ~77e8ddc6
+; 啊，真是的，连蛋糕都拿不稳的笨蛋！
+Oh, sérieusement ! Tu es vraiment maladroit, tu fais même tomber un gâteau !
+
+# ~1aa19b49
+; 才没有很担心你呢！哼，再这样下去就不管你了！笨蛋笨蛋笨蛋！
+Je ne m'inquiétais pas du tout pour vous ! Hum ! Si ça continue comme ça, je m'en fiche complètement !<br>
+ Idiot, idiot, idiot !
+
+# ~78fafbbc
+; ……这种感觉的吗？
+...Quelque chose comme ça ?
+
+# ~7e00119c
+; 噢噢，太棒了！
+Ooh, incroyable !
+
+# ~970b8b94
+; 感觉有点俗套。
+Ça fait un peu cliché.
+
+# ~dcfdae41
+; 总之，谢谢你。
+Quoi qu'il en soit, merci.
+
+# 17294
+; 嗯……
+Mm…
+
+# ~1ce4b870
+; 如果一直处在自我否定的情绪之中，生活会变得很辛苦的。
+Si vous restez prisonnier du sentiment de culpabilité en permanence, la vie devient insupportablement difficile.
+
+# ~d2722ce7
+; 只要出了什么问题，立刻就觉得是自己做错了事导致的，
+Chaque fois que quelque chose ne va pas, vous pensez immédiatement que c'est de votre faute,
+
+# ~211178
+; 开始用愧疚感折磨自己，在不用去期待任何事物的痛苦情绪中感受到安心……
+Laisser la culpabilité vous ronger tout en trouvant un faux réconfort dans la douleur de ne rien attendre de personne…
+
+# ~2b5a6d3f
+; 这样下去是绝对不行的。
+Ce n'est pas une bonne façon de vivre.
+
+# ~869a8813
+; 试着放轻松些吧。即使世界充满恶意，你也还有我的陪伴，好吗？
+Essayez de vous détendre. Même si le monde est plein de méchanceté, vous m'avez toujours à vos côtés, d'accord ?
+
+# ~4ca079d5
+; 嗯……
+Mm…
+
+# 17299
+; ……
+……
+
+# ~7f8444d4
+; 我开玩笑的
+...Je plaisantais.
+
+# ~399bf896
+; 还愣着干什么？
+Qu'est-ce que tu fais là ?
+
+# 17300
+; ……
+……
+
+# ~fb836875
+; 嗯，我明白了！
+Mm, je comprends !
+
+# ~f7f775e1
+; <i>「整理了裙摆后，她俯下身去，跪在了地上。」</i>
+<i>"Après avoir ajusté sa jupe, elle s'agenouilla sur le sol."</i>
+
+# ~14d8356e
+; <i>「她的面前是已经支离破碎的蛋糕，胚体的焦味和甜奶油的香气形成了诡异的组合，弥散在空气中。」</i>
+<i>"Devant elle se trouvait le gâteau brisé, un mélange de base brûlée et de crème sucrée créant un arôme étrange qui flottait dans l'air."</i>
+
+# ~fccee9a1
+; <i>「你几乎能想象出将那团物体咽下后，在喉咙里扩散开的干涩焦苦味。」</i>
+<i>"On pouvait presque imaginer le goût sec et amer qui envahissait la gorge si l'on osait avaler ce mélange."</i>
+
+# ~850a9dab
+; 够了！你不要吃它！
+Arrête ! Ne mange pas ça !
+
+# ~e1054d3a
+; （看着她吃）
+(La regarde manger)
+
+# ~398131f7
+; <i>「她的头垂得更低了，奶油和碎屑粘上了松软的长发。」</i>
+<i>"Elle baissa encore plus la tête, de la crème et des miettes collées à ses cheveux soyeux."</i>
+
+# 17302
+; ……
+……
+
+# ~26826881
+; <i>「轻微的皱眉过后，她下定决心，开始将蛋糕送入嘴中。」</i>
+<i>"Après avoir légèrement froncé les sourcils, elle se résolut et commença à mettre des morceaux de gâteau dans sa bouche."</i>
+
+# ~13af84dc
+; 够了！你不要再吃了！
+Assez! Arrête de manger ça !
+
+# 303
+; ……
+……
+
+# ~135ea231
+; 莉莉丝继续吃着地上的蛋糕。
+Lilith continua à manger le gâteau qui était tombé par terre.
+
+# 304
+; ……
+……
+
+# 306
+; ……
+……
+
+# ~3d662fea
+; 就这样，莉莉丝继续吃着地上的蛋糕。
+Et ainsi, Lilith continua à manger le gâteau qui était tombé par terre.
+
+# ~e92b813a
+; <i>「没错，即使她如此顺应你，你仍然无法得到满足。」</i>
+<i>"C'est vrai. Même si elle vous obéit, vous ne trouvez toujours pas satisfaction."</i>
+
+# ~3a7e72a1
+; <i>「倒不如说，正是因为她无条件地听从了你的一切命令，才使你感到如此恐惧。」</i>
+<i>"Au contraire, son obéissance inconditionnelle ne fait que renforcer votre peur grandissante."</i>
+
+# ~1ea333be
+; <i>「她为什么要这么做？她到底有什么企图？她在演什么？她什么时候会露出真面目？
+<i>"Pourquoi fait-elle cela ? Quel est son motif ? À quoi joue-t-elle ? Quand ses véritables intentions seront-elles révélées ?
+
+# ~916ce250
+; ——这些想法乱作一团，撕扯着你的内心。」</i>
+—Ces pensées tourbillonnent et vous déchirent l'esprit."</i>
+
+# ~969cc7ff
+; <i>「于是，无名的怒火从你心中产生。」</i>
+<i>"Et puis, une rage sans nom monte en vous."</i>
+
+# ~af5c592f
+; 既然你这么喜欢吃，就再多吃点吧。
+Si tu aimes tant ça, mange-en davantage.
+
+# ~6889f348
+; ……？
+……？
+
+# ~fe9309f1
+; （从橱柜里拿出各种调味料，胡乱地挤在蛋糕上）
+(Prenez des condiments au hasard dans le placard et les verse sur le gâteau)
+
+# ~773017a9
+; <i>「调料瓶接连掉落在地上，发出哐当响声。」</i>
+<i>"Les bouteilles tombent bruyamment sur le sol."</i>
+
+# 307
+; ……
+…
+
+# ~8ddf6a9a
+; <i>「但她只是低下头，继续吃着这个蛋糕。」</i>
+<i>"Mais elle baisse simplement la tête et continue à manger."</i>
+
+# ~6725900d
+; 就这样，莉莉丝一点点地吃完了蛋糕。
+Et ainsi, Lilith mangea tout le gâteau petit à petit.
+
+# 308
+; ……
+…
+
+# ~279bbe2f
+; <i>「你一把推开了莉莉丝。现在，你以极近的距离面对着这个掉落在地上的蛋糕。」</i>
+<i>"Vous repoussez Lilith. Maintenant, vous vous retrouvez face à face avec le gâteau sur le sol, à une distance extrêmement proche."</i>
+
+# ~46fad156
+; <i>「你的心中涌起恐惧、摧毁一切的冲动，以及……
+<i>"Une tempête de peur, d'impulsions destructrices et de…
+
+# ~ccdd3602
+; <i>某些难以描述的畅快。」</i>
+une joie indescriptible envahit votre poitrine.」</i>
+
+# ~a465422d
+; <i>「就像呕吐过后，会从胃部痛苦的痉挛中感受到的那种轻飘感。」</i>
+<i>"Comme la légèreté éphémère qui suit les vomissements provoqués par de douloureuses crampes d'estomac."</i>
+
+# ~b283f601
+; （吃掉蛋糕）
+(Mangez le gâteau)
+
+# ~1e24955
+; （沉默地看着蛋糕）
+(Regarder le gâteau en silence)
+
+# ~e9f82a5f
+; <i>「干涩呛鼻的气味滑入你的喉咙。」</i>
+<i>"L'odeur sèche et suffocante vous irrite la gorge."</i>
+
+# ~3904a002
+; <i>「这使你痛苦。」</i>
+<i>"Cela te fait souffrir."</i>
+
+# 3088
+; ……
+……
+
+# ~bc9ec2f2
+; ……你还好吗？
+...Vous allez bien ?
+
+# ~9afcfa3a
+; 你为什么要这么做？
+Pourquoi fait-tu cela ?
+
+# ~c3ff827a
+; 你到底有什么企图？
+Quel est ton motif ?
+
+# ~23236e91
+; 因为你希望我吃掉那个蛋糕，所以我就吃了。
+Vous vouliez que je mange le gâteau, alors je l'ai fait.
+
+# ~9dcf66d0
+; 我真该死，居然让你做这种事。
+Bon sang, je n'arrive pas à croire que je t'ai poussé à faire ça.
+
+# ~8514635
+; 我不信！怎么可能！
+Je n'y crois pas ! Impossible !
+
+# ~e981570d
+; 我也不知道我到底怎么了。
+Je ne sais plus ce qui m'arrive.
+
+# ~d3a36291
+; 我可能是疯了吧
+Je dois être fou…
+
+# ~4b84b9f5
+; 现在的我让自己都感到害怕……
+Je me fais peur à moi-même…
+
+# ~936b5d84
+; 不，请千万不要这样想。
+Non, je vous en prie, ne pensez pas cela.
+
+# ~fb275ad6
+; 你只是……并不擅长表达自己的情感。
+Vous n'êtes tout simplement pas doué pour exprimer vos sentiments
+
+# ~d41ef82
+; 而且，同样是蛋糕，
+Et en réalité, c'est le même gâteau.
+
+# ~ad79b40f
+; 掉在地上……和放在盘子里，真的有什么本质的差别吗？
+Est-ce que le fait que ce soit sur le sol... plutôt que dans une assiette... fait vraiment une différence ?
+
+# ~97b2ebc0
+; 你怎么可能因为我一句话就吃掉在地上的蛋糕？
+Comment as-tu pu manger du gâteau qui était tombé par terre juste parce que je te l'ai demandé ?
+
+# ~4ed0d588
+; 你到底为什么要做这些事？你到底在谋划着什么？
+Pourquoi tu fais ça ? Qu'est-ce que tu complotes ?
+
+# ~8a09dc91
+; 就像我说的那样——我会这么做，是因为你提出了这样的请求。
+Comme je vous l'ai dit, je l'ai fait parce que vous me l'avez demandé.
+
+# ~90415eae
+; 我会这么做，正是因为我接受你……接受你的一切……
+Je l'ai fait parce que je vous accepte… Je vous accepte tout entier…
+
+# ~85378965
+; 如果你不相信的话，让我进行千百次的证明也可以。
+Si vous ne me croyez pas, je peux vous le prouver mille fois.
+
+# ~d03f095f
+; 我……
+Je…
+
+# ~1da9a554
+; 对不起……对不起……
+Je suis désolé… Je suis vraiment désolé…
+
+# ~5e88945a
+; 没事的，什么都不用说……
+Ce n'est pas grave. Vous n'avez pas besoin de dire quoi que ce soit…
+
+# ~ba0248ff
+; 让我们安静地待一会吧……
+Restons assis tranquillement pendant un moment.
+
+# ~d33d0907
+; 就这样，和莉莉丝拥抱在一起，度过了一段安稳的时光。
+Et ainsi, vous vous êtes assis ensemble, enlacés, partageant un moment de paix.

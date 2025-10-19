@@ -1,0 +1,151 @@
+; Chinese (S) <zh-CN> to Japanese <ja> localization document for `FakeED` managed text document
+
+; 「存在」
+「存在」: 「存在」
+
+; <style=Custom1>CAST</style>
+CAST: <style=Custom1>CAST</style>
+
+; END
+END: END
+
+; <style=Custom1>STAFF</style>
+STAFF: <style=Custom1>STAFF</style>
+
+; 书桌
+书桌: デスク
+
+; 低筋面粉
+低筋面粉: 薄力粉
+
+; 你
+你: あなた
+
+; <style=Custom2>制作人</style>
+制作人: <style=Custom2>プロデューサー</style>
+
+; <style=Custom2>动作指导</style>
+动作指导: <style=Custom2>スタントコーディネーター</style>
+
+; <style=Custom2>化妆设计</style>
+化妆设计: <style=Custom2>メイクアップアーティスト</style>
+
+; 发带
+发带: リボン
+
+; 地板
+地板: 床
+
+; 墙壁
+墙壁: 壁
+
+; 夏特露
+夏特露: シャトールーちゃん
+
+; 夏特露酱
+夏特露酱: シャトールーちゃん
+
+; 学者
+学者: 学者
+
+; <style=Custom2>导演</style>
+导演: <style=Custom2>監督</style>
+
+; 弗子
+弗子: ナデシコちゃん
+
+; 收音机
+收音机: ラジオ
+
+; <style=Custom2>替补演员</style>
+替补演员: <style=Custom2>スタンドイン</style>
+
+; <style=Custom2>服装设计</style>
+服装设计: <style=Custom2>衣装デザイナー</style>
+
+; 枕头
+枕头: 枕
+
+; 椅子
+椅子: イス
+
+; 沥水架
+沥水架: 水切りラック
+
+; <style=Custom2>灯光操作</style>
+灯光操作: <style=Custom2>照明オペレーター</style>
+
+; <style=Custom2>灯光设计</style>
+灯光设计: <style=Custom2>照明デザイナー</style>
+
+; 烤箱
+烤箱: オーブン
+
+; 牛奶
+牛奶: 牛乳
+
+; 神秘少女
+神秘少女: 謎の少女
+
+; 窗户
+窗户: 窓
+
+; 粉色药丸
+粉色药丸: 桃色の薬
+
+; 细砂糖
+细砂糖: 砂糖
+
+; 绿色药丸
+绿色药丸: 緑色の薬
+
+; <style=Custom2>编剧</style>
+编剧: <style=Custom2>脚本家</style>
+
+; <style=Custom2>舞台设计</style>
+舞台设计: <style=Custom2>舞台美術</style>
+
+; 莉莉丝
+莉莉丝: リリス
+
+; 莉莉丝公主
+莉莉丝公主: リリス姫
+
+; 蛋糕
+蛋糕: ケーキ
+
+; 逐梦之典
+逐梦之典: 夢追いの法典
+
+; <style=Custom2>道具师</style>
+道具师: <style=Custom2>小道具担当</style>
+
+; 那个人
+那个人: あの人
+
+; 镜子
+镜子: 鏡
+
+; <style=Custom2>音响操作</style>
+音响操作: <style=Custom2>音響オペレーター</style>
+
+; <style=Custom2>音响设计</style>
+音响设计: <style=Custom2>音響デザイナー</style>
+
+; 食用油
+食用油: 油
+
+; 饰
+饰: plays
+
+; 魔王
+魔王: 魔王
+
+; 魔王莉莉丝
+魔王莉莉丝: 魔王リリス
+
+; 黄色药丸
+黄色药丸: 黄色の薬
+
+; 黑色笔记本
+黑色笔记本: 黒色のノート

@@ -1,0 +1,209 @@
+; Chinese (S) <zh-CN> to Chinese (Hong Kong) <zh-HK> localization document for `Script` managed text document
+
+; 欢迎来到——莉莉丝的设置界面~
+G_END1_CharacterText1: 歡迎來到——莉莉絲的設定介面~
+
+; 是一个我完全不会去使用的功能呢。
+G_END1_CharacterText10: 是一個我完全不會去使用的功能呢。
+
+; 莉莉丝当然和你是同一个选择。
+G_END1_CharacterText11: 莉莉絲當然和你是同一個選擇。
+
+; 还是说，是你命中注定的选择了莉莉丝的选择呢？
+G_END1_CharacterText12: 還是說，是你命中註定的選擇了莉莉絲的選擇呢？
+
+; 你可以调配一个专属于莉莉丝的「默认」吗？
+G_END1_CharacterText13: 你可以調配一個專屬於莉莉絲的「默認」嗎？
+
+; 希望你喜欢这个世界~
+G_END1_CharacterText14: 希望你喜歡這個世界~
+
+; 一个视角，一个世界。
+G_END1_CharacterText2: 一個視角，一個世界。
+
+; 莉莉丝的视线所及之处尽是世界~
+G_END1_CharacterText3: 莉莉絲的視線所及之處盡是世界~
+
+; 我不需要它哦，我完全理解……
+G_END1_CharacterText4: 我不需要它哦，我完全理解……
+
+; 保留些许的氛围……
+G_END1_CharacterText5: 保留些許的氛圍……
+
+; 再偷偷地加入一点点色彩~
+G_END1_CharacterText6: 再偷偷地加入一點點色彩~
+
+; 只想聆听你的声音……
+G_END1_CharacterText7: 只想聆聽你的聲音……
+
+; 我可不希望世界回到原初的模样呢。
+G_END1_CharacterText8: 我可不希望世界回到原初的模樣呢。
+
+; 保留我对世界的一些点缀……
+G_END1_CharacterText9: 保留我對世界的一些點綴……
+
+; 在这里调整我们的世界~
+G_END1_PlayerText1: 在這裡調整我們的世界~
+
+; 会听不到莉莉丝的声音哦~ 
+G_END1_PlayerText10: 會聽不到莉莉絲的聲音哦~
+
+; 魔法少女莉莉丝可是无所不能的！ 
+G_END1_PlayerText11: 魔法少女莉莉絲可是無所不能的！
+
+; 你希望世界以何种符号呈现在你的面前呢？ 
+G_END1_PlayerText12: 你希望世界以何種符號呈現在你的面前呢？
+
+; 想听一听我的建议吗？ 
+G_END1_PlayerText13: 想聽一聽我的建議嗎？
+
+; 希望你喜欢这个世界~ 
+G_END1_PlayerText14: 希望你喜歡這個世界~
+
+; 一个视角，一个世界 
+G_END1_PlayerText2: 一個視角，一個世界
+
+; 你希望世界以何种形式呈现在你的面前呢？ 
+G_END1_PlayerText3: 你希望世界以何種形式呈現在你的面前呢？
+
+; 你希望我说话快一点或慢一点吗？没问题的哦~ 
+G_END1_PlayerText4: 你希望我說話快一點或慢一點嗎？ 沒問題的哦~
+
+; 希望它不会影响到我的声音呢~ 
+G_END1_PlayerText5: 希望它不會影響到我的聲音呢~
+
+; 在这里可以调节游戏效果音的大小哦。 
+G_END1_PlayerText6: 在這裡可以調節遊戲效果音的大小哦。
+
+; 这样的声音可以吗~ 
+G_END1_PlayerText7: 這樣的聲音可以嗎~
+
+; 如果「静音」也是一种背景音乐，那该如何静音「静音」呢……？ 
+G_END1_PlayerText8: 如果「靜音」也是一種背景音樂，那該如何靜音「靜音」呢……？
+
+; 就像在宇宙的中心目睹一颗星球无声地爆炸。 
+G_END1_PlayerText9: 就像在宇宙的中心目睹一顆星球無聲地爆炸。
+
+; 调整游戏设置。 
+G_END2_PlayerText1: 調整遊戲設定。
+
+; 调整角色语音的音量为0。 
+G_END2_PlayerText10: 調整角色語音的音量為0。
+
+; 选择角色语音的本地化语言。 
+G_END2_PlayerText11: 選擇角色語音的當地語系化語言。
+
+; 选择游戏文本的本地化语言。 
+G_END2_PlayerText12: 選擇遊戲文字的當地語系化語言。
+
+; 将所有设置还原为默认值。 
+G_END2_PlayerText13: 將所有設定還原為預設值。
+
+; 保存并退出设置界面。 
+G_END2_PlayerText14: 保存並退出設定介面。
+
+; …… 
+G_END2_PlayerText2: ……
+
+; 调整游戏显示模式。 
+G_END2_PlayerText3: 調整遊戲顯示模式。
+
+; 调整文本打印速度。 
+G_END2_PlayerText4: 調整文字列印速度。
+
+; 调整背景音乐的音量。 
+G_END2_PlayerText5: 調整背景音樂的音量。
+
+; 调整游戏效果音的音量。 
+G_END2_PlayerText6: 調整遊戲效果音的音量。
+
+; 调整角色语音的音量。 
+G_END2_PlayerText7: 調整角色語音的音量。
+
+; 调整背景音乐的音量为0。 
+G_END2_PlayerText8: 調整背景音樂的音量為0。
+
+; 调整游戏效果音的音量为0。 
+G_END2_PlayerText9: 調整遊戲效果音的音量為0。
+
+G_END3_CharacterText1: <space=1>
+
+; …… 
+G_END3_CharacterText10: ……
+
+; 我也并没有那么无所不能呢…… 
+G_END3_CharacterText11: 我也並沒有那麼無所不能呢……
+
+; …… 
+G_END3_CharacterText12: ……
+
+; 仅限于这里吗…… 
+G_END3_CharacterText13: 僅限於這裡嗎……
+
+; 就这样…… 
+G_END3_CharacterText14: 就這樣……
+
+; …… 
+G_END3_CharacterText2: ……
+
+; 哪里都没有…… 
+G_END3_CharacterText3: 哪裡都沒有……
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_CharacterText4: 似乎沒有可以顯示的內容呢……
+
+; 像是在调侃我一般…… 
+G_END3_CharacterText5: 像是在調侃我一般……
+
+; 点缀什么……？ 
+G_END3_CharacterText6: 點綴什麼……？
+
+; …… 
+G_END3_CharacterText7: ……
+
+; 或许也不错…… 
+G_END3_CharacterText8: 或許也不錯……
+
+; 没有什么…… 
+G_END3_CharacterText9: 沒有什麼……
+
+G_END3_PlayerText1: <space=1>
+
+; …… 
+G_END3_PlayerText10: ……
+
+; 我也并没有那么无所不能呢…… 
+G_END3_PlayerText11: 我也並沒有那麼無所不能呢……
+
+; …… 
+G_END3_PlayerText12: ……
+
+; 仅限于这里吗…… 
+G_END3_PlayerText13: 僅限於這裡嗎……
+
+; 就这样…… 
+G_END3_PlayerText14: 就這樣……
+
+; …… 
+G_END3_PlayerText2: ……
+
+; 哪里都没有…… 
+G_END3_PlayerText3: 哪裡都沒有……
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_PlayerText4: 似乎沒有可以顯示的內容呢……
+
+; 像是在调侃我一般…… 
+G_END3_PlayerText5: 像是在調侃我一般……
+
+; 点缀什么……？ 
+G_END3_PlayerText6: 點綴什麼……？
+
+; …… 
+G_END3_PlayerText7: ……
+
+; 或许也不错…… 
+G_END3_PlayerText8: 或許也不錯……
+
+; 没有什么…… 
+G_END3_PlayerText9: 沒有什麼……

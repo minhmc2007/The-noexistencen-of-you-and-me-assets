@@ -1,0 +1,10 @@
+; Chinese (S) <zh-CN> to Russian <ru> localization document for `NewCGGalleryUI` managed text document
+
+; 一瞬追忆<br><size=60>过去，现在，和未来</size>
+CGGallery.Title: Воспоминания<br><size=60>Прошлое, настоящее и будущее</size>
+
+; 回忆中的瞬间
+NewCGGalleryUI.CGView: Моменты
+
+; 回忆中的片段
+NewCGGalleryUI.MovieView: Фрагменты

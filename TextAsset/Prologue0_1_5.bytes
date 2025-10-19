@@ -1,0 +1,523 @@
+; Chinese (S) <zh-CN> to Indonesian <id> localization document for `Prologue0_1` naninovel script
+
+# ~43338c60
+; 第█章：初遇
+Chapter █: Pertemuan Pertama
+
+# ~5898bf9e
+; 在那个<ruby="上午">下午</ruby>，莉莉丝出现了。
+Pada <ruby="pagi">sore</ruby> itu, Lilith muncul.
+
+# ~a5b4d33a
+; 躺在床上的我，已经分不清睡了多久，也不再记得上一次进食是什么时候。
+Aku berbaring di tempat tidur, hanyut dalam waktu— entah sudah berapa lama aku tertidur, <br>
+ bahkan aku tidak ingat kapan terakhir kali aku makan.
+
+# ~e0424bd2
+; 我唯一要做的，就是在这里死去，然后等待我的身体腐烂。
+Satu-satunya hal yang bisa kulakukan adalah mati disini... dan menunggu tubuhku membusuk.
+
+# ~4acc86a7
+; 就在这时，她出现在了窗边。
+Lalu…… dia muncul di dekat jendela.
+
+# ~3ea899f
+; ……;; @wait 2
+……
+
+# ~4d077d75
+; <i>「她没有说什么，只是侧头看着你，仿佛你是她房间里的某样物品。」</i>;; 这个背景音乐适配性很好
+<i>"Dia tidak mengatakan apapun, hanya memiringkan kepalanya dan menatapmu— <br>
+seolah-olah kamu hanyalah benda lain di kamarnya."</i>
+
+# ~1607ac36
+; <i>「当然，你才是这个房间真正的主人」</i>
+<i>"Tentu saja, pemilik sebenarnya dari ruangan ini adalah kamu."</i>
+
+# ~f49e57de
+; <i>「你很久没和人说过话了。所以你得想好一阵，才能领悟到该如何开口。」</i>
+<i>"Kamu sudah lama tidak berbicara dengan orang lain.<br>
+Jadi, kamu perlu waktu untuk memulai pembicaraan."</i>
+
+# ~af3216ff
+; 我是谁……
+Siapa aku ......
+
+# ~fb7c1b9a
+; 我在哪里……
+Di mana aku ......
+
+# ~1ea571f2
+; 我该做什么……
+Apa yang harus aku lakukan......
+
+# ~31f07f91
+; 我刚刚，是成功说出话了？
+Apa aku baru saja berbicara?
+
+# ~6c459d7b
+; 还是说，在这个游戏里，用鼠标点击选项的行为没有任何意义？
+Atau pilihan di dalam game ini tidak ada artinya?
+
+# ~e24292b5
+; <i>「沉默。沉默过后仍然是沉默，但沉默总是要被打破的。」</i>
+<i>"Hening. Bahkan setelah keheningan muncul keheningan lagi, tapi keheningan tidak akan bertahan selamanya."</i>
+
+# ~3438c72b
+; 嗯，我听见了。
+Ya. Aku mendengarnya kok.
+
+# ~ee3746b3
+; 你是这个游戏的主角，正在你的房间里，准备攻略美少女。
+Kamu adalah protagonis dalam game ini, sedang duduk di kamarmu, <br>
+dan memulai langkah untuk memenangkan hati seorang gadis cantik.
+
+# ~3542ec66
+; 那你呢？
+Dan bagaimana denganmu?
+
+# ~e9fd6685
+; 你是一张贴图吗？
+Bukannya kamu hanyalah sebuah gambar pada layar?
+
+# ~cfcda5e7
+; 你是我的妄想症产物吗？
+Apakah kamu bagian dari imajinasiku?
+
+# ~12d94ef3
+; 你是和我邂逅的美少女吗？
+Apakah kamu gadis cantik yang akan kutemui?
+
+# ~59857444
+; 你是真想知道，还是因为选项框里只有关于我的选项？
+Kamu benar-benar penasaran, atau karena satu-satunya pilihan yang dapat kamu pilih adalah 'aku'?
+
+# ~9d2deef4
+; <i>「下一秒，她从你的视线里消失了。」</i>
+<i>"Beberapa saat kemudian, dia menghilang dari pandanganmu."</i>
+
+# ~f63735ec
+; <i>「然后，她又出现了。这次你们之间的距离更近。」</i>
+<i>"Lalu, dia muncul lagi, kali ini lebih dekat dari sebelumnya."</i>
+
+# ~cb957c85
+; <i>「你理解了这个行为。也就是说，她刚才朝你走了过来。」</i>
+<i>"Kamu menyadari apa yang dilakukannya—itu berarti dia baru saja melangkah lebih dekat kearahmu."</i>
+
+# ~4383be19
+; <i>「……还是说，是你朝着她走了过去？」</i>
+<i>"……Atau kamu yang mendekat ke arahnya?"</i>
+
+# ~c5ba2045
+; <i>「红色的光，那是她的眼睛，她用眼睛注视着我——这是此刻你的想法。」</i>
+<i>"Matanya yang merah menyala tak berkedip itu—seperti menusuk diriku.<br>
+Pikiran ini terlintas di benakmu, tapi anehnya terasa seperti milik orang lain."</i>
+
+# ~71eaec3d
+; 等等，这些嘈杂的声音是什么？
+Tunggu, suara berisik apa ini?
+
+# ~50ae902b
+; <i>「您问我们吗？我们是您房间中的家具。」</i>
+<i>"Kau bertanya kepada kami? kami adalah perabotan di kamarmu."</i>
+
+# ~44902ea8
+; <i>「您过去花了很长的时间和「我们」对话，所以我们对您的一切都非常熟悉。」</i>
+<i>"Kau telah menghabiskan banyak waktu berbicara dengan 'kami, jadi kami tahu semua tentangmu, temanku."</i>
+
+# ~66b2e167
+; <i>「总之，你可以把我们理解成你的「感官」。」</i>
+<i>“Singkatnya, kamu dapat menganggap kami sebagai 'indra'-mu, yang mulia.”"</i>
+
+# ~87d6cc89
+; 得了吧，你们只是物品，物品也配被叫做「感官」吗？
+Ayolah, kalian hanyalah benda. Memangnya benda layak disebut "indra"?
+
+# ~d7243eb5
+; 噢噢！好久不见，我最忠实的臣子们。
+Ah, pengikut setiaku! sudah lama sekali kita tidak bertemu, kan?
+
+# ~1c4a8a02
+; <i>「好久不见，陛下，您还是一如既往地有精神。」</i>
+<i>"Sudah lama sekali, Yang Mulia. Anda tetap bermartabat dan penuh semangat seperti biasanya."</i>
+
+# 11
+; ……
+……
+
+# ~8d8700e8
+; 被人盯着的感觉如何？
+Bagaimana rasanya saat mata seseorang tertuju padamu?
+
+# ~b256bee4
+; 太棒了，我可以像这样被你一直注视下去。
+Indah sekali. Aku bisa tetap diam seperti ini, ditatap olehmu, selamanya.
+
+# ~e375b400
+; 你戴了美瞳吗？为什么只有你的眼睛有颜色？
+Kamu mengenakan kontak lensa berwarna? Kenapa hanya matamu yang memiliki warna?
+
+# ~d643bf51
+; 你盯得我心里发毛，我讨厌这种感觉。
+Tatapanmu itu membuatku merinding. Aku benci perasaan ini.
+
+# ~5a3d4a4
+; 嗯，那我们就这样一直注视着对方，直到死掉为止吧。
+Hmm kalau begitu, kita saling menatap seperti ini saja, sampai kita berdua mati.
+
+# ~8eec13a8
+; 我们真的会「死」吗？
+Apakah kita benar-benar akan 'mati'?
+
+# ~eda68ca5
+; 感觉有点腻了……
+Aku mulai merasa sedikit lelah dengan ini......
+
+# ~1447203
+; 当然……;; scale:1.25 pos:52,45 wait:false time:1
+Tentu saja……
+
+# 012a
+; ……
+……
+
+# ~ab7d5c62
+; 这样的话可是很毁气氛的哦。
+Kamu ini orang yang tidak bisa membaca suasana ya, tapi aku tidak membencinya kok.
+
+# ~8ccbb618
+; 算啦，就当是你在夸奖我的眼睛好看吧~
+Aku akan menganggapnya sebagai pujian atas betapa indahnya mataku~
+
+# ~40a0784f
+; <i>「她没有回应，继续注视着你。」</i>
+<i>"Dia tidak merespons, dan terus menatapmu."</i>
+
+# ~65b82a13
+; <i>「那样的目光简直就像一根柔软的刺，仿佛能将你的心看穿。」</i>
+<i>"Tatapannya terasa seperti duri lembut <br>
+yang bisa menusuk jantungmu."</i>
+
+# ~fd5a5b06
+; 那么，你觉得我是真实存在的吗？
+"Jadi, katakan padaku—apa kamu percaya kalau aku ini benar-benar ada?"
+
+# ~216de7ef
+; <i>「那么，你觉得她是真实存在的吗？」</i>;; @back CG_2_6 wait:false time:0.7
+<i>"Lalu, apakah menurutmu dia benar-benar ada?"</i>
+
+# ~3411672a
+; 我不确定，我想和你一起寻找这个问题的答案。
+Aku tidak yakin. Aku ingin mencari tahu jawaban atas pertanyaan itu bersamamu.
+
+# ~c61a0fbf
+; 我得到了一个拥抱？
+Apa aku baru saja dipeluk?
+
+# ~7181759d
+; 它是一个「仪式」。为了能让你感受到我，而进行的仪式……
+Ini semacam ritual. Ritual untuk membuatmu merasakan keberadaanku…
+
+# ~525f3ccc
+; 没错，这个行为可以恰如其分地被称做「拥抱」。
+Ya, gerakan ini memang bisa disebut 'peluk'.
+
+# ~bef73055
+; 所以，此刻的你是什么感觉？
+Jadi, apa yang kamu rasakan saat ini?
+
+# ~a053ca47
+; 一张崭新的A4纸，拿出来的时候划破了手。
+Seperti selembar kertas A4 baru yang mengiris jarimu, saat kamu menariknya keluar.
+
+# ~92b94788
+; 柔软的猫毛飘到了手掌心。
+Seperti bulu kucing lembut yang menyentuh telapak tanganmu.
+
+# ~a60ee00a
+; 空气里掺入粉笔屑和灰尘，被吸进鼻腔。
+Seperti debu kapur dan serpihan kayu yang bercampur ke udara, masuk ke dalam lubang hidungmu.
+
+# ~d59d6f17
+; 听你的描述，这像是「触感」。
+Dari deskripsimu, terdengar seperti "sentuhan".
+
+# ~43040619
+; 也就是说，只有一些细微的感觉？
+Jadi, hanya sensasi yang samar-samar saja ya?
+
+# ~4ca079d5
+; 嗯……
+Hmm……
+
+# ~30b14c54
+; 现在我抱得更紧了。这样一来，我们就离得更近了。
+Sekarang, aku memelukmu lebih erat, membuat kita semakin dekat.
+
+# ~95db75ea
+; 所以，被紧紧「拥抱」着的你，是什么感觉？
+Jadi, bagaimana rasanya dipeluk dengan erat?
+
+# ~8646eaa7
+; 沾湿的塑料袋掉在雨天的地上。
+Seperti kantong plastik basah yang dijatuhkan saat hujan.
+
+# ~11cfc5f8
+; 第一株新芽从泥土中破壳而出。
+Seperti tunas pertama yang menembus tanah.
+
+# ~cd911133
+; 食物残渣在胃液里消化。
+Seperti sisa makanan yang larut dalam asam lambung.
+
+# ~5126747d
+; 太好了，感觉变得更加强烈了呢……
+Baguslah, sensasinya menjadi lebih kuat lagi ......
+
+# ~51b0a5f3
+; 现在我抱得更紧了。这样一来，我们就合二为一了。
+Sekarang aku memelukmu lebih erat lagi. Dengan ini, kita telah menjadi satu.
+
+# ~a1422ff6
+; 所以，被深深「拥抱」着的你，是什么感觉？
+Jadi, bagaimana rasanya "dipeluk" dengan erat seperti ini?
+
+# ~abe5d0b2
+; 没什么特别的感觉。
+Tidak ada yang istimewa.
+
+# ~2767a1c
+; 我重获新生了！
+Aku telah terlahir kembali!
+
+# ~6eef6418
+; 我快不能呼吸了……
+Aku tidak bisa bernapas lagi......
+
+# ~8840d2c2
+; 救命！救命！
+Tolong! Tolong!
+
+# ~76f55adc
+; 我简直好得不能再好……
+Aku tidak pernah merasa lebih baik dari ini......
+
+# ~e505d1a7
+; 嘿嘿……嘿嘿……
+Heh heh…… heh heh……
+
+# ~4691e88a
+; 面对行刑队的时候，奥雷里亚诺上校会想起那个父亲带他看冰块的下午。
+Saat berhadapan dengan regu tembak, Kolonel Aureliano Buendía mengingat kembali dikala sore hari ayahnya mengajaknya melihat es.
+
+# ~3b556567
+; 世界是我的表象，这样的考察虽然具有片面性，但却不失为真理。
+Dunia adalah representasiku; pengamatan seperti itu tidak sepenuhnya salah.
+
+# ~cfbae466
+; 启蒙运动就是人类脱离自己所加之于自己的不成熟状态。
+Pencerahan adalah kebangkitan umat manusia dari ketidakdewasaan yang mereka ciptakan sendiri.
+
+# ~7a9d2dff
+; 柯西莫在树上。树枝向外伸展，凌空架起一道高高的桥梁。
+Cosimo tinggal di pepohonan. Cabang-cabangnya menjulur ke luar, membentuk jembatan tinggi yang menggantung di udara.
+
+# ~21441692
+; 存在者存在，非存在者不存在。
+Apa yang ada itu ada; apa yang tidak ada itu tidak ada.
+
+# ~8693ba46
+; 四月十六日早晨，里厄医生从他的诊所走出来时，在楼梯口踢到一只死老鼠。
+Pada pagi hari tanggal 16 April, Dr. Rieux keluar dari kliniknya dan menendang seekor tikus yang sudah mati di bawah tangga.
+
+# ~75de281
+; 人创造了万物的尺度和目的。尽管如此，这创造也必将朽坏。
+Manusia adalah tolak ukur dari segala sesuatu, menentukan apa yang ada dan apa yang tidak ada. Namun, bahkan ciptaan ini pun ditakdirkan untuk binasa.
+
+# ~9e93ea93
+; 爱丽丝紧紧地追赶兔子，刚好看见兔子跳进了矮树下面的一个大洞。
+Alice berlari melintasi padang rumput mengejarnya, dan untungnya ia tepat waktu untuk melihatnya keluar dari lubang kelinci besar di bawah pagar tanaman.
+
+# ~88381a52
+; 他好像这样一个人，被剥掉了皮肤，进入猛烈的狂风暴雨中搏斗。
+Dia tampak seperti seorang pria, yang dilucuti dari kulitnya, terjun melawan badai yang mengamuk.
+
+# ~466a156b
+; 准是有人诬陷了K，因为在一个晴朗的早晨，他无缘无故地被捕了。
+Seseorang pasti telah memfitnah Josef K., karena pada suatu pagi yang cerah, dia ditangkap tanpa alasan.
+
+# ~c0cd88d7
+; 我爱你。
+Aku mencintaimu.
+
+# ~28da87a2
+; 我讨厌你。
+Aku membencimu.
+
+# ~23ea2be4
+; 很好！「仪式」成功了。
+Sempurna! "ritual"nya berjalan dengan lancar.
+
+# ~2466250a
+; 我感动得都快要哭出来了呢……
+Aku terharu sekali sampai air mataku hampir keluar......
+
+# ~f832fad2
+; 总之，我叫莉莉丝。很高兴能见到你！
+Oh ya, namaku Lilith. Senang bertemu denganmu!
+
+# ~fe625f1b
+; 无论多少次，我都会接纳你的存在。
+Tidak peduli berapa kali hal ini terjadi, aku akan selalu menerima keberadaanmu.
+
+# ~b1c775b5
+; 哎……？
+Eh......?
+
+# ~5d0d725e
+; 我们又见面了，莉莉丝。
+Kita bertemu lagi, Lilith.
+
+# ~e94e339f
+; （抱住莉莉丝）
+(Peluk Lilith)
+
+# ~7eb0fd5c
+; 太好了……太好了！
+Ah... syukurlah...... syukurlah!
+
+# ~9a2a0c6e
+; 既然这样的话，我们就跳过那些复杂的流程，赶紧出去约会吧。
+Kalau begitu, ayo kita lewati semua formalitas yang rumit dan langsung saja pergi kencan.
+
+# ~c1e7cacf
+; 还有很多事情没做呢，我们要一起散步、逛街、购物、玩耍、旅行……
+Masih banyak hal yang dapat kita lakukan-jalan-jalan, berbelanja, bermain, berwisata......
+
+# ~d20e83c4
+; 一起走在有很多落叶的秋天小径上，一起在冬天的便利店里吃关东煮，在夏天分享同一个西瓜，在春天的花海里拍下合照……
+Berjalan menyusuri jalan setapak musim gugur yang diselimuti dedaunan yang berguguran, makan oden bersama di minimarket di musim dingin, berbagi semangka di musim panas, dan berfoto di tengah-tengah lautan bunga musim semi......
+
+# ~ea83e83f
+; 去水族馆看彩色热带鱼吐泡泡，在电影院里欣赏到足以改变人生的佳作，在雨天躲进陈列着奇幻摆件的杂货铺，或者窝在家里吃着外卖打一整天游戏也可以！
+Melihat ikan tropis meniup gelembung di akuarium, menyaksikan film mahakarya yang mengubah hidup di bioskop, berteduh di toko kecil yang unik dan penuh dengan pernak-pernik fantastis saat hari hujan, atau hanya berdiam diri di rumah sambil memesan makanan dan bermain game sepanjang hari-itu semua pasti akan sangat menyenangkan!
+
+# ~e4fb3dfb
+; 当然了，这些或许都不是「最重要的」，重要的是……
+Tentu saja, semua itu mungkin bukan "hal yang terpenting". Yang terpenting adalah...
+
+# ~496fa58e
+; 你能够尽情地做自己喜欢的事情。
+Kamu dapat melakukan apa yang kamu suka tanpa menahan diri.
+
+# ~d42f2774
+; 你能够幸福地回应这个世界……
+Supaya kamu dapat menghadapi dunia ini dengan senang hati ......
+
+# ~990dafb0
+; 嗯，我们走吧。
+Baiklah, ayo kita pergi.
+
+# ~5cce7e99
+; 走吧！
+Ayo!
+
+# ~2c31676c
+; 你都已经把行程排到明年了啊。
+Kamu sudah merencanakan jadwal untuk tahun depan, ya?
+
+# ~a59828d6
+; 哼哼，我可是超有行动力的！
+Haha, aku ini sangat proaktif loh!
+
+# ~e7665f97
+; 莉莉丝挽过了我的手。
+Lilith menggenggam tanganku.
+
+# ~3ef907b2
+; 理所当然地，我们一起朝着门外的世界走去——
+Dan kami berjalan bersama menuju dunia di balik pintu——
+
+# ~42f181e4
+; END
+END
+
+# ~7227486a
+; 你以为，重新进入游戏后，我的想法会改变么？
+Apa kamu kira pikiranku akan berubah jika kita mengulang permainan?
+
+# ~4b3d2846
+; 很可惜，这是不可能的，莉莉丝。
+Sayang sekali, itu tidak mungkin terjadi, Lilith.
+
+# ~4e5696b5
+; （掐住她的脖子）
+(Mencengkeram lehernya)
+
+# ~e2a0ac01
+; 唔……呃……！
+Ugh…… ah……!
+
+# ~af714d98
+; 我不相信你的存在。
+Aku tidak percaya dengan keberadaanmu.
+
+# ~11d15741
+; 我不相信善意的存在。
+Aku tidak percaya akan adanya kebaikan.
+
+# ~bd3728b3
+; 我不相信无条件的爱能够存在。
+Aku tidak percaya cinta tanpa syarat itu ada.
+
+# 111
+; ……
+……
+
+# ~118a4ef7
+; 所以，你再怎么证明都是没用的。
+Jadi, tidak peduli berapa banyak bukti yang kau tunjukkan, tidak akan ada gunanya.
+
+# ~8f88c7a3
+; 你的笑容简直像恶魔一样，令人害怕。
+Senyummu seperti iblis. Itu membuatku takut.
+
+# ~3d57c5a9
+; 不要再出现了，你像个幽灵一样阴魂不散……
+Berhentilah muncul di hadapanku. Kau seperti hantu yang tidak mau pergi ......
+
+# ~23aa6398
+; （加大力度）
+(Mencengkeram lebih erat)
+
+# 112
+; ……
+……
+
+# ~49dcf56b
+; 等我反应过来的时候，她已经消失了。
+Saat aku kembali sadar, dia sudah tidak ada.
+
+# ~c5891426
+; 仿佛刚刚我所经历的一切都只是午后错乱的梦境。
+Seakan-akan semua yang baru saja aku alami tidak lebih dari sebuah mimpi di sore hari.
+
+# ~46e7c589
+; 梦境？
+Sebuah mimpi?
+
+# ~4c03fed2
+; ……我刚才在做什么来着？
+...... Apa yang baru saja aku lakukan?
+
+# ~a6fa845d
+; 我想起了什么？我又遗忘了什么？
+Apa yang aku ingat? Apa yang aku lupakan?
+
+# ~6c5a2b0e
+; 在一阵徒劳的思索后，我环视着周围。
+Setelah berpikir sejenak tanpa hasil, aku melihat ke sekeliling ruangan.
+
+# ~cd15c8c4
+; ——这里是我的房间，我将继续成为统治这里的孤独国王。
+—Ini adalah kamarku, di mana aku akan terus memerintah sebagai raja yang kesepian di kerajaan yang sunyi ini.

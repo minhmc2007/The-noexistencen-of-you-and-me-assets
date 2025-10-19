@@ -1,0 +1,209 @@
+; Chinese (S) <zh-CN> to Korean <ko> localization document for `Script` managed text document
+
+; 欢迎来到——莉莉丝的设置界面~
+G_END1_CharacterText1: 릴리스의 설정에 어서 와~
+
+; 是一个我完全不会去使用的功能呢。
+G_END1_CharacterText10: 그 기능, 나라면 절대 안 쓸 걸~
+
+; 莉莉丝当然和你是同一个选择。
+G_END1_CharacterText11: 뭐, 네 선택이니까 존중할게!
+
+; 还是说，是你命中注定的选择了莉莉丝的选择呢？
+G_END1_CharacterText12: 어머, 릴리스와 운명처럼 마음이 맞았던 거려나?
+
+; 你可以调配一个专属于莉莉丝的「默认」吗？
+G_END1_CharacterText13: 릴리스만을 위한 '기본값'을 설정해 줄래?
+
+; 希望你喜欢这个世界~
+G_END1_CharacterText14: 이 세상이 맘에 들었으면 좋겠네~
+
+; 一个视角，一个世界。
+G_END1_CharacterText2: 나의 세상, 그리고 한 개의 시선.
+
+; 莉莉丝的视线所及之处尽是世界~
+G_END1_CharacterText3: 릴리스의 시선이 닿는 곳마다 세상은 피어나~
+
+; 我不需要它哦，我完全理解……
+G_END1_CharacterText4: 그, 그런 설정은 필요 없으니까, 이해해 줄게...
+
+; 保留些许的氛围……
+G_END1_CharacterText5: 환경을 살짝만 조작해 볼까…
+
+; 再偷偷地加入一点点色彩~
+G_END1_CharacterText6: 살며시 색깔도 한 스푼..
+
+; 只想聆听你的声音……
+G_END1_CharacterText7: 당신의 목소리가 듣고 싶어...
+
+; 我可不希望世界回到原初的模样呢。
+G_END1_CharacterText8: 세상을 본연의 모습으로 되돌리기는 싫다구!
+
+; 保留我对世界的一些点缀……
+G_END1_CharacterText9: 내 손길로 세상을 조금 어루만져 볼까…
+
+; 在这里调整我们的世界~
+G_END1_PlayerText1: 우리만의 세상을 만드는 거야!?
+
+; 会听不到莉莉丝的声音哦~ 
+G_END1_PlayerText10: 릴리스의 목소리가 안 들릴 텐데~
+
+; 魔法少女莉莉丝可是无所不能的！ 
+G_END1_PlayerText11: 마법소녀 릴리스에게 뭐든 맡겨달라구!
+
+; 你希望世界以何种符号呈现在你的面前呢？ 
+G_END1_PlayerText12: 세상을 대표하는 표식으로는 어떤 게 좋아?
+
+; 想听一听我的建议吗？ 
+G_END1_PlayerText13: 릴리스의 추천, 들어 볼래?
+
+; 希望你喜欢这个世界~ 
+G_END1_PlayerText14: 이 세상이 맘에 들었으면 좋겠네~
+
+; 一个视角，一个世界 
+G_END1_PlayerText2: 한 개의 시선, 그리고 하나의 세상.
+
+; 你希望世界以何种形式呈现在你的面前呢？ 
+G_END1_PlayerText3: 어떤 세상이 눈 앞에 펼쳐지기를 원하니?
+
+; 你希望我说话快一点或慢一点吗？没问题的哦~ 
+G_END1_PlayerText4: 더 빨리, 아니면 더 느리게 말해 달라고? 아무렴!
+
+; 希望它不会影响到我的声音呢~ 
+G_END1_PlayerText5: 릴리스의 목소리에 영향은 없었음 하는데~
+
+; 在这里可以调节游戏效果音的大小哦。 
+G_END1_PlayerText6: 여기에서 게임의 효과음을 조정할 수 있어.
+
+; 这样的声音可以吗~ 
+G_END1_PlayerText7: 어떻게 들리려나~?
+
+; 如果「静音」也是一种背景音乐，那该如何静音「静音」呢……？ 
+G_END1_PlayerText8: 침묵 또한 선율이라면, 침묵은 어떻게 음소거시킬까...?
+
+; 就像在宇宙的中心目睹一颗星球无声地爆炸。 
+G_END1_PlayerText9: 우주의 중심에서 묵묵히 폭발하는 항성과 같이.
+
+; 调整游戏设置。 
+G_END2_PlayerText1: 게임 설정
+
+; 调整角色语音的音量为0。 
+G_END2_PlayerText10: 목소리를 음소거
+
+; 选择角色语音的本地化语言。 
+G_END2_PlayerText11: 음성 언어를 선택
+
+; 选择游戏文本的本地化语言。 
+G_END2_PlayerText12: 텍스트의 언어를 선택
+
+; 将所有设置还原为默认值。 
+G_END2_PlayerText13: 모든 설정을 초기화
+
+; 保存并退出设置界面。 
+G_END2_PlayerText14: 저장 및 종료
+
+; …… 
+G_END2_PlayerText2: …...
+
+; 调整游戏显示模式。 
+G_END2_PlayerText3: 화면 설정
+
+; 调整文本打印速度。 
+G_END2_PlayerText4: 출력 속도 설정
+
+; 调整背景音乐的音量。 
+G_END2_PlayerText5: 배경 음악 크기 설정
+
+; 调整游戏效果音的音量。 
+G_END2_PlayerText6: 효과음 조정
+
+; 调整角色语音的音量。 
+G_END2_PlayerText7: 음성 크기 설정
+
+; 调整背景音乐的音量为0。 
+G_END2_PlayerText8: 배경 음악 음소거
+
+; 调整游戏效果音的音量为0。 
+G_END2_PlayerText9: 효과음 음소거
+
+G_END3_CharacterText1: <space=1>
+
+; …… 
+G_END3_CharacterText10: …...
+
+; 我也并没有那么无所不能呢…… 
+G_END3_CharacterText11: 나도 전능한 건 아니었나 봐~
+
+; …… 
+G_END3_CharacterText12: …...
+
+; 仅限于这里吗…… 
+G_END3_CharacterText13: 여기가 우리들의 경계선인 거려나...?
+
+; 就这样…… 
+G_END3_CharacterText14: 이렇게 됐네…
+
+; …… 
+G_END3_CharacterText2: ….....
+
+; 哪里都没有…… 
+G_END3_CharacterText3: 아무 데도 없어…
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_CharacterText4: 아무것도 안 보이는 것 같은데~
+
+; 像是在调侃我一般…… 
+G_END3_CharacterText5: 날 놀리는 것 같은데에…
+
+; 点缀什么……？ 
+G_END3_CharacterText6: 어떤 걸 장식할까...?
+
+; …… 
+G_END3_CharacterText7: …....
+
+; 或许也不错…… 
+G_END3_CharacterText8: 그렇게 나쁘진 않을 수도 있겠네에…
+
+; 没有什么…… 
+G_END3_CharacterText9: 여긴 아무것도 없다구…
+
+G_END3_PlayerText1: <space=1>
+
+; …… 
+G_END3_PlayerText10: …...
+
+; 我也并没有那么无所不能呢…… 
+G_END3_PlayerText11: 나도 전능한 건 아니었나 봐~
+
+; …… 
+G_END3_PlayerText12: …...
+
+; 仅限于这里吗…… 
+G_END3_PlayerText13: 여기가 우리들의 경계선인 거려나...?
+
+; 就这样…… 
+G_END3_PlayerText14: 이렇게 됐네…
+
+; …… 
+G_END3_PlayerText2: ….....
+
+; 哪里都没有…… 
+G_END3_PlayerText3: 아무 데도 없어…
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_PlayerText4: 아무것도 안 보이는 것 같은데~
+
+; 像是在调侃我一般…… 
+G_END3_PlayerText5: 날 놀리는 것 같은데에…
+
+; 点缀什么……？ 
+G_END3_PlayerText6: 어떤 걸 장식할까...?
+
+; …… 
+G_END3_PlayerText7: …....
+
+; 或许也不错…… 
+G_END3_PlayerText8: 그렇게 나쁘진 않을 수도 있겠네에…
+
+; 没有什么…… 
+G_END3_PlayerText9: 여긴 아무것도 없다구…

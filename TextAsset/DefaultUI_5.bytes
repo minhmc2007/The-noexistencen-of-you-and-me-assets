@@ -1,0 +1,274 @@
+; Chinese (S) <zh-CN> to Spanish <es> localization document for `DefaultUI` managed text document
+
+; NO
+Confirmation.No: NO
+
+; YES
+Confirmation.Yes: SÍ
+
+; LOAD
+ControlPanel.Load: CARGAR
+
+; 日志
+ControlPanel.Log: REGISTRO
+
+; SAVE
+ControlPanel.Save: GUARDAR
+
+; 设置
+ControlPanel.Settings: Configuración
+
+; SKIP
+ControlPanel.Skip: SALTAR
+
+; TIPS
+ControlPanel.Tips: CONSEJOS
+
+; TITLE
+ControlPanel.Title: TÍTULO
+
+; 一瞬追忆
+DefaultUI.Gallery: Recuerdos Fugaces
+
+; Select a script to play
+ExternalScriptsBrowser.Info: Selecciona un guion para jugar
+
+; EXTERNAL SCRIPTS
+ExternalScriptsBrowser.Title: SCRIPTS EXTERNOS
+
+; CLOSE
+General.Close: CERRAR
+
+; DELETE
+General.Delete: ELIMINAR
+
+; NAV.
+General.Navigate: NAV.
+
+; PAGE
+General.Page: PÁGINA
+
+; 恢复默认
+General.ResetDefault: Reinicar
+
+; 恢复默认
+General.RestoreDefault: Reinicar
+
+; 返回
+General.Return: Volver
+
+; SCROLL
+General.Scroll: DESPLAZARSE
+
+; SELECT
+General.Select: SELECCIONAR
+
+; TAB
+General.Tab: PESTAÑA
+
+; Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
+Naninovel.UI.ControlPanelTitleButton.ConfirmationMessage: ¿Estás seguro de que quieres volver a la pantalla de título?<br>Todo el progreso no guardado se perderá.
+
+; Default
+Naninovel.UI.GameSettingsFontDropdown.DefaultFontName: Predeterminado
+
+; Default
+Naninovel.UI.GameSettingsFontSizeDropdown.Default: Predeterminado
+
+; Extra Large
+Naninovel.UI.GameSettingsFontSizeDropdown.ExtraLarge: Extra grande
+
+; Large
+Naninovel.UI.GameSettingsFontSizeDropdown.Large: Grande
+
+; Small
+Naninovel.UI.GameSettingsFontSizeDropdown.Small: Pequeño
+
+; Very Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption1: Muy bajo
+
+; Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption2: Bajo
+
+; Medium
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption3: Medio
+
+; High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption4: Alto
+
+; Very High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption5: Muy alto
+
+; Ultra
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption6: Ultra
+
+; Full Screen
+Naninovel.UI.GameSettingsScreenModeDropdown.ExclusiveFullScreen: Pantalla completa
+
+; Full Screen Window
+Naninovel.UI.GameSettingsScreenModeDropdown.FullScreenWindow: Ventana completa
+
+; Maximized Window
+Naninovel.UI.GameSettingsScreenModeDropdown.MaximizedWindow: Ventana maximizada
+
+; Windowed
+Naninovel.UI.GameSettingsScreenModeDropdown.Windowed: Modo ventana
+
+; Everything
+Naninovel.UI.GameSettingsSkipModeDropdown.Everything: Todo
+
+; Read Only
+Naninovel.UI.GameSettingsSkipModeDropdown.ReadOnly: Solo lectura
+
+; Empty
+Naninovel.UI.GameStateSlot.EmptySlotLabel: Vacío
+
+; Are you sure you want to delete save slot?
+Naninovel.UI.SaveLoadMenu.DeleteSaveSlotMessage: ¿Estás seguro de que quieres eliminar el espacio de guardado?
+
+; Are you sure you want to overwrite save slot?
+Naninovel.UI.SaveLoadMenu.OverwriteSaveSlotMessage: ¿Estás seguro de que quieres eliminar el espacio de guardado?
+
+; 修正值：
+QTEPanel.ScoreName: Valor de divergencia:
+
+; 你不是时光机器
+QTEPanel.Text1: No eres una máquina del tiempo
+
+; 你是烤箱
+QTEPanel.Text2: Eres un horno
+
+; 你并非不是一个烤箱
+QTEPanel.Text3: No es que no seas un horno
+
+; 你除了烤箱还能是什么呢
+QTEPanel.Text4: Aparte de un horno, ¿qué más podrías ser?
+
+; 你从来都是烤箱
+QTEPanel.Text5: Siempre has sido un horno
+
+; LOAD
+SaveLoadMenu.Tab.Load: CARGAR
+
+; Q. LOAD
+SaveLoadMenu.Tab.QuickLoad: CARGA R.
+
+; SAVE
+SaveLoadMenu.Tab.Save: GUARDAR
+
+; 「我」
+SettingsMenu.CharacterTitle: 「MI」
+
+; 繁体中文
+SettingsMenu.ChineseHK: 繁体中文
+
+; 简体中文
+SettingsMenu.ChineseLanguage: 简体中文
+
+; 汉语
+SettingsMenu.ChineseVoice: Chino
+
+; English
+SettingsMenu.EnglishLanguage: Inglés
+
+; es
+SettingsMenu.esLanguage: Español latinoamericano
+
+; fr
+SettingsMenu.frLanguage: Français
+
+; it
+SettingsMenu.itLanguage: Italiano
+
+; 无边框
+SettingsMenu.FullScreenWindow: Sin
+
+; 印度尼西亚语
+SettingsMenu.idLanguage: Bahasa Indonesia
+
+; 日本语
+SettingsMenu.JapanLanguage: 日本語
+
+; 日本语
+SettingsMenu.JapanVoice: Japonés
+
+; 한국어
+SettingsMenu.koLanguage: 한국어
+
+; 游戏语言
+SettingsMenu.Language: Idioma Texto
+
+; 全屏
+SettingsMenu.MaximizedWindow: Completa
+
+; 文本显示速度
+SettingsMenu.MessageSpeed: Velocidad Texto
+
+; 静音
+SettingsMenu.Mute: Silenciar
+
+; 「你」
+SettingsMenu.PlayerTitle: 「Tú」
+
+; Modo de Exibição
+SettingsMenu.ptbrLanguage: Modo de Exibição
+
+; Русский
+SettingsMenu.ruLanguage: Русский
+
+; 显示模式
+SettingsMenu.ScreenMode: Ventana
+
+; 西班牙语
+SettingsMenu.SpanishVoice: Español
+
+; French
+SettingsMenu.FrenchVoice: French
+
+; 的设置
+SettingsMenu.Title: Configuración
+
+; Türkçe
+SettingsMenu.trLanguage: Türkçe
+
+; Українська мова
+SettingsMenu.ukLanguage: Українська мова
+
+; Tiếng Việt
+SettingsMenu.viLanguage: Tiếng Việt
+
+; 游戏语音
+SettingsMenu.VoiceLanguage: Idioma de Voz
+
+; 音效音量
+SettingsMenu.VolumeEffects: Volumen SFX
+
+; 背景音乐音量
+SettingsMenu.VolumeMusic: Volumen BGM
+
+; 语音音量
+SettingsMenu.VolumeVoice: Volumen Voces
+
+; 窗口
+SettingsMenu.Windowd: Modo ventana
+
+; 历史记录
+TextTitle: Historial
+
+; 过去，现在，\n和未来
+TextTitle (1): Pasado, presente,<br>y futuro
+
+; 继续游戏
+TitleMenu.CustomEnterGame: Continuar
+
+; 退出游戏
+TitleMenu.Exit: Salir
+
+; 致谢
+TitleMenu.Extras: Agradecimientos
+
+; 设置
+TitleMenu.Settings: Configuración
+
+; SUBMIT
+VariableInput.Submit: ENVIAR

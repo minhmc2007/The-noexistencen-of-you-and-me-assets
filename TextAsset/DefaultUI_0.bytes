@@ -1,0 +1,274 @@
+; Chinese (S) <zh-CN> to Ukrainian <uk> localization document for `DefaultUI` managed text document
+
+; NO
+Confirmation.No: НІ
+
+; YES
+Confirmation.Yes: ТАК
+
+; LOAD
+ControlPanel.Load: ЗАВАНТАЖИТИ
+
+; 日志
+ControlPanel.Log: ЖУРНАЛ
+
+; SAVE
+ControlPanel.Save: ЗБЕРЕГТИ
+
+; 设置
+ControlPanel.Settings: НАЛАШТУВАННЯ
+
+; SKIP
+ControlPanel.Skip: ПРОПУСТИТИ
+
+; TIPS
+ControlPanel.Tips: ПОРАДИ
+
+; TITLE
+ControlPanel.Title: ЗАГОЛОВОК
+
+; 一瞬追忆
+DefaultUI.Gallery: Швидкоплинні Спогади
+
+; Select a script to play
+ExternalScriptsBrowser.Info: Виберіть сценарій для запуску
+
+; EXTERNAL SCRIPTS
+ExternalScriptsBrowser.Title: ЗОВНІШНІ СЦЕНАРІЇ
+
+; CLOSE
+General.Close: ЗАКРИТИ
+
+; DELETE
+General.Delete: ВИДАЛИТИ
+
+; NAV.
+General.Navigate: НАВІГАЦІЯ
+
+; PAGE
+General.Page: СТОРІНКА
+
+; 恢复默认
+General.ResetDefault: Скинути
+
+; 恢复默认
+General.RestoreDefault: Скинути
+
+; 返回
+General.Return: Назад
+
+; SCROLL
+General.Scroll: ПРОКРУТКА
+
+; SELECT
+General.Select: ВИБРАТИ
+
+; TAB
+General.Tab: ВКЛАДКА
+
+; Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
+Naninovel.UI.ControlPanelTitleButton.ConfirmationMessage: Ви впевнені, що хочете вийти до головного меню?<br>Весь незбережений прогрес буде втрачено.
+
+; Default
+Naninovel.UI.GameSettingsFontDropdown.DefaultFontName: За замовчуванням
+
+; Default
+Naninovel.UI.GameSettingsFontSizeDropdown.Default: За замовчуванням
+
+; Extra Large
+Naninovel.UI.GameSettingsFontSizeDropdown.ExtraLarge: Дуже великий
+
+; Large
+Naninovel.UI.GameSettingsFontSizeDropdown.Large: Великий
+
+; Small
+Naninovel.UI.GameSettingsFontSizeDropdown.Small: Малий
+
+; Very Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption1: Дуже низька
+
+; Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption2: Низька
+
+; Medium
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption3: Середня
+
+; High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption4: Висока
+
+; Very High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption5: Дуже висока
+
+; Ultra
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption6: Ультра
+
+; Full Screen
+Naninovel.UI.GameSettingsScreenModeDropdown.ExclusiveFullScreen: Повноекранний
+
+; Full Screen Window
+Naninovel.UI.GameSettingsScreenModeDropdown.FullScreenWindow: Повноекранне вікно
+
+; Maximized Window
+Naninovel.UI.GameSettingsScreenModeDropdown.MaximizedWindow: Максимізоване вікно
+
+; Windowed
+Naninovel.UI.GameSettingsScreenModeDropdown.Windowed: Віконний
+
+; Everything
+Naninovel.UI.GameSettingsSkipModeDropdown.Everything: Усе
+
+; Read Only
+Naninovel.UI.GameSettingsSkipModeDropdown.ReadOnly: Лише для читання
+
+; Empty
+Naninovel.UI.GameStateSlot.EmptySlotLabel: Пусто
+
+; Are you sure you want to delete save slot?
+Naninovel.UI.SaveLoadMenu.DeleteSaveSlotMessage: Ви впевнені, що хочете видалити слот збереження?
+
+; Are you sure you want to overwrite save slot?
+Naninovel.UI.SaveLoadMenu.OverwriteSaveSlotMessage: Ви впевнені, що хочете перезаписати слот збереження?
+
+; 修正值：
+QTEPanel.ScoreName: Значення відхилення:
+
+; 你不是时光机器
+QTEPanel.Text1: Ти не машина часу
+
+; 你是烤箱
+QTEPanel.Text2: Ти духовка
+
+; 你并非不是一个烤箱
+QTEPanel.Text3: Ти не не духовка
+
+; 你除了烤箱还能是什么呢
+QTEPanel.Text4: Чим ще ти можеш бути, як не духовкою
+
+; 你从来都是烤箱
+QTEPanel.Text5: Ти завжди була духовкою
+
+; LOAD
+SaveLoadMenu.Tab.Load: ЗАВАНТАЖИТИ
+
+; Q. LOAD
+SaveLoadMenu.Tab.QuickLoad: ШВИДКЕ ЗАВАНТАЖЕННЯ
+
+; SAVE
+SaveLoadMenu.Tab.Save: ЗБЕРЕГТИ
+
+; 「我」
+SettingsMenu.CharacterTitle: 「МОЇ」
+
+; 繁体中文
+SettingsMenu.ChineseHK: 繁体中文
+
+; 简体中文
+SettingsMenu.ChineseLanguage: 简体中文
+
+; 汉语
+SettingsMenu.ChineseVoice: Китайська
+
+; English
+SettingsMenu.EnglishLanguage: English
+
+; es
+SettingsMenu.esLanguage: Español latinoamericano
+
+; fr
+SettingsMenu.frLanguage: Français
+
+; it
+SettingsMenu.itLanguage: Italiano
+
+; 无边框
+SettingsMenu.FullScreenWindow: Без
+
+; 印度尼西亚语
+SettingsMenu.idLanguage: Bahasa Indonesia
+
+; 日本语
+SettingsMenu.JapanLanguage: 日本語
+
+; 日本语
+SettingsMenu.JapanVoice: Японська
+
+; 한국어
+SettingsMenu.koLanguage: 한국어
+
+; 游戏语言
+SettingsMenu.Language: Мова гри
+
+; 全屏
+SettingsMenu.MaximizedWindow: Екран
+
+; 文本显示速度
+SettingsMenu.MessageSpeed: Швидкість тексту
+
+; 静音
+SettingsMenu.Mute: Без звуку
+
+; 「你」
+SettingsMenu.PlayerTitle: 「ТВОЇ」
+
+; Modo de Exibição
+SettingsMenu.ptbrLanguage: Modo de Exibição
+
+; Русский
+SettingsMenu.ruLanguage: Русский
+
+; 显示模式
+SettingsMenu.ScreenMode: Вікно
+
+; 西班牙语
+SettingsMenu.SpanishVoice: Іспанська
+
+; French
+SettingsMenu.FrenchVoice: French
+
+; 的设置
+SettingsMenu.Title: Налаштування
+
+; Türkçe
+SettingsMenu.trLanguage: Türkçe
+
+; Українська мова
+SettingsMenu.ukLanguage: Українська мова
+
+; Tiếng Việt
+SettingsMenu.viLanguage: Tiếng Việt
+
+; 游戏语音
+SettingsMenu.VoiceLanguage: Мова озвучки
+
+; 音效音量
+SettingsMenu.VolumeEffects: Гучн. Ефектів
+
+; 背景音乐音量
+SettingsMenu.VolumeMusic: Гучн. Музики
+
+; 语音音量
+SettingsMenu.VolumeVoice: Гучн. Голосу
+
+; 窗口
+SettingsMenu.Windowd: Віконний
+
+; 历史记录
+TextTitle: Історія
+
+; 过去，现在，\n和未来
+TextTitle (1): Минуле, теперішнє, <br>і майбутнє.
+
+; 继续游戏
+TitleMenu.CustomEnterGame: Продовжити
+
+; 退出游戏
+TitleMenu.Exit: Вихід
+
+; 致谢
+TitleMenu.Extras: Подяки
+
+; 设置
+TitleMenu.Settings: Налаштування
+
+; SUBMIT
+VariableInput.Submit: ВІДПРАВИТИ

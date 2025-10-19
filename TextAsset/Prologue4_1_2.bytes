@@ -1,0 +1,627 @@
+; Chinese (S) <zh-CN> to French <fr> localization document for `Prologue4_1` naninovel script
+
+# ~a96704ad
+; 我是谁
+Qui suis-je ?
+
+# ~69fafaa9
+; 我在哪
+Où suis-je ?
+
+# ~a8c893a
+; 我怎么了
+Qu'est-ce qui m'est arrivé ?
+
+# ~870417f9
+; 莉莉丝……游乐园……
+Lilith… le parc d'attractions…
+
+# ~b10e9e9b
+; 莉莉丝到底是……
+Qu'est-ce que Lilith, en réalité…?
+
+# ~3ea899f
+; ……
+...
+
+# ~6e90218b
+; 烤糊的蛋糕胚混合着辛辣酱料的味觉、
+Le goût du gâteau brûlé mélangé à une sauce épicée,
+
+# ~4bbbf0b8
+; 失去平衡倒在地上时冰凉迟钝的痛感，坠入无边黑暗时身体的轻飘……
+la douleur froide et sourde de la chute au sol, la plongée en apesanteur dans une obscurité sans fin…
+
+# ~85354997
+; 你还好吗……
+Ça va ?
+
+# ~a385b31a
+; 不，我不是莉莉丝。要问为什么的话……
+Non, je ne suis pas Lilith. Si vous vous demandez pourquoi…
+
+# ~982eaf98
+; 因为，名叫莉莉丝的少女，现在正在我的面前啊。
+… c'est parce que la fille qui s'appelle Lilith est juste devant moi.
+
+# ~6aa393af
+; 我怎么会出现在房间里？
+Comment ai-je fini par revenir dans cette pièce ?
+
+# ~ff431326
+; 好难受，回忆不起来……
+C'est horrible, je ne me souviens de rien…
+
+# ~54bf2d74
+; 莉莉丝护士！？
+Infirmière Lilith! ?
+
+# ~63bf5d9a
+; 你终于醒了，头还是很痛吗？
+Vous êtes enfin réveillé. Vous avez encore mal à la tête ?
+
+# ~53f347d0
+; 不过没事，有了这些药，很快就会将你治好的！
+Mais ne vous inquiétez pas, grâce à ces comprimés, vous serez guéri en un rien de temps !
+
+# ~4a47d4fe
+; 锵锵~接下来就是「莉莉丝特供·甜心护士的治疗」环节！
+Tada ! Bienvenue à la séance "Traitement sucré de l'infirmière Lilith" !
+
+# ~d62e87a4
+; 等等，我到底得了什么病？
+Attends, de quelle maladie est-ce que je souffre exactement ?
+
+# ~1793cd39
+; 用糖果来治病吗？
+Un traitement à base de bonbons ?!
+
+# ~df97bcd4
+; 没事，你没有病哦。
+Oh, vous n'êtes pas malade du tout.
+
+# ~85c30f55
+; 你这表情显然不是没事的样子吧？！
+Votre visage ne ressemble pas du tout à celui d'une personne qui n'est "pas malade" !
+
+# ~42c7c977
+; 糖果？怎么可能！
+Des bonbons ? C'est ridicule !
+
+# ~ab45b91f
+; 莉莉丝护士是专业的，所以这些也是正规的药丸。
+Infirmière Lilith est une professionnelle, donc ce sont de vrais médicaments.
+
+# ~d786ca4f
+; 放心，很快就会将你治好的。
+Ne vous inquiétez pas, ils vont vous soigner !
+
+# ~34ad6d3
+; 真的吗……
+Vraiment…?
+
+# ~469a5420
+; 拜托你了，护士。
+S'il te plaît, infirmière Lilith, je compte sur toi.
+
+# ~bb0ffe79
+; <i>「哎呀，哎呀！」</i>
+<i>"Oh là là, oh là là !"</i>
+
+# ~5a3a57e3
+; 谁在说话？
+Qui parle?
+
+# ~e21a38cf
+;  <i>「你病得很重呐！你见到莉莉丝的时候，从不问候莉莉丝头上的发带大人。」</i>
+<i>"Vous êtes vraiment malade ! Chaque fois que vous voyez Lilith, vous ne montrez jamais le respect qui est dû au grand Seigneur Ruban de Cheveux qui trône sur sa tête."</i>
+
+# ~7357b8d8
+;  <i>「这是封建礼教包装下对发带的歧视，莉莉丝发带粉丝应援会不会坐视不管的……」</i>
+<i>"Il s'agit là d'une discrimination flagrante à l'encontre des rubans pour cheveux, dissimulée sous le couvert d'une étiquette féodale ! Le Fan Club des Rubans pour Cheveux Lilith ne tolérera pas cela..."</i>
+
+# ~60a03eb9
+; 什么情况？发带在说话？
+Que se passe-t-il ? Le ruban... parle ?!
+
+# ~d2f4daa3
+; 你的发带在说话哦！
+Oh, c'est ton ruban à cheveux qui parle !
+
+# ~447c59f7
+; 听不到听不到，发带是不可能会说话的。
+Je n'entends rien, je n'entends rien, les rubans ne peuvent pas parler !
+
+# ~256d295d
+; 哎？已经到这种程度了吗！
+Oh non ! Ça a déjà dégénéré à ce point…
+
+# ~af51fd11
+; 我找找，这种情况……
+Voyons voir, dans des cas comme celui-ci…
+
+# ~9a9fdf84
+; 嗯，应该吃这个黄色药丸！
+Oui, vous avez besoin de cette pilule jaune !
+
+# ~847db3dd
+; （吃下莉莉丝喂的糖果，是柠檬味的）
+(Mangez le bonbon que Lilith te donne. Il a le goût du citron.)
+
+# ~73ab559e
+; 然后呢，你还有什么症状吗？
+Alors, quels autres symptômes présentez-vous ?
+
+# ~d4b66510
+; 我觉得莉莉丝大人使用的药丸是糖果，我病得好严重。
+Je pense que les pilules de l'infirmière Lilith ne sont que des bonbons ; je dois être gravement malade.
+
+# ~d74382ce
+; 我在拯救世界的年纪没有选择开高达，我病得好严重。
+À l'âge où l'on sauve le monde, je n'ai pas piloté de Gundam ; je dois être gravement malade.
+
+# ~f21a69a4
+; 我吃牛排的时候没有撒过黑胡椒海盐，我病得好严重。
+Je n'ai jamais saupoudré de poivre noir et de sel marin sur mon steak ; je dois être gravement malade.
+
+# ~bc0f4cc4
+; 我在坐公交车的时候总是试图找座位，我病得好严重。
+Je cherche toujours une place assise dans le bus ; je dois être gravement malade.
+
+# ~43494714
+; 我每一天都没办法睡满二十四个小时，我病得好严重。
+Je ne peux pas dormir 24 heures d'affilée chaque jour ; je dois être gravement malade.
+
+# ~164753e1
+; 我甚至不能选出一个觉得正常的选项，我病得好严重。
+Je ne peux même pas choisir une option normale dans cette liste ; je dois être gravement malade.
+
+# ~4e855bf2
+; 好的，我明白了。
+D'accord, je comprends.
+
+# ~bff4ad64
+; 这种时候就需要……粉色药丸！
+Dans ce cas… la pilule rose !
+
+# ~f1d15ac4
+; （吃下莉莉丝喂的糖果，是草莓味的）
+(Mangez le bonbon que Lilith te donne. Il a le goût de fraise.)
+
+# ~cf49c9
+; 然后，还有这个……
+Et aussi ceci…
+
+# ~e02bd6e3
+; 绿色药丸！
+La pilule verte !
+
+# ~a553e900
+; （吃下莉莉丝喂的糖果，是青苹果味的）
+(Mangez le bonbon que Lilith te donne. Il a le goût de pomme verte.)
+
+# ~a3b513f
+; 你很快就会好起来的哦。
+Vous vous sentirez mieux en un rien de temps.
+
+# ~e2746296
+; 谢谢护士，我想要再加大药量。
+Merci, infirmière. Je pense que j'ai besoin d'une dose encore plus forte.
+
+# ~759e43e1
+; 这都什么莫名其妙的？但我还想再吃一颗。
+C'est quoi cette absurdité? Mais j'en voudrais encore un.
+
+# ~1ded5f2
+; 我命令你，再给我一颗糖果！
+Je te demande de me donner un autre bonbon !
+
+# ~6a85950d
+; 啊，不行不行，这可不行。
+Oh non, non, ça ne va pas.
+
+# ~2dda76de
+; 虽然莉莉丝手上拿着的，是具有极佳治疗效果的、能给人带来幸福的良药……
+Même si Lilith tient dans sa main ces pilules au pouvoir de guérison suprême,<br>
+qui apportent joie et bonheur…
+
+# ~9c27235b
+; 但它毕竟是药啊！所以说，吃太多是不好的！
+Ce sont toujours des médicaments ! Donc, en prendre trop est mauvais pour la santé !
+
+# ~bb1625b4
+; 求求你了，莉莉丝护士，我什么都会做的！
+Allez, infirmière Lilith ! Je ferai tout ce que tu veux !
+
+# ~8d6e7815
+; 这明明就是糖果，所以吃了也不会有事。
+Ce ne sont que des bonbons, en manger davantage ne fera pas de mal !
+
+# ~a30c12c5
+; （尝试用眼神劝说莉莉丝）
+(Tentez de persuader Lilith avec un regard suppliant.)
+
+# ~fa174a96
+; 不行哦！
+Pas question !
+
+# ~f4e54436
+; 根据规定，人一天只能吃三颗糖果，否则就会发生可怕的事情。
+Selon les règles, une personne ne peut manger que trois bonbons par jour. Sinon, quelque chose de terrifiant se produira.
+
+# ~b6c3c9c8
+; 可怕的事情？
+Quelque chose de terrifiant ?
+
+# ~f761524f
+; 这是什么破规定？
+C'est quoi cette règle ridicule ?!
+
+# ~6611b53f
+; 你自己都管它叫糖果了吧？！
+Vous venez littéralement de les appeler des bonbons !
+
+# ~626f2b97
+; 没错，超——可怕的事情。
+C'est vrai, quelque chose de super effrayant.
+
+# ~fca8e420
+; 真的有这种规定哦！
+C'est une règle réelle, je vous assure !
+
+# 411161
+; ……
+……
+
+# ~1ba350b6
+; 咳咳，总之——
+Hm. Peu importe———
+
+# ~75d47491
+; 弗子酱所在的高中，就是一个例子。
+Le lycée de Foucault en est un excellent exemple.
+
+# ~c277de30
+; 在那里，每个学生入学后，都会被分配到一罐糖果……啊不对，是药瓶！
+Là-bas, chaque élève reçoit un pot de bonbons... Attendez, je veux dire des flacons de médicaments !
+
+# ~31addbfe
+; 根据学校的规定，每人每天最多只能吃三颗「药丸」。
+Selon le règlement de l'école, chaque personne peut prendre au maximum trois "pilules" par jour.
+
+# ~120d2702
+; 但有些学生像你一样，不相信这条「规则」的效力，所以偷偷吃了第四颗「药丸」。
+Mais certains étudiants, comme vous, ne croyaient pas en cette "règle", alors ils prenaient secrètement une quatrième "pilule".
+
+# ~9356f46f
+; 然后……
+Et puis…
+
+# 411171
+; ……
+......
+
+# ~c9aa7b25
+; 然后，他们就都死掉了哦。
+Et puis, ils sont tous morts.
+
+# ~698eac55
+; 竟有此事！
+Quoi ?!
+
+# ~a76d582e
+; 你这也省略了太多内容吧！？
+Tu as omis beaucoup trop de détails là !
+
+# ~2890141
+; 所以，千万不要多吃哦。
+Veillez donc à ne pas en prendre plus de trois.
+
+# ~744a27a
+; 我知道了。
+D'accord, j'ai compris.
+
+# ~e3dbfb86
+; 还是感觉很可疑……
+Ça me semble toujours aussi louche…
+
+# ~be06810
+; <i>「这件事就由本大爷我来继续说明吧。」</i>
+<i>"Laissez-moi vous expliquer plus en détail !"</i>
+
+# ~f6b69b51
+; ……我的胃在说话？
+Est-ce que c'est mon estomac qui parle ?!
+
+# ~82a04bcc
+; <i>「什么胃不胃的，趁着还没被胃液消化完，本大爷来给你透露点惊天黑幕！」</i>
+<i>"Quel estomac ? Même si je ne suis pas encore complètement digéré, laissez-moi vous révéler un secret bouleversant !"</i>
+
+# ~8cf64cb0
+; <i>「快点，别磨磨叽叽的！」</i>
+<i>"Vite, ne traîner pas !"</i>
+
+# ~8af0b8c3
+; <i>「呜呜……好羡慕……好想成为「第四颗糖」哦……」</i>
+<i>"Pfff… je suis jaloux… J'aimerais tellement être le "quatrième bonbon"…"</i>
+
+# ~95a24c5f
+; <i>「哼，那你们给我听好了！」</i>
+<i>"Hum, écoutez bien !"</i>
+
+# ~f3ee3c40
+; （充满好奇地聆听）
+(Écoutez avec curiosité.)
+
+# ~67aad5a6
+; （虽然根本不想听，但也不得不听）
+(Je ne veux pas écouter du tout, mais je n'ai pas le choix.)
+
+# ~8bb3d734
+; （我没救了，彻底没救了，药丸都在说话。）
+(C'est fini. Je suis complètement fichu. Même les pilules parlent maintenant.)
+
+# ~d9f35c0
+; <i>「当我还住在别的糖果罐里时，无意间撞见了「第四颗糖」的真相。」</i>
+<i>"Quand j'étais encore dans un autre bocal à bonbons, je suis tombée par hasard sur la vérité concernant le 'quatrième bonbon.’"</i>
+
+# ~6485d518
+; <i>「有一天深夜，两个小毛孩拿着糖果罐来到音乐教室，
+<i>"Une nuit, deux enfants se sont faufilés dans la salle de musique avec un pot de bonbons,
+
+# ~367b4da2
+; 打算挑战一下「一天只能吃三颗糖」的规定。」</i>
+ils prévoyaient de remettre en question la règle des 'trois bonbons par jour.’"</i>
+
+# ~72227abc
+; <i>「于是，她们各自吃下了第四颗糖。」</i>
+<i>"Ainsi, ils ont chacun mangé un quatrième bonbon."</i>
+
+# ~e6a86998
+; <i>「接着，神奇的事情发生了。」</i>
+<i>"Et puis, quelque chose de magique s'est produit."</i>
+
+# ~ce559e32
+; <i>「哟，神奇的事情？」</i>
+<i>"Hé, quelque chose de magique ?"</i>
+
+# ~45725b85
+; <i>「是什么……」</i>
+<i>"Qu'est-ce que c'était…"</i>
+
+# ~f6c774df
+; <i>「 *绿色药丸粗口*，她们居然变身成为了魔法少女！！」</i>
+<i>"*Pratique de la pilule verte*, elles se sont transformées en filles magiques !!"</i>
+
+# ~a6b21d4e
+; <i>「魔法……少女……」</i>
+<i>"Filles… magique… ?"</i>
+
+# ~196f69a8
+; <i>「噢噢，魔法少女！」</i>
+<i>"Ohhh, les filles magiques !"</i>
+
+# ~72d699dd
+; <i>「魔法少女的服装是如此可爱，如此漂亮，如此新潮。」</i>
+<i>"Leurs tenues étaient tellement mignonnes, tellement stylées, tellement tendance."</i>
+
+# ~3630316d
+; <i>「在惨痛的对比之下，她们这才意识到自己平时穿的校服有多么普通。」</i>
+<i>"En revanche, ils ont soudainement réalisé à quel point leurs uniformes scolaires étaient simples."</i>
+
+# ~3d5015c1
+; <i>「但在这个夜晚结束后，她们却不得不再次换上那普通得不能再普通的校服，
+<i>"Mais une fois la nuit terminée, ils devaient remettre ces uniformes insupportablement ennuyeux 
+
+# ~85357366
+; 假装无事发生，继续重复庸俗枯燥的日常……」</i>
+et faire comme si de rien n'était, en continuant leur vie quotidienne monotone et ennuyeuse."</i>
+
+# ~8dc52e16
+; <i>「就像住过了精致的彩色玻璃罐后，觉得廉价塑料瓶再也无法接受那样——」</i>
+<i>"C'est comme vivre dans un magnifique bocal en verre, pour ensuite se retrouver dans les bouteilles en plastique bon marché insupportables—"</i>
+
+# ~310a30f1
+; <i>「见过如此绚丽的「非日常」之后，怎么可能再好好地回到「日常」之中啊！」</i>
+<i>"Après avoir vu quelque chose d'aussi éblouissant et 'extraordinaire', comment pourrait-on retourner à une vie 'ordinaire' !?"</i>
+
+# ~19b82325
+; <i>「可恶！可恶！可恶！」</i>
+<i>"Bon sang ! Bon sang ! Bon sang !"</i>
+
+# ~db5f0db3
+; <i>「呜呜……呜呜……」</i>
+<i>"Snif… snif…"</i>
+
+# ~84f18803
+; <i>「所以，吃过「第四颗糖」的学生都自杀了。」</i>
+<i>Ainsi, tous les élèves qui ont mangé le 'quatrième bonbon' se sont suicidés."</i>
+
+# ~fb7dd19b
+; 啊，真是太可怕了——！
+Ah, c'est tellement terrifiant !
+
+# ~b8e3c9e8
+; 从这件事中我们知道，一天只能吃三颗药丸，
+À partir de là, nous savons qu'il faut prendre maximum trois comprimés par jour,
+
+# ~6de9f4ad
+; 这是不该被动摇的标准，它设立的目的是为大家好。
+c'est une norme inébranlable, établie pour le bien-être de tous.
+
+# ~a30578d5
+; 就此收手吧，这种「遵守规则」的能力，正是生活在世界之外所必须要掌握的。
+Arrêtons-nous là. Cette capacité à "respecter les règles" est une compétence essentielle pour vivre dans le monde qui nous entoure.
+
+# ~3d7cbede
+; 我明白了，我会等到明天再吃「药」。
+Je comprends. J'attendrai jusqu'à demain pour prendre une autre "pilule".
+
+# ~8bdf9441
+; 我只是想吃糖果……
+Je veux juste des bonbons…
+
+# ~f06c24c2
+; 你先吃几颗试试毒，反正你也只剩这点用处了吧？
+Pourquoi ne pas en manger quelques-uns d'abord pour vérifier s'ils sont empoisonnés ? <br>
+C'est probablement la seule chose que vous pouvez faire maintenant.
+
+# ~203becdc
+; 呵呵，这才对嘛……
+Hé hé, ça, c'est mieux…
+
+# ~60825fd2
+; <i>「她揉了揉你的头，就像对待一只温顺的小狗那样。」</i>
+<i>"Elle vous a tapoté la tête, comme si tu étais un petit chiot obéissant."</i>
+
+# ~861e1d3
+; 不过，莉莉丝拥有特殊的魔法哦……
+Mais Lilith possède un pouvoir magique particulier…
+
+# ~1a1ac09a
+; 来，再过来一点。
+Venez plus près.
+
+# ~b6693dc2
+; （靠近莉莉丝）
+(Approchez-vous de Lilith.)
+
+# ~82206009
+; <i>「她的指尖轻轻触碰了你的额头，双唇念出咒语。」</i>
+<i>"Elle effleura légèrement ton front du bout des doigts et murmura une formule magique."</i>
+
+# ~a1a69ea
+; 成为世界上最幸福的人吧，厄运和痛痛全都飞走☆！
+Devenez la personne la plus heureuse au monde ; laissez tous les malheurs et toutes les souffrances s'envoler☆ !
+
+# ~3f7fdd35
+; 我看看……嗯，魔法很成功！
+Laissez-moi vérifier... Oui, la magie a parfaitement fonctionné !
+
+# ~511b2073
+; 现在，你可以再多吃一颗糖了，而且不会受到「规则」的惩罚哦。
+Maintenant, vous pouvez manger un bonbon de plus sans être puni par la "règle".
+
+# ~deb42e73
+; 就将它当成我们之间的秘密吧，好吗？
+Que cela reste notre petit secret, d'accord ?
+
+# ~2673673b
+; （点头）
+(Hochement de tête.)
+
+# ~bc9e4915
+; 吃掉了莉莉丝投喂的幸运糖果，感受到甜蜜的滋味在舌尖蔓延……
+Après avoir mangé le bonbon porte-bonheur que Lilith m'avait donné, j'ai senti la douceur se répandre sur ma langue…
+
+# ~a1e23c88
+; 哎……这……这样是不行的……
+Attends... ça... ça ne va pas…
+
+# ~ed9c02e5
+; 拜托了，给我好吃的糖果吧，莉莉丝。
+S'il te plaît, donne-moi encore plus de délicieux bonbons, Lilith.
+
+# ~7b207307
+; 求求你，没有糖果吃的话，我会发疯的……
+Je t'en supplie, je vais devenir fou si je ne peux plus avoir de bonbons…
+
+# ~4ca079d5
+; 嗯……
+Très bien…
+
+# ~e09e1f9
+; 好吧，那我们就再吃一点吧。
+Allez, mangeons encore un peu.
+
+# ~4938f289
+; 好耶，莉莉丝最好了！
+Youpi ! Lilith est la meilleure !
+
+# ~14ec1dc5
+; 我这辈子都离不开莉莉丝了。
+Je ne peux pas vivre sans toi pour le reste de ma vie, Lilith.
+
+# ~bf3efe0d
+; 来，张嘴——！
+Ouvrez grand la bouche— !
+
+# ~6d7a23cd
+; 就这样，和莉莉丝一起吃了许多糖果，感觉自己轻飘飘的……
+Et ainsi, en mangeant des bonbons avec Lilith, j'ai commencé à me sentir légère et flottante…
+
+# ~59f9f0b5
+; 哎？什么……意思？
+Hein ? Qu'est-ce... qu'est-ce qui se passe ?
+
+# ~2481773d
+; （抢过糖果罐）
+(Prenez le pot de bonbons)
+
+# ~1823df41
+; （取出第一颗糖，投喂莉莉丝）
+(Prenez le premier bonbon et donne-le à Lilith.)
+
+# ~c20f578e
+; 唔！
+Mm !
+
+# ~5c0a1147
+; 等……等下……
+Un instant…
+
+# ~d7ca5afb
+; （取出第二颗糖，投喂莉莉丝）
+(Prenez le deuxième bonbon et donne-le à Lilith.)
+
+# ~c8f56e41
+; 啊！
+Ah !
+
+# ~ad5106a2
+; 我，我自己来……
+Je—je peux le faire moi-même…
+
+# ~7b20a980
+; （取出第三颗糖，投喂莉莉丝）
+(Prenez le troisième bonbon et donne-le à Lilith.)
+
+# ~2daca874
+; 呃！
+Pfff !
+
+# ~1912bd29
+; 已、已经可以了吧……
+Ça devrait suffire maintenant…
+
+# ~9c6be007
+; （取出第四颗糖，投喂莉莉丝）
+(Prenez le quatrième bonbon et donne-le à Lilith.)
+
+# 411
+; ……
+......
+
+# ~b08a4a0a
+; 感觉怎么样？
+Comment vous sentez-vous ?
+
+# ~aa76d675
+; 好像……有点头晕……
+Hum… un peu étourdi…
+
+# ~ce689f98
+; 还没结束哦！
+Ce n'est pas encore fini !
+
+# ~6ff6db2c
+; 这才刚开始呢！
+Ce n'est que le début !
+
+# ~f46cbbdd
+; 怎、怎么会这样……呜……！
+Qu'est-ce qui se passe... argh... !
+
+# ~30b88138
+; 就这样，强迫莉莉丝吃了许多糖果，度过了一段微妙的时光……
+Et donc, après avoir gavé Lilith de bonbons, nous avons passé un moment plutôt étrange ensemble…

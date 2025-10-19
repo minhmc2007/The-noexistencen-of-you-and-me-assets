@@ -1,0 +1,209 @@
+; Chinese (S) <zh-CN> to Vietnamese <vi> localization document for `Script` managed text document
+
+; 欢迎来到——莉莉丝的设置界面~
+G_END1_CharacterText1: Chào mừng cậu đã đến với bảng cài đặt của Lilith~
+
+; 是一个我完全不会去使用的功能呢。
+G_END1_CharacterText10: Đó là một tính năng tớ sẽ không bao giờ đụng đến~
+
+; 莉莉丝当然和你是同一个选择。
+G_END1_CharacterText11: Tất nhiên là Lilith cùng chia sẻ với lựa chọn của cậu!
+
+; 还是说，是你命中注定的选择了莉莉丝的选择呢？
+G_END1_CharacterText12: Hoặc có vẻ là cậu đã được định mệnh sắp đặt để chọn những gì Lilith sẽ chọn?
+
+; 你可以调配一个专属于莉莉丝的「默认」吗？
+G_END1_CharacterText13: Liệu cậu có thể tạo nên một "mặc định" đặc biệt chỉ để dành riêng cho Lilith?
+
+; 希望你喜欢这个世界~
+G_END1_CharacterText14: Mong rằng cậu yêu hiện thực này~
+
+; 一个视角，一个世界。
+G_END1_CharacterText2: Một góc nhìn, một hiện thực.
+
+; 莉莉丝的视线所及之处尽是世界~
+G_END1_CharacterText3: Nơi nào có ánh mắt Lilith chạm tới, hiện thực sẽ nở rộ~
+
+; 我不需要它哦，我完全理解……
+G_END1_CharacterText4: Ôi, tớ không cần thứ đó - Tớ hoàn toàn có thể hiểu...
+
+; 保留些许的氛围……
+G_END1_CharacterText5: Hãy giữ tí không gian cho bầu không khí này...
+
+; 再偷偷地加入一点点色彩~
+G_END1_CharacterText6: Lén lút thêu lên một khoảng màu nhỏ
+
+; 只想聆听你的声音……
+G_END1_CharacterText7: Tớ chỉ muốn nghe giọng của cậu...
+
+; 我可不希望世界回到原初的模样呢。
+G_END1_CharacterText8: Tớ thà không thấy thế giới này quay trở về trạng thái ban đầu còn hơn!
+
+; 保留我对世界的一些点缀……
+G_END1_CharacterText9: Tớ chỉ đang giữ lấy sự gắn kết của bản thân với hiện thực này...
+
+; 在这里调整我们的世界~
+G_END1_PlayerText1: Hãy cùng nhau chỉnh sửa hiện thực của chúng ta!?
+
+; 会听不到莉莉丝的声音哦~ 
+G_END1_PlayerText10: Cậu sẽ không nghe thấy giọng nói của Lilith đâu nhé~
+
+; 魔法少女莉莉丝可是无所不能的！ 
+G_END1_PlayerText11: Nàng tiên Lilith này có thể làm tất cả mọi thứ!
+
+; 你希望世界以何种符号呈现在你的面前呢？ 
+G_END1_PlayerText12: Cậu muốn thấy những biểu tượng của hiện thực này hiện hữu ra sao nhỉ?
+
+; 想听一听我的建议吗？ 
+G_END1_PlayerText13: Cậu muốn nghe lời khuyên của tớ chứ?
+
+; 希望你喜欢这个世界~ 
+G_END1_PlayerText14: Mong rằng cậu yêu hiện thực này~
+
+; 一个视角，一个世界 
+G_END1_PlayerText2: Một góc nhìn, một hiện thực.
+
+; 你希望世界以何种形式呈现在你的面前呢？ 
+G_END1_PlayerText3: Cậu muốn thấy hiện thực này hiện hữu như thế nào?
+
+; 你希望我说话快一点或慢一点吗？没问题的哦~ 
+G_END1_PlayerText4: Muốn tớ nói nhanh hơn hay chậm hơn? Không có vấn đề gì cả!
+
+; 希望它不会影响到我的声音呢~ 
+G_END1_PlayerText5: Mong rằng giọng nói của tớ sẽ không bị ảnh hưởng~
+
+; 在这里可以调节游戏效果音的大小哦。 
+G_END1_PlayerText6: Cậu có thể điều chỉnh âm lượng của trò chơi tại đây.
+
+; 这样的声音可以吗~ 
+G_END1_PlayerText7: Cậu cảm thấy như thế nào với giọng nói này~?
+
+; 如果「静音」也是一种背景音乐，那该如何静音「静音」呢……？ 
+G_END1_PlayerText8: Nếu sự im lặng là âm nhạc, làm thế nào để chúng ta tắt tiếng sự im lặng...?
+
+; 就像在宇宙的中心目睹一颗星球无声地爆炸。 
+G_END1_PlayerText9: Như là việc ngắm một ngôi sao phát nổ im ắng ở trung tâm của vũ trụ.
+
+; 调整游戏设置。 
+G_END2_PlayerText1: Cài đặt trò chơi
+
+; 调整角色语音的音量为0。 
+G_END2_PlayerText10: Tắt giọng nói
+
+; 选择角色语音的本地化语言。 
+G_END2_PlayerText11: Chọn ngôn ngữ giọng nói
+
+; 选择游戏文本的本地化语言。 
+G_END2_PlayerText12: Chọn ngôn ngữ hiển thị của trò chơi
+
+; 将所有设置还原为默认值。 
+G_END2_PlayerText13: Cài đặt lại tất cả tuỳ chọn
+
+; 保存并退出设置界面。 
+G_END2_PlayerText14: Lưu và thoát
+
+; …… 
+G_END2_PlayerText2: ...
+
+; 调整游戏显示模式。 
+G_END2_PlayerText3: Tuỳ chỉnh chế độ hiển thị
+
+; 调整文本打印速度。 
+G_END2_PlayerText4: Tuỷ chỉnh tốc độ chữ
+
+; 调整背景音乐的音量。 
+G_END2_PlayerText5: Tuỳ chỉnh âm lượng nhạc nền
+
+; 调整游戏效果音的音量。 
+G_END2_PlayerText6: Tuỳ chỉnh hiệu ứng âm thanh
+
+; 调整角色语音的音量。 
+G_END2_PlayerText7: Tuỳ chỉnh âm lượng giọng nói
+
+; 调整背景音乐的音量为0。 
+G_END2_PlayerText8: Tắt nhạc nền
+
+; 调整游戏效果音的音量为0。 
+G_END2_PlayerText9: Tắt hiệu ứng âm thanh
+
+G_END3_CharacterText1: <space=1>
+
+; …… 
+G_END3_CharacterText10: ……
+
+; 我也并没有那么无所不能呢…… 
+G_END3_CharacterText11: Tớ thật sự không quá mạnh sau tất cả~
+
+; …… 
+G_END3_CharacterText12: ……
+
+; 仅限于这里吗…… 
+G_END3_CharacterText13: Đây có phải là nơi kết giới của hai ta hiện hữu...?
+
+; 就这样…… 
+G_END3_CharacterText14: Và nó tiếp tục diễn ra...
+
+; …… 
+G_END3_CharacterText2: ......
+
+; 哪里都没有…… 
+G_END3_CharacterText3: Không thể được tìm thấy ở bất cứ đâu...
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_CharacterText4: Không có gì để hiện thị ở đây cả~
+
+; 像是在调侃我一般…… 
+G_END3_CharacterText5: Có vẻ như tớ đang bị trêu chọc...
+
+; 点缀什么……？ 
+G_END3_CharacterText6: Có gì để tô điểm...?
+
+; …… 
+G_END3_CharacterText7: ...
+
+; 或许也不错…… 
+G_END3_CharacterText8: Có vẻ như nó không quá tồi tệ...
+
+; 没有什么…… 
+G_END3_CharacterText9: Không có gỉ ở đây cả...
+
+G_END3_PlayerText1: <space=1>
+
+; …… 
+G_END3_PlayerText10: ……
+
+; 我也并没有那么无所不能呢…… 
+G_END3_PlayerText11: Tớ thật sự không quá mạnh sau tất cả~
+
+; …… 
+G_END3_PlayerText12: ……
+
+; 仅限于这里吗…… 
+G_END3_PlayerText13: Đây có phải nơi kết giới của hai ta hiện hữu...?
+
+; 就这样…… 
+G_END3_PlayerText14: Và nó tiếp tục diễn ra...
+
+; …… 
+G_END3_PlayerText2: ……
+
+; 哪里都没有…… 
+G_END3_PlayerText3: Không thể được tìm thấy ở bất cứ đâu...
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_PlayerText4: Không có gì để hiện thị ở đây cả~
+
+; 像是在调侃我一般…… 
+G_END3_PlayerText5: Có vẻ như tớ đang bị trêu chọc...
+
+; 点缀什么……？ 
+G_END3_PlayerText6: Có gì để tô điểm...?
+
+; …… 
+G_END3_PlayerText7: ……
+
+; 或许也不错…… 
+G_END3_PlayerText8: Có vẻ như nó không quá tồi tệ...
+
+; 没有什么…… 
+G_END3_PlayerText9: Không có gì ở đây cả...

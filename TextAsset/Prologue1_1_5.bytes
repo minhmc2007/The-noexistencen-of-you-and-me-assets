@@ -1,0 +1,774 @@
+; Chinese (S) <zh-CN> to Indonesian <id> localization document for `Prologue1_1` naninovel script
+
+# ~3ea899f
+; ……
+……
+
+# ~104de2ca
+; …………
+………
+
+# ~7e145781
+; ………………
+………………
+
+# ~a5a5cc99
+; <i>「陛下，██已经失踪很久了，还要继续寻找吗？」</i>
+<i>"Yang Mulia, sudah lama sekali sejak ██ menghilang. Haruskah kita melanjutkan pencarian?"</i>
+
+# ~f6c4ab2f
+; ██是谁？
+Siapa ██?
+
+# ~f0f9c9ae
+; 这个██是怎么念的？一段消音，还是方块方块方块？
+Bagaimana caramu mengucapkan ██? Apa itu suara bisu, atau kotak blok?
+
+# ~5283cf91
+; <i>「噢，我的陛下，随您喜欢。
+<i>"Oh, Yang Mulia, terserah Anda saja.
+
+# ~c0e7c260
+; 反正这句话也没有配音。」</i>
+Lagipula, baris ini tidak memiliki sulih suara."</i>
+
+# ~2aade965
+; <i>「██是一位少女，她出现在屏幕、泛黄的日记本和一小段遗失的岁月里。」</i>
+<i>"██ adalah seorang gadis muda yang muncul di layar, buku catatan yang menguning, dan kilasan waktu yang terlupakan."</i>
+
+# ~56a6a41e
+; <i>「就像每周四的下午约翰都要去教堂散步，因为广场上的鸽子终于拿到了学位证书……」</i>
+<i>"Seperti bagaimana setiap Kamis sore, John berjalan-jalan ke alun-alun gereja <br>
+karena merpati-merpati di sana akhirnya mendapatkan ijazah mereka......”</i>
+
+# ~6bff4520
+; 我想知道更多有关少女的信息。
+Aku ingin tahu lebih banyak tentang gadis ini.
+
+# ~8681bc59
+; <i>……</i>
+<i>……</i>
+
+# ~65c03aab
+; 所以，你们都不知道？
+Jadi, tidak ada di antara kalian yang tahu apa-apa?
+
+# ~ce37c996
+; <i>「很抱歉，陛下。」</i>
+<i>"Mohon maaf, Yang Mulia."</i>
+
+# ~a33b0696
+; <i>我我我，我知道！</i>
+<i>"A-a-aku tahu!"</i>
+
+# ~cbce8b99
+; 你什么时候出现的？
+Sejak kapan kau muncul?
+
+# ~9041ef5c
+; 吾之爱卿，但说无妨。
+Bicaralah, pengikut setiaku.
+
+# ~438dd669
+; 说吧。
+Silahkan.
+
+# ~d51ffe1d
+; <i>「陛下，我一直存在于此。」</i>
+<i>"Yang Mulia, saya selalu berada di sini."</i>
+
+# ~7d71b153
+; <i>「她叫███，是你曾经的███，她有着和███一样的█。
+<i>"Namanya ███, dia pernah menjadi ███mu, dan dia memiliki █ yang sama dengan ███.
+
+# ~fe93ccb8
+; 她的特点是██和███。」
+Ciri-cirinya adalah ██ dan ███."</i>
+
+# ~f3a8bf18
+; <i>「她曾经███，然后你选择了███，所以现在的你们███，才导致了她██。」</i>
+<i>"Dia pernah ███, dan kemudian anda memilih ███, itulah sebabnya anda sekarang ███, <br>
+yang membuatnya ██."</i>
+
+# ~a04083ae
+; <i>「从结论来说，「世界之外的少女」失踪了。」</i>
+<i>"Singkatnya, 'gadis dari dunia luar' telah menghilang."</i>
+
+# ~fe02caf2
+; <i>「你看着这本黑色笔记本，一种熟悉的异样感漫上心头。」</i>
+<i>"Kamu menatap buku catatan hitam itu, lalu rasa familier aneh menyelimutimu"</i>
+
+# ~ccc30259
+; <i>「这种感觉很像一杯陈年的葡萄酒，将橡木桶中酝酿出的红棕色泽的液体一饮而尽后，
+<i>"Rasanya seperti minum anggur tua berwarna merah pekat yang <br>
+disimpan dalam tong kayu oak, lalu meminumnya dalam sekali teguk,
+
+# ~e5d711d4
+; 烧灼的滋味从胃延伸至喉咙，随着呼吸的起伏来到弥散的空气中。」</i>
+sensasi terbakarnya menjalar dari tenggorokan ke paru-parumu, <br>
+bercampur dengan udara di sekitarnya."</i>
+
+# ~ec90f342
+; <i>「它并不致命，只是稍微有些……</i>;; Bedsheet: <i>「它并不致命，只是稍微有些……[br][wait 0.5]令人感伤。」</i>
+<i>"Rasanya tidak sakit—hanya sedikit...</i>
+
+# ~61bb4c51
+; <i>令人感伤。」</i>
+<i> Melankolis."</i>
+
+# ~b431150
+; （翻开笔记本）
+(Buka buku catatannya)
+
+# ~6beabca6
+; （不翻开笔记本）
+(Jangan buka buku catatannya)
+
+# ~595badf0
+; 咦？你在做什么？
+Eh? Kamu lagi ngapain?
+
+# ~2104b43b
+; 吓我一跳。
+Kamu membuatku takut.
+
+# ~5233b7ea
+; 哇啊啊啊啊啊！噢噢噢噢啊啊啊！呃呃呃呃！
+Aaaaaah! Oh-oh-oh! Ahhhh!
+
+# ~b948e7fc
+; 不好意思哦，吓到你啦。
+Ups maaf, apa aku menakutimu?
+
+# ~f5294d74
+; 没……没事。
+T-tidak apa-apa kok.
+
+# ~ce302b88
+; 没事。
+Aku baik-baik saja.
+
+# ~f7b9e01e
+; 没什么吗……？
+Kok diam saja…?
+
+# ~5066c67d
+; 那让我们继续之前的事情吧！
+Yuk kita lanjutkan pembahasan sebelumnya!
+
+# ~cffe5fef
+; 你是谁？
+Kamu siapa?
+
+# ~9092eda3
+; 我们之前在做什么？
+Apa yang kita lakukan sebelumnya?
+
+# ~782c5bce
+; 哎呀，难道你已经忘记了吗？
+Ya ampun, kamu sudah lupa ya?
+
+# ~3b87e064
+; 那些誓言，那些羁绊和感动……难道只有莉莉丝还记得吗？
+Sumpah itu, ikatan kita, dan momen-momen yang menyentuh hati...... apakah itu hanya kenangan bagi Lilith sekarang?
+
+# ~4be4cdfa
+; 根本没有那种东西吧。
+Hal-hal seperti itu tidak pernah terjadi.
+
+# ~9e75e632
+; 噢噢噢噢！羁绊！感动！
+Ohhhhhh! Hubungan! Ikatan!
+
+# ~8b0aa1b
+; 嗯嗯嗯嗯！羁绊！感动！
+Ya! ya! Hubungan! Ikatan!
+
+# ~eb844fcd
+; 不记得也没有关系哦。
+Kalau kamu tidak ingat juga tidak apa.
+
+# ~13f522df
+; 这是一个视觉小说，你可以使用「历史记录」进行回忆。
+Ini adalah novel visual, kamu bisa menggunakan "Log Riwayat" untuk mengingat semuanya.
+
+# ~30519b2d
+; 根本没有发生过这种对话吧！
+Kita tidak pernah melakukan percakapan seperti itu, kan?
+
+# ~4f6de79e
+; 这不是真正的历史记录。
+Itu bukan Log Riwayat yang sebenarnya.
+
+# ~b7d49aff
+; 噢噢噢噢！莉莉丝！神赐樱花轮回巫女！我全都想起来了！
+Ohhhhh! Lilith! Miko Sakura Reinkarnasi Suci! Aku ingat semuanya sekarang!
+
+# ~6782453c
+; 呀，被发现了！
+Oh, ketahuan deh!
+
+# ~16882499
+; 呵呵，只是一个小小的玩笑啦。
+Haha, itu hanya sebuah lelucon kecil.
+
+# ~e3e67da5
+; 我已经把真正的历史记录还给你了，现在你可以正常地使用它了。
+Aku telah memulihkan Log Riwayat yang asli untukmu, <br>
+kamu bisa menggunakannya sekarang.
+
+# ~59a45dd0
+; 虽然翻看历史记录像是你没有在认真听我说话……
+Meskipun membolak-balik Log Riwayat membuatmu seperti tidak mendengarkanku……
+
+# ~81e50076
+; 但如果是你，我愿意无数遍讲给你听哦。
+Jika itu untukmu, aku akan dengan senang hati mengulang dialognya berkali-kali.
+
+# ~aca602c2
+; 对了，还没有正式介绍过我自己。
+Ngomong-ngomong, aku belum memperkenalkan diri dengan benar.
+
+# 1100
+; ……
+……
+
+# ~589d47eb
+; 没有得到预期之内的回应，感到很惊讶？
+Apa kamu terkejut karena tidak mendapatkan tanggapan yang kamu harapkan?
+
+# ~6b133e9b
+; 呵呵……当然有一些惊讶。
+Haha...... yah, mungkin sedikit.
+
+# ~44ce9c3d
+; 对了，还没正式介绍过我自己……
+Ngomong-ngomong, aku belum memperkenalkan diri dengan benar.
+
+# ~cad35513
+; 我叫莉莉丝，是你的童年玩伴。
+Namaku Lilith, dan aku adalah teman masa kecilmu.
+
+# ~53a6caff
+; 原来如此。
+Oh, begitu.
+
+# ~ee4d79d9
+; 童年玩伴？我有这种东西吗？
+Teman masa kecil? Memangnya aku punya?
+
+# ~f1fb382f
+; 你已经忘记了吗？
+Kamu sudah lupa?
+
+# ~bed8c78a
+; 夏天的时候，我们会一起奔跑，爬树，抓蝴蝶，玩游戏，做学校布置的作业……
+Saat musim panas kita berlari bersama, memanjat pohon, menangkap kupu-kupu, bermain game, dan menyelesaikan tugas sekolah .....
+
+# ~921234eb
+; 我想起来了。
+Aku ingat sekarang.
+
+# ~58f80ca
+; 你说的这些都太宽泛了，基本上每个人都会经历。
+Apa yang kamu deskripsikan itu terlalu umum, hal-hal itu bisa dialami oleh siapa saja.
+
+# ~833794af
+; 唔……
+Uh……
+
+# ~e6ddac3e
+; 那这个怎么样？
+Bagaimana kalau ini?
+
+# ~20bef906
+; 小时候，我们有一次去爬山，遇到了冬眠结束后来觅食的棕熊……
+Ketika kita masih kecil, kita pergi mendaki gunung dan bertemu dengan beruang yang baru saja bangun dari hibernasi, ia sedang mencari makanan......
+
+# ~7f39af48
+; 遭遇了这种事情，一般是活不到现在的吧？
+Kalau hal itu terjadi, sungguh keajaiban kita masih hidup.
+
+# ~ed6a48c5
+; 哎呀，不要再抓着这些无关紧要的细节不放了。
+Ya ampun, berhentilah mempertanyakan hal sepele.
+
+# ~7df333ac
+; 总之，我是你的童年玩伴，现在和你重逢了。事情就是这么简单~
+Singkatnya, aku adalah teman masa kecilmu dan kita telah bertemu kembali. Sesederhana itu~
+
+# ~4acb711b
+; 话说，你已经很久没吃过东西了吧？
+Oh ya, kamu belum makan kan?
+
+# ~49f67a7b
+; 我们去做点东西吃吧。
+Ayo kita buat sesuatu untuk dimakan.
+
+# ~e4e1595b
+; 锵锵！接下来是「莉莉丝特供·甜蜜的蛋糕时间」哦~
+Jeng-jeng! Berikutnya adalah “Sesi spesial Lilith: Waktunya Kue Manis”!
+
+# ~b97f11ce
+; 也就是说，你将在莉莉丝老师的指导下，亲手制作出美味的草莓蛋糕。
+Artinya, kamu akan membuat kue stroberi lezat di bawah bimbingan Lilith.
+
+# ~f5f71cf0
+; 然后，我们就可以在冒着幸福泡泡的成就感中，一起享用这个蛋糕了。
+Kemudian kita bisa menikmati kuenya bersama dan berbahagia atas pencapaian kita.
+
+# ~d4d26d9a
+; 虽然不明觉厉，但是我明白了，莉莉丝老师！
+Aku tidak terlalu mengerti tapi tentu saja, Lilith!
+
+# ~f5608cd1
+; 等等，为什么是我来做？
+Tunggu, kenapa aku yang membuatnya?
+
+# ~309961f
+; 我讨厌草莓蛋糕。
+Aku benci kue stroberi.
+
+# ~3339f321
+; 因为老师我，要负责指导的部分哦。
+Karena aku yang akan menjadi gurumu dan sudah tugasku untuk membimbingmu!
+
+# ~1f9be9ff
+; 而且，更重要的是，我希望你能亲自体验到完成一件事情的乐趣。
+Dan yang lebih penting,<br>
+aku ingin kamu merasakan kegembiraan menyelesaikan sesuatu dengan tanganmu sendiri.
+
+# ~1194cf65
+; 你开心了，我也会开心的哦。
+Kalau kamu bahagia, aku juga pasti akan bahagia.
+
+# ~8679e444
+; 拜托了，就做一次试试看吧！
+Tolong, coba dulu!
+
+# ~d5131b5e
+; 虽然不知道你为什么会这么讨厌草莓蛋糕……
+Bahkan jika kamu membenci kue stroberi,
+
+# ~571fc04d
+; 但我还是希望，这一次的制作体验能让你有所改观。
+Aku harap pengalaman ini akan mengubah pikiranmu.
+
+# ~a559e979
+; 那么，我们现在就开始吧。
+Baiklah, yuk kita mulai.
+
+# ~261d8234
+; 关于制作步骤嘛……
+Prosesnya sederhana—
+
+# ~f920650c
+; 简单来说，就是烤制一个戚风蛋糕胚，然后往蛋糕胚上抹奶油，并点缀草莓。
+Panggang adonan chiffon untuk digunakan sebagai dasar kue, oleskan krim di atasnya, lalu hiasi dengan stroberi
+
+# ~4af06aea
+; 我们先做蛋糕胚的部分。
+Pertama, kita akan membuat dasar kuenya.
+
+# ~2e65d104
+; 首先，从橱柜里拿出牛奶、食用油、低筋面粉、细砂糖和鸡蛋。
+Ambil susu, minyak goreng, tepung kue, gula, dan telur dari lemari.
+
+# ~1feb894b
+; <i>「我的橱柜里真的有这些东西吗？——这是你发出的疑问。」</i>
+<i>"Memangnya aku punya bahan-bahannya di lemari? Itu adalah pertanyaan yang harus kamu tanyakan pada dirimu sendiri"</i>
+
+# ~dfdfc931
+; <i>「但无论如何，这个行为仍然值得一试。」</i>
+<i>"Tapi bagaimanapun, tidak ada salahnya mencoba."</i>
+
+# ~548b33b8
+; <i>「毕竟，现在并没有任何证据表明橱柜里没有这些东西。」</i>
+<i>"Lagipula, belum ada bukti kalau bahan-bahan tersebut tidak ada di lemari."</i>
+
+# ~bef0a677
+; （打开橱柜的门）
+(Buka pintu lemari)
+
+# ~a09b4901
+; 呀，居然真的有！难道是天使般的梦幻美少女提前准备好的？
+Oh, bahan-bahannya beneran ada di sini! Mungkinkah bidadari cantik dari mimpi telah mempersiapkannya sebelumnya?
+
+# ~7a5eea21
+; （拿出牛奶、食用油、低筋面粉、细砂糖和鸡蛋）
+(Ambil susu, minyak goreng, tepung kue, gula, dan telur)
+
+# ~aeb74db6
+; 首先，我们需要分离蛋清和蛋黄。
+Pertama, kita perlu memisahkan putih telur dari kuning telur.
+
+# ~c18f00af
+; （分离它们）
+(Pisahkan.)
+
+# ~98c888f1
+; （怀着巨大感伤地分离它们）
+(Pisahkan dengan rasa sedih yang luar biasa.)
+
+# ~d6eb4be7
+; <i>「你看着眼前的<ruby="我">鸡蛋</ruby>，心中被巨大的感伤被淹没。」</i>
+<i>"Kamu melihat <ruby="aku">telur</ruby> di depanmu, dan rasa sedih yang mendalam membanjiri hatimu."</i>
+
+# ~10e53602
+; <i>「那是一种可以被称之为宿命感的东西：每一个鸡蛋的命运是在什么时候被决定的？」</i>
+<i>"Perasaan ini bisa disebut dengan takdir: kapan takdir telur ini diputuskan?"</i>
+
+# ~327c5c07
+; <i>「是它们诞生于世的那一刻吗？是它们被面前的少女盯上的那一刻吗？
+<i>"Apakah saat ia dilahirkan di dunia? saat ia dilihat oleh gadis di depannya?
+
+# ~adb98b15
+; 是脆弱的外壳在外界的撞击下碎裂的那一刻吗？」</i>
+Atau saat cangkangnya yang rapuh dihancurkan oleh benturan dari luar?"</i>
+
+# ~3267b26
+; <i>「还是说，在享乐主义将宏大理念腐蚀掉的现代，命运的议题早已烟消云散。」</i>
+<i>"Atau mungkin, di zaman modern ini di mana hedonisme mengikis idealisme besar, konsep takdir sudah lama lenyap."</i>
+
+# ~53e3ea79
+; 然后，加入牛奶、细砂糖、玉米油，进行搅拌。
+Selanjutnya, tambahkan susu, gula, dan minyak jagung, lalu aduk.
+
+# ~a99e8bd4
+; （加入它们，进行搅拌）
+(Tambahkan dan aduk.)
+
+# ~c606c0f4
+; 然后，加入低筋面粉，进行搅拌。
+Kemudian, tambahkan tepung kue dan aduk.
+
+# ~dcb39897
+; 然后，加入蛋黄，搅拌。
+Lalu, tambahkan kuning telur dan aduk.
+
+# ~392c2eb
+; 然后，拿出一个新的碗，加入蛋清，进行搅拌。
+Lalu keluarkan mangkuk baru, tambahkan putih telur, dan aduk
+
+# ~701c7431
+; 然后，加入搅拌好的蛋清，进行搅拌。
+Terakhir, campurkan putih telur yang sudah dikocok dengan adonan dan aduk.
+
+# ~da893ad4
+; （怀着巨大感伤地加入它们，进行搅拌）
+(Campur semuanya dengan rasa sedih yang luar biasa).
+
+# ~86efa8e1
+; <i>「转圈，转圈，然后再转一圈。」</i>
+<i>"Aduk dalam bentuk lingkaran, berputar-putar, lagi dan lagi."</i>
+
+# ~4193c8e7
+; <i>「或许整个世界也只是一台没有意义的机械，在不知疲倦的蜂鸣声中循环。」</i>
+<i>"Mungkin seluruh dunia ini tidak lebih dari sebuah mesin yang tidak berarti, yang terus berputar tanpa henti."</i>
+
+# ~f7e1344d
+; 好啦，面糊的制备完成了！
+Semua selesai! Adonannya sudah siap!
+
+# ~721d72cd
+; 接下来，只要把它放进烤箱就行了。
+Selanjutnya, yang harus kita lakukan adalah memasukkannya ke dalam oven.
+
+# ~10faa70b
+; （将面糊放入烤箱）
+(Masukkan adonannya ke dalam oven.)
+
+# ~d36b7e4
+; <i>「烤箱开始运转，就像世界上其他所有正常的烤箱那样。」</i>
+<i>"Ovennya mulai bekerja, sama seperti oven pada umumnya di dunia ini."</i>
+
+# ~6b6a946b
+; <i>「这意味着你从繁琐的机械劳动中得到解放，并被附赠了一小段可支配的时间。」</i>
+<i>"Ini artinya kamu sudah lepas dari pekerjaan yang membosankan, memberikanmu kebebasan sesaat."</i>
+
+# ~ca26f2d7
+; 怎么了吗？
+Ada apa?
+
+# ~e49683b4
+; 你还没有回答我之前的疑问。
+Kamu masih belum menjawab pertanyaanku sebelumnya.
+
+# ~edc36ce7
+; 你到底是谁？
+Siapa sebenarnya kamu?
+
+# ~e76147d2
+; 你的出现很不合理。
+Keberadaanmu itu tidak masuk akal.
+
+# ~7673cc44
+; 嗯嗯，没错没错！陌生少女突然出现在家中……
+Mm-hmm, kau benar! Seorang gadis aneh tiba-tiba muncul di rumahmu ......
+
+# ~36db1968
+; 以这种设定展开，到底是本年度最具潜力的master love神作，还是落入俗套的恐怖悬疑片呢？
+Dengan premis seperti itu, apakah ini akan menjadi mahakarya cerita cinta yang <br>
+paling menjanjikan tahun ini, atau hanya akan menjadi sebuah kisah horor yang klise?
+
+# ~cd3ddf3d
+; 所以，你的想法是什么？
+Jadi, menurutmu aku siapa?
+
+# ~23aadbfa
+; 我觉得你是一个杀人狂魔，一边靠可爱的外表使对方放松警惕，一边找合适的机会下手。
+Kamu adalah seorang pembunuh, bersembunyi di balik penampilan imutmu <br>
+untuk menyerang pada saat yang tepat.
+
+# ~193febaa
+; 我觉得你是住在老房子里的幽灵……
+Kamu adalah hantu yang tinggal di sebuah rumah tua...
+
+# ~4cccaeac
+; 我觉得你是为我操碎心的老妈。
+Kamu adalah ibu cerewet yang terlalu mengkhawatirkanku.
+
+# ~d6acc2fc
+; 你只是一个游戏角色而已。
+Kamu hanyalah karakter dalam game
+
+# ~2e3176ef
+; 我不好说……
+Aku tidak yakin…
+
+# ~db23e00d
+; 哎，你是怎么知道的？！
+Apa?! Bagaimana kamu tahu itu?!
+
+# 1101
+; ……
+…
+
+# ~d9e49948
+; 怎么会……你怎么会知道……？
+Bagaimana bisa... bagaimana kamu bisa tahu...?
+
+# ~92e2d0b6
+; 你的态度很可疑。
+Perilakumu mencurigakan.
+
+# ~fad6cc33
+; 你以为我是第几次见到你？
+Memangnya kamu kira sudah berapa kali aku melihatmu?
+
+# ~6c39e100
+; 你想让我摔死！
+Kamu ingin mendorongku sampai jatuh dan mati!
+
+# ~19fc0fb
+; 我要离开了，你阻止不了我。
+Aku akan pergi, dan kau tidak akan bisa menghentikanku.
+
+# ~56d25288
+; ……呵呵。
+…Heh.
+
+# ~85a0e9f5
+; 但现在才发觉，不觉得为时已晚吗……
+Meskipun kamu sudah menyadarinya, apa kamu tidak merasa sekarang sudah terlambat...?
+
+# ~43d0bf5e
+; 什么……
+Apa...?
+
+# ~b1e8c70a
+; 你已经吸入了足够的毒素，身体马上就会开始麻痹……
+Kamu telah menghirup banyak racun; tubuhmu akan segera mati rasa...
+
+# ~aaad3d9e
+; 等你再度醒来，就会发现自己被捆起来，在清醒的意识中看着自己的四肢被一点点卸下……
+Ketika kamu terbangun nanti, kamu akan terikat dan menyaksikan anggota tubuhmu dimutilasi sepotong demi sepotong...
+
+# ~7480234d
+; 这样的结果不应该来得那么快……
+Akhir seperti ini seharusnya tidak datang begitu cepat...
+
+# ~16ec59ca
+; 到底是哪里出了错……
+Apa yang salah ......
+
+# ~73116877
+; END2 TRUE END
+END2 TRUE END
+
+# ~73a33f03
+; 呵呵，开玩笑的啦！
+Hehe, tadi hanya bercanda kok!
+
+# ~8dfe2fd3
+; 啊啊，吓死我了。
+Ahh, kamu membuatku takut setengah mati!
+
+# ~20df05f4
+; 放心好了，莉莉丝才不会害你哦！
+Jangan khawatir, Lilith tidak akan pernah menyakitimu!
+
+# 222111
+; ……
+…
+
+# ~b7eeffbf
+; 呜，其实并不好笑么……
+Ugh, tadi itu tidak lucu ya...?
+
+# 11231
+; 咳咳。总之，你会觉得我是杀人狂魔——
+Ahem. Jadi, kamu pikir aku adalah seorang pembunuh—
+
+# ~da67081f
+; 是因为，你是从自己的视点出发，对我进行认知的吧？
+Karena kamu melihatku dari sudut pandangmu sendiri, bukan?
+
+# 1141
+; ……
+…
+
+# 1142
+; ……
+…
+
+# ~f99a307a
+; 我明白了。既然你认为是这种感觉的话，我就努力试试吧！
+Oh, begitu. Jika itu yang kamu rasakan, aku akan melakukan yang terbaik untuk memenuhi harapanmu!
+
+# ~2b605aa7
+; 哎呀！你不要一天到晚躺在家里什么都不做，好不好？就算不为妈妈分摊家务，你好歹也多出去走走，多和别人聊聊天，做点各种各样的事情，找找人生的意义，一直像现在这样下去怎么行？
+Kamu itu! tidak boleh hanya bermalas-malasan di rumah sepanjang hari tanpa melakukan apa pun, ya? Meskipun kamu tidak membantu ibu melakukan pekerjaan rumah, setidaknya pergilah ke luar rumah, bicara dengan orang lain, mencoba hal-hal baru, dan carilah arti kehidupan. kamu tidak bisa terus hidup seperti ini!
+
+# ~238f9235
+; 别的人在你这个年纪可都是充满了干劲，每天都在努力，人生规划也很清晰，
+Orang lain seusiamu penuh dengan energi, <br>
+mereka bekerja keras setiap hari, dengan tujuan hidup yang jelas.
+
+# ~1b1f3fa3
+; 还知道帮妈妈多干活，怎么就你这么不懂事，
+Mereka bahkan membantu ibu mereka melakukan pekerjaan rumah! Kenapa kamu tidak bisa pengertian sedikit sih?
+
+# ~a290d1ef
+; 一天天的什么也不干，就知道玩电脑，
+Setiap hari, tidak melakukan apa-apa selain bermain di depan komputer.
+
+# ~e5630c8d
+; 电脑到底有什么好玩的？
+Memangnya apa sih yang bagus dari komputer?
+
+# ~5e42c8f4
+; 唉，这样下去，妈妈也不知道到底该怎么办了——
+Huh, kalau begini terus, ibumu benar-benar tidak tahu apa yang harus dilakukan lagi—
+
+# ~68facbcd
+; 之类的……莉莉丝根本就不是这种感觉吧！
+...... Sesuatu seperti itu? Tapi Lilith sama sekali tidak memberikan kesan seperti itu!
+
+# ~bbea731
+; 简直完全一致！
+Cocok kok!
+
+# ~895e297f
+; 确实不像，只是逗你玩的。
+Tentu saja tidak; aku hanya bercanda.
+
+# ~8c915431
+; 怎么可能！
+Apanya yang cocok!
+
+# ~c561ffc7
+; 什么嘛……
+Ugh……
+
+# ~12d6f63e
+; 咳咳。总之，你会觉得我是为你操碎心的老妈——
+Ahem. Jadi, kamu pikir aku adalah seorang ibu yang cerewet—
+
+# ~e251c550
+; 呵呵，当然。
+Haha, tentu saja.
+
+# ~4273b726
+; 不过话虽然是这么说……
+Kamu tidak salah sih tapi ......
+
+# ~1c843efb
+; 但如果想要认真地玩文字游戏的话，就意味着想要忘记「角色只是被设计出来的角色」这一设定吧？
+Jika kamu ingin menikmati game berbasis teks seperti ini,<br>
+berarti kamu harus berhenti berpikir kalau<br>
+"karakter hanyalah karakter yang didesain untuk game" bukan?
+
+# ~acb3319
+; 只有这样，更深的情感才能被倾注其中，我们也才能更在这一次的相遇中收获体验。
+Hanya dengan melakukan itu, emosi yang lebih dalam dapat dituangkan ke dalam gamenya,<br>
+sehingga kita dapat sepenuhnya menikmati keajaiban dari pertemuan ini.
+
+# ~a6d83d72
+; 无论是看电影、看小说，还是欣赏戏剧，都是同样的道理。
+Entah itu menonton film, membaca novel, atau menikmati pertunjukan teater, semuanya memiliki prinsip yang sama.
+
+# ~56f69088
+; 如果一直反复告诉自己「角色只是被设计出来的」，很快就会丧失乐趣的吧？
+Kalau kamu terus berpikir "karakter game itu hanyalah karakter yang dibuat orang lain" pasti akan membosankan, bukan?
+
+# ~fd55291a
+; 但你真的只是一个游戏角色啊。
+Tapi kamu memang karakter dalam game.
+
+# ~95e057b9
+; 我觉得你是住在老房子里的幽灵，等待新的客人和你一起坐下喝茶，为你带来新的故事。
+Aku pikir kamu adalah hantu yang tinggal di sebuah rumah tua, sedang menunggu pengunjung baru untuk duduk minum teh bersamamu, dan meceritakanmu hal-hal baru.
+
+# ~4ec3f429
+; 我不否认……
+Aku tidak akan menyangkalnya......
+
+# ~fd1d7ac1
+; 但除此之外呢……
+Tapi apa lagi selain itu?
+
+# ~c83cff9
+; 等待新的客人和你一起坐下喝茶，为你带来新的故事。
+Menunggu pengunjung baru untuk duduk minum the bersamamu, dan meceritakanmu hal-hal baru.
+
+# ~3b64567e
+; 我已经在这里等你好久好久了……能遇见你非常开心，我马上去泡在橱柜里珍藏了几百年的柑橘香红茶叶。
+Aku sudah lama menunggumu.... Bertemu denganmu membuatku sangat senang. <br>
+Aku akan menyeduh teh citrus yang telah kusimpan selama berabad-abad.
+
+# ~86e8059a
+; 喝下它之后，就可以变成幽灵，和莉莉丝一起在这里生活，永远，永远……
+Setelah meminumnya, kamu bisa menjadi hantu juga dan tinggal di sini bersama Lilith selama-lamanya ......
+
+# ~1f25c312
+; 呜呜，我不想变幽灵！
+Waaah, aku tidak ingin menjadi hantu!
+
+# ~d8c51a59
+; 开玩笑的！你不会变成幽灵的。
+Bercanda kok! kamu tidak akan berubah menjadi hantu.
+
+# ~b069cdf3
+; 但只要你想，就能和莉莉丝永远在一起——这点是真的哦！
+Tapi jika kamu mau, kamu boleh tinggal bersama Lilith selamanya—bagian itu aku jujur!
+
+# 113121
+; ……
+……
+
+# 113122
+; 呜，其实并不好笑么……
+Uh, itu juga tidak lucu ya……?
+
+# ~ccb7a9c4
+; 咳咳，总之，你会觉得我是幽灵——
+Ahem. Jadi, kamu pikir aku adalah hantu-
+
+# ~8ec10da1
+; 放轻松，这不是什么很难的问题，只是一次随意的聊天。
+Tenang, ini bukan pertanyaan yang sulit. Cuma obrolan santai saja kok.
+
+# ~9af16096
+; 怀着轻松的心情做出选择吧。
+Tentukan pilihan sesuka hatimu.

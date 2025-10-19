@@ -1,0 +1,151 @@
+; Chinese (S) <zh-CN> to Indonesian <id> localization document for `FakeED` managed text document
+
+; 「存在」
+「存在」: "Eksistensi"
+
+; <style=Custom1>CAST</style>
+CAST: <style=Custom1>PEMERAN</style>
+
+; END
+END: END
+
+; <style=Custom1>STAFF</style>
+STAFF: <style=Custom1>STAF</style>
+
+; 书桌
+书桌: Meja
+
+; 低筋面粉
+低筋面粉: Tepung Kue
+
+; 你
+你: Kamu
+
+; <style=Custom2>制作人</style>
+制作人: <style=Custom2>Produser</style>
+
+; <style=Custom2>动作指导</style>
+动作指导: <style=Custom2>Koordinator Pemeran Pengganti</style>
+
+; <style=Custom2>化妆设计</style>
+化妆设计: <style=Custom2>Penata Rias</style>
+
+; 发带
+发带: Pita rambut
+
+; 地板
+地板: Tepung
+
+; 墙壁
+墙壁: Dinding
+
+; 夏特露
+夏特露: Sartre
+
+; 夏特露酱
+夏特露酱: Sartre
+
+; 学者
+学者: Peneliti
+
+; <style=Custom2>导演</style>
+导演: <style=Custom2>Direktur</style>
+
+; 弗子
+弗子: Fouco
+
+; 收音机
+收音机: Radio
+
+; <style=Custom2>替补演员</style>
+替补演员: <style=Custom2>Aktor Pemeran Pengganti</style>
+
+; <style=Custom2>服装设计</style>
+服装设计: <style=Custom2>Perancang Kostum</style>
+
+; 枕头
+枕头: Bantal
+
+; 椅子
+椅子: Kursi
+
+; 沥水架
+沥水架: Rak Piring
+
+; <style=Custom2>灯光操作</style>
+灯光操作: <style=Custom2>Operator Lampu</style>
+
+; <style=Custom2>灯光设计</style>
+灯光设计: <style=Custom2>Perancang Pencahayaan</style>
+
+; 烤箱
+烤箱: Oven
+
+; 牛奶
+牛奶: Susu
+
+; 神秘少女
+神秘少女: Gadis Misterius
+
+; 窗户
+窗户: Jendela
+
+; 粉色药丸
+粉色药丸: Pil Merah Muda
+
+; 细砂糖
+细砂糖: Gula
+
+; 绿色药丸
+绿色药丸: Pil Hijau
+
+; <style=Custom2>编剧</style>
+编剧: <style=Custom2>Penulis Naskah</style>
+
+; <style=Custom2>舞台设计</style>
+舞台设计: <style=Custom2>Penata Panggung</style>
+
+; 莉莉丝
+莉莉丝: Lilith
+
+; 莉莉丝公主
+莉莉丝公主: Putri Lilith
+
+; 蛋糕
+蛋糕: Kue
+
+; 逐梦之典
+逐梦之典: Morphean Codex
+
+; <style=Custom2>道具师</style>
+道具师: <style=Custom2>Penata Properti</style>
+
+; 那个人
+那个人: Orang Asing
+
+; 镜子
+镜子: Cermin
+
+; <style=Custom2>音响操作</style>
+音响操作: <style=Custom2>Operator Suara</style>
+
+; <style=Custom2>音响设计</style>
+音响设计: <style=Custom2>Perancang Suara</style>
+
+; 食用油
+食用油: Minyak Goreng
+
+; 饰
+饰: Sebagai
+
+; 魔王
+魔王: Raja Iblis
+
+; 魔王莉莉丝
+魔王莉莉丝: Raja Iblis Lilith
+
+; 黄色药丸
+黄色药丸: Pil Kuning
+
+; 黑色笔记本
+黑色笔记本: Buku Catatan Hitam

@@ -1,0 +1,10 @@
+; Chinese (S) <zh-CN> to Portuguese (Brazil) <pt-BR> localization document for `NewCGGalleryUI` managed text document
+
+; 一瞬追忆<br><size=60>过去，现在，和未来</size>
+CGGallery.Title: Uma lembrança fugaz<br><size=60>O passado, o presente e o futuro</size>
+
+; 回忆中的瞬间
+NewCGGalleryUI.CGView: Momento
+
+; 回忆中的片段
+NewCGGalleryUI.MovieView: Fragmento

@@ -1,0 +1,274 @@
+; Chinese (S) <zh-CN> to Vietnamese <vi> localization document for `DefaultUI` managed text document
+
+; NO
+Confirmation.No: KHÔNG
+
+; YES
+Confirmation.Yes: CÓ
+
+; LOAD
+ControlPanel.Load: ĐANG TẢI
+
+; 日志
+ControlPanel.Log: LỊCH SỬ
+
+; SAVE
+ControlPanel.Save: LƯU
+
+; 设置
+ControlPanel.Settings: Cài đặt
+
+; SKIP
+ControlPanel.Skip: BỎ QUA
+
+; TIPS
+ControlPanel.Tips: GỢI Ý
+
+; TITLE
+ControlPanel.Title: TIÊU ĐỀ
+
+; 一瞬追忆
+DefaultUI.Gallery: Ký Ức Phai Mờ
+
+; Select a script to play
+ExternalScriptsBrowser.Info: Chọn kịch bản để chạy
+
+; EXTERNAL SCRIPTS
+ExternalScriptsBrowser.Title: KỊCH BẢN THÊM
+
+; CLOSE
+General.Close: TẮT
+
+; DELETE
+General.Delete: XOÁ
+
+; NAV.
+General.Navigate: ĐIỀU HƯỚNG
+
+; PAGE
+General.Page: TRANG
+
+; 恢复默认
+General.ResetDefault: Hoàn Tác
+
+; 恢复默认
+General.RestoreDefault: Hoàn Tác
+
+; 返回
+General.Return: Quay Lại
+
+; SCROLL
+General.Scroll: CUỘN
+
+; SELECT
+General.Select: CHỌN
+
+; TAB
+General.Tab: TAB
+
+; Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
+Naninovel.UI.ControlPanelTitleButton.ConfirmationMessage: Bạn có muốn thoát ra màn hình chính chứ?<br>Mọi tiến trình chưa được lưu sẽ bị mất.
+
+; Default
+Naninovel.UI.GameSettingsFontDropdown.DefaultFontName: Mặc Định
+
+; Default
+Naninovel.UI.GameSettingsFontSizeDropdown.Default: Mặc Định
+
+; Extra Large
+Naninovel.UI.GameSettingsFontSizeDropdown.ExtraLarge: Cực To
+
+; Large
+Naninovel.UI.GameSettingsFontSizeDropdown.Large: To
+
+; Small
+Naninovel.UI.GameSettingsFontSizeDropdown.Small: Nhỏ
+
+; Very Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption1: Rất Thấp
+
+; Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption2: Thấp
+
+; Medium
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption3: Vừa
+
+; High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption4: Cao
+
+; Very High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption5: Rất Cao
+
+; Ultra
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption6: Cực Cao
+
+; Full Screen
+Naninovel.UI.GameSettingsScreenModeDropdown.ExclusiveFullScreen: Toàn Màn.H
+
+; Full Screen Window
+Naninovel.UI.GameSettingsScreenModeDropdown.FullScreenWindow: Cửa Sổ Toàn Màn Hình
+
+; Maximized Window
+Naninovel.UI.GameSettingsScreenModeDropdown.MaximizedWindow: Không Viền
+
+; Windowed
+Naninovel.UI.GameSettingsScreenModeDropdown.Windowed: Cửa Sổ
+
+; Everything
+Naninovel.UI.GameSettingsSkipModeDropdown.Everything: Mọi Thứ
+
+; Read Only
+Naninovel.UI.GameSettingsSkipModeDropdown.ReadOnly: Chỉ Đọc
+
+; Empty
+Naninovel.UI.GameStateSlot.EmptySlotLabel: Trống
+
+; Are you sure you want to delete save slot?
+Naninovel.UI.SaveLoadMenu.DeleteSaveSlotMessage: Bạn thực sự muốn xóa dữ liệu lưu này chứ?
+
+; Are you sure you want to overwrite save slot?
+Naninovel.UI.SaveLoadMenu.OverwriteSaveSlotMessage: Bạn thực sự muốn ghi đè dữ liệu lưu này chứ?
+
+; 修正值：
+QTEPanel.ScoreName: Chỉ số phân kỳ:
+
+; 你不是时光机器
+QTEPanel.Text1: Bạn không phải cỗ máy thời gian
+
+; 你是烤箱
+QTEPanel.Text2: Bạn là một cái lò nướng
+
+; 你并非不是一个烤箱
+QTEPanel.Text3: Bạn không phải lò nướng
+
+; 你除了烤箱还能是什么呢
+QTEPanel.Text4: Nhưng nếu không phải lò nướng thì bạn là cái gì cơ chứ
+
+; 你从来都是烤箱
+QTEPanel.Text5: Bạn vẫn luôn là chiếc lò nướng
+
+; LOAD
+SaveLoadMenu.Tab.Load: KHỞI ĐỘNG
+
+; Q. LOAD
+SaveLoadMenu.Tab.QuickLoad: TẢI NHANH
+
+; SAVE
+SaveLoadMenu.Tab.Save: LƯU
+
+; 「我」
+SettingsMenu.CharacterTitle: 「MY」
+
+; 繁体中文
+SettingsMenu.ChineseHK: 繁体中文
+
+; 简体中文
+SettingsMenu.ChineseLanguage: 简体中文
+
+; 汉语
+SettingsMenu.ChineseVoice: Trung
+
+; English
+SettingsMenu.EnglishLanguage: Tiếng Anh
+
+; es
+SettingsMenu.esLanguage: Español latinoamericano
+
+; fr
+SettingsMenu.frLanguage: Français
+
+; it
+SettingsMenu.itLanguage: Italiano
+
+; 无边框
+SettingsMenu.FullScreenWindow: Không viền
+
+; 印度尼西亚语
+SettingsMenu.idLanguage: Bahasa Indonesia
+
+; 日本语
+SettingsMenu.JapanLanguage: 日本語
+
+; 日本语
+SettingsMenu.JapanVoice: Nhật
+
+; 한국어
+SettingsMenu.koLanguage: 한국어
+
+; 游戏语言
+SettingsMenu.Language: Ngôn Ngữ
+
+; 全屏
+SettingsMenu.MaximizedWindow: Toàn Màn.H
+
+; 文本显示速度
+SettingsMenu.MessageSpeed: Tốc Độ Chữ
+
+; 静音
+SettingsMenu.Mute: Tắt Tiếng
+
+; 「你」
+SettingsMenu.PlayerTitle: 「YOUR」
+
+; Modo de Exibição
+SettingsMenu.ptbrLanguage: Modo de Exibição
+
+; Русский
+SettingsMenu.ruLanguage: Русский
+
+; 显示模式
+SettingsMenu.ScreenMode: Chế Độ Hiển Thị
+
+; 西班牙语
+SettingsMenu.SpanishVoice: Tây Ban Nha
+
+; French
+SettingsMenu.FrenchVoice: French
+
+; 的设置
+SettingsMenu.Title: Settings
+
+; Türkçe
+SettingsMenu.trLanguage: Türkçe
+
+; Українська мова
+SettingsMenu.ukLanguage: Українська мова
+
+; Tiếng Việt
+SettingsMenu.viLanguage: Tiếng Việt
+
+; 游戏语音
+SettingsMenu.VoiceLanguage: Lồng Tiếng
+
+; 音效音量
+SettingsMenu.VolumeEffects: Hiệu Ứng
+
+; 背景音乐音量
+SettingsMenu.VolumeMusic: Nhạc Nền
+
+; 语音音量
+SettingsMenu.VolumeVoice: Giọng Nói
+
+; 窗口
+SettingsMenu.Windowd: Cửa Sổ
+
+; 历史记录
+TextTitle: Lịch Sử
+
+; 过去，现在，\n和未来
+TextTitle (1): Quá khứ, hiện tại, <br>và tương lai.
+
+; 继续游戏
+TitleMenu.CustomEnterGame: Tiếp Tục
+
+; 退出游戏
+TitleMenu.Exit: Thoát
+
+; 致谢
+TitleMenu.Extras: Người Ủng Hộ
+
+; 设置
+TitleMenu.Settings: Cài Đặt
+
+; SUBMIT
+VariableInput.Submit: GỬI

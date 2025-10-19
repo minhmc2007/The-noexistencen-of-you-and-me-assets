@@ -1,0 +1,10 @@
+; Chinese (S) <zh-CN> to Italian <it> localization document for `NewCGGalleryUI` managed text document
+
+; 一瞬追忆<br><size=60>过去，现在，和未来</size>
+CGGallery.Title: Memorie Fugaci<br><size=60>Il passato, il presente e il futuro</size>
+
+; 回忆中的瞬间
+NewCGGalleryUI.CGView: Momenti
+
+; 回忆中的片段
+NewCGGalleryUI.MovieView: Frammenti

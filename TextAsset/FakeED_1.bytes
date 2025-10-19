@@ -1,0 +1,151 @@
+; Chinese (S) <zh-CN> to Ukrainian <uk> localization document for `FakeED` managed text document
+
+; 「存在」
+「存在」: "Існування"
+
+; <style=Custom1>CAST</style>
+CAST: <style=Custom1>АКТОРСЬКИЙ СКЛАД</style>
+
+; END
+END: КІНЕЦЬ
+
+; <style=Custom1>STAFF</style>
+STAFF: <style=Custom1>ПЕРСОНАЛ</style>
+
+; 书桌
+书桌: Письмовий стіл
+
+; 低筋面粉
+低筋面粉: Тортове борошно
+
+; 你
+你: Ти
+
+; <style=Custom2>制作人</style>
+制作人: <style=Custom2>Продюсер</style>
+
+; <style=Custom2>动作指导</style>
+动作指导: <style=Custom2>Координатор трюків</style>
+
+; <style=Custom2>化妆设计</style>
+化妆设计: <style=Custom2>Візажист</style>
+
+; 发带
+发带: Стрічка для волосся
+
+; 地板
+地板: Підлога
+
+; 墙壁
+墙壁: Стіна
+
+; 夏特露
+夏特露: Сартр
+
+; 夏特露酱
+夏特露酱: Сартр
+
+; 学者
+学者: Вчений
+
+; <style=Custom2>导演</style>
+导演: <style=Custom2>Режисер</style>
+
+; 弗子
+弗子: Фуко
+
+; 收音机
+收音机: Радіо
+
+; <style=Custom2>替补演员</style>
+替补演员: <style=Custom2>Дублер актора</style>
+
+; <style=Custom2>服装设计</style>
+服装设计: <style=Custom2>Художник по костюмах</style>
+
+; 枕头
+枕头: Подушка
+
+; 椅子
+椅子: Стілець
+
+; 沥水架
+沥水架: Сушарка для посуду
+
+; <style=Custom2>灯光操作</style>
+灯光操作: <style=Custom2>Оператор освітлення</style>
+
+; <style=Custom2>灯光设计</style>
+灯光设计: <style=Custom2>Дизайнер освітлення</style>
+
+; 烤箱
+烤箱: Духовка
+
+; 牛奶
+牛奶: Молоко
+
+; 神秘少女
+神秘少女: Таємнича дівчина
+
+; 窗户
+窗户: Вікно
+
+; 粉色药丸
+粉色药丸: Рожева таблетка
+
+; 细砂糖
+细砂糖: Цукор
+
+; 绿色药丸
+绿色药丸: Зелена таблетка
+
+; <style=Custom2>编剧</style>
+编剧: <style=Custom2>Сценарист</style>
+
+; <style=Custom2>舞台设计</style>
+舞台设计: <style=Custom2>Сценограф</style>
+
+; 莉莉丝
+莉莉丝: Ліліт
+
+; 莉莉丝公主
+莉莉丝公主: Принцеса Ліліт
+
+; 蛋糕
+蛋糕: Торт
+
+; 逐梦之典
+逐梦之典: Кодекс Морфея
+
+; <style=Custom2>道具师</style>
+道具师: <style=Custom2>Майстер з реквізиту</style>
+
+; 那个人
+那个人: Незнайомець
+
+; 镜子
+镜子: Дзеркало
+
+; <style=Custom2>音响操作</style>
+音响操作: <style=Custom2>Звукооператор</style>
+
+; <style=Custom2>音响设计</style>
+音响设计: <style=Custom2>Звукорежисер</style>
+
+; 食用油
+食用油: Кухонна олія
+
+; 饰
+饰: грає
+
+; 魔王
+魔王: Повелитель Демонів
+
+; 魔王莉莉丝
+魔王莉莉丝: Повелитель Демонів Ліліт
+
+; 黄色药丸
+黄色药丸: Жовта таблетка
+
+; 黑色笔记本
+黑色笔记本: Чорний блокнот

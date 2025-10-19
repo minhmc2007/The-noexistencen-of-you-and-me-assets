@@ -1,0 +1,521 @@
+; Chinese (S) <zh-CN> to Vietnamese <vi> localization document for `Prologue0_1` naninovel script
+
+# ~43338c60
+; 第█章：初遇
+Chương █: Lần gặp mặt đầu tiên
+
+# ~5898bf9e
+; 在那个<ruby="上午">下午</ruby>，莉莉丝出现了。
+Vào <ruby="morning">buổi chiều ấy </ruby>, Lilith xuất hiện.
+
+# ~a5b4d33a
+; 躺在床上的我，已经分不清睡了多久，也不再记得上一次进食是什么时候。
+Tôi nằm trên giường, không biết mình đã ngủ bao lâu, <br>
+và thậm chí, còn không nhớ lần cuối cùng mình ăn là khi nào.
+
+# ~e0424bd2
+; 我唯一要做的，就是在这里死去，然后等待我的身体腐烂。
+Điều duy nhất tôi có thể làm là nằm đợi cái chết đến bên mình và đợi cơ thể phân huỷ.
+
+# ~4acc86a7
+; 就在这时，她出现在了窗边。
+Và ngay lúc đó...... cô ta xuất hiện.
+
+# ~3ea899f
+; ……;; @wait 2
+……
+
+# ~4d077d75
+; <i>「她没有说什么，只是侧头看着你，仿佛你是她房间里的某样物品。」</i>;; 这个背景音乐适配性很好
+<i>"Cô ấy không nói gì, chỉ nghiêng đầu nhìn bạn— <br>
+ngắm bạn như món đồ trong phòng cô ta vậy."</i>
+
+# ~1607ac36
+; <i>「当然，你才是这个房间真正的主人」</i>
+<i>"Dĩ nhiên, bạn mới là chủ nhân thực sự của căn phòng này."</i>
+
+# ~f49e57de
+; <i>「你很久没和人说过话了。所以你得想好一阵，才能领悟到该如何开口。」</i>
+<i>"Chỉ là bạn không nói chuyện với ai trong khoảng thời gian dài. <br>
+Phải mất một lúc lâu bạn mới có thể tìm được cái gì đó để bắt chuyện."</i>
+
+# ~af3216ff
+; 我是谁……
+Tôi là ai.....
+
+# ~fb7c1b9a
+; 我在哪里……
+Tôi đang ở đâu........
+
+# ~1ea571f2
+; 我该做什么……
+Tôi nên.........
+
+# ~31f07f91
+; 我刚刚，是成功说出话了？
+Tôi vừa nói xong à?
+
+# ~6c459d7b
+; 还是说，在这个游戏里，用鼠标点击选项的行为没有任何意义？
+Hay là những lựa chọn trong trò chơi này đều vô nghĩa?
+
+# ~e24292b5
+; <i>「沉默。沉默过后仍然是沉默，但沉默总是要被打破的。」</i>
+<i>"Im lặng. Theo sau nó vẫn sự im lặng, nhưng sự im lặng không bao giờ tồn tại mãi mãi."</i>
+
+# ~3438c72b
+; 嗯，我听见了。
+Đúng rồi đó, tui nghe cậu nè.
+
+# ~ee3746b3
+; 你是这个游戏的主角，正在你的房间里，准备攻略美少女。
+Cậu là nhân vật chính của trò chơi này, đang ngồi trong phòng để sẵn sàng cho con đường chinh phục cô gái xinh đẹp đó.
+
+# ~3542ec66
+; 那你呢？
+Còn cô thì sao?
+
+# ~e9fd6685
+; 你是一张贴图吗？
+Cô có phải là một bức vẽ trên màn hình?
+
+# ~cfcda5e7
+; 你是我的妄想症产物吗？
+Cô có phải là sản phẩm tưởng tượng của tôi không?
+
+# ~12d94ef3
+; 你是和我邂逅的美少女吗？
+Cô có phải là cô gái xinh đẹp nhất mà tôi từng gặp mặt?
+
+# ~59857444
+; 你是真想知道，还是因为选项框里只有关于我的选项？
+Cậu có thật lòng muốn biết hay không, hay lựa chọn duy nhất cậu có thể chọn là 'tui'?
+
+# ~9d2deef4
+; <i>「下一秒，她从你的视线里消失了。」</i>
+<i>"Trong giây phút tiếp theo, cô ta biến mất khỏi tầm nhìn của bạn."</i>
+
+# ~f63735ec
+; <i>「然后，她又出现了。这次你们之间的距离更近。」</i>
+<i>"Sau đó cô ta lại xuất hiện, lần này lại đến gần bạn hơn."</i>
+
+# ~cb957c85
+; <i>「你理解了这个行为。也就是说，她刚才朝你走了过来。」</i>
+<i>"Bạn nhận ra cô ta đã làm gì—có nghĩa là cô ta đã bước đến gần lại bạn."</i>
+
+# ~4383be19
+; <i>「……还是说，是你朝着她走了过去？」</i>
+<i>"……Hay là bạn đã bước đến gần hơn cô ta?"</i>
+
+# ~c5ba2045
+; <i>「红色的光，那是她的眼睛，她用眼睛注视着我——这是此刻你的想法。」</i>
+<i>"Ánh mắt của cô ta loé ra ánh đỏ thẫm. Chúng nhìn, không có lấy một cái chớp mắt, như thể muốn đâm xuyên người mình vậy—dòng suy nghĩ còn vương vấn trong tâm trí tôi, nhưng lại có cảm giác như nó thuộc về ai đó khác."</i>
+
+# ~71eaec3d
+; 等等，这些嘈杂的声音是什么？
+Khoan đã, mấy cái tiếng gì phát ra xung quanh vậy?
+
+# ~50ae902b
+; <i>「您问我们吗？我们是您房间中的家具。」</i>
+<i>"Bạn đang hỏi chúng tôi ư? Chúng tôi là nội thất trong căn phòng của bạn."</i>
+
+# ~44902ea8
+; <i>「您过去花了很长的时间和「我们」对话，所以我们对您的一切都非常熟悉。」</i>
+<i>"Bạn từng trò chuyện với 'chúng tôi' suốt một khoảng thời gian dài, <br>
+nên chúng tôi hiểu bạn rất nhiều.."</i>
+
+# ~66b2e167
+; <i>「总之，你可以把我们理解成你的「感官」。」</i>
+<i>"Thưa Bệ hạ, để nói ngắn gọn lại thì ngài có thể xem chúng tôi là 'giác quan' của ngài ạ.</i>
+
+# ~87d6cc89
+; 得了吧，你们只是物品，物品也配被叫做「感官」吗？
+Thôi nào, mấy người chỉ là đồ vật. Liệu đồ vật có xứng đáng được gọi là "giác quan"?
+
+# ~d7243eb5
+; 噢噢！好久不见，我最忠实的臣子们。
+Ôi chao, thường dân trung thành của ta! Cũng đã quá lâu rồi nhỉ?
+
+# ~1c4a8a02
+; <i>「好久不见，陛下，您还是一如既往地有精神。」</i>
+<i>"Đã lâu lắm rồi, thưa Bệ hạ. Ngài vẫn trang nghiêm và mạnh khoẻ như ngày nào."</i>
+
+# 11
+; ……
+……
+
+# ~8d8700e8
+; 被人盯着的感觉如何？
+Được nhiều người để mắt cậu thế này, thấy sao nè?
+
+# ~b256bee4
+; 太棒了，我可以像这样被你一直注视下去。
+Quá ư là tuyệt vời luôn. Hay là cô cứ ở đây, mãi ngắm nhìn tôi suốt đời luôn nhé?
+
+# ~e375b400
+; 你戴了美瞳吗？为什么只有你的眼睛有颜色？
+Cô có đeo kính áp tròng màu không? Tại sao chỉ có mắt cô là có màu?
+
+# ~d643bf51
+; 你盯得我心里发毛，我讨厌这种感觉。
+Không thích tí nào. Cô cứ nhìn tôi chằm chằm thế này, nổi hết cả da gà luôn rồi. 
+
+# ~5a3d4a4
+; 嗯，那我们就这样一直注视着对方，直到死掉为止吧。
+Hừm, nếu cậu đã nói thế thì tớ phải nhìn cậu tiếp rồi, cho tới khi cái chết chia lìa.
+
+# ~8eec13a8
+; 我们真的会「死」吗？
+Liệu chúng ta có thật sự 'chết' không?
+
+# ~eda68ca5
+; 感觉有点腻了……
+Tôi thấy hơi mỏi mắt rôi đó.....
+
+# ~1447203
+; 当然……;; scale:1.25 pos:52,45 wait:false time:1
+À phải rồi nhỉ...
+
+# 012a
+; ……
+……
+
+# ~ab7d5c62
+; 这样的话可是很毁气氛的哦。
+Cậu nói thế dễ tụt bầu không khí lắm đó, cậu biết không?
+
+# ~8ccbb618
+; 算啦，就当是你在夸奖我的眼睛好看吧~
+Nhưng mà, tui sẽ coi như là lời khuyên cho đôi mắt xinh đep tuyệt trần của tôi vậy~
+
+# ~40a0784f
+; <i>「她没有回应，继续注视着你。」</i>
+"Cô ấy không trả lời, vẫn tiếp tục nhìn chằm chằm vào tôi."
+
+# ~65b82a13
+; <i>「那样的目光简直就像一根柔软的刺，仿佛能将你的心看穿。」</i>
+<i>"Ánh mắt đó giống như một chiếc gai mềm mại, như thể nó có thể đâm thẳng vào tim tôi."</i>
+
+# ~fd5a5b06
+; 那么，你觉得我是真实存在的吗？
+"Nè, cậu thử nghĩ xem—tớ có tồn tại không?"
+
+# ~216de7ef
+; <i>「那么，你觉得她是真实存在的吗？」</i>;; @back CG_2_6 wait:false time:0.7
+<i>"Vậy, bạn có nghĩ cô ấy thật sự tồn tại không?"</i>
+
+# ~3411672a
+; 我不确定，我想和你一起寻找这个问题的答案。
+Tôi không chắc nữa, nhưng tôi muốn cùng cô đi tìm câu trả lời đó.
+
+# ~c61a0fbf
+; 我得到了一个拥抱？
+Mình mới được ôm à?
+
+# ~7181759d
+; 它是一个「仪式」。为了能让你感受到我，而进行的仪式……
+Nó giống như là một dạng 'nghi lễ'. Mục đính làm cho cậu cảm nhận được sự hiện diện của tớ.
+
+# ~525f3ccc
+; 没错，这个行为可以恰如其分地被称做「拥抱」。
+Đúng vậy, cái cử chỉ mà tớ đang làm được gọi là 'ôm'.
+
+# ~bef73055
+; 所以，此刻的你是什么感觉？
+Cậu thấy sao?
+
+# ~a053ca47
+; 一张崭新的A4纸，拿出来的时候划破了手。
+Như tờ giấy A4 mới toanh, đang cứa vào ngón tay khi tôi đang cố rút nỏ ra.
+
+# ~92b94788
+; 柔软的猫毛飘到了手掌心。
+Một cảm giác mềm mại cứ như đang vuốt ve chú mèo vậy.
+
+# ~a60ee00a
+; 空气里掺入粉笔屑和灰尘，被吸进鼻腔。
+Như hít phải bụi phấn và các mảnh vụn bị hoà lẫn trong không khí.
+
+# ~d59d6f17
+; 听你的描述，这像是「触感」。
+Theo mô tả của cậu thì nghe giống như "chạm".
+
+# ~43040619
+; 也就是说，只有一些细微的感觉？
+Vậy là chỉ có cảm giác thoáng qua thôi sao?
+
+# ~4ca079d5
+; 嗯……
+Hừm.......
+
+# ~30b14c54
+; 现在我抱得更紧了。这样一来，我们就离得更近了。
+Thế giờ tớ sẽ ôm cậu chặt hơn nữa. Như thế thì chúng mình sẽ gần nhau hơn nữa he?
+
+# ~95db75ea
+; 所以，被紧紧「拥抱」着的你，是什么感觉？
+Cậu thấy cảm giác được ôm 'chặt' hơn thế nào nè?
+
+# ~8646eaa7
+; 沾湿的塑料袋掉在雨天的地上。
+Như chiếc túi ni lông ướt dưới trời mưa tầm tã.
+
+# ~11cfc5f8
+; 第一株新芽从泥土中破壳而出。
+Mầm cây đầu tiên nhú lên khỏi mặt đất.
+
+# ~cd911133
+; 食物残渣在胃液里消化。
+Thức ăn thừa hòa tan trong axit dạ dày.
+
+# ~5126747d
+; 太好了，感觉变得更加强烈了呢……
+Tuyệt thật nhỉ? Cảm giác ngày càng mãnh liệt hơn sao.......
+
+# ~51b0a5f3
+; 现在我抱得更紧了。这样一来，我们就合二为一了。
+Vậy thì tớ sẽ ôm cậu chặt hơn trước nữa. Như vậy thì chúng ta sẽ cùng hoà làm một.
+
+# ~a1422ff6
+; 所以，被深深「拥抱」着的你，是什么感觉？
+Được bao trọn trong cái 'ôm' này, cậu có cảm thấy gì không?
+
+# ~abe5d0b2
+; 没什么特别的感觉。
+Không có gì đặc biệt hết.
+
+# ~2767a1c
+; 我重获新生了！
+Cứ như được tái sinh vậy!
+
+# ~6eef6418
+; 我快不能呼吸了……
+Không thở được......
+
+# ~8840d2c2
+; 救命！救命！
+Cứu! Cứu!
+
+# ~76f55adc
+; 我简直好得不能再好……
+Chưa bao giờ thấy tốt hơn bây giờ......
+
+# ~e505d1a7
+; 嘿嘿……嘿嘿……
+Hê hê…… hê hê……
+
+# ~4691e88a
+; 面对行刑队的时候，奥雷里亚诺上校会想起那个父亲带他看冰块的下午。
+Khi đối mặt với đội hành quyết, Đại tá Aureliano Buendía nhớ lại lúc cha đưa ông đi xem băng vào buổi chiều hôm ấy.
+
+# ~3b556567
+; 世界是我的表象，这样的考察虽然具有片面性，但却不失为真理。
+Thế giới là biểu tượng của tôi. Nhận định này tuy phiến diện, nhưng vẫn là một chân lý.
+
+# ~cfbae466
+; 启蒙运动就是人类脱离自己所加之于自己的不成熟状态。
+Khai sáng là quá trình con người thoát khỏi trạng thái về tinh thần chưa trưởng thành mà chính mình đã tự đặt ra.
+
+# ~7a9d2dff
+; 柯西莫在树上。树枝向外伸展，凌空架起一道高高的桥梁。
+Cosimo sống trên cây. Cành cây vươn ra, tạo thành một cây cầu cao lơ lửng giữa không trung.
+
+# ~21441692
+; 存在者存在，非存在者不存在。
+Cái gì tồn tại thì tồn tại; cái gì không tồn tại thì không tồn tại.
+
+# ~8693ba46
+; 四月十六日早晨，里厄医生从他的诊所走出来时，在楼梯口踢到一只死老鼠。
+Sáng ngày 16 tháng 4... bác sĩ Rieux từ trong phòng khám bước ra cầu thang thì đá phải một xác con chuột chết
+
+# ~75de281
+; 人创造了万物的尺度和目的。尽管如此，这创造也必将朽坏。
+Con người là thước đo của vạn vật, quyết định điều gì tồn tại và điều gì không tồn tại. Tuy nhiên, ngay cả tạo vật này cũng sẽ bị hủy diệt.
+
+# ~9e93ea93
+; 爱丽丝紧紧地追赶兔子，刚好看见兔子跳进了矮树下面的一个大洞。
+Alice chạy băng qua cánh đồng đuổi theo nó, và may mắn thay cô đã kịp thời nhìn thấy nó chui xuống một cái hang thỏ lớn dưới hàng rào.
+
+# ~88381a52
+; 他好像这样一个人，被剥掉了皮肤，进入猛烈的狂风暴雨中搏斗。
+Anh ấy trông giống như một người đàn ông bị lột da, lao vào một cơn bão dữ dội để chống lại các yếu tố.
+
+# ~466a156b
+; 准是有人诬陷了K，因为在一个晴朗的早晨，他无缘无故地被捕了。
+Nhiều khả năng có người vu khống Josef K, bởi trong một buổi sáng trời quang, anh ta bị bắt mà không vì lý do gì.
+
+# ~c0cd88d7
+; 我爱你。
+Tôi yêu em.
+
+# ~28da87a2
+; 我讨厌你。
+Tôi ghét em.
+
+# ~23ea2be4
+; 很好！「仪式」成功了。
+Tuyệt vời! "Nghi lễ" đã thành công.
+
+# ~2466250a
+; 我感动得都快要哭出来了呢……
+Tớ cảm động đến nỗi muốn rơi nước mắt rồi nè……
+
+# ~f832fad2
+; 总之，我叫莉莉丝。很高兴能见到你！
+Dù sao thì, tên tớ là Lilith. Rất vui được gặp cậu!
+
+# ~fe625f1b
+; 无论多少次，我都会接纳你的存在。
+Dù có xảy ra bao nhiêu lần đi nữa, cậu vẫn luôn trân trọng sự tồn tại của tớ.
+
+# ~b1c775b5
+; 哎……？
+Hở……？
+
+# ~5d0d725e
+; 我们又见面了，莉莉丝。
+Chúng ta lại gặp nhau lần nữa rồi, Lilith.
+
+# ~e94e339f
+; （抱住莉莉丝）
+(Ôm Lilith)
+
+# ~7eb0fd5c
+; 太好了……太好了！
+Cảm.... Cảm ơn trời....... cảm ơn trời đất!
+
+# ~9a2a0c6e
+; 既然这样的话，我们就跳过那些复杂的流程，赶紧出去约会吧。
+Nếu vậy thì mình cứ nhảy thẳng tới đoạn chúng mình đi hẹn hò nhau luôn đi.
+
+# ~c1e7cacf
+; 还有很多事情没做呢，我们要一起散步、逛街、购物、玩耍、旅行……
+Còn biết bao thứ mình phải làm—dắt bộ cùng nhau, mua sắm này, vui chơi nè, rồi du lịch……
+
+# ~d20e83c4
+; 一起走在有很多落叶的秋天小径上，一起在冬天的便利店里吃关东煮，在夏天分享同一个西瓜，在春天的花海里拍下合照……
+Dạo bước trên những con đường thu phủ đầy lá, đi oden ở một cửa hàng tiện lợi vào mùa đông, cùng ăn miếng dưa hấu giữa cái nóng của mùa hè và chụp ảnh giữa biển hoa vào mùa xuân……
+
+# ~ea83e83f
+; 去水族馆看彩色热带鱼吐泡泡，在电影院里欣赏到足以改变人生的佳作，在雨天躲进陈列着奇幻摆件的杂货铺，或者窝在家里吃着外卖打一整天游戏也可以！
+Cùng ngắm cá nhiệt đới tung tăng trong thuỷ cung, trải nghiệm kiệt tác thay đổi cuộc đời tại rạp chiếu phim, trốn trong một cửa hàng nhỏ kỳ quặc chứa đầy những món đồ trang sức tuyệt vời vào một ngày mưa, hoặc chỉ ở nhà rồi gọi đồ ăn và chơi game cả ngày—nghe cái nào cũng hay dữ thần luôn!
+
+# ~e4fb3dfb
+; 当然了，这些或许都不是「最重要的」，重要的是……
+Tất nhiên, không có điều nào trong số đó là "điều quan trọng nhất". Quan trọng là…
+
+# ~496fa58e
+; 你能够尽情地做自己喜欢的事情。
+Cậu có thể làm những gì mình thích,
+
+# ~d42f2774
+; 你能够幸福地回应这个世界……
+Cậu có thể vui vẻ đáp lại thế giới này……
+
+# ~990dafb0
+; 嗯，我们走吧。
+Vậy thì, chúng ta đi thôi.
+
+# ~5cce7e99
+; 走吧！
+Đi thôi!
+
+# ~2c31676c
+; 你都已经把行程排到明年了啊。
+Cậu đã lên kế hoạch cho năm tới rồi phải không?
+
+# ~a59828d6
+; 哼哼，我可是超有行动力的！
+Hê, cậu biết tớ phải chủ động mọi thứ mà!
+
+# ~e7665f97
+; 莉莉丝挽过了我的手。
+Lilith cầm lấy tay tôi.
+
+# ~3ef907b2
+; 理所当然地，我们一起朝着门外的世界走去——
+Và chúng tôi cùng nhau bước đi về phía thế giới bên kia cánh cửa——
+
+# ~42f181e4
+; END
+END
+
+# ~7227486a
+; 你以为，重新进入游戏后，我的想法会改变么？
+Liệu suy nghĩ của tôi có thay đổi nếu chúng ta khời động trò chơi lại không?
+
+# ~4b3d2846
+; 很可惜，这是不可能的，莉莉丝。
+Tệ thật đấy, điều đó là bất khả thi, Lilith à.
+
+# ~4e5696b5
+; （掐住她的脖子）
+(Nắm cổ cô ta)
+
+# ~e2a0ac01
+; 唔……呃……！
+Ư…… a……!
+
+# ~af714d98
+; 我不相信你的存在。
+Tôi không tin vào sự hiện hữu của cô
+
+# ~11d15741
+; 我不相信善意的存在。
+Tôi không tin vào sự hiện hữu của lòng tốt.
+
+# ~bd3728b3
+; 我不相信无条件的爱能够存在。
+Tôi không tin vào sự hiện diện của tình yêu thương vô điều kiện.
+
+# 111
+; ……
+……
+
+# ~118a4ef7
+; 所以，你再怎么证明都是没用的。
+Vì thế, cho dù cô có chứng minh như thế nào đi chăng nữa, nó đều vô dụng
+
+# ~8f88c7a3
+; 你的笑容简直像恶魔一样，令人害怕。
+Nụ cười của cô thật là quỷ dị. Nó làm tôi phát ớn.
+
+# ~3d57c5a9
+; 不要再出现了，你像个幽灵一样阴魂不散……
+Đừng có xuất hiện trước mặt tôi nữa. Cô cứ như là con ma đang từ chối rời đi vậy...
+
+# ~23aa6398
+; （加大力度）
+(Siết chặt cổ)
+
+# 112
+; ……
+......
+
+# ~49dcf56b
+; 等我反应过来的时候，她已经消失了。
+Khi tôi tỉnh lại thì cô ấy đã đi mất rồi.
+
+# ~c5891426
+; 仿佛刚刚我所经历的一切都只是午后错乱的梦境。
+Như thể mọi thứ tôi vừa trải qua chỉ là một giấc mơ điên rồ vào buổi chiều.
+
+# ~46e7c589
+; 梦境？
+Một giấc mơ?
+
+# ~4c03fed2
+; ……我刚才在做什么来着？
+……Tôi vừa làm gì thế này?
+
+# ~a6fa845d
+; 我想起了什么？我又遗忘了什么？
+Tôi đã nhớ gì? Tôi đã quên gì?
+
+# ~6c5a2b0e
+; 在一阵徒劳的思索后，我环视着周围。
+Sau một hồi suy nghĩ vô ích, tôi nhìn quanh phòng.
+
+# ~cd15c8c4
+; ——这里是我的房间，我将继续成为统治这里的孤独国王。
+—Đây là phòng của tôi, nơi tôi sẽ trở thành vị vua cô độc, trị vì vương quốc hoang tàn này.

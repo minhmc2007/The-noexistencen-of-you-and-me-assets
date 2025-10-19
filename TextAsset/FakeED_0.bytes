@@ -1,0 +1,151 @@
+; Chinese (S) <zh-CN> to Italian <it> localization document for `FakeED` managed text document
+
+; 「存在」
+「存在」: "Esistenza"
+
+; <style=Custom1>CAST</style>
+CAST: <style=Custom1>CAST</style>
+
+; END
+END: FINE
+
+; <style=Custom1>STAFF</style>
+STAFF: <style=Custom1>STAFF</style>
+
+; 书桌
+书桌: Scrivania
+
+; 低筋面粉
+低筋面粉: Farina per torte
+
+; 你
+你: Tu
+
+; <style=Custom2>制作人</style>
+制作人: <style=Custom2>Produttore</style>
+
+; <style=Custom2>动作指导</style>
+动作指导: <style=Custom2>Coordinatore Stunt</style>
+
+; <style=Custom2>化妆设计</style>
+化妆设计: <style=Custom2>Truccatore</style>
+
+; 发带
+发带: Fiocco per capelli
+
+; 地板
+地板: Pavimento
+
+; 墙壁
+墙壁: Parete
+
+; 夏特露
+夏特露: Sartre
+
+; 夏特露酱
+夏特露酱: Sartre
+
+; 学者
+学者: Studiosa
+
+; <style=Custom2>导演</style>
+导演: <style=Custom2>Direttore</style>
+
+; 弗子
+弗子: Fouco
+
+; 收音机
+收音机: Radio
+
+; <style=Custom2>替补演员</style>
+替补演员: <style=Custom2>Controfigura</style>
+
+; <style=Custom2>服装设计</style>
+服装设计: <style=Custom2>Costumista</style>
+
+; 枕头
+枕头: Cuscino
+
+; 椅子
+椅子: Sedia
+
+; 沥水架
+沥水架: Portapiatti
+
+; <style=Custom2>灯光操作</style>
+灯光操作: <style=Custom2>Operatore dell'illuminazione</style>
+
+; <style=Custom2>灯光设计</style>
+灯光设计: <style=Custom2>Progettista dell'illuminazione</style>
+
+; 烤箱
+烤箱: Forno
+
+; 牛奶
+牛奶: Latte
+
+; 神秘少女
+神秘少女: Ragazza misteriosa
+
+; 窗户
+窗户: Finestra
+
+; 粉色药丸
+粉色药丸: Pillola rosa
+
+; 细砂糖
+细砂糖: Zucchero
+
+; 绿色药丸
+绿色药丸: Pillola verda
+
+; <style=Custom2>编剧</style>
+编剧: <style=Custom2>Sceneggiatore</style>
+
+; <style=Custom2>舞台设计</style>
+舞台设计: <style=Custom2>Scenografo</style>
+
+; 莉莉丝
+莉莉丝: Lilith
+
+; 莉莉丝公主
+莉莉丝公主: Principessa Lilith
+
+; 蛋糕
+蛋糕: Torta
+
+; 逐梦之典
+逐梦之典: Codice Morfeo
+
+; <style=Custom2>道具师</style>
+道具师: <style=Custom2>Attrezzista</style>
+
+; 那个人
+那个人: Straniero
+
+; 镜子
+镜子: Specchio
+
+; <style=Custom2>音响操作</style>
+音响操作: <style=Custom2>Operatore dell'audio</style>
+
+; <style=Custom2>音响设计</style>
+音响设计: <style=Custom2>Progettista del suono</style>
+
+; 食用油
+食用油: Olio da cucina
+
+; 饰
+饰: gioca
+
+; 魔王
+魔王: Re demone
+
+; 魔王莉莉丝
+魔王莉莉丝: Lilith, Regina dei Demoni
+
+; 黄色药丸
+黄色药丸: Pillola Gialla
+
+; 黑色笔记本
+黑色笔记本: Taccuino nero

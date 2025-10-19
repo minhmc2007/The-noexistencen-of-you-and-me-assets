@@ -1,0 +1,209 @@
+; Chinese (S) <zh-CN> to Japanese <ja> localization document for `Script` managed text document
+
+; 欢迎来到——莉莉丝的设置界面~
+G_END1_CharacterText1: リリスの設定画面へようこそ！
+
+; 是一个我完全不会去使用的功能呢。
+G_END1_CharacterText10: 全く使わない機能だね。
+
+; 莉莉丝当然和你是同一个选择。
+G_END1_CharacterText11: リリスはもちろん、あなたと同じ選択をするわ。
+
+; 还是说，是你命中注定的选择了莉莉丝的选择呢？
+G_END1_CharacterText12: それとも、リリスと同じ選択をするのが運命かしら？
+
+; 你可以调配一个专属于莉莉丝的「默认」吗？
+G_END1_CharacterText13: リリス専用の「デフォルト」を作ってもらえないかな？
+
+; 希望你喜欢这个世界~
+G_END1_CharacterText14: この世界を好きになってくれるといいわね
+
+; 一个视角，一个世界。
+G_END1_CharacterText2: 視点を変えれば、世界が変わる。
+
+; 莉莉丝的视线所及之处尽是世界~
+G_END1_CharacterText3: リリスが見渡す限り、すべて私たちの世界なの
+
+; 我不需要它哦，我完全理解……
+G_END1_CharacterText4: これは必要ないね、うん、分かってるわ……
+
+; 保留些许的氛围……
+G_END1_CharacterText5: 少し雰囲気を残して……
+
+; 再偷偷地加入一点点色彩~
+G_END1_CharacterText6: こっそりもう少しカラフルにして～
+
+; 只想聆听你的声音……
+G_END1_CharacterText7: ただあなたの声が聞きたいだけなの……
+
+; 我可不希望世界回到原初的模样呢。
+G_END1_CharacterText8: 世界が元に戻るなんて嫌。
+
+; 保留我对世界的一些点缀……
+G_END1_CharacterText9: 私が変えたこの世界の姿を少し残そう……
+
+; 在这里调整我们的世界~
+G_END1_PlayerText1: ここで私たちの世界を変えられるわ
+
+; 会听不到莉莉丝的声音哦~ 
+G_END1_PlayerText10: リリスの声が聞こえなくなるわよ?
+
+; 魔法少女莉莉丝可是无所不能的！ 
+G_END1_PlayerText11: 魔法少女リリスは何でもできるわ！
+
+; 你希望世界以何种符号呈现在你的面前呢？ 
+G_END1_PlayerText12: この世界がどんな記号となってあなたの前に現れるか、見てみたくない？
+
+; 想听一听我的建议吗？ 
+G_END1_PlayerText13: 私の意見が聞きたい？
+
+; 希望你喜欢这个世界~ 
+G_END1_PlayerText14: この世界を好きになってくれるといいわね
+
+; 一个视角，一个世界 
+G_END1_PlayerText2: 視点を変えれば、世界が変わる
+
+; 你希望世界以何种形式呈现在你的面前呢？ 
+G_END1_PlayerText3: どんな視点で世界を見てみたい？
+
+; 你希望我说话快一点或慢一点吗？没问题的哦~ 
+G_END1_PlayerText4: 私が話す速度を変えたい？もちろん、オーケーよ
+
+; 希望它不会影响到我的声音呢~ 
+G_END1_PlayerText5: 声に影響しないかな？
+
+; 在这里可以调节游戏效果音的大小哦。 
+G_END1_PlayerText6: ここで効果音のボリュームを変えられるわ。
+
+; 这样的声音可以吗~ 
+G_END1_PlayerText7: これでいいかしら？
+
+; 如果「静音」也是一种背景音乐，那该如何静音「静音」呢……？ 
+G_END1_PlayerText8: 「ミュート」もBGMの一種なら、「ミュート」をどうミュートすればいいのかしら？
+
+; 就像在宇宙的中心目睹一颗星球无声地爆炸。 
+G_END1_PlayerText9: 宇宙の中心で音もなく爆発する星を眺めているようだわ。
+
+; 调整游戏设置。 
+G_END2_PlayerText1: ゲーム設定を変更します。
+
+; 调整角色语音的音量为0。 
+G_END2_PlayerText10: キャラクターボイスのボリュームを0に設定します。
+
+; 选择角色语音的本地化语言。 
+G_END2_PlayerText11: キャラクターボイスの言語を選びます。
+
+; 选择游戏文本的本地化语言。 
+G_END2_PlayerText12: ゲームテキストの言語を選びます。
+
+; 将所有设置还原为默认值。 
+G_END2_PlayerText13: すべての設定をデフォルトに戻します。
+
+; 保存并退出设置界面。 
+G_END2_PlayerText14: 変更を保存して設定画面を閉じます。
+
+; …… 
+G_END2_PlayerText2: ……
+
+; 调整游戏显示模式。 
+G_END2_PlayerText3: ゲーム表示を変更します。
+
+; 调整文本打印速度。 
+G_END2_PlayerText4: テキスト表示速度を変更します。
+
+; 调整背景音乐的音量。 
+G_END2_PlayerText5: BGMのボリュームを変更します。
+
+; 调整游戏效果音的音量。 
+G_END2_PlayerText6: 効果音のボリュームを変更します。
+
+; 调整角色语音的音量。 
+G_END2_PlayerText7: キャラクターボイスのボリュームを変更します。
+
+; 调整背景音乐的音量为0。 
+G_END2_PlayerText8: BGMのボリュームを0に設定します。
+
+; 调整游戏效果音的音量为0。 
+G_END2_PlayerText9: 効果音のボリュームを0に設定します。
+
+G_END3_CharacterText1: <space=1>
+
+; …… 
+G_END3_CharacterText10: ……
+
+; 我也并没有那么无所不能呢…… 
+G_END3_CharacterText11: 私はそこまで万能じゃないわ……
+
+; …… 
+G_END3_CharacterText12: ……
+
+; 仅限于这里吗…… 
+G_END3_CharacterText13: ここだけでいいの？
+
+; 就这样…… 
+G_END3_CharacterText14: これでいいわ……
+
+; …… 
+G_END3_CharacterText2: ……
+
+; 哪里都没有…… 
+G_END3_CharacterText3: どこにもないわ……
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_CharacterText4: 表示できるものは何もないみたいね……
+
+; 像是在调侃我一般…… 
+G_END3_CharacterText5: 何かの冗談かしら……
+
+; 点缀什么……？ 
+G_END3_CharacterText6: 何を飾るって……？
+
+; …… 
+G_END3_CharacterText7: ……
+
+; 或许也不错…… 
+G_END3_CharacterText8: 悪くないかもしれないわ……
+
+; 没有什么…… 
+G_END3_CharacterText9: 特に何も……
+
+G_END3_PlayerText1: <space=1>
+
+; …… 
+G_END3_PlayerText10: ……
+
+; 我也并没有那么无所不能呢…… 
+G_END3_PlayerText11: 私はそこまで万能じゃないわ……
+
+; …… 
+G_END3_PlayerText12: ……
+
+; 仅限于这里吗…… 
+G_END3_PlayerText13: ここだけでいいの？
+
+; 就这样…… 
+G_END3_PlayerText14: これでいいわ……
+
+; …… 
+G_END3_PlayerText2: ……
+
+; 哪里都没有…… 
+G_END3_PlayerText3: どこにもないわ……
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_PlayerText4: 表示できるものは何もないみたいね……
+
+; 像是在调侃我一般…… 
+G_END3_PlayerText5: 何かの冗談かしら……
+
+; 点缀什么……？ 
+G_END3_PlayerText6: 何を飾るって……？
+
+; …… 
+G_END3_PlayerText7: ……
+
+; 或许也不错…… 
+G_END3_PlayerText8: 悪くないかもしれないわ……
+
+; 没有什么…… 
+G_END3_PlayerText9: 特に何も……

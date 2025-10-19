@@ -1,0 +1,151 @@
+; Chinese (S) <zh-CN> to Korean <ko> localization document for `FakeED` managed text document
+
+; 「存在」
+「存在」: "존재"
+
+; <style=Custom1>CAST</style>
+CAST: <style=Custom1>CAST</style>
+
+; END
+END: 끝
+
+; <style=Custom1>STAFF</style>
+STAFF: <style=Custom1>STAFF</style>
+
+; 书桌
+书桌: 책상
+
+; 低筋面粉
+低筋面粉: 박력분
+
+; 你
+你: 당신
+
+; <style=Custom2>制作人</style>
+制作人: <style=Custom2>프로듀서</style>
+
+; <style=Custom2>动作指导</style>
+动作指导: <style=Custom2>스턴트 코디네이터</style>
+
+; <style=Custom2>化妆设计</style>
+化妆设计: <style=Custom2>메이크업 아티스트</style>
+
+; 发带
+发带: 머리끈
+
+; 地板
+地板: 바닥
+
+; 墙壁
+墙壁: 벽
+
+; 夏特露
+夏特露: 샛별이
+
+; 夏特露酱
+夏特露酱: 샛별이
+
+; 学者
+学者: 학자
+
+; <style=Custom2>导演</style>
+导演: <style=Custom2>감독</style>
+
+; 弗子
+弗子: 미미쨩
+
+; 收音机
+收音机: 라디오
+
+; <style=Custom2>替补演员</style>
+替补演员: <style=Custom2>스탠드인 연기자</style>
+
+; <style=Custom2>服装设计</style>
+服装设计: <style=Custom2>의상 디자이너</style>
+
+; 枕头
+枕头: 배게
+
+; 椅子
+椅子: 의자
+
+; 沥水架
+沥水架: 찬장
+
+; <style=Custom2>灯光操作</style>
+灯光操作: <style=Custom2>조명</style>
+
+; <style=Custom2>灯光设计</style>
+灯光设计: <style=Custom2>조명 디자이너</style>
+
+; 烤箱
+烤箱: 오븐
+
+; 牛奶
+牛奶: 우유
+
+; 神秘少女
+神秘少女: 수수께끼의 소녀
+
+; 窗户
+窗户: 창문
+
+; 粉色药丸
+粉色药丸: 분홍약
+
+; 细砂糖
+细砂糖: 설탕
+
+; 绿色药丸
+绿色药丸: 초록약
+
+; <style=Custom2>编剧</style>
+编剧: <style=Custom2>연출</style>
+
+; <style=Custom2>舞台设计</style>
+舞台设计: <style=Custom2>스테이지 디자이너</style>
+
+; 莉莉丝
+莉莉丝: 릴리스
+
+; 莉莉丝公主
+莉莉丝公主: 릴리스 공주
+
+; 蛋糕
+蛋糕: 케이크
+
+; 逐梦之典
+逐梦之典: 몽유의 서
+
+; <style=Custom2>道具师</style>
+道具师: <style=Custom2>소품</style>
+
+; 那个人
+那个人: 그 사람
+
+; 镜子
+镜子: 거울
+
+; <style=Custom2>音响操作</style>
+音响操作: 음향
+
+; <style=Custom2>音响设计</style>
+音响设计: 음향 디자이너
+
+; 食用油
+食用油: 조리용 기름
+
+; 饰
+饰: 담당
+
+; 魔王
+魔王: 마왕
+
+; 魔王莉莉丝
+魔王莉莉丝: 마왕 릴리스
+
+; 黄色药丸
+黄色药丸: 노란약
+
+; 黑色笔记本
+黑色笔记本: 검은 노트

@@ -1,0 +1,192 @@
+{
+	"m_AudioMixerGroupViews": [
+		{
+			"m_Guids": [
+				{
+					"m_Data_0_": 2457547061,
+					"m_Data_1_": 1314193460,
+					"m_Data_2_": 2552609431,
+					"m_Data_3_": 2862533532
+				},
+				{
+					"m_Data_0_": 2119725315,
+					"m_Data_1_": 1232255428,
+					"m_Data_2_": 440083091,
+					"m_Data_3_": 641509635
+				},
+				{
+					"m_Data_0_": 3827472449,
+					"m_Data_1_": 1276504769,
+					"m_Data_2_": 3910100913,
+					"m_Data_3_": 715332858
+				},
+				{
+					"m_Data_0_": 1724301240,
+					"m_Data_1_": 1213465588,
+					"m_Data_2_": 3560744586,
+					"m_Data_3_": 2601611420
+				}
+			],
+			"m_Name": "View"
+		}
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_CurrentViewIndex": 0,
+	"m_EnableSuspend": true,
+	"m_ExposedParameters": [
+		{
+			"m_Guid": {
+				"m_Data_0_": 1704722613,
+				"m_Data_1_": 1160619205,
+				"m_Data_2_": 3653730716,
+				"m_Data_3_": 889091884
+			},
+			"m_Name": "irWtMrL"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 498201603,
+				"m_Data_1_": 1138907385,
+				"m_Data_2_": 3937425054,
+				"m_Data_3_": 986102857
+			},
+			"m_Name": "rKNroSN"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 2592201782,
+				"m_Data_1_": 1194802411,
+				"m_Data_2_": 61704623,
+				"m_Data_3_": 650633706
+			},
+			"m_Name": "MnrquhL"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 3069023465,
+				"m_Data_1_": 1166262260,
+				"m_Data_2_": 2343545525,
+				"m_Data_3_": 1898867717
+			},
+			"m_Name": "NISWuTL"
+		}
+	],
+	"m_HideFlags": 0,
+	"m_MasterGroup": { "m_Collection": "resources.assets", "m_PathID": 8311 },
+	"m_MixerConstant": {
+		"m_EffectGUIDs": [],
+		"m_Effects": [],
+		"m_ExposedParameterIndices": [
+			2,
+			0,
+			4,
+			6
+		],
+		"m_ExposedParameterNames": [
+			2984728270,
+			3867706609,
+			1521194772,
+			2078357422
+		],
+		"m_GroupGUIDs": [
+			{
+				"m_Data_0_": 2457547061,
+				"m_Data_1_": 1314193460,
+				"m_Data_2_": 2552609431,
+				"m_Data_3_": 2862533532
+			},
+			{
+				"m_Data_0_": 2119725315,
+				"m_Data_1_": 1232255428,
+				"m_Data_2_": 440083091,
+				"m_Data_3_": 641509635
+			},
+			{
+				"m_Data_0_": 3827472449,
+				"m_Data_1_": 1276504769,
+				"m_Data_2_": 3910100913,
+				"m_Data_3_": 715332858
+			},
+			{
+				"m_Data_0_": 1724301240,
+				"m_Data_1_": 1213465588,
+				"m_Data_2_": 3560744586,
+				"m_Data_3_": 2601611420
+			}
+		],
+		"m_GroupNameBuffer": "TWFzdGVyAEJHTQBTRlgAVm9pY2UAAA==",
+		"m_Groups": [
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": -1,
+				"m_PitchIndex": 1,
+				"m_Solo": false,
+				"m_VolumeIndex": 0
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 3,
+				"m_Solo": false,
+				"m_VolumeIndex": 2
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 5,
+				"m_Solo": false,
+				"m_VolumeIndex": 4
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 7,
+				"m_Solo": false,
+				"m_VolumeIndex": 6
+			}
+		],
+		"m_NumSideChainBuffers": 0,
+		"m_PluginEffectNameBuffer": "AA==",
+		"m_SnapshotGUIDs": [
+			{
+				"m_Data_0_": 2214851593,
+				"m_Data_1_": 1248119285,
+				"m_Data_2_": 2306534530,
+				"m_Data_3_": 3259735123
+			}
+		],
+		"m_SnapshotNameBuffer": "U25hcHNob3QAAA==",
+		"m_Snapshots": [
+			{
+				"m_NameHash": 3577444195,
+				"m_TransitionIndices": [],
+				"m_TransitionTypes": [],
+				"m_Values": [
+					0,
+					1,
+					0,
+					1,
+					0,
+					1,
+					0,
+					1
+				]
+			}
+		]
+	},
+	"m_Name": "DefaultMixer",
+	"m_OutputGroup": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_Snapshots": [
+		{ "m_Collection": "resources.assets", "m_PathID": 8315 }
+	],
+	"m_StartSnapshot": { "m_Collection": "resources.assets", "m_PathID": 8315 },
+	"m_SuspendThreshold": -80,
+	"m_TargetSnapshot": { "m_Collection": "resources.assets", "m_PathID": 8315 },
+	"m_UpdateMode": 0
+}

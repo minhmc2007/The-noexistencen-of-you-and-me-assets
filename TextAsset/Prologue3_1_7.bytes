@@ -1,0 +1,746 @@
+; Chinese (S) <zh-CN> to Turkish <tr> localization document for `Prologue3_1` naninovel script
+
+# ~e5a60acb
+; 早上好！
+Günaydın!
+
+# ~d5d2e6bf
+; 早上好。
+Günaydın.
+
+# ~cb048041
+; 早上好……
+Günaydın...
+
+# ~3ea899f
+; ……
+...
+
+# ~6e36d453
+; 你为什么一直盯着我看？
+Niye bana dik dik bakıyorsun?
+
+# ~376af9f1
+; 哼哼~我在想，你之前不是完成了「不/存在的逐梦者：银葱之森」试玩版嘛……
+Hehe~ Düşünüyordum da... "Morphean Kodeks: Gümüş Arpacık Ormanı"nın demosunu önce bitirmemiş miydin?
+
+# ~ff15824f
+; 那么，现在到你支付报酬的时候了！
+Şimdi ödeme zamanı geldi!
+
+# ~d99c17c3
+; 你想要什么？
+Ne istiyorsun?
+
+# ~4717c806
+; 呜呜，我没有钱。
+Eee, param yok.
+
+# ~fea154b0
+; 玩的时候可没说要支付报酬啊。
+Oynarken ödemeden bahsetmemiştin!
+
+# ~77080c07
+; 没事，不需要你付钱。
+Endişelenme, para lazım değil.
+
+# ~7e70e780
+; 啊呀，好像确实没有呢。
+Aa, görünüşe bakılırsa gerçekten de bahsetmedim.
+
+# ~49022318
+; 我想要的报酬很简单。那就是——
+Senden istediğim şey basit. Senden—
+
+# ~92384971
+; 离开这里，离开世界，去看一看世界之外……
+Burayı terk etmeni, bu dünyayı terk etmeni ve ardına bakmanı istiyorum...
+
+# ~e1e09047
+; 偶尔去世界之外找一找灵感，可以让世界变得更加舒适呢！
+Bazen bu dünyanın ötesinde bir ilham aramak seni rahatlatabilir.
+
+# ~7b227251
+; 而且你看，那些家具说不定也需要一些自己隐私的时间。
+Ve baksana, bazen mobilyalar bile kendilerine ait bir zaman isteyebilir.
+
+# ~bfcec2e9
+; 它们会心存感激地目送我们离开世界，之后也不会变得那么吵闹……
+Sevineceklerdir, bize sessizce veda edecek <br>
+ ve biz ayrılınca bu kadar gürültücü olmayacaklardır.
+
+# ~cd5300fc
+; <i>「……」</i>
+<i>"..."</i>
+
+# ~34c44bbd
+; 好，我们出发吧。
+Pekâlâ, hadi gidelim.
+
+# ~58025041
+; 我做不到的……
+Yapamam...
+
+# ~fbb7b5f8
+; 不，我拒绝。
+Hayır, reddediyorum.
+
+# ~18aa0e00
+; 好耶，那么准备一下就出门吧！
+Oley! Hazırlan da çıkalım o halde!
+
+# ~3ef2ef37
+; 不要这样想哦……
+Üzerine çok düşünme...
+
+# ~12631c85
+; <i>「面前的少女轻轻抱住了你。你再次闻到了熟悉的香味——
+<i>"Kız sana nazikçe sarılıyor. Tekrardan o tanıdık kokuyu alıyorsun—
+
+# ~33781da9
+; 也许它来自发梢？也许它来自衬衫？也许它来自皮肤？」</i>
+Saçından mı geliyor? Kıyafetinden mi? Teninden mi?"</i>
+
+# ~a449ca8e
+; <i>「无论拥抱多少次，你都能从这样纯粹的身体接触中感到触动。」</i>
+<i>"Kaç sefer olursa olsun, böyle saf bir fiziksel temas her seferinde kalbini hoplatıyor."</i>
+
+# ~6c4afb0
+; 我们一起制作了蛋糕，一起经历了冒险……
+Birlikte pasta yaptık. Birlikte maceralara çıktık...
+
+# ~79fd02eb
+; 我们克服了过程中的困难，顺利地完成了它们。
+Yolumuza çıkan zorlukları aştık ve her şeyi kusursuzca başardık.
+
+# ~d2cde1e1
+; 你可以做到，即使是在世界之外，你当然也可以做到。
+Bunu yapabilirsin—bu dünyanın dışında bile başarabilirsin.
+
+# ~8f85cc8d
+; 最重要的是，<ruby="你和我">我们</ruby>可以做到。
+En önemlisi de <ruby="sen ve ben">biz</ruby>bunu beraber başarabiliriz.
+
+# ~2a6ca5ab
+; 你可以在房间里和我交流，也可以在虚拟的世界里和角色们交流。
+Odada benimle ve sanal dünyada da karakterlerle konuştun.
+
+# ~f04f00bb
+; 那么，现在是不是能再前进一步，尝试跟人交流？
+Bu yüzden, bir adım daha atıp gerçek insanlarla etkileşim kurmayı deneyebilir miyiz?
+
+# ~d98adc28
+; 我试试看吧……
+Bir deneyeceğim...
+
+# ~b50cce47
+; 嗯，我一直在这里，不用着急。
+Hımm, senin için her zaman burada olacağım. Acele etmene gerek yok.
+
+# 3141
+; ……
+...
+
+# ~4358380f
+; 拒绝也没有关系……
+Hayır diyebilirsin...
+
+# ~edce1937
+; 没有关系……
+Sorun değil...
+
+# 3142
+; ……
+...
+
+# ~127e169e
+; 不过，你真的不想去世界之外看看吗……
+Ama gerçekten de dışarıda ki dünyayı görmek istemiyor musun?
+
+# ~21f8403a
+; 我不想去。
+Gitmek istemiyorum.
+
+# ~a3bf343f
+; 走吧，去世界之外。
+Hadi gidelim, dışarıda ki dünyaya.
+
+# ~269b2968
+; 我要带你的地方，是我们的过去，现在，和未来哦。
+Seni götüreceğim yer bizim geçmişimiz, şimdimiz ve geleceğimiz.
+
+# ~21e0d3bf
+; 当然……世界之内也当然不错。
+Tabii... bu dünyada kalmak da gayet makul.
+
+# ~fb5a4421
+; 我改变主意了。
+Fikrimi değiştirdim.
+
+# ~dd13b08d
+; 没事，没事，我们哪里都不去。
+Tamam; sorun yok. Burada kalalım.
+
+# ~2dceb804
+; 就在这里，就在世界之中……
+Burada, bu dünyada...
+
+# ~ff5dd4de
+; 我一直都在这里。
+Her zaman senin için burada olacağım.
+
+# ~f0f83990
+; 哪里都不去……
+Kımıldamadan...
+
+# ~60639caa
+; <i>「你来到了门前，看着眼前的这扇紧闭的门。」</i>
+<i>"Kapının karşısında dikiliyorsun, sıkıca kapanmış yüzeyine bakıyorsun."</i>
+
+# ~55cfb768
+; <i>「它在这里。没错，它始终在这里，恰如其分地承担着属于一扇门的职责。」</i>
+<i>"İşte burada. Evet, hep buradaydı, kapı olarak görevini yapıyordu."</i>
+
+# ~90baa904
+; <i>「灰尘在上面积聚多久了？门把会不会已经生锈了？打开它后看到的景色，
+<i>"Ne zamandır toz tutuyordu acaba? Kapının kolu çoktan paslanmış olabilir mi?"</i>
+
+# ~6092bb53
+; 会不会已经发生了翻天覆地的变化？像这样，你的思绪开始漫游……」</i>
+<i>"Dışarısı ne kadar değişmişti? <br>
+Bunu merak etmeye başladın..."</i>
+
+# ~a423e7e5
+; <i>「终于，你回过神来，将视线重新定格在门把手上。」</i>
+<i>"Sonunda kendine geliyor ve tekrardan kapının koluna odaklanıyorsun."</i>
+
+# ~1d1f330b
+; （将手放在门把手上）
+(Elini kapının koluna koy)
+
+# ~f7c1cb87
+; （打开门）
+(Kapıyı aç)
+
+# ~48870f73
+; <i>「少女将手轻轻地扣在你的手背上，和你一同握住了门把手。」</i>
+<i>"Kız nazikçe elini seninkinin üstüne koyuyor ve birlikte kapının kolunu tutuyorsunuz."</i>
+
+# ~61f50259
+; 我一直在你身边哦。
+Her zaman senin yanında oldum.
+
+# ~7337426d
+; 感觉……怎么样？
+Nasıl hissettiriyor?
+
+# ~e22c1883
+; 比我想象的好，但……
+Hayal ettiğimden daha iyi fakat...
+
+# ~7326e49d
+; 救命，我快不能呼吸了……
+İmdat! Nefes alamıyorum...
+
+# ~3d19cf52
+; 没事吧！！
+İyi misin!?
+
+# ~81a48908
+; 我扶住你了……还好吗？
+Yanındayım... İyi misin?
+
+# ~112716d6
+; 不用勉强自己。
+Kendini zorlama.
+
+# ~cb909a76
+; 我看看……嗯……
+Bir bakayım... Hımm...
+
+# ~69a2a215
+; 我们去公园那边的长椅坐着休息一会儿吧！
+Hadi gel şuradaki banka gidelim ve biraz dinlenelim!
+
+# ~4ca079d5
+; 嗯……
+Pekâlâ...
+
+# ~6875fde0
+; 我们到了！
+Vardık!
+
+# ~bcd7eb8b
+; 不过……长椅上已经有人了……
+Ama... birisi çoktan bankta oturuyor...
+
+# ~85423606
+; 您，您好！
+Merhaba! Afedersiniz.
+
+# 3161
+; ……
+...
+
+# ~44a347dd
+; 您好，我们非常不舒服，想在这里休息一下。
+Merhaba, iyi hissetmiyoruz ve dinlenecek bir yere ihtiyacımız var.
+
+# 3162
+; ……
+...
+
+# ~833794af
+; 唔……
+Hımm...
+
+# ~5b31e7a7
+; 直接坐下
+(Yine de otur)
+
+# ~4d3bb34d
+; 你，你好……
+Merhaba...
+
+# ~746eb8b2
+; q@#$#q$qrQF^
+q@#$#q$qrQF^
+
+# 311
+; ……
+...
+
+# ~5bf5ffd7
+; !!e$!@#$!!%ref
+!!e$!@#$!!%ref
+
+# ~46e4d28d
+; 请问，我们可以坐在这边吗?
+Buraya oturabilir miyiz?
+
+# ~a56a8da7
+; ￥#！@%++~+￥
+￥#！@%++~+￥
+
+# ~7ecb55bb
+; 气氛好像有点尴尬……
+Ortam biraz garip hissettiriyor...
+
+# ~877e7d42
+; 或许……试着聊聊有关这个公园或者天气之类的话题？
+Belki de... park ya da hava hakkında konuşmayı deneyebilirsin?
+
+# ~ca84c961
+; 你好。
+Selam.
+
+# ~3edcb2c4
+; 你也喜欢这个公园吗？
+Sizde bu parkı seviyor musunuz?
+
+# ~25469f32
+; 今天天气不错。
+Bugün çok güzel bir gün.
+
+# ~7123c6f3
+; &*24239jfweh*&#@*PY*N#Rci129…
+&24239jfweh&#@PYN#Rci129...
+
+# ~dd714456
+; 我很喜欢这里。
+Burayı gerçekten seviyorum.
+
+# ~d7a0cb3f
+; 真是个悠闲的日子。
+Ne huzurlu bir gün.
+
+# ~88e6a181
+; 我很久没和人像这样讲过话了。
+Biriyle böyle konuşmayalı gerçekten çok uzun zaman olmuştu.
+
+# ~c941ef4c
+; %T&*F&vcI*()M@#JjfgpjRO@#$HB@#RLKL^
+%T&F&vcI()M@#JjfgpjRO@#$HB@#RLKL^
+
+# ~858082c0
+; 看看这黄昏的云彩，真是令人心情愉悦。
+Şu akşam bulutlarına da bir bakın; insana huzur veriyorlar.
+
+# ~5cff4a0c
+; 你知道吗？我的心中经常会有一些奇怪的想法。
+Biliyor musunuz, bazen garip düşüncelere dalıyorum.
+
+# ~32452d69
+; 你现在在想什么呢？愿意告诉我吗？
+Şu an ne düşünüyorsun? Benimle paylaşır mısınız?
+
+# ~4db00b40
+; &GU（II：&T%)&GIY:)hidheisf%……&*……
+&GU（II：&T%)&GIY:)hidheisf%......&*......
+
+# ~66a781d1
+; 来公园坐还穿西装？难道你是那种失业后假装自己还在工作的人？
+Buraya neden takım elbiseyle geldiniz? <br>
+ Yoksa işten kovuldun ama hala işin varmış gibi mi davranıyorsunuz?
+
+# ~e65929d7
+; 每次遇到这么好的天气，我都想从很高楼上跳下去
+Ne zaman hava bu kadar güzel olsa yüksek bir binadan atlamayı düşünürüm.
+
+# ~fda5e23d
+; 像我这样的怪人突然向你搭话，你会不会觉得一整天的好心情都被毁了？
+Seninle konuşan garip bir yabancı olarak <br>
+gününüzü mü mahvettim?
+
+# ~330f3a09
+; （受不了了，好想回去……）
+(Buna artık dayanamıyorum... Geri dönmek istiyorum...)
+
+# ~2089ec84
+; jhHUI*(&YUG*R^TOGI"OP&&…
+jhHUI(&YUGR^TOGI"OP&&...**
+
+# ~42293e51
+; 我们的咖啡使用了优质奶精，对身体造成的危害是其他咖啡的四倍。
+Kahvemiz pahalı kremayla yapılmıştır—<br>
+normal kahvelerden dört kat daha zararlıdır.
+
+# ~599207cd
+; 我很喜欢鉴赏好评如潮的游戏，因为洗洁精能够代替苏打水提供气泡。
+Popüler oyunları seviyorum çünkü bulaşık deterjanı, karbonatın yerini çok iyi tutuyor.
+
+# ~77bf6818
+; 你一定觉得我是个风趣的人吧，我的灵感正在远远不断地涌出来。
+Komik olduğumu düşünüyor olmalısınız, değil mi? Yaratıcılığım sınırsız!
+
+# ~f36cfa55
+; %……&H：i34wsguir0[n8578&！
+%......&H：i34wsguir0[n8578&！
+
+# ~ff4b38df
+; 火龙果树上长的椰果更有嚼劲，即使纯净水也可以发挥最大功效。
+Ejder meyvesi ağaçları saf suda bile daha kıtır kıtır hindistan cevizleri üretir.
+
+# ~96d2bef9
+; 我很乐意做一个精神病患者，因为这能教我如何变得谦逊。
+Eğer alçak gönüllülüğü bana öğretecek olsaydı seve seve akıl hastası olurdum.
+
+# ~746e34c7
+; 艾伦？你听得到吗艾伦？钥匙在门下面，在花盆下面。
+Ellen? Beni duyabiliyor musun Ellen? Anahtar saksının altında.
+
+# ~b55bff1f
+; ￥……RTD……Y*)UOG(TUOG？
+￥......RTD......Y)UOG(TUOG？*
+
+# ~ca862c24
+; 我在说话吗？你在听吗？
+Konuşuyor muyum? Dinliyor musun?
+
+# ~b05fc881
+; VYF_&)FP^*T*(PGHIPJK:KM9843
+VYF_&)FP^T(PGHIPJK:KM9843
+
+# ~9372a4a1
+; BHGT^*(7g03498T9rfege8786547/
+BHGT^*(7g03498T9rfege8786547/
+
+# ~3dcd9eab
+; &G*UR&T*UGkhcweuf -0opjkl
+&GUR&TUGkhcweuf -0opjkl
+
+# ~ad502a3e
+; 谢谢你的回答，我学到了很多。
+Baya şey öğrendim.
+
+# ~e172e2b0
+; &%%R_(UPH*TUH&T(TIE%R^$IG(O
+&%%R_(UPH*TUH&T(TIE%R^$IG(O
+
+# ~e92bb21f
+; VGFT*(YF*(TUDE^R&TPGO546/~
+VGFT(YF(TUDE^R&TPGO546/~**
+
+# ~eca34473
+; S%RTDCF&(UGOV+)Cyhghv!
+S%RTDCF&(UGOV+)Cyhghv!
+
+# ~99a2444
+; 谢谢你的回答，这使我受益良多。
+Cevabınız için teşekkür ederim; gerçekten ufuk açıcıydı.
+
+# ~58f04858
+; F^*YFP&(UOG(Y_IHPBN！
+*F^YFP&(UOG(Y_IHPBN！
+
+# ~b4d541d9
+; 谢谢你的关心，我简直好得不能再好。
+Endişelendiğiniz için teşekkür ederim; gerçekten iyiyim.
+
+# ~c8114393
+; 就这样，在双方声带的持续震颤中，你领悟了一个姗姗来迟的真理——
+<i>"Bitmeyen ses titreşimlerinin değiş tokuşu sırasında gecikmiş bir farkındalığa varıyorsun—"</i>
+
+# ~7e6cc7fa
+;  一直以来，你都把沟通这件事想得太过复杂了。其实人们根本不需要相互理解，就能顺利展开对话。于是，世界以一种前所未有的轻松姿态展现在你的面前。经过了不懈的努力，你成为了一位谈判专家、脱口秀表演者与畅销书作家。
+İnsanların düzgün bir şekilde sohbet etmek için birbirlerini anlamalarına gerek yok. Ve böylece, dünya sana artık daha hafif ve rahat bir ışıkta görünmeye başlar. Durmak bilmeyen çabalarınız sayesinde bir müzakere uzmanı, bir stand-up komedyeni ve çok satan bir yazar oldunuz.
+
+# ~37254670
+; END 谈判专家
+SON: Müzakere Uzmanı
+
+# ~7271cb75
+; 等等，等等！！
+Bekle, bekle!!
+
+# ~92872293
+; 想要回去
+Geri dönmek istiyorum.
+
+# ~ec47e1ff
+; ███！！
+███!!
+
+# ~c950a16d
+; 你从未感受到如此的平静，即使只有一瞬。
+Daha önce hiç böyle bir dinginlik hissetmemiştin, kısacık bir an için olsa bile.
+
+# ~4ccd3f88
+; 我在这里，没事的！
+Buradayım, her şey yolunda!
+
+# 31811
+; 没事的……
+Her şey yolunda...
+
+# ~1b9c0748
+; 我就在这里……
+Yanı başındayım...
+
+# ~78135772
+; 谢谢。
+Teşekkür ederim.
+
+# ~5fa0add
+; 我们去约会吧……
+Hadi bir randevuya çıkalım...
+
+# ~70305319
+; 去一个只有我们在的地方……
+Sadece ikimizin olduğu bir yerde...
+
+# ~3fd72714
+; 结束以后，我们就回去……好吗？
+Sonrasında geri döneriz... olur mu?
+
+# ~d0ea5c65
+; 约会？
+Bir randevu mu?
+
+# ~2aa150a1
+; 噢噢噢！太棒了，是约会！
+Oh, oh, oh! Muhteşem, bir randevu mu!
+
+# ~60f6d61c
+; 嗯，去约会吧！你有什么心仪的地点吗？
+Evet hadi bir randevuya çıkalım! Aklında bir yer var mı?
+
+# ~4135152a
+; 记忆里……似乎有个游乐园。
+Hatırlıyorum da... şurada bir lunapark vardı.
+
+# ~e9a7170e
+; 想去一个能够接近星空的地方。
+Yıldızlara yakın bir yere gitmeyi çok isterim.
+
+# ~48a45c2c
+; 没什么想法，你来选吧。
+Bilmem. Sen seç.
+
+# ~aa1a8cfa
+; 好呀，我喜欢游乐园！
+Tamamdır. Lunaparklara bayılırım!
+
+# ~fb23ce4
+; 你说的地方……不正是游乐园嘛！
+Tarif ettiğin yer... bir lunapark değil mi?
+
+# ~40afd918
+; 你想啊，在游乐园里，我们可以坐摩天轮，前往很高的地方。
+Düşünsene lunaparkta dönme dolaba binebiliriz ve çok yükseğe ulaşabiliriz.
+
+# 31861
+; 嗯……
+Hımm...
+
+# ~8049e25
+; 游乐园怎么样？感觉是经典的约会地点呢！
+Lunaparkına ne dersin? Klasik bir randevu mekânı gibi!
+
+# ~db7bc9a9
+; 呵呵！那就这么愉快地决定了！
+Hehe! O halde karar verildi!
+
+# ~46e610f2
+; 接下来，就是约会时间了！
+Sıradaki: randevu zamanı!
+
+# ~3587600f
+; 走吧，一起去游乐园吧。
+Hadi beraber lunaparka gidelim.
+
+# ~7c96ba22
+; 啊，我明明提早了五分钟，但你居然来得比我还早！
+Ay, beş dakika erken geldim ama sen benden de erken gelmişsin!
+
+# ~b3ec3be6
+; 不好意思啊，没有让你久等吧？
+Üzgünüm çok bekletmedim değil mi?
+
+# ~f6cf377c
+; 没有，我也是刚到。
+Yok ben de daha yeni geldim zaten.
+
+# ~ed03bfd8
+; 确实等了一段时间，不过没事。
+Biraz bekledim ama sorun değil.
+
+# ~47e269f9
+; 那就好！对了，你看这个！
+Süper o zaman! Bir de şuna baksana!
+
+# ~345faa
+; 呵呵！谢谢你。
+Hehe! Teşekkür ederim.
+
+# ~f68d28df
+; 啊，对了，你看这个！
+Ah evet, şuna baksana!
+
+# ~c925c562
+; 嗯？你真的很喜欢沉默呢。
+Hımm? Sessiz olmayı gerçekten seviyorsun galiba, öyle değil mi?
+
+# ~be5398c9
+; 沉默着的你，很可爱哦。
+Sessizken çok tatlı oluyorsun.
+
+# ~8572cf4c
+; 对了，你看这个！
+Şuna bir bak!
+
+# ~51ef8cfd
+; 锵锵~我特地换上了新衣服！
+Ta-da~ Özellikle yeni bir kıyafet giydim!
+
+# ~8503e835
+; 怎么样？好看吗好看吗？
+Nasıl görünüyor? Güzel değil mi?
+
+# ~2d96189
+; 这和你原来穿的那件明明一模一样吧！
+Eski kıyafetinin tıpatıp aynısı!
+
+# ~4297a1a
+; 嗯，很好看，比之前那件适合你。
+Hımm, güzelmiş—bu öncekine göre daha da yakışmış.
+
+# ~9c92f29c
+; 怎么会呢！明明衣服的材质和颜色都发生了变化。
+Nasıl olur!? Kumaş ve renkler tamamen farklı.
+
+# ~7c13e0ae
+; 不过在这个游戏的配色模式下，看不出变化也是很正常的啦。
+Sanıyorum ki oyunun renk paletinden dolayı, fark etmemen çok normal.
+
+# ~5d3c1851
+; 明明衣服在视觉上并没有任何的区别，但你还是愿意相信我呢。
+Görsel olarak kıyafetim farklı gözükmese de bana inanmak istiyorsun.
+
+# ~ee23b30a
+; 呵呵，谢谢你！
+Hehe, teşekkür ederim!
+
+# ~a1ca70d7
+; 总之，我们快进去吧！
+Neyse hadi içeri girelim!
+
+# ~28968691
+; （默默观察大门）;; （立绘消失，出现紧闭的大门，上面有一块提示牌）
+(Sessizce etrafı inceliyorsunuz)
+
+# ~5e3a99f4
+; 门似乎是关着的？
+Kapı kapalı gibi mi duruyor?
+
+# ~492b6d46
+; 这里有一块生锈的提示牌……
+Burada paslı bir tabela var...
+
+# ~2b7c69ea
+; 让我看看……
+Bir bakayım...
+
+# ~ca228360
+; 「由于受灾影响，该游乐园已于1999年7月20日废弃。」
+Felaketten dolayı yaşanan hasardan ötürü bu lunapark 20 Haziran 1999'da kapatılmıştır.
+
+# ~585942ca
+; 哎？也就是说，游乐园已经关闭了？
+Ha? Yani lunapark kapalı öyle mi?
+
+# ~10c831ab
+; 真是太可惜了……
+Ne yazık...
+
+# ~57915d0e
+; 我就知道不会顺利的……
+Bir aksilik çıkacağını biliyordum...
+
+# ~4a5ee9b2
+; 总之，回去吧。
+Hadi geri dönelim.
+
+# ~d07c2ec3
+; 等一下，你看里面。
+Bekle, içeri baksana.
+
+# ~8828f097
+; 你看，摩天轮还在转着。
+Baksana dönme dolap hala çalışıyor.
+
+# ~8e40aaf9
+; 也就是说，只要我们现在翻墙进去，就能坐上摩天轮。
+Bu demektir ki eğer çitlerden atlarsak dönme dolaba binebiliriz.
+
+# ~2d42d131
+; 怎么样？要试试看吗？
+Ne dersin? Bir deneyelim mi?
+
+# ~e9753591
+; 好。
+Peki.
+
+# ~d24ea429
+; 好……
+Peki...
+
+# ~df1301d8
+; 这……会不会有点太危险了？
+Ama... bu biraz... tehlikeli değil mi?
+
+# ~e1437e1
+; 那，我们就悄悄进去吧。
+O halde... biz de sessizce içeri sızarız.
+
+# ~e4f681de
+; 那……我们就悄悄进去吧……
+Tamam... sessizce sızalım o zaman.
+
+# ~60e5a10f
+; 没事的，我们会平安回来的。请相信我！
+Sorun çıkmayacak. Söz veriyorum sağ salim geri döneceğiz. Güven bana lütfen!
+
+# ~caac5121
+; 那，我们就悄悄进去吧！
+Peki... eğer zorundaysak... hadi içeri sızalım.

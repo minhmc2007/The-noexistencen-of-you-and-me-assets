@@ -1,0 +1,274 @@
+; Chinese (S) <zh-CN> to Indonesian <id> localization document for `DefaultUI` managed text document
+
+; NO
+Confirmation.No: TIDAK
+
+; YES
+Confirmation.Yes: YA
+
+; LOAD
+ControlPanel.Load: LOAD
+
+; 日志
+ControlPanel.Log: RIWAYAT
+
+; SAVE
+ControlPanel.Save: SAVE
+
+; 设置
+ControlPanel.Settings: Pengaturan
+
+; SKIP
+ControlPanel.Skip: LEWATI
+
+; TIPS
+ControlPanel.Tips: TIPS
+
+; TITLE
+ControlPanel.Title: MENU UTAMA
+
+; 一瞬追忆
+DefaultUI.Gallery: Kilas Memori
+
+; Select a script to play
+ExternalScriptsBrowser.Info: Pilih skrip yang akan dimainkan
+
+; EXTERNAL SCRIPTS
+ExternalScriptsBrowser.Title: SKRIP EKSTERNAL
+
+; CLOSE
+General.Close: TUTUP
+
+; DELETE
+General.Delete: HAPUS
+
+; NAV.
+General.Navigate: NAV.
+
+; PAGE
+General.Page: HALAMAN
+
+; 恢复默认
+General.ResetDefault: Reset
+
+; 恢复默认
+General.RestoreDefault: Reset
+
+; 返回
+General.Return: Kembali
+
+; SCROLL
+General.Scroll: SCROLL
+
+; SELECT
+General.Select: SELECT
+
+; TAB
+General.Tab: TAB
+
+; Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.
+Naninovel.UI.ControlPanelTitleButton.ConfirmationMessage: Apa anda yakin ingin kembali ke menu utama?<br>Progres yang belum disimpan akan hilang.
+
+; Default
+Naninovel.UI.GameSettingsFontDropdown.DefaultFontName: Default
+
+; Default
+Naninovel.UI.GameSettingsFontSizeDropdown.Default: Default
+
+; Extra Large
+Naninovel.UI.GameSettingsFontSizeDropdown.ExtraLarge: Ekstra Besar
+
+; Large
+Naninovel.UI.GameSettingsFontSizeDropdown.Large: Besar
+
+; Small
+Naninovel.UI.GameSettingsFontSizeDropdown.Small: Kecil
+
+; Very Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption1: Sangat Rendah
+
+; Low
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption2: Rendah
+
+; Medium
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption3: Menengah
+
+; High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption4: Tinggi
+
+; Very High
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption5: Sangat Tinggi
+
+; Ultra
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption6: Ultra
+
+; Full Screen
+Naninovel.UI.GameSettingsScreenModeDropdown.ExclusiveFullScreen: Full Screen
+
+; Full Screen Window
+Naninovel.UI.GameSettingsScreenModeDropdown.FullScreenWindow: Full Screen Window
+
+; Maximized Window
+Naninovel.UI.GameSettingsScreenModeDropdown.MaximizedWindow: Maximized Window
+
+; Windowed
+Naninovel.UI.GameSettingsScreenModeDropdown.Windowed: Windowed
+
+; Everything
+Naninovel.UI.GameSettingsSkipModeDropdown.Everything: Semua
+
+; Read Only
+Naninovel.UI.GameSettingsSkipModeDropdown.ReadOnly: Hanya Baca
+
+; Empty
+Naninovel.UI.GameStateSlot.EmptySlotLabel: Kosong
+
+; Are you sure you want to delete save slot?
+Naninovel.UI.SaveLoadMenu.DeleteSaveSlotMessage: Apa anda yakin ingin menghapus slot penyimpanan?
+
+; Are you sure you want to overwrite save slot?
+Naninovel.UI.SaveLoadMenu.OverwriteSaveSlotMessage: Apakah anda yakin ingin menimpa slot penyimpanan?
+
+; 修正值：
+QTEPanel.ScoreName: Nilai Garis Waktu Utama:
+
+; 你不是时光机器
+QTEPanel.Text1: Kau bukanlah mesin waktu
+
+; 你是烤箱
+QTEPanel.Text2: Kau adalah oven
+
+; 你并非不是一个烤箱
+QTEPanel.Text3: Kau itu sebenarnya oven
+
+; 你除了烤箱还能是什么呢
+QTEPanel.Text4: Memangnya apa lagi kalau kau bukan oven
+
+; 你从来都是烤箱
+QTEPanel.Text5: Kau itu memang dari dulu hanyalah oven
+
+; LOAD
+SaveLoadMenu.Tab.Load: LOAD
+
+; Q. LOAD
+SaveLoadMenu.Tab.QuickLoad: Q. LOAD
+
+; SAVE
+SaveLoadMenu.Tab.Save: SAVE
+
+; 「我」
+SettingsMenu.CharacterTitle: 「AKU」
+
+; 繁体中文
+SettingsMenu.ChineseHK: 繁体中文
+
+; 简体中文
+SettingsMenu.ChineseLanguage: 简体中文
+
+; 汉语
+SettingsMenu.ChineseVoice: Cina
+
+; English
+SettingsMenu.EnglishLanguage: English
+
+; es
+SettingsMenu.esLanguage: Español latinoamericano
+
+; fr
+SettingsMenu.frLanguage: Français
+
+; it
+SettingsMenu.itLanguage: Italiano
+
+; 无边框
+SettingsMenu.FullScreenWindow: Borderless
+
+; 印度尼西亚语
+SettingsMenu.idLanguage: Bahasa Indonesia
+
+; 日本语
+SettingsMenu.JapanLanguage: 日本語
+
+; 日本语
+SettingsMenu.JapanVoice: Jepang
+
+; 한국어
+SettingsMenu.koLanguage: 한국어
+
+; 游戏语言
+SettingsMenu.Language: Bahasa
+
+; 全屏
+SettingsMenu.MaximizedWindow: Fullscreen
+
+; 文本显示速度
+SettingsMenu.MessageSpeed: Kecepatan Teks
+
+; 静音
+SettingsMenu.Mute: Senyap
+
+; 「你」
+SettingsMenu.PlayerTitle: 「KAMU」
+
+; Modo de Exibição
+SettingsMenu.ptbrLanguage: Modo de Exibição
+
+; Русский
+SettingsMenu.ruLanguage: Русский
+
+; 显示模式
+SettingsMenu.ScreenMode: Mode Tampilan
+
+; 西班牙语
+SettingsMenu.SpanishVoice: Spanyol
+
+; French
+SettingsMenu.FrenchVoice: French
+
+; 的设置
+SettingsMenu.Title: Pengaturan
+
+; Türkçe
+SettingsMenu.trLanguage: Türkçe
+
+; Українська мова
+SettingsMenu.ukLanguage: Українська мова
+
+; Tiếng Việt
+SettingsMenu.viLanguage: Tiếng Việt
+
+; 游戏语音
+SettingsMenu.VoiceLanguage: Bahasa Suara
+
+; 音效音量
+SettingsMenu.VolumeEffects: Volume SFX
+
+; 背景音乐音量
+SettingsMenu.VolumeMusic: Volume Musik
+
+; 语音音量
+SettingsMenu.VolumeVoice: Volume Suara
+
+; 窗口
+SettingsMenu.Windowd: Windowed
+
+; 历史记录
+TextTitle: Riwayat
+
+; 过去，现在，\n和未来
+TextTitle (1): Masa lalu, masa kini,<br>dan masa depan
+
+; 继续游戏
+TitleMenu.CustomEnterGame: Lanjutkan
+
+; 退出游戏
+TitleMenu.Exit: Keluar
+
+; 致谢
+TitleMenu.Extras: Pendukung
+
+; 设置
+TitleMenu.Settings: Pengaturan
+
+; SUBMIT
+VariableInput.Submit: SUBMIT

@@ -1,0 +1,746 @@
+; Chinese (S) <zh-CN> to Italian <it> localization document for `Prologue3_1` naninovel script
+
+# ~e5a60acb
+; 早上好！
+Buongiorno!
+
+# ~d5d2e6bf
+; 早上好。
+Buongiorno.
+
+# ~cb048041
+; 早上好……
+Buongiorno...
+
+# ~3ea899f
+; ……
+…
+
+# ~6e36d453
+; 你为什么一直盯着我看？
+Perché mi stai fissando?
+
+# ~376af9f1
+; 哼哼~我在想，你之前不是完成了「不/存在的逐梦者：银葱之森」试玩版嘛……
+Hehe~ Stavo solo pensando… Non avevi già completato la demo di "Il Codice Morfeo: La Foresta degli Scalogni d’Argento" tempo fa?
+
+# ~ff15824f
+; 那么，现在到你支付报酬的时候了！
+Ora è il momento di saldare il conto!
+
+# ~d99c17c3
+; 你想要什么？
+Che cosa vuoi?
+
+# ~4717c806
+; 呜呜，我没有钱。
+Uh, non ho soldi.
+
+# ~fea154b0
+; 玩的时候可没说要支付报酬啊。
+Non hai menzionato alcun pagamento quando stavo giocando!
+
+# ~77080c07
+; 没事，不需要你付钱。
+Nessun problema, non servono soldi.
+
+# ~7e70e780
+; 啊呀，好像确实没有呢。
+Ah, sembra proprio che non l’abbia detto.
+
+# ~49022318
+; 我想要的报酬很简单。那就是——
+Quello che voglio è semplice. Voglio che tu—
+
+# ~92384971
+; 离开这里，离开世界，去看一看世界之外……
+Lasci questo posto, lasci questo mondo e dia un’occhiata oltre…
+
+# ~e1e09047
+; 偶尔去世界之外找一找灵感，可以让世界变得更加舒适呢！
+A volte, cercare ispirazione al di là di questo mondo può rendere il mondo più confortevole!
+
+# ~7b227251
+; 而且你看，那些家具说不定也需要一些自己隐私的时间。
+E guarda, persino i mobili potrebbero aver bisogno di un po’ di tempo privato per sé stessi.
+
+# ~bfcec2e9
+; 它们会心存感激地目送我们离开世界，之后也不会变得那么吵闹……
+Probabilmente ci sarebbero grati, salutandoci in silenzio, <br>
+e non sarebbero così rumorosi dopo che ce ne andiamo…
+
+# ~cd5300fc
+; <i>「……」</i>
+<i>"…"</i>
+
+# ~34c44bbd
+; 好，我们出发吧。
+Va bene, andiamo.
+
+# ~58025041
+; 我做不到的……
+Non posso…
+
+# ~fbb7b5f8
+; 不，我拒绝。
+No, mi rifiuto.
+
+# ~18aa0e00
+; 好耶，那么准备一下就出门吧！
+Evviva! Allora preparati e andiamo!
+
+# ~3ef2ef37
+; 不要这样想哦……
+Non pensarci troppo…
+
+# ~12631c85
+; <i>「面前的少女轻轻抱住了你。你再次闻到了熟悉的香味——
+<i>"La ragazza ti abbraccia dolcemente. Cogli di nuovo quel profumo familiare—
+
+# ~33781da9
+; 也许它来自发梢？也许它来自衬衫？也许它来自皮肤？」</i>
+Viene dai suoi capelli? Dalla sua maglietta? O dalla sua pelle?"</i>
+
+# ~a449ca8e
+; <i>「无论拥抱多少次，你都能从这样纯粹的身体接触中感到触动。」</i>
+<i>"Non importa quante volte accada, un contatto fisico così puro ti commuove sempre."</i>
+
+# ~6c4afb0
+; 我们一起制作了蛋糕，一起经历了冒险……
+Abbiamo fatto una torta insieme. Abbiamo vissuto avventure insieme…
+
+# ~79fd02eb
+; 我们克服了过程中的困难，顺利地完成了它们。
+Abbiamo superato le difficoltà lungo la strada e fatto tutto senza problemi.
+
+# ~d2cde1e1
+; 你可以做到，即使是在世界之外，你当然也可以做到。
+Puoi farcela—anche fuori da questo mondo, riuscirai di certo.
+
+# ~8f85cc8d
+; 最重要的是，<ruby="你和我">我们</ruby>可以做到。
+La cosa più importante è che <ruby="tu ed io">noi</ruby> possiamo farlo insieme.
+
+# ~2a6ca5ab
+; 你可以在房间里和我交流，也可以在虚拟的世界里和角色们交流。
+Hai parlato con me nella stanza e con personaggi nel mondo virtuale.
+
+# ~f04f00bb
+; 那么，现在是不是能再前进一步，尝试跟人交流？
+Quindi, possiamo fare un altro passo avanti e provare a interagire con persone reali?
+
+# ~d98adc28
+; 我试试看吧……
+Ci proverò…
+
+# ~b50cce47
+; 嗯，我一直在这里，不用着急。
+Hmm, io sarò sempre qui per te. Nessuna fretta.
+
+# 3141
+; ……
+…
+
+# ~4358380f
+; 拒绝也没有关系……
+Va bene dire di no…
+
+# ~edce1937
+; 没有关系……
+Va bene…
+
+# 3142
+; ……
+…
+
+# ~127e169e
+; 不过，你真的不想去世界之外看看吗……
+Ma… non vuoi davvero vedere il mondo esterno?
+
+# ~21f8403a
+; 我不想去。
+Non voglio andare.
+
+# ~a3bf343f
+; 走吧，去世界之外。
+Andiamo, nel mondo esterno.
+
+# ~269b2968
+; 我要带你的地方，是我们的过去，现在，和未来哦。
+Il posto dove ti porterò è il nostro passato, presente e futuro.
+
+# ~21e0d3bf
+; 当然……世界之内也当然不错。
+Certo… restare in questo mondo va benissimo lo stesso.
+
+# ~fb5a4421
+; 我改变主意了。
+Ho cambiato idea.
+
+# ~dd13b08d
+; 没事，没事，我们哪里都不去。
+Va bene, va bene. Restiamo qui.
+
+# ~2dceb804
+; 就在这里，就在世界之中……
+Qui, dentro questo mondo…
+
+# ~ff5dd4de
+; 我一直都在这里。
+Sarò sempre qui per te.
+
+# ~f0f83990
+; 哪里都不去……
+Restando fermi…
+
+# ~60639caa
+; <i>「你来到了门前，看着眼前的这扇紧闭的门。」</i>
+<i>"Sei davanti alla porta, fissando la sua superficie ben chiusa."</i>
+
+# ~55cfb768
+; <i>「它在这里。没错，它始终在这里，恰如其分地承担着属于一扇门的职责。」</i>
+<i>"Eccola. Sì, è sempre stata qui, svolgendo il suo compito di porta."</i>
+
+# ~90baa904
+; <i>「灰尘在上面积聚多久了？门把会不会已经生锈了？打开它后看到的景色，
+<i>"Da quanto tempo si accumula polvere su di essa? La maniglia sarà già arrugginita?
+
+# ~6092bb53
+; 会不会已经发生了翻天覆地的变化？像这样，你的思绪开始漫游……」</i>
+Che genere di cambiamenti drammatici potrebbero essere avvenuti oltre la porta? <br>
+I tuoi pensieri cominciano a vagare…"</i>
+
+# ~a423e7e5
+; <i>「终于，你回过神来，将视线重新定格在门把手上。」</i>
+<i>"Alla fine, ti riprendi e ti concentri di nuovo sulla maniglia."</i>
+
+# ~1d1f330b
+; （将手放在门把手上）
+(Metti la mano sulla maniglia)
+
+# ~f7c1cb87
+; （打开门）
+(Apri la porta)
+
+# ~48870f73
+; <i>「少女将手轻轻地扣在你的手背上，和你一同握住了门把手。」</i>
+<i>"La ragazza appoggia delicatamente la sua mano sulla tua, e insieme afferrate la maniglia."</i>
+
+# ~61f50259
+; 我一直在你身边哦。
+Sono sempre stata al tuo fianco.
+
+# ~7337426d
+; 感觉……怎么样？
+Come ti senti?
+
+# ~e22c1883
+; 比我想象的好，但……
+Meglio di quanto immaginassi, ma…
+
+# ~7326e49d
+; 救命，我快不能呼吸了……
+Aiuto! Riesco a malapena a respirare…
+
+# ~3d19cf52
+; 没事吧！！
+Stai bene!?
+
+# ~81a48908
+; 我扶住你了……还好吗？
+Ti ho preso… Stai bene?
+
+# ~112716d6
+; 不用勉强自己。
+Non sforzarti troppo.
+
+# ~cb909a76
+; 我看看……嗯……
+Fammi vedere… Hmm…
+
+# ~69a2a215
+; 我们去公园那边的长椅坐着休息一会儿吧！
+Andiamo a quella panchina laggiù a riposare un po’!
+
+# ~4ca079d5
+; 嗯……
+Va bene…
+
+# ~6875fde0
+; 我们到了！
+Siamo arrivati!
+
+# ~bcd7eb8b
+; 不过……长椅上已经有人了……
+Ma… c’è già qualcuno seduto sulla panchina…
+
+# ~85423606
+; 您，您好！
+Salve! Scusi.
+
+# 3161
+; ……
+…
+
+# ~44a347dd
+; 您好，我们非常不舒服，想在这里休息一下。
+Salve, non ci sentiamo bene e ci servirebbe un posto per riposare.
+
+# 3162
+; ……
+…
+
+# ~833794af
+; 唔……
+Hmm…
+
+# ~5b31e7a7
+; 直接坐下
+(Siediti comunque)
+
+# ~4d3bb34d
+; 你，你好……
+Salve…
+
+# ~746eb8b2
+; q@#$#q$qrQF^
+q@#$#q$qrQF^
+
+# 311
+; ……
+…
+
+# ~5bf5ffd7
+; !!e$!@#$!!%ref
+!!e$!@#$!!%ref
+
+# ~46e4d28d
+; 请问，我们可以坐在这边吗?
+Possiamo sederci qui?
+
+# ~a56a8da7
+; ￥#！@%++~+￥
+￥#！@%++~+￥
+
+# ~7ecb55bb
+; 气氛好像有点尴尬……
+L’atmosfera sembra un po’ imbarazzante…
+
+# ~877e7d42
+; 或许……试着聊聊有关这个公园或者天气之类的话题？
+Magari… prova a parlare del parco o del tempo?
+
+# ~ca84c961
+; 你好。
+Salve.
+
+# ~3edcb2c4
+; 你也喜欢这个公园吗？
+Piace anche a lei questo parco?
+
+# ~25469f32
+; 今天天气不错。
+Oggi è una bella giornata.
+
+# ~7123c6f3
+; &*24239jfweh*&#@*PY*N#Rci129…
+&24239jfweh&#@PYN#Rci129…
+
+# ~dd714456
+; 我很喜欢这里。
+Mi piace molto stare qui.
+
+# ~d7a0cb3f
+; 真是个悠闲的日子。
+Che giornata tranquilla.
+
+# ~88e6a181
+; 我很久没和人像这样讲过话了。
+Era da tanto che non parlavo così con qualcuno.
+
+# ~c941ef4c
+; %T&*F&vcI*()M@#JjfgpjRO@#$HB@#RLKL^
+%T&F&vcI()M@#JjfgpjRO@#$HB@#RLKL^
+
+# ~858082c0
+; 看看这黄昏的云彩，真是令人心情愉悦。
+Guarda le nuvole nel cielo della sera; sono così rilassanti.
+
+# ~5cff4a0c
+; 你知道吗？我的心中经常会有一些奇怪的想法。
+Sai, ho spesso pensieri strani.
+
+# ~32452d69
+; 你现在在想什么呢？愿意告诉我吗？
+A cosa stai pensando adesso? Vuoi condividerlo con me?
+
+# ~4db00b40
+; &GU（II：&T%)&GIY:)hidheisf%……&*……
+&GU（II：&T%)&GIY:)hidheisf%……&*……
+
+# ~66a781d1
+; 来公园坐还穿西装？难道你是那种失业后假装自己还在工作的人？
+Vieni qui in giacca e cravatta? <br>
+Sei forse qualcuno che ha perso il lavoro ma finge di averlo ancora?
+
+# ~e65929d7
+; 每次遇到这么好的天气，我都想从很高楼上跳下去
+Ogni volta che il tempo è così bello, penso di buttarmi da un palazzo alto.
+
+# ~fda5e23d
+; 像我这样的怪人突然向你搭话，你会不会觉得一整天的好心情都被毁了？
+In quanto sconosciuto che ti ha rivolto improvvisamente la parola, <br>
+ti ho rovinato il buon umore della giornata?
+
+# ~330f3a09
+; （受不了了，好想回去……）
+(Non ce la faccio più… voglio tornare indietro…)
+
+# ~2089ec84
+; jhHUI*(&YUG*R^TOGI"OP&&…
+jhHUI(&YUGR^TOGI"OP&&…**
+
+# ~42293e51
+; 我们的咖啡使用了优质奶精，对身体造成的危害是其他咖啡的四倍。
+Il nostro caffè è fatto con panna di alta qualità— <br>
+quattro volte più dannosa del caffè normale.
+
+# ~599207cd
+; 我很喜欢鉴赏好评如潮的游戏，因为洗洁精能够代替苏打水提供气泡。
+Adoro i giochi popolari perché il detersivo per piatti sostituisce benissimo la soda.
+
+# ~77bf6818
+; 你一定觉得我是个风趣的人吧，我的灵感正在远远不断地涌出来。
+Devi pensare che io sia divertente, vero? La mia creatività è infinita!
+
+# ~f36cfa55
+; %……&H：i34wsguir0[n8578&！
+%……&H：i34wsguir0[n8578&！
+
+# ~ff4b38df
+; 火龙果树上长的椰果更有嚼劲，即使纯净水也可以发挥最大功效。
+Gli alberi del frutto del drago producono noci di cocco più croccanti, anche in acqua purificata.
+
+# ~96d2bef9
+; 我很乐意做一个精神病患者，因为这能教我如何变得谦逊。
+Sarei felice di essere mentalmente instabile se questo mi insegnasse l’umiltà.
+
+# ~746e34c7
+; 艾伦？你听得到吗艾伦？钥匙在门下面，在花盆下面。
+Ellen? Mi senti, Ellen? La chiave è sotto il vaso di fiori.
+
+# ~b55bff1f
+; ￥……RTD……Y*)UOG(TUOG？
+￥……RTD……Y)UOG(TUOG？*
+
+# ~ca862c24
+; 我在说话吗？你在听吗？
+Sto parlando? Mi stai ascoltando?
+
+# ~b05fc881
+; VYF_&)FP^*T*(PGHIPJK:KM9843
+VYF_&)FP^T(PGHIPJK:KM9843
+
+# ~9372a4a1
+; BHGT^*(7g03498T9rfege8786547/
+BHGT^*(7g03498T9rfege8786547/
+
+# ~3dcd9eab
+; &G*UR&T*UGkhcweuf -0opjkl
+&GUR&TUGkhcweuf -0opjkl
+
+# ~ad502a3e
+; 谢谢你的回答，我学到了很多。
+Grazie per la risposta; ho imparato molto.
+
+# ~e172e2b0
+; &%%R_(UPH*TUH&T(TIE%R^$IG(O
+&%%R_(UPH*TUH&T(TIE%R^$IG(O
+
+# ~e92bb21f
+; VGFT*(YF*(TUDE^R&TPGO546/~
+VGFT(YF(TUDE^R&TPGO546/~**
+
+# ~eca34473
+; S%RTDCF&(UGOV+)Cyhghv!
+S%RTDCF&(UGOV+)Cyhghv!
+
+# ~99a2444
+; 谢谢你的回答，这使我受益良多。
+Grazie per la risposta; è stato illuminante.
+
+# ~58f04858
+; F^*YFP&(UOG(Y_IHPBN！
+*F^YFP&(UOG(Y_IHPBN！
+
+# ~b4d541d9
+; 谢谢你的关心，我简直好得不能再好。
+Grazie per la preoccupazione; sto benissimo.
+
+# ~c8114393
+; 就这样，在双方声带的持续震颤中，你领悟了一个姗姗来迟的真理——
+<i>"Nel continuo scambio di vibrazioni vocali, arrivi in ritardo a una realizzazione—
+
+# ~7e6cc7fa
+;  一直以来，你都把沟通这件事想得太过复杂了。其实人们根本不需要相互理解，就能顺利展开对话。于是，世界以一种前所未有的轻松姿态展现在你的面前。经过了不懈的努力，你成为了一位谈判专家、脱口秀表演者与畅销书作家。
+Non è necessario capirsi per conversare con successo. E così, il mondo si rivela a te in una nuova, serena luce. Con sforzo costante, diventi un esperto di negoziazione, un comico e un autore di bestseller.
+
+# ~37254670
+; END 谈判专家
+FINE: Esperto di Negoziazione
+
+# ~7271cb75
+; 等等，等等！！
+Aspetta, aspetta!!
+
+# ~92872293
+; 想要回去
+Voglio tornare indietro.
+
+# ~ec47e1ff
+; ███！！
+███!!
+
+# ~c950a16d
+; 你从未感受到如此的平静，即使只有一瞬。
+Non hai mai provato una calma simile, anche se è durata solo un attimo.
+
+# ~4ccd3f88
+; 我在这里，没事的！
+Sono qui, va tutto bene!
+
+# 31811
+; 没事的……
+Va tutto bene…
+
+# ~1b9c0748
+; 我就在这里……
+Sono proprio qui…
+
+# ~78135772
+; 谢谢。
+Grazie.
+
+# ~5fa0add
+; 我们去约会吧……
+Andiamo a un appuntamento…
+
+# ~70305319
+; 去一个只有我们在的地方……
+In un posto dove siamo solo noi due...
+
+# ~3fd72714
+; 结束以后，我们就回去……好吗？
+Dopo torneremo… va bene?
+
+# ~d0ea5c65
+; 约会？
+Un appuntamento?
+
+# ~2aa150a1
+; 噢噢噢！太棒了，是约会！
+Oh, oh, oh! Fantastico, un appuntamento!
+
+# ~60f6d61c
+; 嗯，去约会吧！你有什么心仪的地点吗？
+Sì, andiamo a un appuntamento! Hai un posto in mente?
+
+# ~4135152a
+; 记忆里……似乎有个游乐园。
+Nei miei ricordi… c’è un parco divertimenti.
+
+# ~e9a7170e
+; 想去一个能够接近星空的地方。
+Vorrei andare da qualche parte vicino alle stelle.
+
+# ~48a45c2c
+; 没什么想法，你来选吧。
+Non ho idee. Scegli tu.
+
+# ~aa1a8cfa
+; 好呀，我喜欢游乐园！
+Va bene, amo i parchi divertimenti!
+
+# ~fb23ce4
+; 你说的地方……不正是游乐园嘛！
+Il posto che descrivi… non è forse un parco divertimenti?
+
+# ~40afd918
+; 你想啊，在游乐园里，我们可以坐摩天轮，前往很高的地方。
+Pensaci. Al parco divertimenti possiamo salire sulla ruota panoramica e arrivare in alto.
+
+# 31861
+; 嗯……
+Hmm…
+
+# ~8049e25
+; 游乐园怎么样？感觉是经典的约会地点呢！
+Che ne dici di un parco divertimenti? Sembra un classico posto da appuntamento!
+
+# ~db7bc9a9
+; 呵呵！那就这么愉快地决定了！
+Hehe! Allora deciso!
+
+# ~46e610f2
+; 接下来，就是约会时间了！
+Prossima tappa: l'ora dell'appuntamento!
+
+# ~3587600f
+; 走吧，一起去游乐园吧。
+Andiamo insieme al parco divertimenti.
+
+# ~7c96ba22
+; 啊，我明明提早了五分钟，但你居然来得比我还早！
+Ah, sono arrivata cinque minuti in anticipo, ma tu sei arrivato ancora prima di me!
+
+# ~b3ec3be6
+; 不好意思啊，没有让你久等吧？
+Scusa, non hai aspettato troppo, vero?
+
+# ~f6cf377c
+; 没有，我也是刚到。
+No, sono appena arrivato anch’io.
+
+# ~ed03bfd8
+; 确实等了一段时间，不过没事。
+Ho aspettato un po’, ma va bene.
+
+# ~47e269f9
+; 那就好！对了，你看这个！
+Ottimo! Oh, a proposito, guarda qui!
+
+# ~345faa
+; 呵呵！谢谢你。
+Hehe! Grazie.
+
+# ~f68d28df
+; 啊，对了，你看这个！
+Oh, giusto, guarda qui!
+
+# ~c925c562
+; 嗯？你真的很喜欢沉默呢。
+Hmm? Ti piace davvero stare in silenzio, eh?
+
+# ~be5398c9
+; 沉默着的你，很可爱哦。
+Sei adorabile quando stai in silenzio.
+
+# ~8572cf4c
+; 对了，你看这个！
+Giusto, guarda qui!
+
+# ~51ef8cfd
+; 锵锵~我特地换上了新衣服！
+Ta-da~ Ho messo apposta un vestito nuovo!
+
+# ~8503e835
+; 怎么样？好看吗好看吗？
+Come mi sta? Carino, vero?
+
+# ~2d96189
+; 这和你原来穿的那件明明一模一样吧！
+Sembra identico a quello di prima!
+
+# ~4297a1a
+; 嗯，很好看，比之前那件适合你。
+Hmm, è carino—questo ti sta meglio di quello prima.
+
+# ~9c92f29c
+; 怎么会呢！明明衣服的材质和颜色都发生了变化。
+Come può essere?! Il tessuto e il colore sono completamente diversi.
+
+# ~7c13e0ae
+; 不过在这个游戏的配色模式下，看不出变化也是很正常的啦。
+Ma suppongo che, dato lo schema di colori del gioco, sia normale non notare differenze.
+
+# ~5d3c1851
+; 明明衣服在视觉上并没有任何的区别，但你还是愿意相信我呢。
+Anche se visivamente l’abito non sembra diverso, sei comunque disposto a credermi.
+
+# ~ee23b30a
+; 呵呵，谢谢你！
+Hehe, grazie!
+
+# ~a1ca70d7
+; 总之，我们快进去吧！
+Comunque, entriamo!
+
+# ~28968691
+; （默默观察大门）;; （立绘消失，出现紧闭的大门，上面有一块提示牌）
+(Osserva in silenzio l’ingresso)
+
+# ~5e3a99f4
+; 门似乎是关着的？
+Il cancello sembra chiuso?
+
+# ~492b6d46
+; 这里有一块生锈的提示牌……
+C’è un cartello arrugginito qui…
+
+# ~2b7c69ea
+; 让我看看……
+Fammi dare un’occhiata…
+
+# ~ca228360
+; 「由于受灾影响，该游乐园已于1999年7月20日废弃。」
+“A causa dei danni causati dal disastro, questo parco divertimenti è stato abbandonato il 20 luglio 1999.”
+
+# ~585942ca
+; 哎？也就是说，游乐园已经关闭了？
+Eh? Quindi il parco è chiuso?
+
+# ~10c831ab
+; 真是太可惜了……
+Che peccato…
+
+# ~57915d0e
+; 我就知道不会顺利的……
+Sapevo che non sarebbe andato tutto liscio…
+
+# ~4a5ee9b2
+; 总之，回去吧。
+Torniamo indietro.
+
+# ~d07c2ec3
+; 等一下，你看里面。
+Aspetta, guarda dentro.
+
+# ~8828f097
+; 你看，摩天轮还在转着。
+Vedi? La ruota panoramica gira ancora.
+
+# ~8e40aaf9
+; 也就是说，只要我们现在翻墙进去，就能坐上摩天轮。
+Questo significa che, se scavalchiamo la recinzione ora, possiamo ancora salirci.
+
+# ~2d42d131
+; 怎么样？要试试看吗？
+Che ne pensi? Vuoi provare?
+
+# ~e9753591
+; 好。
+Va bene.
+
+# ~d24ea429
+; 好……
+Va bene…
+
+# ~df1301d8
+; 这……会不会有点太危险了？
+Ma… non è un po’ troppo pericoloso?
+
+# ~e1437e1
+; 那，我们就悄悄进去吧。
+Allora… entreremo di nascosto.
+
+# ~e4f681de
+; 那……我们就悄悄进去吧……
+Beh… allora entriamo di nascosto…
+
+# ~60e5a10f
+; 没事的，我们会平安回来的。请相信我！
+Andrà tutto bene. Ti prometto che torneremo sani e salvi. Per favore, fidati di me!
+
+# ~caac5121
+; 那，我们就悄悄进去吧！
+Va bene… se proprio dobbiamo… entriamo di nascosto.

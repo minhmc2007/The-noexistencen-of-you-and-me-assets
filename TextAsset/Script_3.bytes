@@ -1,0 +1,209 @@
+; Chinese (S) <zh-CN> to Portuguese (Brazil) <pt-BR> localization document for `Script` managed text document
+
+; 欢迎来到——莉莉丝的设置界面~
+G_END1_CharacterText1: Bem-vindo ao Menu de Configurações da Lilith
+
+; 是一个我完全不会去使用的功能呢。
+G_END1_CharacterText10: Essa é uma função que eu nunca vou usar~
+
+; 莉莉丝当然和你是同一个选择。
+G_END1_CharacterText11: É claro, Lilith compartilha da mesma escolha!
+
+; 还是说，是你命中注定的选择了莉莉丝的选择呢？
+G_END1_CharacterText12: Ou talvez você seja destinado a escolher a mesma coisa que a Lilith.
+
+; 你可以调配一个专属于莉莉丝的「默认」吗？
+G_END1_CharacterText13: Você pode criar um "padrão" especial apenas para a Lilith?
+
+; 希望你喜欢这个世界~
+G_END1_CharacterText14: Eu espero que você ame esse mundo~
+
+; 一个视角，一个世界。
+G_END1_CharacterText2: Uma perspectiva, um mundo.
+
+; 莉莉丝的视线所及之处尽是世界~
+G_END1_CharacterText3: Onde quer que o olhar de Lilith caia, o mundo floresce~
+
+; 我不需要它哦，我完全理解……
+G_END1_CharacterText4: Oh, eu não preciso disso. Eu entendo completamente...
+
+; 保留些许的氛围……
+G_END1_CharacterText5: Vamos manter um toque de atmosfera...
+
+; 再偷偷地加入一点点色彩~
+G_END1_CharacterText6: adiciona sorrateiramente um toque de cor.
+
+; 只想聆听你的声音……
+G_END1_CharacterText7: Apenas quero ouvir a sua voz...
+
+; 我可不希望世界回到原初的模样呢。
+G_END1_CharacterText8: Eu prefiro não ver o mundo voltar ao seu estado original!
+
+; 保留我对世界的一些点缀……
+G_END1_CharacterText9: Mantendo meus pequenos toques no mundo...
+
+; 在这里调整我们的世界~
+G_END1_PlayerText1: Vamos Customizar Nosso Mundo!?
+
+; 会听不到莉莉丝的声音哦~ 
+G_END1_PlayerText10: Você não ouvirá a voz da Lilith~
+
+; 魔法少女莉莉丝可是无所不能的！ 
+G_END1_PlayerText11: A Garota Mágica Lilith pode fazer qualquer coisa!
+
+; 你希望世界以何种符号呈现在你的面前呢？ 
+G_END1_PlayerText12: Como você gostaria que os símbolos do mundo aparecessem?
+
+; 想听一听我的建议吗？ 
+G_END1_PlayerText13: Quer ouvir a minha sugestão?
+
+; 希望你喜欢这个世界~ 
+G_END1_PlayerText14: Eu espero que você ame esse mundo~
+
+; 一个视角，一个世界 
+G_END1_PlayerText2: Uma perspectiva, um mundo.
+
+; 你希望世界以何种形式呈现在你的面前呢？ 
+G_END1_PlayerText3: Como você gostaria que o mundo se desdobrasse diante de você?
+
+; 你希望我说话快一点或慢一点吗？没问题的哦~ 
+G_END1_PlayerText4: Quer que eu fale mais rápido ou mais devagar? Sem problema!
+
+; 希望它不会影响到我的声音呢~ 
+G_END1_PlayerText5: Espero que isso não afete a minha voz~
+
+; 在这里可以调节游戏效果音的大小哦。 
+G_END1_PlayerText6: Você pode ajustar os efeitos sonoros do jogo aqui.
+
+; 这样的声音可以吗~ 
+G_END1_PlayerText7: Como isso soa~?
+
+; 如果「静音」也是一种背景音乐，那该如何静音「静音」呢……？ 
+G_END1_PlayerText8: Se o silêncio é música, como paramos o silêncio?
+
+; 就像在宇宙的中心目睹一颗星球无声地爆炸。 
+G_END1_PlayerText9: É como assistir uma estrela explodir silenciosamente no centro do universo.
+
+; 调整游戏设置。 
+G_END2_PlayerText1: Configurações do Jogo
+
+; 调整角色语音的音量为0。 
+G_END2_PlayerText10: Silenciar a Voz
+
+; 选择角色语音的本地化语言。 
+G_END2_PlayerText11: Selecionar o Idioma da Voz
+
+; 选择游戏文本的本地化语言。 
+G_END2_PlayerText12: Selecionar o Idioma do Texto
+
+; 将所有设置还原为默认值。 
+G_END2_PlayerText13: Resetar Todas Configurações
+
+; 保存并退出设置界面。 
+G_END2_PlayerText14: Salvar e Sair
+
+; …… 
+G_END2_PlayerText2: ...
+
+; 调整游戏显示模式。 
+G_END2_PlayerText3: Ajustar o Tamanho da Janela
+
+; 调整文本打印速度。 
+G_END2_PlayerText4: Ajustar a Velocidade do Texto
+
+; 调整背景音乐的音量。 
+G_END2_PlayerText5: Ajustar o Volume da Música
+
+; 调整游戏效果音的音量。 
+G_END2_PlayerText6: Ajustar os Efeitos Sonoros
+
+; 调整角色语音的音量。 
+G_END2_PlayerText7: Ajustar o Volume da Voz
+
+; 调整背景音乐的音量为0。 
+G_END2_PlayerText8: Silenciar a Música
+
+; 调整游戏效果音的音量为0。 
+G_END2_PlayerText9: Silenciar os Efeitos Sonoros
+
+G_END3_CharacterText1: <space=1>
+
+; …… 
+G_END3_CharacterText10: ...
+
+; 我也并没有那么无所不能呢…… 
+G_END3_CharacterText11: Eu não sou todo-poderosa afinal~
+
+; …… 
+G_END3_CharacterText12: ...
+
+; 仅限于这里吗…… 
+G_END3_CharacterText13: É aqui onde os nossos limites mentem...?
+
+; 就这样…… 
+G_END3_CharacterText14: E assim vai...
+
+; …… 
+G_END3_CharacterText2: ……
+
+; 哪里都没有…… 
+G_END3_CharacterText3: Nada a ser encontrado...
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_CharacterText4: Nada parece ser mostrado aqui~
+
+; 像是在调侃我一般…… 
+G_END3_CharacterText5: É como se estivesse me provocando...
+
+; 点缀什么……？ 
+G_END3_CharacterText6: O que para enfeitar...?
+
+; …… 
+G_END3_CharacterText7: ...
+
+; 或许也不错…… 
+G_END3_CharacterText8: Talvez não seja tão ruim...
+
+; 没有什么…… 
+G_END3_CharacterText9: Nada aqui...
+
+G_END3_PlayerText1: <space=1>
+
+; …… 
+G_END3_PlayerText10: ...
+
+; 我也并没有那么无所不能呢…… 
+G_END3_PlayerText11: Eu não sou todo-poderosa afinal~
+
+; …… 
+G_END3_PlayerText12: ...
+
+; 仅限于这里吗…… 
+G_END3_PlayerText13: É aqui onde os nossos limites mentem...?
+
+; 就这样…… 
+G_END3_PlayerText14: E assim vai...
+
+; …… 
+G_END3_PlayerText2: ……
+
+; 哪里都没有…… 
+G_END3_PlayerText3: Nada a ser encontrado...
+
+; 似乎没有可以显示的内容呢…… 
+G_END3_PlayerText4: Nada parece ser mostrado aqui~
+
+; 像是在调侃我一般…… 
+G_END3_PlayerText5: É como se estivesse me provocando...
+
+; 点缀什么……？ 
+G_END3_PlayerText6: O que para enfeitar...?
+
+; …… 
+G_END3_PlayerText7: ...
+
+; 或许也不错…… 
+G_END3_PlayerText8: Talvez não seja tão ruim...
+
+; 没有什么…… 
+G_END3_PlayerText9: Nada aqui...

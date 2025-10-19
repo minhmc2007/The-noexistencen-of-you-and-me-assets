@@ -1,0 +1,54 @@
+; Chinese (S) <zh-CN> to English <en> localization document for `BacklogFakeUI` managed text document
+
+; 说话人1
+Author1: Speaker 1
+
+; 说话人2
+Author2: Speaker 2
+
+; Player
+Author3: Player
+
+Author4: 
+
+; 莉莉丝
+Author5: Lilith
+
+; [Palyer]，我们接下来要外出一段时间，你要照顾好自己。
+message1: [Player], we're going to be away for a while. Take care of yourself, okay?
+
+; 我的力量不足以继续封印四大天王，所以不得已才找到转世的您，请您祝我一臂之力。
+message10: My power is no longer sufficient to keep the Four Heavenly Kings sealed away,
+
+; 我想起来了，我们之间的回忆与羁绊，我全都想起来了。
+message11: I remember now! Our memories and bonds...I can remember everything!
+
+; 呐，莉莉丝酱，我们再一次拯救这个世界吧！
+message12: Lilith-chan, let's save the world together again!
+
+; 嗯，真是太好了呢，[Player]大人！
+message13: That's fantastic, [Player]-sama!
+
+; 对了，有个女孩子要来我们家住一段时间，要和人家好好相处哦。
+message2: Oh, by the way, there's a girl coming to stay with us for a while,
+
+; 会是什么样的女孩子呢？好期待啊！
+message3: I wonder what kind of girl she'll be? I'm so excited!
+
+; 2小时后
+message4: 2 HOURS LATER
+
+; 你好，我叫莉莉丝。打扰了，请问这里是[Player]的家吗？
+message5: Hi, my name is Lilith. Sorry to bother you, but is this [Player]'s house?
+
+; 是的，就是这里。
+message6: Yes, this is the place.
+
+; 唔……看到你的时候，好像有种似曾相识的感觉。
+message7: Hmm...looking at you, I feel like I've seen you somewhere before.
+
+; 没错，快取回前世的记忆吧，[Player]大人！
+message8: That's right! It's time to retrieve your memories from your previous life,
+
+; 在前世，当我还是神赐樱花轮回巫女的时候，曾协助您对抗过黑暗旋涡四大天王。
+message9: In your past life, when I was the Sakura Maiden of Divine Rebirth,
